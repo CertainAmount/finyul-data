@@ -1,7 +1,5 @@
 # finyul-data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24038432.svg)](https://doi.org/10.5281/zenodo.24038432)
-
 [finyul](https://finyul.com)은 세금·대출·연금·보험 같은 금융 제도를 법령·고시·보도자료 같은 1차 자료로 확인해 정리하는 한국어 사이트입니다. 이 저장소에는 기사에 쓴 도식·표·계산기와 근거 목록을 공개합니다. 누구나 숫자를 확인하고 다시 쓸 수 있게 하려는 것입니다.
 
 *The figures, tables, calculators and source lists behind finyul.com, a Korean site that checks personal-finance rules (tax, loans, pensions, insurance) against primary sources.*
