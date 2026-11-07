@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 170" role="img" aria-label="기본 한도 900만원 위에 추가 300만원이 얹히는 한도 구조" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="200" y="24" font-size="15" text-anchor="middle" fill="#282d35">공제 대상 최대 1,200만원</text>
+    <line x1="30" y1="36" x2="370" y2="36" stroke="#254a75" stroke-width="2"/>
+    <line x1="30" y1="36" x2="30" y2="46" stroke="#254a75" stroke-width="2"/>
+    <line x1="370" y1="36" x2="370" y2="46" stroke="#254a75" stroke-width="2"/>
+    <rect x="30" y="56" width="170" height="44" fill="#f2f6fb" stroke="#254a75" stroke-width="2"/>
+    <rect x="200" y="56" width="85" height="44" fill="#254a75" stroke="#254a75" stroke-width="2"/>
+    <rect x="285" y="56" width="85" height="44" fill="#ffffff" stroke="#b4532a" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="115" y="84" font-size="15" text-anchor="middle" fill="#282d35">연금저축 600</text>
+    <text x="242" y="84" font-size="15" text-anchor="middle" fill="#ffffff">IRP 300</text>
+    <text x="327" y="84" font-size="15" text-anchor="middle" fill="#b4532a">추가 300</text>
+    <line x1="30" y1="112" x2="285" y2="112" stroke="#6f7783" stroke-width="2"/>
+    <line x1="285" y1="112" x2="370" y2="112" stroke="#b4532a" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="157" y="136" font-size="15" text-anchor="middle" fill="#282d35">기본 한도 900</text>
+    <text x="327" y="136" font-size="15" text-anchor="middle" fill="#b4532a">옮긴 돈의 10%,</text>
+    <text x="327" y="156" font-size="15" text-anchor="middle" fill="#b4532a">최대 300</text>
+  </svg>

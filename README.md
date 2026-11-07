@@ -14,6 +14,7 @@
 ## 기사와 자료 (최근 순)
 
 <!-- articles -->
+- [소진공 정책자금과 중진공 정책자금, 개인사업자는 어디로 신청하나요](https://finyul.com/articles/semas-vs-kosmes-policy-fund-which-for-sole-proprietor/) · [data](data/semas-vs-kosmes-policy-fund-which-for-sole-proprietor/)
 - [건강보험료 납부 기한 넘기면? 미납 연체금·병원 혜택 제한·분할납부 기준](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) · [data](data/health-insurance-unpaid-late-fee-installment-plan/)
 - [전세 중개수수료 얼마일까요? 월세·오피스텔 복비 상한 계산법](https://finyul.com/articles/real-estate-brokerage-fee-calculation-sale-jeonse-wolse/) · [data](data/real-estate-brokerage-fee-calculation-sale-jeonse-wolse/)
 - [사업자등록증재발급 vs 사업자등록증명, 내 상황엔 뭘 떼야 할까요?](https://finyul.com/articles/business-registration-certificate-reissue-vs-proof/) · [data](data/business-registration-certificate-reissue-vs-proof/)

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img" aria-label="ISA 만기 후 60일과 12월 31일을 기준으로 공제 연도가 갈리는 시간축" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="40" y="30" font-size="15" text-anchor="middle" fill="#282d35">만기일</text>
+    <text x="300" y="30" font-size="15" text-anchor="middle" fill="#282d35">60일째</text>
+    <text x="170" y="30" font-size="15" text-anchor="middle" fill="#b4532a">12월 31일</text>
+    <rect x="40" y="50" width="130" height="36" fill="#254a75"/>
+    <rect x="170" y="50" width="130" height="36" fill="#f2f6fb" stroke="#254a75" stroke-width="2"/>
+    <line x1="170" y1="40" x2="170" y2="100" stroke="#b4532a" stroke-width="3" stroke-dasharray="6 4"/>
+    <text x="105" y="74" font-size="15" text-anchor="middle" fill="#ffffff">60일 안</text>
+    <text x="235" y="74" font-size="15" text-anchor="middle" fill="#282d35">60일 안</text>
+    <line x1="40" y1="112" x2="165" y2="112" stroke="#254a75" stroke-width="2"/>
+    <line x1="175" y1="112" x2="300" y2="112" stroke="#6f7783" stroke-width="2"/>
+    <text x="102" y="138" font-size="15" text-anchor="middle" fill="#282d35">12월 31일 전 납입</text>
+    <text x="102" y="158" font-size="15" text-anchor="middle" fill="#254a75">올해분 연말정산</text>
+    <text x="237" y="138" font-size="15" text-anchor="middle" fill="#282d35">1월 이후 납입</text>
+    <text x="237" y="158" font-size="15" text-anchor="middle" fill="#6f7783">다음 해분 연말정산</text>
+    <text x="40" y="188" font-size="15" fill="#6f7783">만기일이 12월인 경우를 그렸어요</text>
+  </svg>

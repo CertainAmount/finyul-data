@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="12% 구간 공제 36만원과 뺄 때 세금 15만원·45만원 비교" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="30" y="20" font-size="15" fill="#6f7783">단위 만원, 소득세만</text>
+    <line x1="30" y1="86" x2="370" y2="86" stroke="#6f7783" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <rect x="40" y="86" width="70" height="96" fill="#254a75"/>
+    <rect x="165" y="142" width="70" height="40" fill="#6f7783"/>
+    <rect x="290" y="62" width="70" height="120" fill="#b4532a"/>
+    <line x1="30" y1="182" x2="370" y2="182" stroke="#282d35" stroke-width="2"/>
+    <text x="75" y="78" font-size="15" text-anchor="middle" fill="#282d35">36</text>
+    <text x="200" y="134" font-size="15" text-anchor="middle" fill="#282d35">15</text>
+    <text x="325" y="54" font-size="15" text-anchor="middle" fill="#282d35">45</text>
+    <text x="75" y="204" font-size="15" text-anchor="middle" fill="#282d35">줄어든 세금</text>
+    <text x="75" y="224" font-size="15" text-anchor="middle" fill="#6f7783">12% 구간</text>
+    <text x="200" y="204" font-size="15" text-anchor="middle" fill="#282d35">연금수령</text>
+    <text x="200" y="224" font-size="15" text-anchor="middle" fill="#6f7783">5% 부과</text>
+    <text x="325" y="204" font-size="15" text-anchor="middle" fill="#282d35">연금 외 수령</text>
+    <text x="325" y="224" font-size="15" text-anchor="middle" fill="#6f7783">15% 부과</text>
+  </svg>
