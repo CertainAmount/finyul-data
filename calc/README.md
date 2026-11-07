@@ -21,6 +21,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `nps` | [National Pension makeup contributions: which month in 2026 costs less? November vs. December payments](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
 | `npsvol` | [National Pension voluntary enrollment from 96,000 KRW a month: how much you get and when you break even](https://finyul.com/articles/nps-voluntary-enrollment-2026-premium-benefit/) |
 | `parental` | [Parental leave benefit: can I claim it all after leave ends? When the 12 months start](https://finyul.com/articles/parental-leave-benefit-claim-deadline-lump-sum/) |
+| `partpay` | [Part-time pay calculator: monthly take-home with weekly holiday and night premiums (2026–2027 minimum hourly wage)](https://finyul.com/articles/part-time-pay-calculator-weekly-holiday-night-premium-take-home/) |
 | `refinance` | [Loan refinancing fee on 300 million KRW: switch now or wait?](https://finyul.com/articles/loan-refinance-prepayment-fee-wait-or-switch-now/) |
 | `retiretax` | [Retirement income tax calculator: tax on 50 million and 100 million KRW severance by years of service, and IRP deferral](https://finyul.com/articles/retirement-income-tax-calculator-service-years/) |
 | `simplevat` | [Simplified VAT taxpayer threshold: 80 million or 104 million KRW? The July switch based on last year's sales](https://finyul.com/articles/simplified-taxpayer-threshold-2026-july-switch/) |

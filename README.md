@@ -12,6 +12,7 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
+- [Part-time pay calculator: monthly take-home with weekly holiday and night premiums (2026–2027 minimum hourly wage)](https://finyul.com/articles/part-time-pay-calculator-weekly-holiday-night-premium-take-home/) · [data](data/part-time-pay-calculator-weekly-holiday-night-premium-take-home/)
 - [SEMAS vs. KOSMES policy funds (small business agencies): where should a sole proprietor apply?](https://finyul.com/articles/semas-vs-kosmes-policy-fund-which-for-sole-proprietor/) · [data](data/semas-vs-kosmes-policy-fund-which-for-sole-proprietor/)
 - [Missed the health insurance premium deadline? Late fees, benefit restrictions, and installment rules](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) · [data](data/health-insurance-unpaid-late-fee-installment-plan/)
 - [How much is the jeonse brokerage fee? Calculating fee caps for monthly rent and officetels](https://finyul.com/articles/real-estate-brokerage-fee-calculation-sale-jeonse-wolse/) · [data](data/real-estate-brokerage-fee-calculation-sale-jeonse-wolse/)

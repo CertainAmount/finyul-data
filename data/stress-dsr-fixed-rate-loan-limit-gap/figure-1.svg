@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 288" role="img" aria-label="실제 금리 차이별 한도 변화 선 그래프" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="4" y="18" font-size="15" fill="#6f7783">한도 차이(만 원)</text>
+<line x1="64" y1="85.4" x2="388" y2="85.4" stroke="#d9e0ea" stroke-width="1"/>
+<text x="58" y="90.4" font-size="15" fill="#6f7783" text-anchor="end">+5,000</text>
+<line x1="64" y1="171.1" x2="388" y2="171.1" stroke="#282d35" stroke-width="1.5"/>
+<text x="58" y="176.1" font-size="15" fill="#6f7783" text-anchor="end">0</text>
+<line x1="64.0" y1="167.1" x2="64.0" y2="175.1" stroke="#282d35" stroke-width="1.5"/>
+<line x1="193.6" y1="167.1" x2="193.6" y2="175.1" stroke="#282d35" stroke-width="1.5"/>
+<line x1="323.2" y1="167.1" x2="323.2" y2="175.1" stroke="#282d35" stroke-width="1.5"/>
+<polyline points="64.0,46.4 77.0,53.4 89.9,60.3 102.9,67.1 115.8,73.7 128.8,80.2 141.8,86.6 154.7,93.0 167.7,99.2 180.6,105.3 193.6,111.3 206.6,117.2 219.5,123.0 232.5,128.7 245.4,134.3 258.4,139.8 271.4,145.2 284.3,150.6 297.3,155.9 310.2,161.0 323.2,166.1 336.2,171.1 349.1,176.1 362.1,180.9 375.0,185.7 388.0,190.4" fill="none" stroke="#254a75" stroke-width="2.5"/>
+<circle cx="64.0" cy="46.4" r="4.5" fill="#254a75"/>
+<text x="74.0" y="40.4" font-size="15" fill="#282d35">같은 금리 +7,274</text>
+<circle cx="183.2" cy="106.5" r="4.5" fill="#254a75"/>
+<text x="193.2" y="98.5" font-size="15" fill="#282d35">신한 최저 +3,773</text>
+<circle cx="336.2" cy="171.1" r="4.5" fill="#fff"/>
+<circle cx="336.2" cy="171.1" r="5.5" fill="#fff" stroke="#254a75" stroke-width="2.5"/>
+<text x="346.2" y="141.1" font-size="15" fill="#254a75" text-anchor="end">교차 2.10%p</text>
+<circle cx="342.0" cy="173.4" r="4.5" fill="#b4532a"/>
+<circle cx="367.3" cy="182.9" r="4.5" fill="#b4532a"/>
+<polyline points="342.0,177.4 328.0,195.1" fill="none" stroke="#b4532a" stroke-width="1"/>
+<text x="324.0" y="205.1" font-size="15" fill="#b4532a" text-anchor="end">기업 −130</text>
+<polyline points="367.3,186.9 367.3,217.1" fill="none" stroke="#b4532a" stroke-width="1"/>
+<text x="371.3" y="233.1" font-size="15" fill="#b4532a" text-anchor="end">신한 상단 −683</text>
+<text x="64.0" y="258" font-size="15" fill="#6f7783" text-anchor="middle">0</text>
+<text x="193.6" y="258" font-size="15" fill="#6f7783" text-anchor="middle">1</text>
+<text x="323.2" y="258" font-size="15" fill="#6f7783" text-anchor="middle">2</text>
+<text x="388" y="282" font-size="15" fill="#282d35" text-anchor="end">주기형 − 변동 실제 금리(%p)</text>
+</svg>
