@@ -1,15 +1,15 @@
-# 연말정산 소득초과자 명단에 없으면 공제해도 될까요?
+# Year-end tax settlement: can I claim a dependent who is not on the over-income-limit list?
 
-기사: https://finyul.com/articles/dependent-income-limit-list-penalty-reduction/
+Article (Korean): [연말정산 소득초과자 명단에 없으면 공제해도 될까요?](https://finyul.com/articles/dependent-income-limit-list-penalty-reduction/)
 
-발행 2026-09-09 · 마지막 수정 2026-11-03. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-09, last updated 2026-11-03. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 명단은 10월까지 신고분만 반영하고 11~12월 소득은 빠진다 (명단은 몇 월 소득까지 담을까요?) |
-| [figure-2.svg](figure-2.svg) | 부정행위면 40%, 아니면 10%, 종합소득세 신고서를 기한까지 낸 뒤 빨리 수정신고할수록 두 가산세 모두 줄어든다 (명단만 믿고 공제했다가 나중에 알았다면 가산세는 얼마일까요?) |
-| [table-1.csv](table-1.csv) | 자료: 소득세법 제50조·제47조의2(2026년 1월 1일 시행분) |
-| [table-2.csv](table-2.csv) | 자료: 국세기본법 제48조제2항, 가상 예시(덜 낸 세금 100만 원, 과소신고가산세 10만 원) |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [figure-1.svg](figure-1.svg) | The list reflects filings only through October; November-December income is missing (Up to which month's income does the list cover?) |
+| [figure-2.svg](figure-2.svg) | 40% for fraud, otherwise 10%; both penalties shrink the sooner you amend after filing the income tax return on time (If I relied on the list and later found out, what is the penalty?) |
+| [table-1.csv](table-1.csv) | Source: Income Tax Act Articles 50 and 47-2 (effective January 1, 2026) |
+| [table-2.csv](table-2.csv) | Source: Framework Act on National Taxes Article 48(2), hypothetical example (1 million KRW underpaid, 100,000 KRW underreporting penalty) |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/dependent-income-limit-list-penalty-reduction/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/dependent-income-limit-list-penalty-reduction/

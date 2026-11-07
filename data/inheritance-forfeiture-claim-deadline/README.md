@@ -1,14 +1,14 @@
-# 상속권 상실 청구, 사망일부터 3년 안에 하면 되나요?
+# Claim to forfeit inheritance rights: is it within 3 years of the date of death?
 
-기사: https://finyul.com/articles/inheritance-forfeiture-claim-deadline/
+Article (Korean): [상속권 상실 청구, 사망일부터 3년 안에 하면 되나요?](https://finyul.com/articles/inheritance-forfeiture-claim-deadline/)
 
-발행 2026-09-10 · 마지막 수정 2026-10-04. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-10, last updated 2026-10-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 상속권 상실 선고는 청구해야 해요 |
-| [table-2.csv](table-2.csv) | 9월 17일은 이렇게 계산해요 |
-| [table-3.csv](table-3.csv) | 9월 17일을 넘겼다면 방법이 없을까요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | A ruling to forfeit inheritance rights requires a claim |
+| [table-2.csv](table-2.csv) | How September 17 is calculated |
+| [table-3.csv](table-3.csv) | Is there no way out after missing September 17? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/inheritance-forfeiture-claim-deadline/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/inheritance-forfeiture-claim-deadline/

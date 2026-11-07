@@ -1,15 +1,15 @@
-# 중고차 취득세 얼마? 이전비용 견적서 줄마다 따져 보기
+# Used car acquisition tax: going line by line through a transfer cost estimate
 
-기사: https://finyul.com/articles/used-car-purchase-extra-costs-acquisition-tax-transfer/
+Article (Korean): [중고차 취득세 얼마? 이전비용 견적서 줄마다 따져 보기](https://finyul.com/articles/used-car-purchase-extra-costs-acquisition-tax-transfer/)
 
-발행 2026-10-28. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-28. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 자료: 지방세법 제10조의5·제12조, 도시철도법 시행령 제14조, 자동차관리법 시행규칙 제122조. 직거래와 같다는 건 차 값이 같을 때예요 |
-| [table-2.csv](table-2.csv) | 자료: 서울 도시철도공채 조례(2026-01-01 시행), 부산 도시철도채권 조례(2025-12-31 시행본 기준), 도시철도법 제21조·시행령 별표 2 |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | Source: Local Tax Act Articles 10-5 and 12, Urban Railroad Act Decree Article 14, Motor Vehicle Management Act Rules Article 122. Same as a direct deal only when the car price is equal |
+| [table-2.csv](table-2.csv) | Source: Seoul urban railway bond ordinance (effective 2026-01-01), Busan urban railway bond ordinance (as of 2025-12-31), Urban Railroad Act Article 21 and Decree Annex 2 |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-이 기사의 계산기: `usedcar` ([calc/](../../calc/))
+Calculators in this article: `usedcar` ([calc/](../../calc/))
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/used-car-purchase-extra-costs-acquisition-tax-transfer/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/used-car-purchase-extra-costs-acquisition-tax-transfer/

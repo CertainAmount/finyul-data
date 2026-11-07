@@ -1,15 +1,15 @@
-# 해외 주식·지분을 샀다면 해외직접투자 신고 대상일까요?
+# Bought foreign shares or equity: do you need to report overseas direct investment?
 
-기사: https://finyul.com/articles/odi-10-percent-threshold/
+Article (Korean): [해외 주식·지분을 샀다면 해외직접투자 신고 대상일까요?](https://finyul.com/articles/odi-10-percent-threshold/)
 
-발행 2026-09-14 · 마지막 수정 2026-10-04. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-14, last updated 2026-10-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 해외직접투자 신고 대상 판정 |
-| [table-1.csv](table-1.csv) | 비거주자에게서 직접 샀다면 지분율이 낮아도 달라요 |
-| [table-2.csv](table-2.csv) | 지분 10% 미만이어도 대상인 경우는 언제일까요? |
-| [table-3.csv](table-3.csv) | 대상이라면 언제, 어디에 신고할까요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [figure-1.svg](figure-1.svg) | Overseas direct investment reporting test |
+| [table-1.csv](table-1.csv) | Buying directly from a non-resident differs even with a low stake |
+| [table-2.csv](table-2.csv) | When is a stake under 10% still covered? |
+| [table-3.csv](table-3.csv) | If covered, when and where do I report? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/odi-10-percent-threshold/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/odi-10-percent-threshold/

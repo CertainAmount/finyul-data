@@ -1,35 +1,35 @@
 # calc
 
-finyul 기사에 들어간 계산기 코드입니다(브라우저용, 의존성 없음). 기사 본문의 `data-finyul-calculator="<이름>"` 상자를 찾아 그립니다.
+Calculator code used in finyul articles (browser, no dependencies). It renders every `data-finyul-calculator="<name>"` box in an article.
 
-| 계산기 | 쓰는 기사 |
+| Calculator | Used in |
 |---|---|
-| `breakeven` | [nps-chunap-2026-application-month-payment-amount](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
-| `brokerage` | [real-estate-brokerage-fee-calculation-sale-jeonse-wolse](https://finyul.com/articles/real-estate-brokerage-fee-calculation-sale-jeonse-wolse/) |
-| `cartax` | [car-tax-calculation-cc-rate-age-discount](https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/) |
-| `dcfee` | [dc-etf-direct-vs-default-option](https://finyul.com/articles/dc-etf-direct-vs-default-option/) |
-| `dclimit` | [dc-etf-direct-vs-default-option](https://finyul.com/articles/dc-etf-direct-vs-default-option/) |
-| `eurroute` | [eur-exchange-route-cost-1m-won](https://finyul.com/articles/eur-exchange-route-cost-1m-won/) |
-| `fourins` | [four-insurance-rate-2026-monthly-salary-deduction](https://finyul.com/articles/four-insurance-rate-2026-monthly-salary-deduction/) |
-| `giftax` | [gift-tax-rate-and-filing-3-billion-example](https://finyul.com/articles/gift-tax-rate-and-filing-3-billion-example/) |
-| `hilatefee` | [health-insurance-unpaid-late-fee-installment-plan](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) |
-| `jeonse` | [jeonse-loan-interest-calculation-repayment-types](https://finyul.com/articles/jeonse-loan-interest-calculation-repayment-types/) |
-| `leavepay` | [annual-leave-pay-unused-days-calculation](https://finyul.com/articles/annual-leave-pay-unused-days-calculation/) |
-| `loan` | [loan-repayment-calculator-prepayment-fee-comparison](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/) |
-| `mortgagelimit` | [mortgage-limit-amount-cap-ltv-dsr-lowest-one](https://finyul.com/articles/mortgage-limit-amount-cap-ltv-dsr-lowest-one/) |
-| `netpay` | [net-salary-calculator-take-home-pay](https://finyul.com/articles/net-salary-calculator-take-home-pay/) |
-| `nps` | [nps-chunap-2026-application-month-payment-amount](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
-| `npsvol` | [nps-voluntary-enrollment-2026-premium-benefit](https://finyul.com/articles/nps-voluntary-enrollment-2026-premium-benefit/) |
-| `parental` | [parental-leave-benefit-claim-deadline-lump-sum](https://finyul.com/articles/parental-leave-benefit-claim-deadline-lump-sum/) |
-| `refinance` | [loan-refinance-prepayment-fee-wait-or-switch-now](https://finyul.com/articles/loan-refinance-prepayment-fee-wait-or-switch-now/) |
-| `retiretax` | [retirement-income-tax-calculator-service-years](https://finyul.com/articles/retirement-income-tax-calculator-service-years/) |
-| `simplevat` | [simplified-taxpayer-threshold-2026-july-switch](https://finyul.com/articles/simplified-taxpayer-threshold-2026-july-switch/) |
-| `twdroute` | [twd-exchange-route-cost-1m-won](https://finyul.com/articles/twd-exchange-route-cost-1m-won/) |
-| `unemployment` | [unemployment-benefit-period-12-months-claim-deadline-days](https://finyul.com/articles/unemployment-benefit-period-12-months-claim-deadline-days/) |
-| `usedcar` | [used-car-purchase-extra-costs-acquisition-tax-transfer](https://finyul.com/articles/used-car-purchase-extra-costs-acquisition-tax-transfer/) |
-| `voucher` | [first-meeting-voucher-where-to-use-coupang-expiry-2-years](https://finyul.com/articles/first-meeting-voucher-where-to-use-coupang-expiry-2-years/) |
-| `wagearrears` | [wage-arrears-report-labor-office-substitute-payment](https://finyul.com/articles/wage-arrears-report-labor-office-substitute-payment/) |
-| `weekly` | [weekly-holiday-pay-conditions-15-hours-break-full-attendance](https://finyul.com/articles/weekly-holiday-pay-conditions-15-hours-break-full-attendance/) |
-| `yearend-card-threshold` | [yearend-deduction-boost-before-december](https://finyul.com/articles/yearend-deduction-boost-before-december/) |
+| `breakeven` | [National Pension makeup contributions: which month in 2026 costs less? November vs. December payments](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
+| `brokerage` | [How much is the jeonse brokerage fee? Calculating fee caps for monthly rent and officetels](https://finyul.com/articles/real-estate-brokerage-fee-calculation-sale-jeonse-wolse/) |
+| `cartax` | [Car tax calculator: how much is my car per year? Per-cc rates and vehicle-age reductions explained](https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/) |
+| `dcfee` | [Buying ETFs directly in a DC retirement pension with a default option set: where does it get blocked?](https://finyul.com/articles/dc-etf-direct-vs-default-option/) |
+| `dclimit` | [Buying ETFs directly in a DC retirement pension with a default option set: where does it get blocked?](https://finyul.com/articles/dc-etf-direct-vs-default-option/) |
+| `eurroute` | [Exchanging 1 million KRW to euros: how many euros apart are the airport and bank apps?](https://finyul.com/articles/eur-exchange-route-cost-1m-won/) |
+| `fourins` | [Four social insurance rates 2026: how much is deducted from a 3 million KRW salary, employer share and 2027 changes](https://finyul.com/articles/four-insurance-rate-2026-monthly-salary-deduction/) |
+| `giftax` | [Gift tax rates and filing: if a child receives 300 million KRW, how much and where to file?](https://finyul.com/articles/gift-tax-rate-and-filing-3-billion-example/) |
+| `hilatefee` | [Missed the health insurance premium deadline? Late fees, benefit restrictions, and installment rules](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) |
+| `jeonse` | [Jeonse (lump-sum deposit lease) loan interest calculator: monthly cost of 200 million KRW at 4.5% by repayment type](https://finyul.com/articles/jeonse-loan-interest-calculation-repayment-types/) |
+| `leavepay` | [Unused annual leave pay: how much for 10 days on a 3 million KRW monthly salary, and when you don't get it](https://finyul.com/articles/annual-leave-pay-unused-days-calculation/) |
+| `loan` | [Loan repayment calculator: compare interest and prepayment fees by repayment type](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/) |
+| `mortgagelimit` | [Mortgage limit: will LTV, DSR, or the 600 million KRW cap stop you first?](https://finyul.com/articles/mortgage-limit-amount-cap-ltv-dsr-lowest-one/) |
+| `netpay` | [After-tax salary calculator: what lands in your account from 3 million KRW, with meal allowance and dependents](https://finyul.com/articles/net-salary-calculator-take-home-pay/) |
+| `nps` | [National Pension makeup contributions: which month in 2026 costs less? November vs. December payments](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
+| `npsvol` | [National Pension voluntary enrollment from 96,000 KRW a month: how much you get and when you break even](https://finyul.com/articles/nps-voluntary-enrollment-2026-premium-benefit/) |
+| `parental` | [Parental leave benefit: can I claim it all after leave ends? When the 12 months start](https://finyul.com/articles/parental-leave-benefit-claim-deadline-lump-sum/) |
+| `refinance` | [Loan refinancing fee on 300 million KRW: switch now or wait?](https://finyul.com/articles/loan-refinance-prepayment-fee-wait-or-switch-now/) |
+| `retiretax` | [Retirement income tax calculator: tax on 50 million and 100 million KRW severance by years of service, and IRP deferral](https://finyul.com/articles/retirement-income-tax-calculator-service-years/) |
+| `simplevat` | [Simplified VAT taxpayer threshold: 80 million or 104 million KRW? The July switch based on last year's sales](https://finyul.com/articles/simplified-taxpayer-threshold-2026-july-switch/) |
+| `twdroute` | [Exchanging won directly to Taiwan dollars: how much do you lose? Routes compared for 1 million KRW](https://finyul.com/articles/twd-exchange-route-cost-1m-won/) |
+| `unemployment` | [Unemployment benefits' 12-month window: applying late cuts your benefit days; calculate your deadline](https://finyul.com/articles/unemployment-benefit-period-12-months-claim-deadline-days/) |
+| `usedcar` | [Used car acquisition tax: going line by line through a transfer cost estimate](https://finyul.com/articles/used-car-purchase-extra-costs-acquisition-tax-transfer/) |
+| `voucher` | [First Meeting Voucher (newborn benefit) uses: does Coupang work? The last use date counts from birth](https://finyul.com/articles/first-meeting-voucher-where-to-use-coupang-expiry-2-years/) |
+| `wagearrears` | [Reporting unpaid wages: steps after filing with the labor office and substitute payment limits](https://finyul.com/articles/wage-arrears-report-labor-office-substitute-payment/) |
+| `weekly` | [Weekly holiday pay conditions: are breaks excluded from the 15 hours? Full attendance checked against your schedule](https://finyul.com/articles/weekly-holiday-pay-conditions-15-hours-break-full-attendance/) |
+| `yearend-card-threshold` | [Year-end tax settlement deductions: what you can still raise before December 31 and what is fixed](https://finyul.com/articles/yearend-deduction-boost-before-december/) |
 
-세율·기준 금액은 기사 발행일 기준입니다. 제도가 바뀌면 기사와 함께 고칩니다.
+Rates and thresholds follow the rules as of each article date and are updated together with the article. Code: MIT.

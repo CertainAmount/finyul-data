@@ -1,12 +1,12 @@
-# 외화예금 이자는 과세, 환차익은 비과세인 이유와 예외 조건
+# Foreign currency deposits: why interest is taxed but FX gains are not, and the exceptions
 
-기사: https://finyul.com/articles/fx-savings-interest-vs-gain-tax-confidence/
+Article (Korean): [외화예금 이자는 과세, 환차익은 비과세인 이유와 예외 조건](https://finyul.com/articles/fx-savings-interest-vs-gain-tax-confidence/)
 
-발행 2026-09-07 · 마지막 수정 2026-10-04. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-07, last updated 2026-10-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 환율이 올라 생긴 차익에는 왜 안 붙을까요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | Why aren't gains from a rising exchange rate taxed? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/fx-savings-interest-vs-gain-tax-confidence/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/fx-savings-interest-vs-gain-tax-confidence/

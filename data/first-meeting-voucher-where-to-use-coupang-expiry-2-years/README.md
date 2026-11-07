@@ -1,14 +1,14 @@
-# 첫만남이용권 사용처, 쿠팡도 되나요? 내 아이 마지막 사용일은 출생일로 계산해요
+# First Meeting Voucher (newborn benefit) uses: does Coupang work? The last use date counts from birth
 
-기사: https://finyul.com/articles/first-meeting-voucher-where-to-use-coupang-expiry-2-years/
+Article (Korean): [첫만남이용권 사용처, 쿠팡도 되나요? 내 아이 마지막 사용일은 출생일로 계산해요](https://finyul.com/articles/first-meeting-voucher-where-to-use-coupang-expiry-2-years/)
 
-발행 2026-10-21. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-21. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 쓸 수 없는 곳은 어디인가요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | Where can't it be used? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-이 기사의 계산기: `voucher` ([calc/](../../calc/))
+Calculators in this article: `voucher` ([calc/](../../calc/))
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/first-meeting-voucher-where-to-use-coupang-expiry-2-years/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/first-meeting-voucher-where-to-use-coupang-expiry-2-years/

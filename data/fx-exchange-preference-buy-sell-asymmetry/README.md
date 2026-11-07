@@ -1,14 +1,14 @@
-# 환율우대 100% 환전, 살 때만인가 팔 때도 되나요?
+# 100% preferential exchange rate: only when buying currency, or when selling too?
 
-기사: https://finyul.com/articles/fx-exchange-preference-buy-sell-asymmetry/
+Article (Korean): [환율우대 100% 환전, 살 때만인가 팔 때도 되나요?](https://finyul.com/articles/fx-exchange-preference-buy-sell-asymmetry/)
 
-발행 2026-09-27 · 마지막 수정 2026-10-04. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-27, last updated 2026-10-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 환전 우대율 100%는 무엇을 깎아 주는 건가요? |
-| [table-2.csv](table-2.csv) | 살 때 100%면 팔 때도 100%일까요? |
-| [table-3.csv](table-3.csv) | 우대율 차이는 실제로 얼마짜리일까요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | What does a 100% exchange preference actually discount? |
+| [table-2.csv](table-2.csv) | If 100% when buying, is it 100% when selling too? |
+| [table-3.csv](table-3.csv) | What is the preferential rate gap actually worth? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/fx-exchange-preference-buy-sell-asymmetry/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/fx-exchange-preference-buy-sell-asymmetry/

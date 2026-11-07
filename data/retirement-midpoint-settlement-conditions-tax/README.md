@@ -1,15 +1,15 @@
-# 퇴직금 중간정산 조건·사유, 미리 받으면 이익일까요? 나중 퇴직금과 세금은?
+# Interim severance settlement conditions: is getting it early a gain? Effects on later severance and tax
 
-기사: https://finyul.com/articles/retirement-midpoint-settlement-conditions-tax/
+Article (Korean): [퇴직금 중간정산 조건·사유, 미리 받으면 이익일까요? 나중 퇴직금과 세금은?](https://finyul.com/articles/retirement-midpoint-settlement-conditions-tax/)
 
-발행 2026-10-09. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-09. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 퇴직금 중간정산과 세금 연수 계산 (정산하고 나면 나중 퇴직금은 어떻게 계산하나요?) |
-| [table-1.csv](table-1.csv) | 시행령이 정한 9개 호 |
-| [table-2.csv](table-2.csv) | 영수증을 내면 같고, 안 내면 18만원 더 나와요 |
-| [table-3.csv](table-3.csv) | 임금이 오르는 회사라면 |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [figure-1.svg](figure-1.svg) | Interim severance settlement and tax-year counting (How is later severance calculated after settlement?) |
+| [table-1.csv](table-1.csv) | The 9 items set by the Enforcement Decree |
+| [table-2.csv](table-2.csv) | Same if you submit receipts; 180,000 KRW more if you don't |
+| [table-3.csv](table-3.csv) | If your company raises wages |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/retirement-midpoint-settlement-conditions-tax/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/retirement-midpoint-settlement-conditions-tax/

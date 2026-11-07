@@ -1,15 +1,15 @@
-# 증여세 계산기로 아파트 증여세 낼 때, 집값 칸에 공시가격 넣어도 되나요?
+# Using a gift tax calculator for an apartment: can you enter the officially assessed price?
 
-기사: https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/
+Article (Korean): [증여세 계산기로 아파트 증여세 낼 때, 집값 칸에 공시가격 넣어도 되나요?](https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/)
 
-발행 2026-10-14. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-14. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 증여재산 평가기간 세 구간 (집값 칸에는 무엇을 먼저 찾아야 하나요?) |
-| [table-1.csv](table-1.csv) | 6억과 8억을 넣으면 세금이 얼마나 달라지나요? |
-| [table-2.csv](table-2.csv) | 대출을 같이 넘기면 증여세만 줄고 끝인가요? |
-| [table-3.csv](table-3.csv) | 증여 취득세는 누구의 주택 수로 갈리나요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [figure-1.svg](figure-1.svg) | Three windows for valuing gifted property (What should be checked first for the home price?) |
+| [table-1.csv](table-1.csv) | How much does the tax differ between 600 million and 800 million KRW? |
+| [table-2.csv](table-2.csv) | If the loan is passed on too, does only the gift tax drop? |
+| [table-3.csv](table-3.csv) | Whose home count decides the acquisition tax on a gift? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/

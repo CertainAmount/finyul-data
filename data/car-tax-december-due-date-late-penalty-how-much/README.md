@@ -1,13 +1,13 @@
-# 자동차세 납부 기간 12월 16~31일, 넘기면 가산세 얼마 붙나요?
+# Car tax payment period December 16-31: how much is the late penalty if you miss it?
 
-기사: https://finyul.com/articles/car-tax-december-due-date-late-penalty-how-much/
+Article (Korean): [자동차세 납부 기간 12월 16~31일, 넘기면 가산세 얼마 붙나요?](https://finyul.com/articles/car-tax-december-due-date-late-penalty-how-much/)
 
-발행 2026-11-04. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-11-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 12월 31일 이후 추가 금액: 1,600cc는 3%에서 끝, 5,000cc는 3%(지방교육세 포함) 위에 자동차세분에만 한 달마다 3,300원씩 늘어남 (한 달씩 더 붙는 건 어떤 경우인가요?) |
-| [table-1.csv](table-1.csv) | 자료: 지방세기본법 제55조, 지방세법 제127조·제151조로 계산. 비영업용 승용차, 차령 경감·연납 공제 없음, 배기량이 표의 값과 같은 경우 |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [figure-1.svg](figure-1.svg) | Extra amount after December 31: 1,600cc stops at 3%; 5,000cc adds 3,300 KRW per month on the car tax portion on top of 3% (incl. local education tax) (When does a monthly charge keep adding?) |
+| [table-1.csv](table-1.csv) | Source: Calculated under Framework Act on Local Taxes Article 55 and Local Tax Act Articles 127 and 151. Non-business passenger car, no age reduction or prepayment discount, displacement equal to table values |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/car-tax-december-due-date-late-penalty-how-much/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/car-tax-december-due-date-late-penalty-how-much/

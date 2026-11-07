@@ -1,12 +1,12 @@
-# 현대해상 여행자보험 청구, 도난 서류 다 챙겼는데 왜 20만원일까?
+# Hyundai Marine travel insurance theft claim: all documents ready, so why only 200,000 KRW?
 
-기사: https://finyul.com/articles/travel-insurance-theft-claim-20man-won-cap/
+Article (Korean): [현대해상 여행자보험 청구, 도난 서류 다 챙겼는데 왜 20만원일까?](https://finyul.com/articles/travel-insurance-theft-claim-20man-won-cap/)
 
-발행 2026-10-02 · 마지막 수정 2026-10-04. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-02, last updated 2026-10-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 예시로 계산해 보면 |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | Calculating with an example |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/travel-insurance-theft-claim-20man-won-cap/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/travel-insurance-theft-claim-20man-won-cap/

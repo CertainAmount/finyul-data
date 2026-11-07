@@ -1,14 +1,14 @@
-# 전세 월세 전환, 전월세전환율 상한은 얼마까지 적법할까요?
+# Converting jeonse to monthly rent (wolse): what is the legal cap on the conversion rate?
 
-기사: https://finyul.com/articles/jeonse-wolse-conversion-rate-cap/
+Article (Korean): [전세 월세 전환, 전월세전환율 상한은 얼마까지 적법할까요?](https://finyul.com/articles/jeonse-wolse-conversion-rate-cap/)
 
-발행 2026-09-26 · 마지막 수정 2026-10-22. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-26, last updated 2026-10-22. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 법정 전환율 상한은 지금 얼마인가요? |
-| [table-2.csv](table-2.csv) | 등록임대주택이면 전환율이 무조건 5%인가요? |
-| [table-3.csv](table-3.csv) | 상가는 산식이 어떻게 다른가요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | What is the current legal cap on the conversion rate? |
+| [table-2.csv](table-2.csv) | Is the conversion rate always 5% for a registered rental home? |
+| [table-3.csv](table-3.csv) | How does the formula differ for commercial property? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/jeonse-wolse-conversion-rate-cap/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/jeonse-wolse-conversion-rate-cap/

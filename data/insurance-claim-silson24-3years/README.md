@@ -1,12 +1,12 @@
-# 실손보험청구, 실비 서류는 병원에 따라 다르고 청구 기간은 3년이에요
+# Indemnity health insurance (silson) claims: documents vary by hospital and the claim period is 3 years
 
-기사: https://finyul.com/articles/insurance-claim-silson24-3years/
+Article (Korean): [실손보험청구, 실비 서류는 병원에 따라 다르고 청구 기간은 3년이에요](https://finyul.com/articles/insurance-claim-silson24-3years/)
 
-발행 2026-10-31. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-31. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 연계 안 된 병원이면 무슨 서류를 받아야 하나요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | What documents do I need from a non-linked hospital? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/insurance-claim-silson24-3years/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/insurance-claim-silson24-3years/

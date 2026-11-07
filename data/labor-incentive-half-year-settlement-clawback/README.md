@@ -1,13 +1,13 @@
-# 근로장려금 반기신청 정산, 얼마를 더 받거나 돌려줘야 하나요?
+# Earned income tax credit half-year application settlement: how much more do I get or pay back?
 
-기사: https://finyul.com/articles/labor-incentive-half-year-settlement-clawback/
+Article (Korean): [근로장려금 반기신청 정산, 얼마를 더 받거나 돌려줘야 하나요?](https://finyul.com/articles/labor-incentive-half-year-settlement-clawback/)
 
-발행 2026-09-12 · 마지막 수정 2026-10-05. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-12, last updated 2026-10-05. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 근로장려금 환수 순서 (정산해 보니 돌려줘야 하면 어떻게 갚나요?) |
-| [table-1.csv](table-1.csv) | 반기 지급액은 어떻게 계산하나요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [figure-1.svg](figure-1.svg) | Earned income tax credit clawback order (If settlement says I must repay, how?) |
+| [table-1.csv](table-1.csv) | How is the half-year payment calculated? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/labor-incentive-half-year-settlement-clawback/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/labor-incentive-half-year-settlement-clawback/

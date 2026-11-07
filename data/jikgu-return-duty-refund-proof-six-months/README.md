@@ -1,12 +1,12 @@
-# 직구 반품하면 낸 관세 돌려받나요? 단순 변심도 되지만 정해진 길로 수출해야 해요
+# Returning overseas direct purchases: can I get duty back? Even change-of-mind works, but it must be re-exported properly
 
-기사: https://finyul.com/articles/jikgu-return-duty-refund-proof-six-months/
+Article (Korean): [직구 반품하면 낸 관세 돌려받나요? 단순 변심도 되지만 정해진 길로 수출해야 해요](https://finyul.com/articles/jikgu-return-duty-refund-proof-six-months/)
 
-발행 2026-10-05. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-05. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 150달러 이하는 낸 세금이 없어요 |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | At 150 USD or less, no tax was paid |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/jikgu-return-duty-refund-proof-six-months/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/jikgu-return-duty-refund-proof-six-months/

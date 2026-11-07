@@ -1,15 +1,15 @@
-# 자동차세 계산기, 내 차는 1년에 얼마일까요? cc당 세율·차령 경감 풀이
+# Car tax calculator: how much is my car per year? Per-cc rates and vehicle-age reductions explained
 
-기사: https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/
+Article (Korean): [자동차세 계산기, 내 차는 1년에 얼마일까요? cc당 세율·차령 경감 풀이](https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/)
 
-발행 2026-10-23. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-23. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 자료: 지방세법 제127조·제151조로 계산. 2026년 1년 합계(교육세 포함), 기산 1~6월 |
-| [table-2.csv](table-2.csv) | 자료: 지방세법 제128조, 시행령 제125조로 계산. 2024년 등록 1,598cc, 2026년 기준, 자동차세 부분만 |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | Source: Calculated under Local Tax Act Articles 127 and 151. 2026 annual total (incl. education tax), first half January-June |
+| [table-2.csv](table-2.csv) | Source: Calculated under Local Tax Act Article 128 and Decree Article 125. 1,598cc registered in 2024, as of 2026, car tax portion only |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-이 기사의 계산기: `cartax` ([calc/](../../calc/))
+Calculators in this article: `cartax` ([calc/](../../calc/))
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/

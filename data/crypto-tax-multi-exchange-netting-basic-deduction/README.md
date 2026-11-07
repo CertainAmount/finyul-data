@@ -1,13 +1,13 @@
-# 거래소 여러 곳에서 코인을 거래하면 손익통산과 기본공제 250만원은 어떻게 계산하나요?
+# Trading crypto on several exchanges: how are gain-loss netting and the 2.5 million KRW basic deduction calculated?
 
-기사: https://finyul.com/articles/crypto-tax-multi-exchange-netting-basic-deduction/
+Article (Korean): [거래소 여러 곳에서 코인을 거래하면 손익통산과 기본공제 250만원은 어떻게 계산하나요?](https://finyul.com/articles/crypto-tax-multi-exchange-netting-basic-deduction/)
 
-발행 2026-09-13 · 마지막 수정 2026-10-04. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-09-13, last updated 2026-10-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 평균 취득단가부터 한 사람 기준이에요 |
-| [table-2.csv](table-2.csv) | 기본공제 250만원과 세율은 어떻게 적용될까요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | Average acquisition price is per person |
+| [table-2.csv](table-2.csv) | How are the 2.5 million KRW basic deduction and tax rate applied? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/crypto-tax-multi-exchange-netting-basic-deduction/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/crypto-tax-multi-exchange-netting-basic-deduction/

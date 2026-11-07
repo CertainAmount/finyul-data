@@ -1,13 +1,13 @@
-# 대출 청약철회 불이익 있을까요? 신용 기록과 두 번째 철회까지
+# Any downside to withdrawing a loan in the cooling-off period? Credit records and a second withdrawal
 
-기사: https://finyul.com/articles/loan-cooling-off-withdrawal-credit-record-second-time/
+Article (Korean): [대출 청약철회 불이익 있을까요? 신용 기록과 두 번째 철회까지](https://finyul.com/articles/loan-cooling-off-withdrawal-credit-record-second-time/)
 
-발행 2026-10-05. 숫자는 이 날짜 기준이며, 기사가 바뀌면 이 폴더도 같이 바뀝니다.
+Published 2026-10-05. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
-| 파일 | 내용 |
+| File | Caption |
 |---|---|
-| [table-1.csv](table-1.csv) | 철회하면 대출 기록은 지워지나요? |
-| [table-2.csv](table-2.csv) | 한 달에 두 번 철회하면 불이익이 있나요? |
-| [sources.csv](sources.csv) | 기사가 확인한 1차 자료 목록(기관·제목·주소) |
+| [table-1.csv](table-1.csv) | Does withdrawal erase the loan record? |
+| [table-2.csv](table-2.csv) | Any penalty for withdrawing twice in a month? |
+| [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
-인용할 때는 "finyul"과 기사 주소(https://finyul.com/articles/loan-cooling-off-withdrawal-credit-record-second-time/)를 함께 적어 주세요.
+License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/loan-cooling-off-withdrawal-credit-record-second-time/
