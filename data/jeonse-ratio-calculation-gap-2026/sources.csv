@@ -1,0 +1,16 @@
+﻿id,publisher,title,type,url
+s1,한국부동산원 R-ONE,통계표 메타 원문 — (월) 평균 매매가격 대비 전세가격_아파트(A_2024_00072)의 산식 문언,dataset,https://www.reb.or.kr/r-one/openapi/SttsApiTbl.do?Type=json&STATBL_ID=A_2024_00072
+s2,한국부동산원 R-ONE,통계표 메타 원문 — (월) 중위 매매가격 대비 전세가격_아파트(A_2024_00073)의 산식 문언,dataset,https://www.reb.or.kr/r-one/openapi/SttsApiTbl.do?Type=json&STATBL_ID=A_2024_00073
+s3,한국부동산원 R-ONE 공개API,"같은 조사 안에서 평균가격끼리 나눠도 발표 전세가율은 재현되지 않는다 — 전국주택가격동향조사 내부, 전국 계열 175개월 전부 격차 음수(-1.79 ~ -11.40%p)",dataset,https://www.reb.or.kr/r-one/openapi/SttsApiTblData.do?STATBL_ID=A_2024_00060%2CA_2024_00064%2CA_2024_00061%2CA_2024_00065%2CA_2024_00072#same-survey-division-2026-09-04
+s4,한국부동산원 R-ONE,한국부동산원 아파트 매매·전세 평균가격 및 매매가격 대비 전세가격 원계열 (R-ONE 통계표 8종: 실거래 계열 2 + 발표 전세가율 2 + 동일조사 평균가격 4),dataset,"https://www.reb.or.kr/r-one/openapi/SttsApiTblData.do?STATBL_ID=A_2024_00188,A_2024_00192,A_2024_00072,A_2024_00073,A_2024_00060,A_2024_00064,A_2024_00061,A_2024_00065"
+s5,finyul 데이터수집 (R-ONE 통계표 목록 전수 대조),A_2024_00188·00192와 A_2024_00072·00073은 STAT_ID가 다른 별개 통계다 - 24개 표 대 146개 표,observation,https://www.reb.or.kr/r-one/openapi/SttsApiTbl.do?Type=json#stat-id-split-2026-09-04
+s6,한국부동산원,공동주택실거래가격지수 조사개요 - 작성대상은 그 달 계약·신고된 실거래와 전세 확정일자 자료다,filing,https://www.reb.or.kr/reb/cm/cntnts/cntntsView.do?mi=10337&cntntsId=1193&statId=S231520283
+s7,한국부동산원 R-ONE,통계표 메타 원문 - (월) 지역별 전세 평균가격_아파트(A_2024_00192)의 STAT_ID와 유의사항 문언,dataset,https://www.reb.or.kr/r-one/openapi/SttsApiTbl.do?Type=json&STATBL_ID=A_2024_00192
+s8,한국부동산원 R-ONE,통계표 메타 원문 - (월) 지역별 매매 평균가격_아파트(A_2024_00188)의 STAT_ID와 유의사항 문언,dataset,https://www.reb.or.kr/r-one/openapi/SttsApiTbl.do?Type=json&STATBL_ID=A_2024_00188
+s9,한국부동산원,전국주택가격동향조사 조사개요 - 표본조사이며 평균·중위가격은 참고용이고 시계열 비교는 부적합하다고 명시한다,filing,https://www.reb.or.kr/reb/cm/cntnts/cntntsView.do?mi=10333&cntntsId=1033&statId=S234820263
+s10,주택도시보증공사(HUG),HUG 전세보증금반환보증 상품안내 — 주택가격 산정기준과 보증한도 원문,filing,https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp
+s11,주택도시보증공사(HUG),HUG 임대보증금보증 상품안내 — 부채비율 정의와 한도,filing,https://www.khug.or.kr/hug/web/cg/sd/cgsd000001.jsp
+s12,주택도시보증공사(HUG),145%의 1차 근거 — HUG 임대보증금보증 주택가격 산정방법에 실린 국토부 고시,filing,https://www.khug.or.kr/hug/web/cg/sd/cgsd000005.jsp?tabMenu=Y
+s13,글로벌이코노믹,아파트 매매·전세가격 동반 상승 - KB 68.5%와 부동산원 69.0%를 한 문장에 병기한 기사,news,https://www.g-enews.com/view.php?ud=20260902102941237714b1077807_1
+s14,미디어펜,HUG 담보인정비율을 전세가율 기준이라고 부른 기사,news,https://www.mediapen.com/news/view/1119750
+s15,광주일보,임대보증금보증의 부채비율을 전세가율로 부르고 공시가격 적용비율을 145%로 적은 기사,news,http://www.kwangju.co.kr/article.php?aid=1788425400802991278

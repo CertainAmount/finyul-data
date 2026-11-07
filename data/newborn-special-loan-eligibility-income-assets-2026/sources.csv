@@ -1,0 +1,51 @@
+﻿id,publisher,title,type,url
+s1,주택도시기금(국토교통부·HUG),주택도시기금 신생아 특례 디딤돌대출 일반대출 안내 — 소득 요건 (2026.10.25 확인),filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#income
+s2,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 — 출산 요건과 신생아 특공·우선공급 당첨자 2세 초과 예외,filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#birth
+s3,주택도시기금(국토교통부·HUG),"신생아 특례 디딤돌대출 — 자산 요건(소득 4분위 평균 순자산, 2026년도 기준 5.11억원)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#assets
+s4,주택도시기금(국토교통부·HUG),"신생아 특례 디딤돌대출 — 대상주택 9억·85㎡, 한도 4억(25.6.27 이전 계약 5억), DTI 60%·LTV",filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#limit
+s5,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 — 우대금리 ③ 추가 출산 0.2%p·④ 기존 자녀 0.1%p(3자녀부터 0.2%p)와 적용기간,filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#pref-rate
+s6,주택도시기금(국토교통부·HUG),"신생아 특례 디딤돌대출 — 대출금리 항목: 특례금리 적용기간 기본 5년, 최장 15년",filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#special-rate-period
+s7,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 — 소득 산정은 현재 재직·영위 기준,filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#income-basis
+s8,주택도시기금(국토교통부·HUG),주택도시기금 신생아 특례 버팀목대출 — 대상·소득·순자산 3.45억 (2026.10.25 확인),filing,https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05021401.jsp
+s9,주택도시기금(국토교통부·HUG),"신생아 특례 버팀목대출 — 호당 한도 2.4억(25.6.27 이전 계약 3억), 보증금 수도권 5억·그 외 4억",filing,https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05021401.jsp#limit
+s10,주택도시기금(국토교통부·HUG),"신생아 특례 버팀목대출 — 특례금리 기본 4년·최장 12년, 우대금리 ② 추가 출산 0.2%p(최장 12년)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05021401.jsp#rate-period
+s11,주택도시기금(국토교통부·HUG),주택도시기금 자산 심사 안내 — 대출종류별 자산기준금액,filing,https://nhuf.molit.go.kr/FP/FP08/FP0813/FP081301.jsp?id=20&mode=S&currentPage=1&articleId=1160#limits
+s12,주택도시기금(국토교통부·HUG),자산 심사 안내 — 순자산가액 산식(자산 합계에서 금융부채·일반부채 차감),filing,https://nhuf.molit.go.kr/FP/FP08/FP0813/FP081301.jsp?id=20&mode=S&currentPage=1&articleId=1160#formula
+s13,주택도시기금(국토교통부·HUG),자산 심사 안내 — 일반자산 항목: 임차보증금은 임대차계약서상 보증금·전세금으로 산정,filing,https://nhuf.molit.go.kr/FP/FP08/FP0813/FP081301.jsp?id=20&mode=S&currentPage=1&articleId=1160#deposit
+s14,주택도시기금(국토교통부·HUG),"자산 심사 안내 — 금융부채: 금융기관 대출잔액(마이너스통장·금융기관 외 금전거래 제외). 신용카드는 미결제 3개월 이상·50만원 이상 건의 원금, 상가·오피스텔 임대보증금은 금융부채가 아니라 일반부채 항목",filing,https://nhuf.molit.go.kr/FP/FP08/FP0813/FP081301.jsp?id=20&mode=S&currentPage=1&articleId=1160#debt
+s15,주택도시기금(국토교통부·HUG),"자산 심사 안내 — 자산산정 기준시점(비금융자산은 대출접수일, 금융자산은 과거 3개월 조회기준일)",filing,https://nhuf.molit.go.kr/FP/FP08/FP0813/FP081301.jsp?id=20&mode=S&currentPage=1&articleId=1160#timing
+s16,주택도시기금(국토교통부·HUG),자산 심사 안내 — 사후자산심사 부적격 시 가산금리(구입자금),filing,https://nhuf.molit.go.kr/FP/FP08/FP0813/FP081301.jsp?id=20&mode=S&currentPage=1&articleId=1160#penalty
+s17,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 맞벌이 소득산정 기준,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-dualincome
+s18,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 휴직자 소득 산정,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-leave
+s19,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 복직자 소득 산정,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-return
+s20,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 소득산정은 세전인지 세후인지,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-pretax
+s21,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 프리랜서 재직·소득 확인,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-freelancer
+s22,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 자녀가 만2세를 초과해도 신청가능한 경우,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-over2
+s23,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 대환대출 주요 요건(구입자금 용도·동일 채무자·기존주택도 자산에 포함),filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-refi
+s24,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 대환대출 시 소득요건,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-refi-income
+s25,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 추가출산에 따른 특례기간 및 특례금리 예시,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-extra-birth
+s26,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 금리우대 항목(④ 추가 출산 우대금리 최장 20년),filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-pref
+s27,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 주택 소유 중인데 무주택으로 보는 경우,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-nohouse
+s28,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 자주하는 질문 — 대출접수일의 기준,filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq-receipt
+s29,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 — 1주택자 대환대출 안내 (2026.10.25 확인),filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030802.jsp
+s30,주택도시기금(국토교통부·HUG),신생아 특례 디딤돌대출 — 이용절차 및 준비서류 (2026.10.25 확인),filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030805.jsp
+s31,주택도시기금(국토교통부·HUG),"주택도시기금 공지 '가계부채 관리 강화 방안에 따른 공지사항' (2025.6.27) — 신생아 디딤돌 5→4억·버팀목 3→2.4억, 6.28 이후 계약분",filing,https://nhuf.molit.go.kr/FP/FP08/FP0804/FP080402.jsp?id=3&mode=S&currentPage=1&articleId=1289
+s32,주택도시기금(국토교통부·HUG),주택도시기금 공지 '기금 순자산기준 변경 안내' (2025.12.15) — 2026.1.1 신규 접수분부터 5.11억·3.45억,filing,https://nhuf.molit.go.kr/FP/FP08/FP0804/FP080402.jsp?id=3&mode=S&currentPage=1&articleId=1298
+s33,주택도시기금(국토교통부·HUG),"주택도시기금 공지 '기금대출 신혼부부 소득요건 합리화 관련 안내' (2026.10.16 게시, 10.19 시행) — 신혼부부 1인 소득 기준",filing,https://nhuf.molit.go.kr/FP/FP08/FP0804/FP080402.jsp?id=3&mode=S&currentPage=1&articleId=1316
+s34,주택도시기금(국토교통부·HUG),"10.19 '신혼부부 소득요건 합리화 FAQ' (공지 1316 첨부 PDF) — 1인 소득 적용 시에도 순자산은 부부 합산, 합산이 기존 기준 이내면 1인 신청 불가",filing,https://nhuf.molit.go.kr/cms/cwboard/skin/download.jsp?id=3&fileId=1800
+s35,국토교통부,"국토교통부 보도자료 (2024.11.28) — 맞벌이 한정 소득 2억, 부부 중 한 명의 소득이 1.3억 이하여야 한다고 서술, 육아휴직 외벌이 증빙, 12월 2일 신청분부터",filing,https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=16&id=95090411
+s36,국토교통부,국토교통부 보도자료 (2024.11.28) — 육아휴직 등 일시적 외벌이는 서류 증빙; 2억 구간 유주택자 대환은 추후 검토로 남김,filing,https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=16&id=95090411#parental-leave
+s37,SBS Biz,SBS Biz '결혼 페널티' 절반으로…신생아 특례 금리도 연장 (2026.10.20),news,https://biz.sbs.co.kr/amp/article/20000340998
+s38,finyul-datacollector,관찰: 기금 사이트 안에서 15년·20년 표기가 항목마다 다르다,observation,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#obs-15-20yr
+s39,finyul-datacollector,관찰: 전자계약 우대금리 기한이 페이지(2026.12.31)와 FAQ(2025.12.31)에서 다르다,observation,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#obs-econtract
+s40,finyul-datacollector,관찰: 10.19 '1인 소득' 완화 공지는 신생아 특례를 다루지 않는다,observation,https://nhuf.molit.go.kr/FP/FP08/FP0804/FP080402.jsp?id=3&mode=S&currentPage=1&articleId=1316#obs-not-newborn
+s41,finyul-datacollector,"못 닿은 것: 10.20 변경 원문, 관리규정 내 상품 조항, 버팀목 대환 세부, 처분조건부 요건",observation,https://nhuf.molit.go.kr/FP/FP08/FP0805/FP080501.jsp#obs-not-found
+s43,민간 블로그·금융 정보글 다수(wikidocs 등),신생아 특례대출 맞벌이 2억: 1인 소득 1.3억 초과 시 불가로 설명하는 2차 자료,news,https://wikidocs.net/blog/@Insight_Lab/22390/
+s44,주택도시기금 FAQ,기금 FAQ 1쪽: 신생아특례 디딤돌 대환,observation,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main
+s45,마이홈포털(국토교통부),신생아 특례 디딤돌대출 안내 — 마이홈포털,filing,https://www.myhome.go.kr/hws/portal/cont/selectBabySpecialCaseStepStoneLoneView.do
+s46,마이홈포털(국토교통부),신생아 특례 버팀목 전세자금대출 안내 — 마이홈포털,filing,https://www.myhome.go.kr/hws/portal/cont/selectBabySpecialCaseCrutchLoneView.do
+s47,KB Think(KB국민은행),"2026 신생아 특례대출 조건은? 금리, 한도, 대환대출까지",news,https://kbthink.com/loan/find/newborn-special-loan.html
+s48,매일신문,신생아 특례대출 맞벌이 2억 열렸지만 대환은 1.3억…1%대 갈아타기 셈법,news,https://www.imaeil.com/page/view/2026101018520017776
+s49,매일신문,신생아 특례대출 11조 늘었는데 한도는 4억… 소득 2억 벽 그대로,news,https://www.imaeil.com/page/view/2026092219083541479
+s50,머니투데이,결혼 페널티 없다 디딤돌·보금자리·생초·신생아 대출 문턱 확 낮춘다,news,https://www.mt.co.kr/finance/2026/08/09/2026080907270057819
+s51,finyul-datacollector,뱅크샐러드 해설의 순자산 4.88억·3.37억은 구 연도 값,observation,https://www.banksalad.com/articles/%EC%8B%A0%EC%83%9D%EC%95%84-%ED%8A%B9%EB%A1%80%EB%8C%80%EC%B6%9C-%EC%A1%B0%EA%B1%B4-%EB%8C%80%ED%99%98-%EA%B8%88%EB%A6%AC-%EC%8B%A0%EC%B2%AD%EB%B0%A9%EB%B2%95

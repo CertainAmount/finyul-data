@@ -1,0 +1,19 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,[3순위 답] 거래외국환은행 지정 대상 목록(제10-11조) — 무증빙 트랙에서는 빠졌고 증빙 트랙(해외유학생·해외체재자)에는 남아 있다,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000270810&type=JSON
+s3,법제처 국가법령정보센터,"현행 외국환거래규정 제4-3조·제4-4조 원문 — 연 10만불(전 업권 합산), 건당 5천불, 비거주자·외국인거주자 연 5만불",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000281984&type=JSON
+s4,법제처 국가법령정보센터,[시행일 판정 핵심] 외국환거래규정 기획재정부고시 제2025-57호 — 무증빙 해외송금 한도 통합의 실제 개정 회차 (발령 2025-12-29),filing,https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000270810
+s6,법제처 국가법령정보센터,외국환거래법 시행령 [별표 4] 과태료 부과기준 — '100만원과 위반금액의 100분의 2 중 큰 금액'의 원문 근거,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285607&type=JSON
+s7,법제처 국가법령정보센터,외국환거래법 제21조(국세청장 등에게의 통보 등)·제32조(과태료) — 통보와 과태료의 상위 법률 근거,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276137&type=JSON
+s8,법제처 국가법령정보센터,현행 외국환거래규정 제4-8조 — 국세청·관세청·금융감독원 통보 기준선 연 1만불의 근거 조문,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000281984&type=HTML
+s9,관세청 훈령 (법제처 국가법령정보센터 경유),"[4순위 확보분] 「외국환거래의 검사 및 제재에 관한 훈령」(관세청 훈령 제2475호, 시행 2026-04-13) — 통보·자료분석 이후의 실제 절차",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000277286&type=JSON
+s10,한국은행 (해외송금 통합관리제도 전용 페이지),"한국은행 ORIS 전용 페이지 실재 확인 — 감시 대상은 '미화 5천불 미만 무증빙 소액송금 실시간 모니터링', 참가기관 63곳·카드사 0곳",observation,https://www.bok.or.kr/portal/main/contents.do?menuNo=201745
+s11,법제처 국가법령정보 Open API (메타데이터 대 부칙 본문),[출처 내부 불일치] 같은 법제처 안에서 고시 제2025-57호의 시행일이 두 값으로 적혀 있다 — 메타데이터 2026-01-01 대 부칙 '공포한 날',observation,https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=admrul&type=JSON&query=%EC%99%B8%EA%B5%AD%ED%99%98%EA%B1%B0%EB%9E%98%EA%B7%9C%EC%A0%95&display=100&nw=2
+s12,한국은행 ECOS,ECOS 731Y001 주요국 통화의 대원화환율 — 원/미국달러 매매기준율 일별,dataset,https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/731Y001/D/20260801/20260828/0000001
+s13,법제처 국가법령정보센터(외국환거래규정),외국환거래규정 제2-31조제5항 — 소액해외송금업자는 지급등 내역을 매월 익월 10일까지 외환정보집중기관을 통해 금융정보분석원장·국세청장·관세청장·금융감독원장에게 통보,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=JSON#article2-31-5
+s14,법제처 국가법령정보센터(외국환거래규정),외국환거래규정 제2-14조제5항 — 투자매매업자·투자중개업자(증권회사 등) 해외송금업무에 제2-31조제3항~제5항 준용,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=JSON#article2-14-5
+s15,법제처 국가법령정보센터(외국환거래규정),외국환거래규정 제2-21조제5항 — 상호저축은행 해외송금업무에 제2-31조제3항~제5항 준용 (제2-21조③: 직전 분기말 총자산 1조원 이상만 해외송금 가능),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=JSON#article2-21-5
+s16,법제처 국가법령정보센터(외국환거래규정),외국환거래규정 제2-22조제4항 — 신용카드업자 해외송금업무에 제2-31조제3항~제5항 준용,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=JSON#article2-22-4
+s17,법제처 국가법령정보센터,"외국환거래규정 제4-5조제2항 — 해외체재자·해외유학생은 거래외국환은행을 지정하고 체재·유학 입증서류를 제출 (재정경제부고시 제2026-103호, 2026-09-16 시행)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=XML#%EC%A0%9C4-5%EC%A1%B0%EC%A0%9C2%ED%95%AD
+s18,법제처 국가법령정보센터,"외국환거래규정(2026-09-16 시행) — '분할하여 지급등을 하는 경우 합산' 문구는 제5-4조·제5-10조·제7-2조에만 있고, 연 10만불 한도(제4-3조제1항제1호)는 업권 합산으로 적혀 있다",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=XML#%EB%B6%84%ED%95%A0%ED%95%A9%EC%82%B0
+s19,법제처 국가법령정보센터,외국환거래규정 제2-13조 — 체신관서(우체국)의 외국환업무는 이 조에 따로 규정 (2026-09-16 시행),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=XML#%EC%A0%9C2-13%EC%A1%B0
+s20,법제처 국가법령정보센터,외국환거래법 제17조·시행령 제31조 — 지급수단 수출입 신고의 위임 구조 (2026-10-04 열람),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285607&type=XML#%EC%A0%9C31%EC%A1%B0

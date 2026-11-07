@@ -1,0 +1,15 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 조세특례제한법,"조세특례제한법 제91조의23(개인투자용국채에 대한 과세특례) 전문 — 14% 분리과세, 2억원 한도, 전용계좌 요건(①1명당 1개 계좌, ②매입에만 사용)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280409&type=XML#article91-23
+s2,법제처 국가법령정보센터 - 조세특례제한법 시행령,"조세특례제한법 시행령 제93조의9(개인투자용국채에 대한 과세특례) 전문 — 5년 이상 보유 요건, 매입금액 합산 순서, 전용계좌 명칭·용도 제한",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=287181&type=XML#article93-9
+s3,법제처 국가법령정보센터 - 소득세법,소득세법 제129조(원천징수세율) 제1항 제1호 — 그 밖의 이자소득 원천징수세율 14%(일반계좌 국채 이자소득 기본 세율 확인용),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article129-1-1
+s4,국가법령정보센터 (법제처 Open API),소득세법 제14조제3항제6호 — 이자·배당소득 합계 2천만원 이하 시 종합과세표준 미합산(금융소득종합과세 기준금액),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON#article14-3-6
+s5,법제처 국가법령정보센터 - 소득세법,"소득세법 제14조(과세표준의 계산) 제3항 — 일반계좌의 이자소득은 연 2천만원(금융소득종합과세 기준금액) 이하일 때만 분리과세, 초과분은 종합과세에 합산됨(조특법상 분리과세·개인투자용국채 14%와의 대조 근거)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article14-3
+s6,법제처 국가법령정보센터 - 근로자퇴직급여 보장법 시행령,근로자퇴직급여 보장법 시행령 제25조(확정기여형퇴직연금제도 및 개인형퇴직연금제도 적립금의 원리금보장 운용방법) 제1항제3호 — '국채증권'이 DC·IRP 원리금보장 운용방법으로 이미 명시돼 있음,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284693&type=XML#article25-guaranteed-bonds
+s7,법제처 국가법령정보센터 - 국채법,"국채법 제4조(국채의 종류)·제5조(국채의 발행) 전문 — 개인투자용국채는 '매입자격을 개인으로 제한하여 발행하는 국채'로만 정의, IRP·DC 계좌를 통한 매입에 관한 별도 규정 없음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276093&type=XML#article4-5
+s8,기획재정부 보도자료 — 2026년 연간·1월 개인투자용 국채 발행계획 및 투자 활성화 방안,"2026년 개인투자용국채 만기수익률 표시방식(표면금리+가산금리, 연복리) 및 하반기 DC형·개인형 IRP 편입시 세제혜택(연 900만원 한도 세액공제, 표면이자 과세이연, 만기 후 연금소득 과세) 원문 확인",filing,https://www.moef.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000030659&fileSn=2
+s9,아시아경제,9월부터 퇴직연금으로 '국채' 산다… 세금 깎고 이자 받는 '꿀조합',news,https://view.asiae.co.kr/article/2026021719195553772
+s10,한국금융신문,"한국금융신문 2026-09-09: '퇴직연금형 개인투자용 국채' 개시, 9월 9일~15일 DC·IRP로 10년·20년물 청약, 국채는 위험자산 한도 밖이라 적립금 100%까지 투자 가능",news,https://www.fntimes.com/html/view.php?ud=202609090940087865179ad43907_18
+s11,법제처 국가법령정보센터 - 소득세법,"소득세법 제14조제3항제9호 — 분리과세연금소득: 퇴직소득 연금수령, 부득이한 사유 인출, 그 외 연금소득 합계 연 1천500만원 이하",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article14-3-9
+s12,법제처 국가법령정보센터 - 근로자퇴직급여 보장법 시행령,"근로자퇴직급여 보장법 시행령 제25조제1항(2026.3.24 시행 현행) — 개정 표시는 뿐, 제3호에 국채증권",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284693&type=XML#article25-1
+s13,법제처 국가법령정보센터 - 국채법·국채법 시행령,국채법 제4조제1항제1호나목(2026.1.2 시행) 개인투자용국채 정의 — 국채법(MST 276093)·시행령(MST 280829) 전문에 퇴직연금·개인형·IRP·연금계좌 문구 0건,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276093&type=XML#article4
+s14,법제처 국가법령정보센터 - 근로자퇴직급여 보장법 시행규칙,근로자퇴직급여 보장법 시행규칙 제10조제1항 — 영 제26조제1항제2호가목의 총투자한도: DC·IRP 가입자별 전체 적립금의 100분의 70,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=243903&type=XML#article10

@@ -1,0 +1,22 @@
+﻿id,publisher,title,type,url
+s1,전국은행연합회 외환길잡이,은행연합회 인천공항점 대만달러(TWD) 환전수수료율 (조회 2026-10-23),dataset,https://exchange.kfb.or.kr/page/airport_commission.php#TWD-list-2026-10-23
+s2,전국은행연합회 외환길잡이,은행연합회 인천공항점 미국달러(USD) 환전수수료율 (조회 2026-10-23),dataset,https://exchange.kfb.or.kr/page/airport_commission.php#USD-list-2026-10-23
+s3,전국은행연합회 외환길잡이,은행연합회 인터넷환전 TWD 수수료율·우대율 비교 (조회 2026-10-23),dataset,https://exchange.kfb.or.kr/page/on_commission.php#TWD-list-2026-10-23
+s4,전국은행연합회 외환길잡이,은행연합회 인터넷환전 USD 수수료율·우대율 비교 (조회 2026-10-23),dataset,https://exchange.kfb.or.kr/page/on_commission.php#USD-list-2026-10-23
+s5,전국은행연합회 소비자포털,은행연합회 환전수수료 비교공시 대만 달러(TWD) 현찰 사실때·파실때 (조회 2026-10-23),dataset,https://portal.kfb.or.kr/compare/commission_spread.php#TWD-spread-2026-10-23
+s6,전국은행연합회 소비자포털,은행연합회 환전수수료 비교공시 미국 달러(USD) 현찰 사실때·파실때 (조회 2026-10-23),dataset,https://portal.kfb.or.kr/compare/commission_spread.php#USD-spread-2026-10-23
+s7,한국수출입은행 현재환율 API,"수출입은행 고시환율 2026-10-23 — USD 고시, TWD 미고시 (23개 통화)",dataset,https://oapi.koreaexim.go.kr/site/program/financial/exchangeJSON#USD-TWD-absent-20261023
+s8,국태세화은행(Cathay United Bank),국태세화은행 외화 환율 게시 — 미국달러 TWD 현찰·즉시 (2026-10-23 19:14 대만시간),dataset,https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/currency-billboard/#USD-2026-10-23-1914
+s9,옥산은행(E.SUN Bank),옥산은행 외화 환율 — 미국달러 TWD 현찰·즉시 (2026-10-23 19:13 대만시간),dataset,https://www.esunbank.com/zh-tw/personal/deposit/rate/forex/foreign-exchange-rates#USD-2026-10-23-1913
+s10,트래블월렛 고객센터 FAQ — 충전 시 적용 환율,"트래블월렛 FAQ — 원화·달러·엔·유로 충전 수수료 0%, 그 외 통화 0.5%~2.5% (2026-10-23 재확인)",filing,https://docs.channel.io/travelwallet/ko/articles/%EC%B6%A9%EC%A0%84-%EC%8B%9C-%EC%A0%81%EC%9A%A9-%ED%99%98%EC%9C%A8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-531308ca
+s11,트래블월렛 고객센터 FAQ — 충전 가능 외화 종류,"트래블월렛 FAQ — 충전 가능 46개 통화(2026.04 기준), 대만 TWD 포함",filing,https://docs.channel.io/travelwallet/ko/articles/%EC%B6%A9%EC%A0%84-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%99%B8%ED%99%94-%EC%A2%85%EB%A5%98%EA%B0%80-%EA%B6%81%EA%B8%88%ED%95%B4%EC%9A%94-aaa9a48b
+s12,트래블월렛 고객센터 FAQ — 해외 ATM 출금 한도·수수료,"트래블월렛 FAQ — 해외 ATM 1회 400달러·1일 1,000달러·월 2,000달러, 월 500달러 초과분 2% (2026-10-23 재확인)",filing,https://docs.channel.io/travelwallet/ko/articles/%ED%95%B4%EC%99%B8-ATM-%EC%B6%9C%EA%B8%88-%ED%95%9C%EB%8F%84-%EC%88%98%EC%88%98%EB%A3%8C%EB%8A%94-%EC%96%BC%EB%A7%88%EC%9D%B8%EA%B0%80%EC%9A%94-5d51ec3d
+s13,트래블월렛 고객센터 FAQ — 환불 시 적용 환율,"트래블월렛 FAQ — 남은 외화 환불 시 앱 고시 '파실 때' 환율, 별도 수수료 없음",filing,https://docs.channel.io/travelwallet/ko/articles/%ED%99%98%EB%B6%88-%EC%8B%9C-%EC%A0%81%EC%9A%A9-%ED%99%98%EC%9C%A8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-0cc2f37d
+s14,하나카드 트래블로그 서비스 안내(모바일 공식 페이지),"하나카드 트래블로그 — TWD는 무료환전(환율 100% 우대) 이벤트 54종에 포함, 2026-12-31까지",filing,https://m.hanacard.co.kr/MKCONT3100M.web#twd-free-exchange-2026-10-23
+s15,대만 재정부(MOF) 법령 — 입출국 시 자금세탁 통제 물품 신고 규정,Regulations Governing the Declaring and Reporting of Items Subject to Money Laundering Control When Entering or Leaving the Country (2017-06-22 개정; 영문 페이지 제목 Anti-Money Laundering Regulations for Cross-border Declaration and Reporting),filing,https://law-out.mof.gov.tw/EngLawContent.aspx?id=278
+s16,재정경제부 외국환거래규정 제6-2조(신고 등) — 법제처,"외국환거래규정(재정경제부고시 제2026-103호, 2026-09-16 개정) 제6-2조 — 미화 1만불 이하 지급수단 수출은 신고 불요",filing,https://www.law.go.kr/행정규칙/외국환거래규정#제6-2조
+s17,finyul-datacollector,수집하지 못한 항목 (2026-10-23),observation,https://finyul.com/work/twd-exchange-route-cost-1m-won#not-found-2026-10-23
+s18,finyul-datacollector,은행연합회 TWD 공시 기준일이 은행·표마다 다르다 (2026-10-23 조회),observation,https://finyul.com/work/twd-exchange-route-cost-1m-won#kfb-date-mismatch-2026-10-23
+s20,NOWnews,"NOWnews 2019-01-16 — 台灣銀行·兆豐銀行 換匯 不收手續費, 機場櫃檯除外 收100元",news,https://www.nownews.com/news/3178215
+s21,트립스토어 블로그,"트립스토어 2026-02-25 — 대만 환전: 달러 경유 vs 직접 환전(TWD 우대 30~50%), 트래블카드 ATM은 특정 은행만 수수료 없음",news,https://www.tripstore.kr/blog/%EB%8C%80%EB%A7%8C-%ED%99%98%EC%A0%84-%EA%B2%BD%EB%B9%84-%EC%88%98%EC%88%98%EB%A3%8C-%ED%8C%81
+s22,은행연합회 환전 공시,"은행연합회 공항 환전수수료 페이지 — 수수료율 정의: 매매기준율 대비 현찰 살때 환율 차이, 우대는 별도(예시 50% 우대)",filing,https://exchange.kfb.or.kr/page/airport_commission.php#spread-definition-2026-10-23

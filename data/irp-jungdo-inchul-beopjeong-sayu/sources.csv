@@ -1,0 +1,10 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,소득세법 시행령 제20조의2(의료 목적 또는 부득이한 인출의 요건 등) — 연금소득 저율 분리과세 적용 사유,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML#article20-2
+s2,"고용노동부 퇴직연금복지과 행정해석 (퇴직연금복지과-291, 2008.7.3., 노동OK 재게재)",아파트 분양·임대아파트 분양의 경우에도 퇴직연금 중도인출이 가능한지 여부,filing,https://www.nodong.kr/interpretation/2145775
+s3,한국투자증권 블로그,"퇴직연금 중도인출 방법, 세금, 한도는? — IRP 자금 출처별(퇴직급여 원금 vs 세액공제·운용수익) 과세 방식 구분",news,https://blog.koreainvestment.com/%ED%87%B4%EC%A7%81%EC%97%B0%EA%B8%88-%EC%A4%91%EB%8F%84%EC%9D%B8%EC%B6%9C-%EB%B0%A9%EB%B2%95-%EC%84%B8%EA%B8%88-%ED%95%9C%EB%8F%84-irp-%EC%97%B0%EA%B8%88%EC%A0%80%EC%B6%95/
+s4,고용노동부,"퇴직연금제도 수급권의 담보제공 및 퇴직금 중간정산의 사유와 요건, 담보 한도 등에 관한 고시 (고용노동부고시 제2020-139호)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000195808&type=XML
+s5,"고용노동부 퇴직연금복지과 행정해석 (퇴직연금복지과-355, 2008.7.30., 노동OK 재게재)",아파트 분양계약의 중도금 납입시마다 중도인출이 가능한지 — 계약금·중도금 단계별 중도인출 인정,filing,https://www.nodong.kr/interpretation/2145806
+s6,법제처 국가법령정보센터,"근로자퇴직급여 보장법 시행령 제3조·제14조·제18조 (퇴직금 중간정산·DC 중도인출·IRP 중도인출 사유, 2026.3.24 시행)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284693&type=XML
+s7,finyul 데이터수집 (근로자퇴직급여 보장법 시행령 제18조 vs 소득세법 시행령 제20조의2 원문 대조),IRP 중도인출이 '법정 사유'로 적법해도 세법상 저율과세 '부득이한 사유'와 일치하지 않음 — 주택구입·전세보증금은 기타소득세 16.5% 원천징수 대상,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284693&type=XML#vs-286211-tax-gap
+s8,법제처 국가법령정보센터,근로자퇴직급여 보장법 시행령 제18조(개인형퇴직연금제도의 급여 종류별 수급요건 및 중도인출) 전문,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284693&type=XML#article18-full
+s9,KB금융그룹 (kbthink.com),퇴직연금 중도인출(DC형·IRP) 언제 가능할까? 사유 및 방법 알아보기,news,https://kbthink.com/retirement-pension/early-withdrawal.html

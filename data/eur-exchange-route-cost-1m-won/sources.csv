@@ -1,0 +1,19 @@
+﻿id,publisher,title,type,url
+s1,전국은행연합회 외환길잡이,"은행연합회 인천공항점 유로(EUR) 환전수수료 — 사실 때 4.50%, 파실 때 4.20~4.50% (조회 2026-10-24)",dataset,https://exchange.kfb.or.kr/page/airport_commission.php#EUR-list-2026-10-24
+s2,전국은행연합회 외환길잡이,"은행연합회 인천공항점 엔(JPY) 환전수수료 — 사실 때 4.50%, 파실 때 7.00% (조회 2026-10-24, 유로와 비교용)",dataset,https://exchange.kfb.or.kr/page/airport_commission.php#JPY-list-2026-10-24
+s3,전국은행연합회 외환길잡이,"은행연합회 인천공항점 달러(USD) 환전수수료 — 사실 때·파실 때 모두 4.20% (조회 2026-10-24, 유로와 비교용)",dataset,https://exchange.kfb.or.kr/page/airport_commission.php#USD-list-2026-10-24
+s4,전국은행연합회 외환길잡이,은행연합회 인터넷환전 유로(EUR) 수수료율·기본/최대 우대율 (조회 2026-10-24),dataset,https://exchange.kfb.or.kr/page/on_commission.php#EUR-list-2026-10-24
+s5,전국은행연합회 소비자포털,은행연합회 환전수수료 비교공시 유로(EUR) 일반 영업점 — 사실 때·파실 때 같은 값 (조회 2026-10-24),dataset,https://portal.kfb.or.kr/compare/commission_spread.php#EUR-spread-2026-10-24
+s6,전국은행연합회 소비자포털,"은행연합회 환전수수료 비교공시 달러(USD)·엔(JPY) 일반 영업점 — 시중은행 1.75% (조회 2026-10-24, 유로와 비교용)",dataset,https://portal.kfb.or.kr/compare/commission_spread.php#USD-JPY-spread-2026-10-24
+s7,한국수출입은행 현재환율 API,"수출입은행 유로(EUR) 2026-10-23 — 매매기준율 1,486.40원, 송금 받을 때 1,471.53 / 보낼 때 1,501.26",dataset,https://oapi.koreaexim.go.kr/site/program/financial/exchangeJSON#EUR-20261023
+s8,전국은행연합회 외환길잡이,은행연합회 — 외국동전 환전가능 점포 안내 (은행별 취급 통화·점포),filing,https://exchange.kfb.or.kr/page/branch.php
+s9,KB국민은행 KB Think,"KB국민은행 — 외국 동전도 환전이 가능한가요? (알기 쉬운 금융생활 외환편 2화, 2023-12-22)",filing,https://kbthink.com/fx/coin-exchange.html
+s10,한국경제,[팩트체크] 외국 동전은 국내서 무용지물?…은행원도 헷갈리는 환전법 (2026-01-16),news,https://www.hankyung.com/article/202601163983Y
+s11,트래블월렛 고객센터 FAQ — 충전 시 적용 환율,"트래블월렛 FAQ — 원화·달러·엔·유로 충전 수수료 0%, 그 외 통화 0.5%~2.5% (2026-10-24 재확인)",filing,https://docs.channel.io/travelwallet/ko/articles/%EC%B6%A9%EC%A0%84-%EC%8B%9C-%EC%A0%81%EC%9A%A9-%ED%99%98%EC%9C%A8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-531308ca
+s12,트래블월렛 고객센터 FAQ — 해외 ATM 출금 한도·수수료,"트래블월렛 FAQ — 해외 ATM 1회 400달러·월 500달러 초과분 2%, 현지 ATM 업체 수수료 별도 (2026-10-24 재확인)",filing,https://docs.channel.io/travelwallet/ko/articles/%ED%95%B4%EC%99%B8-ATM-%EC%B6%9C%EA%B8%88-%ED%95%9C%EB%8F%84-%EC%88%98%EC%88%98%EB%A3%8C%EB%8A%94-%EC%96%BC%EB%A7%88%EC%9D%B8%EA%B0%80%EC%9A%94-5d51ec3d
+s13,트래블월렛 고객센터 FAQ — 환불 시 적용 환율,"트래블월렛 FAQ — 남은 외화 환불 시 앱 고시 '파실 때' 환율, 별도 수수료 없음 (2026-10-24 재확인)",filing,https://docs.channel.io/travelwallet/ko/articles/%ED%99%98%EB%B6%88-%EC%8B%9C-%EC%A0%81%EC%9A%A9-%ED%99%98%EC%9C%A8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-0cc2f37d
+s14,하나카드 트래블로그 서비스 안내(모바일 공식 페이지),"하나카드 트래블로그 — 유로(EUR)는 상시 무료환전(환율 100% 우대) 4종에 포함, 해외 ATM 건당 $3 면제·현지 ATM 운영사 수수료는 미지원",filing,https://m.hanacard.co.kr/MKCONT3100M.web#eur-always-free-2026-10-24
+s15,유럽중앙은행(ECB) 보도자료,ECB ends production and issuance of €500 banknote (2016-05-04),filing,https://www.ecb.europa.eu/press/pr/date/2016/html/pr160504.en.html
+s16,finyul-datacollector,"유로만의 갈림 — 일반 영업점은 사실 때=파실 때, 공항은 유로 되팔기(4.2~4.5%)가 엔(7.00%)보다 훨씬 싸고, 인터넷 수수료는 유로가 달러·엔보다 0.2%p쯤 높다",observation,https://finyul.com/work/eur-exchange-route-cost-1m-won#eur-vs-jpy-usd-asymmetry-2026-10-24
+s17,finyul-datacollector,수집하지 못한 항목·출처끼리 어긋난 지점 (2026-10-24),observation,https://finyul.com/work/eur-exchange-route-cost-1m-won#conflicts-and-not-found-2026-10-24
+s20,KB국민은행 KB Think,"KB국민은행 — 인천공항 환전 방법: 앱 사전환전 후 공항 환전소 수령, 환율 우대 (2025-12-11)",filing,https://kbthink.com/fx/icn-currency-exchange.html

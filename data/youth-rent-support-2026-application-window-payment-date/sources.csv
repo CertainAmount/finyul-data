@@ -1,0 +1,30 @@
+﻿id,publisher,title,type,url
+s1,복지로(보건복지부) 공지사항,"2026년 청년월세 지원 신청 안내 (복지로 공지, 2026-03-20 등록) — 신규 신청 3.30~5.29, 월 20만원·24회, 소득 기준",filing,https://www.bokjiro.go.kr/ssis-tbu/cms/pc/customer/notice/1309500_1141.html
+s2,복지로(보건복지부) 공지사항,"2026 복지로 공지 — 지원 규모: 실제 월세의 최대 20만원, 보증금·관리비 제외 (임차 상한 문구 없음)",filing,https://www.bokjiro.go.kr/ssis-tbu/cms/pc/customer/notice/1309500_1141.html#benefit-and-no-rent-cap
+s3,복지로(보건복지부) 공지사항,2026 복지로 공지 — 1·2차 수혜자 처리: 2차('24.2~'27.12) 수혜자는 2차 종료 뒤 신청 가능,filing,https://www.bokjiro.go.kr/ssis-tbu/cms/pc/customer/notice/1309500_1141.html#duplicate-1st-2nd
+s4,대한민국 정책브리핑(국토교통부 보도 정책뉴스),"청년들에 2년간 월세 최대 20만 원 지원…30일부터 접수 — '청년월세 지원사업' 계속사업 전환, 전국 6만명 신규수혜자 선정 (2026-03-18)",news,https://www.korea.kr/news/policyNewsView.do?newsId=148961039
+s5,대한민국 정책브리핑(국토교통부 보도 정책뉴스),"국토부 보도(2026-03-18) — 재산 기준: 청년가구 자산 1억 2200만 원·원가구 4억 7000만 원 이하, 청약통장 요건 삭제",news,https://www.korea.kr/news/policyNewsView.do?newsId=148961039#asset-requirement
+s6,대한민국 정책브리핑(국토교통부 보도 정책뉴스),"국토부 보도(2026-03-18) — 한시사업에서 국정과제 계속사업으로, 매년 신규 수혜자 모집",news,https://www.korea.kr/news/policyNewsView.do?newsId=148961039#continuing-program
+s7,정부24(보조금24) 서비스 상세,정부24 청년월세 지원 상세(최종수정 2026.05.08) — 임차 상한 '보증금 5천만원 + 월세 60만원(환산 합산 70만원)'과 지자체 월세지원 중복 불가,filing,https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099
+s8,정부24(보조금24) 서비스 상세,"정부24 청년월세 지원 상세 — 중복혜택 불가: 지자체 자체 월세지원 사업, 사업기간·보조율",filing,https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099#local-gov-duplicate
+s9,전주시 2026년 청년월세 지원사업 한눈에 보기,"전주시 「청년월세 지원사업」 한눈에 보기(국토부 사업 지자체 안내) — 지급일 매월 25일, 이의신청 30일, 선정일 9.14",filing,https://jeonju.go.kr/youth2/download/programguide.pdf
+s10,전주시 2026년 청년월세 지원사업 한눈에 보기,"전주시 한눈에 보기 — 이의신청: 통지받은 날로부터 30일 이내 서면 제출, 접수일로부터 30일 이내 결과 통보",filing,https://jeonju.go.kr/youth2/download/programguide.pdf#appeal
+s11,전주시 공고 제2026-812호,"전주시 2026년 청년월세 지원사업 모집공고(2026-03-27) — 첫 급여 9.23, 5월분부터 소급, 재산요건",filing,https://jeonju.go.kr/youth2/download/announcement.pdf
+s12,전주시 2026년 청년월세 지원사업 FAQ,"전주시 청년월세 FAQ — 신청월과 관계없이 5월분부터 지급, 보증금·월세 금액과 관계없이 신청 가능(2024.4.12 이후 답변)",filing,https://jeonju.go.kr/youth2/download/faq.pdf
+s13,전주시 2026년 청년월세 지원사업 FAQ,전주시 청년월세 FAQ — 임차 상한 없음(2024.4.12 이후 답변). 정부24 상한 문구와 어긋남,filing,https://jeonju.go.kr/youth2/download/faq.pdf#no-rent-cap
+s14,서울주거포털(서울시) 청년월세지원 신청자격,서울시 2026 청년월세지원 신청자격 — 국토부 청년월세 최종 선정 시 기 지급 서울시 지원금 전액 환수,filing,https://housing.seoul.go.kr/site/main/content/sh01_060513_6
+s15,서울주거포털(서울시) 청년월세지원 사업개요,"서울시 2026 청년월세지원 사업개요 — 신청 5.6~5.19, 15,000명, 월 20만원·최대 12개월, 소득 48% 초과~150%",filing,https://housing.seoul.go.kr/site/main/content/sh01_060513
+s16,서울주거포털(서울시) 청년월세지원 사업개요,서울시 청년월세지원 — 대상 연령 19~39세(국토부 사업은 19~34세),filing,https://housing.seoul.go.kr/site/main/content/sh01_060513#age-limit
+s17,서울주거포털(서울시) FAQ 88,서울시 청년월세지원 FAQ 88 — 월세 지원금은 언제 지급되나요 (회차별 지급: 8월 말·10월·12월·27년),filing,https://housing.seoul.go.kr/site/main/board/faq_mr/12578
+s18,서울주거포털(서울시) 공지사항,서울시 2026년 청년월세지원 최종 선정결과 발표 일정 연기 안내 (2026-07-29),filing,https://housing.seoul.go.kr/site/main/board/notice/12675
+s19,kwt 블로그(민간),2026년 청년 월세지원 신청방법 자격조건 총정리 (상시화 확정) — 민간 블로그의 상시 신청 주장,news,https://blog.kwt.co.kr/?p=1186
+s20,정책스터디(민간),청년월세 지원 신청방법: 2026년 상시화 완전 가이드 — 민간 블로그의 상시 신청 주장,news,https://studygov.kr/blog/0070-youth-monthly-rent-support/
+s21,법제처 국가법령정보센터 - 조세특례제한법,"조특법 제95조의2(월세액에 대한 세액공제) 현행 — 연 월세 한도 1천만원, 공제율 15%/17% (조문시행 2026-09-18, 2026-10-25 재확인)",filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A1%B0%EC%84%B8%ED%8A%B9%EB%A1%80%EC%A0%9C%ED%95%9C%EB%B2%95/%EC%A0%9C95%EC%A1%B0%EC%9D%982
+s22,재정경제부 - 2026년 세제개편안 상세본(PDF),"재정경제부 2026년 세제개편안 상세본 — 월세 한도 연 1,000만원 → 1,200만원, 청년(15~34세) 17% 추가, 2027.1.1. 이후 지급분부터(개정안)",filing,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#page=42
+s23,뉴스핌,2026년 세제개편안 9.3 국회 제출 — 재정경제기획위원회 회부·조세소위 심사 예정,news,https://www.newspim.com/news/view/20260903001053
+s24,열린국회정보 의안정보 + 법제처,"월세 세액공제 한도 1,200만원 개정 미확정 — 2026-10-25 현재 법제처 현행 1천만원, 국회 조특법 개정안 다수 재정경제기획위 계류(처리결과 null)",observation,https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn#tax-credit-limit-status-2026-10-25
+s25,민간 글 vs 복지로 공지,"불일치: 민간 글은 2026년 상시 신청, 복지로·국토부는 3.30~5.29 신규 접수·매년 모집 — 5.29 이후 추가 접수 공고는 찾지 못함",observation,https://www.bokjiro.go.kr/ssis-tbu/cms/pc/customer/notice/1309500_1141.html#observation-always-open-vs-window
+s26,월세 세액공제와 청년월세 지원 중복 여부,청년월세 지원금과 월세 세액공제 중복 허용·금지 공식 문장 못 찾음,observation,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A1%B0%EC%84%B8%ED%8A%B9%EB%A1%80%EC%A0%9C%ED%95%9C%EB%B2%95/%EC%A0%9C95%EC%A1%B0%EC%9D%982#observation-overlap-not-found
+s29,이투데이,"홍지선 국토부 장관 ""월세 부담 무겁게 받아들여…내년부터 청년월세 지원 확대"" (2026-10-22) — 내년 소득기준 완화 계획, 구체 기준·신청시기 없음",news,https://www.etoday.co.kr/news/view/2638749
+s30,서울주거포털,"서울시 2026 청년월세지원 신청자격 — 국토부 청년월세 수혜 중인 사람은 제외, 지원 종료 시 신청 가능; 주거급여 대상자 제외",filing,https://housing.seoul.go.kr/site/main/content/sh01_060513_6#national-duplicate
+s31,경기일보,"파주시 하반기 청년월세 자체 사업 — 7.1~7.31 신청, 60명, 월 10만원 12개월 (지자체 별도 사업: '하반기 모집'이 존재하나 국토부 사업이 아님)",news,https://kyeonggi.com/article/20260629580172

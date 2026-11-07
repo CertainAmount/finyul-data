@@ -1,0 +1,9 @@
+﻿id,publisher,title,type,url
+s1,財務省 (일본 재무성) 令和7年度税制改正の大綱,"[리드 검증] 일본 재무성 세제개정대강 원문 — 즉시면세 폐지·사후환급(리펀드) 전환, 50만엔 한도·일반물품/소모품 구분 폐지, 시행일 2026-11-01",filing,https://www.mof.go.jp/tax_policy/tax_reform/outline/fy2025/07taikou_04.htm
+s2,観光庁 (일본 국토교통성 관광청) 공식 발표,[리드 검증] 관광청 공식 발표 — 소비세 면세제도 '리펀드 방식' 시행일 2026-11-01,filing,https://www.mlit.go.jp/kankocho/topics02_00023.html
+s3,일본 국토교통성 관광청 (免税店サイト),[4단계 확인] 신구 제도 경계는 출국일이 아니라 구매일 기준 — 2026-11-01 구매분부터 리펀드 방식 적용,filing,https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html
+s4,国税庁 (일본 국세청) 輸出物品販売場制度のリファンド方式への見直し 안내,[리드 검증] 일본 국세청 — 리펀드 방식 세무 행정 실무 안내 (令和7年度税制改正 근거 명시),filing,https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/format/002.htm
+s5,国土交通省 観光庁 (免税店サイト) 여행자용 FAQ — 리펀드 방식 세관확인·수하물 순서,[반증 재확인] 관광청 여행자 FAQ — 위탁수하물을 항공사에 맡기기 전에 세관확인을 마쳐야 한다고 명문으로 규정,filing,https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html
+s6,유럽연합 공식 시민 안내 (Your Europe / europa.eu),[5단계 비교] EU 부가세 환급도 구매 후 3개월 내 세관 확인이 필요 — 일본의 90일과 같은 성격의 기한,filing,https://europa.eu/youreurope/citizens/consumers/shopping/vat/index_en.htm
+s7,한국관광공사 (Korea Tourism Organization) 공식 영문 안내,[5단계 비교 보강] 한국도 구매일로부터 3개월 이내 출국이 부가세 환급 조건 — 일본 90일과 같은 성격의 기한이 EU 외 다른 나라에도 존재,filing,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140736
+s8,"Wayback Machine 아카이브 (kr.trip.com 원문 재열람, 2026-02-28 캡처)","[반증 재확인] kr.trip.com 원문 전체 재열람 — '6개월' 3종 표현이 서로 다른 섹션에 각각 다른 동사로 등장, 개편 자체는 모호하게만 언급",observation,https://web.archive.org/web/20260228045726/https://kr.trip.com/blog/tax-return-japan2026

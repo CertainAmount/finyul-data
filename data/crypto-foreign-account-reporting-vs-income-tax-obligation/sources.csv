@@ -1,0 +1,14 @@
+﻿id,publisher,title,type,url
+s1,국세청,"[2025-01-01 개정 전 기준] 국세청 보도참고자료(2024-05-30) 「작년 해외금융계좌 5억 원 넘으면, 7월 1일까지 신고하세요」 — 크립토계좌 포함시점·구 과태료 누진구간표(2025-01-01 신고의무분부터 10%/10억원 단일 산식으로 개정)·비수탁형 지갑 등 최종가격 확인 불가 시 잔액 산출법 명시",filing,https://www.nts.go.kr/comm/nttFileDownload.do?fileKey=15ad5ee271bd62b26d796629c014fb57
+s2,이데일리,해외 가상자산계좌 신고 느는데…국세청 미신고·탈세 적발 과제 (2026-08-25),news,https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04182006645550928
+s3,머니투데이,[TheTax] 해외자산 신고 100조 돌파…위반 적발 포상금 최대 20억 (2026-09-05) — 신고 현황·위반 적발 실제 수치,news,https://www.mt.co.kr/economy/2026/09/05/2026090415470087684
+s4,이데일리,"[일문일답] ""10억원 이상 해외금융계좌 신고누락, 연도별 과태료 부과"" (2018-06-04) — 2019년 개정 전 기준금액이 10억원이었음을 보여주는 당대 기사",news,https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02863446619238440
+s5,일간NTN,올해부터 해외계좌 신고대상 기준 5억원으로 '강화' (2019-06-28) — 10억원→5억원 인하 시점 공지,news,https://www.intn.co.kr/news/articleView.html?idxno=2006485
+s6,한국세정신문,"""해외금융계좌 신고 기준금액 10억원으로 올려야"" — 백제흠 변호사 학술 기고 보도 (2020-12-01)",news,https://www.taxtimes.co.kr/news/article.html?no=247393
+s7,국세청(nts.go.kr),국세청 훈령·고시 행정예고 게시판(mi=6420&bbsId=1102)도 HTTP 200 접근 확인(2026-09-20). 최근 게시물 10건 중 가상자산 관련 행정예고 없음 — 가상자산사업자 지정 고시나 시가고시가 사전 행정예고 단계에도 아직 올라오지 않았다는 뜻,observation,https://www.nts.go.kr/nts/na/ntt/selectNttList.do?mi=6420&bbsId=1102#recon-2026-09-20
+s8,국세청(nts.go.kr),"국세청 고시·공고·행정예고 > 고시 게시판(mi=2205&bbsId=1120)에 HTTP 200으로 실제 접근 확인(2026-09-20). 최근 게시물 10건(2026-09-17자 4건 포함, 가장 최신 '자료집중기관 지정 고시' 국세청 고시 제2026-31호부터 '현금영수증사업자가 지켜야 할 사항 고시'까지) 중 가상자산 관련 고시(시가고시·가상자산사업자 지정 고시)는 없다",observation,https://www.nts.go.kr/nts/na/ntt/selectNttList.do?mi=2205&bbsId=1120#recon-2026-09-20
+s9,국세청,"국세청 해외금융계좌 신고제도 안내(2026-10-04 열람) — 미신고 과태료 10%(한도 10억원), 50억원 초과 시 명단공개·형사처벌, 신고포상금 최고 20억원",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7819&mi=2513#sanctions-reward-2026-10-04
+s10,국제조세조정에 관한 법률 시행령,국제조세조정에 관한 법률 시행령 제147조① — 해외금융계좌 미신고 과태료는 '금액×10%'와 '10억원' 중 적은 금액,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283629&type=JSON#article147-1
+s11,국가법령정보센터 — 소득세법 부칙(법률 제17757호),"소득세법 부칙(법률 제17757호, 2020-12-29) 제5조① — 가상자산 과세 적용례: 제21조제1항제27호·제37조제1항제3호·제5항·제6항 등은 2027년 1월 1일 이후 가상자산을 양도·대여하는 분부터 적용",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON#addendum-17757-art5-crypto-application
+s12,국세청,"국세청 「거주자의 가상자산소득 과세 개요」 — 시행일 2027-01-01, 세율 20%, 기본공제 250만원, 총평균법, 2026-12-31 시가 의제, 필요경비 의제 최대 50%",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40370&cntntsId=238935
+s13,finyul-datacollector — 발의안 현황,"2026-09-29 기준 22대 국회에 가상자산 과세 유예 소득세법 개정안 3건(정성국·김상훈·김재섭)이 재정경제기획위원회 계류 — 처리결과 없음, 본문 미확인",observation,https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn?AGE=22&BILL_NAME=%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95#observed-2026-09-29

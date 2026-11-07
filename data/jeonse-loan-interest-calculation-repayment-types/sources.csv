@@ -1,0 +1,17 @@
+﻿id,publisher,title,type,url
+s1,한국주택금융공사,"한국주택금융공사 전세대출금리 안내(주별) — HF 보증 전세대출 은행별 평균금리, 취급기간 2026-10-12~10-18",dataset,https://www.hf.go.kr/ko/sub02/sub02_01_07_01.do
+s2,한국주택금융공사,한국주택금융공사 일반전세자금보증 — 임차보증금별 기준보증료율·보증한도,filing,https://www.hf.go.kr/ko/sub02/sub02_01_02.do
+s3,주택도시보증공사(HUG),"HUG 전세안심대출 금리 안내 — HUG 보증 전세안심대출 은행별 금리, 취급기간 2026-09-01~09-30",dataset,https://www.khug.or.kr/hug/web/ig/dl/igdl000005.jsp
+s4,주택도시보증공사(HUG),HUG 전세금안심대출보증 상품개요 — 보증료 산식과 보증비율,filing,https://www.khug.or.kr/hug/web/ig/dl/igdl000001.jsp
+s5,주택도시기금(국토교통부),주택도시기금 버팀목전세자금 상품안내 — 대출금리·한도·상환방법,filing,https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05020101.jsp
+s6,한국은행 ECOS,한국은행 기준금리(722Y001) 2026-06~2026-10-22 — ECOS 오픈API 조회,dataset,https://ecos.bok.or.kr/#/SearchStat
+s7,금융위원회,금융위원회 보도자료(2025-10-15) 「주택시장 안정화 대책」 관련 긴급 가계부채 점검회의 — 1주택자 전세대출 DSR 적용,filing,https://www.fsc.go.kr/no010101/85432
+s8,헤럴드경제(미주),무주택자 고액 전세대출도 DSR 적용 검토 (2026-02-12),news,https://www.heraldk.com/article/2026021218092220488
+s9,아주경제(다음 뉴스),[하반기 경제성장전략] 전세대출보증 줄이고 DSR 넓힌다…부동산-금융 절연 본격화 (2026-07-14),news,https://v.daum.net/v/GoyttpFYhu?f=p
+s10,삼성화재(전세자금대출 상품설명서),삼성화재 전세자금대출 상품설명서 — 중도상환수수료 산식·인지세 분담표 (보험회사 취급 전세대출),filing,https://m.samsungfire.com/download/loan/guide_rent.pdf#page=4
+s11,삼성화재(전세자금대출 상품설명서),삼성화재 전세자금대출 상품설명서 — 상환방법별(만기 일시상환 포함) 원리금 부담 예시,filing,https://m.samsungfire.com/download/loan/guide_rent.pdf#page=8
+s12,법제처 국가법령정보센터(인지세법),인지세법 제3조(과세문서 및 세액) — 금융기관과의 금전소비대차 증서 인지세액,filing,https://www.law.go.kr/법령/인지세법/제3조
+s13,법제처 국가법령정보센터(금융소비자 보호에 관한 법률),금융소비자 보호에 관한 법률 제20조(불공정영업행위의 금지) — 특정 대출 상환방식 강요 금지,filing,https://www.law.go.kr/법령/금융소비자보호에관한법률/제20조
+s14,하나은행(은행여신거래기본약관),하나은행 은행여신거래기본약관(2021.03 개정) — 이자 계산·변동금리 선택·연체 일할계산,filing,https://biz.kebhana.com/cont/download/file/pdf_210304_021.pdf
+s20,주택도시기금(국토교통부),"버팀목전세자금 대출대상·한도·중도상환수수료 세부(같은 페이지 하단, 반대 증거: 신혼·2자녀 한도 2.5억, 소득 예외, 중도상환수수료 없음)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05020101.jsp#detail
+s21,MTN 머니투데이방송,"[가계부채 추가대책] 주담대·전세대출 분할상환 확대 — 의무 아님, 은행 인센티브(2021-10-25)",news,https://news.mtn.co.kr/news-detail/2021102515532886440

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 510" role="img" aria-label="부정행위면 40%, 아니면 10%, 종합소득세 신고서를 기한까지 낸 뒤 빨리 수정신고할수록 두 가산세 모두 줄어든다" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<defs><marker id="fyArrowTax" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#254a75"/></marker></defs>
+<rect x="60" y="8" width="280" height="34" fill="#f2f6fb" stroke="#254a75" stroke-width="1.5"/>
+<text x="200" y="31" font-size="15" fill="#282d35" text-anchor="middle">기준을 넘은 가족을 공제했다</text>
+<path d="M200 42 L200 58" stroke="#254a75" stroke-width="1.5" fill="none" marker-end="url(#fyArrowTax)"/>
+<path d="M200 60 L325 105 L200 150 L75 105 Z" fill="#ffffff" stroke="#254a75" stroke-width="1.5"/>
+<text x="200" y="111" font-size="15" fill="#282d35" text-anchor="middle">부정행위로 줄였나요?</text>
+<path d="M75 105 L75 172" stroke="#b4532a" stroke-width="1.5" fill="none" marker-end="url(#fyArrowTax)"/>
+<path d="M325 105 L325 172" stroke="#254a75" stroke-width="1.5" fill="none" marker-end="url(#fyArrowTax)"/>
+<text x="83" y="145" font-size="15" fill="#b4532a">예</text>
+<text x="333" y="145" font-size="15" fill="#254a75">아니오</text>
+<rect x="5" y="176" width="140" height="58" fill="#ffffff" stroke="#b4532a" stroke-width="1.5"/>
+<text x="75" y="200" font-size="15" font-weight="700" fill="#b4532a" text-anchor="middle">부정행위 40%</text>
+<text x="75" y="221" font-size="15" fill="#282d35" text-anchor="middle">역외거래면 60%</text>
+<rect x="255" y="176" width="140" height="58" fill="#f2f6fb" stroke="#254a75" stroke-width="1.5"/>
+<text x="325" y="200" font-size="15" font-weight="700" fill="#254a75" text-anchor="middle">그 밖에는 10%</text>
+<text x="325" y="221" font-size="15" fill="#282d35" text-anchor="middle">(제47조의3)</text>
+<path d="M75 234 L75 252 L325 252 L325 234" stroke="#254a75" stroke-width="1.5" fill="none"/>
+<path d="M200 252 L200 261" stroke="#254a75" stroke-width="1.5" fill="none" marker-end="url(#fyArrowTax)"/>
+<path d="M200 265 L380 330 L200 395 L20 330 Z" fill="#ffffff" stroke="#254a75" stroke-width="1.5"/>
+<text x="200" y="316" font-size="15" fill="#282d35" text-anchor="middle">종합소득세 신고서를</text>
+<text x="200" y="336" font-size="15" fill="#282d35" text-anchor="middle">기한까지 낸 뒤 스스로</text>
+<text x="200" y="356" font-size="15" fill="#282d35" text-anchor="middle">수정신고했나요?</text>
+<path d="M200 395 L200 417" stroke="#254a75" stroke-width="1.5" fill="none" marker-end="url(#fyArrowTax)"/>
+<text x="210" y="412" font-size="15" fill="#254a75">예</text>
+<rect x="40" y="421" width="320" height="48" fill="#f2f6fb" stroke="#254a75" stroke-width="1.5"/>
+<text x="200" y="445" font-size="15" font-weight="700" fill="#254a75" text-anchor="middle">40%·10% 모두 빠를수록 줄어요</text>
+<text x="200" y="466" font-size="15" fill="#282d35" text-anchor="middle">1개월 이내 90% ~ 2년 이내 10% 감면</text>
+<rect x="40" y="477" width="320" height="26" fill="#ffffff" stroke="#6f7783" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="200" y="495" font-size="15" fill="#6f7783" text-anchor="middle">납부지연가산세 하루 0.022%는 따로</text>
+</svg>

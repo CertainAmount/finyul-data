@@ -1,0 +1,9 @@
+﻿id,publisher,title,type,url
+s1,국가법령정보센터(소득세법 시행령),소득세법 시행령 제40조의2제4항 — '연금수령연차'의 정의(연금수령한도 계산용): 최초로 '연금수령할 수 있는 날'이 속하는 과세기간을 기산연차로 함,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML#article40-2-4-yeongeumsuryeongyeoncha
+s2,국가법령정보센터(소득세법 시행령),소득세법 시행령 제187조의3제1항 — '연금 실제 수령연차'의 정의(세율 감면용): 최초로 '연금을 수령한 날'이 속하는 과세기간을 기산연차로 함,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML#article187-3-1-siljesuryeongyeoncha
+s3,"국가법령정보센터(소득세법 시행령 제40조의2, 국민건강보험공단 법령정보 미러)",연금수령한도 계산식은 연금수령연차 11년차부터 아예 적용되지 않는다,observation,https://www.nhis.or.kr/lm/lmxsrv/law/lawLinkContentView.do?SEQ=393&LINKCODE=c004000200
+s4,국가법령정보센터(소득세법),"소득세법 제129조제1항제5호의3 — 퇴직소득을 연금수령하는 경우 원천징수세율(실제수령연차 10년 이하 70%, 10년 초과~20년 이하 60%, 20년 초과 50%)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article129-1-5-3
+s5,KB국민은행 KBthink 퇴직연금 세금 가이드,KB국민은행 공식 가이드도 연금 실제수령연차별 감면율을 1~10년차 30%·11~20년차 40%·21년차 이상 50%로 설명 (기산일 정의는 다루지 않음),news,https://kbthink.com/retirement-pension/tax.html
+s6,"국가법령정보센터(소득세법 시행령 제40조의2, 국민건강보험공단 법령정보 미러 — 전문판)","소득세법 시행령 제40조의2제4항 각호 — 연금수령연차 기산연차에는 두 가지 법정 예외가 있다 (2013.3.1 이전 가입 계좌 6년차 기산, 상속 승계 시 피상속인 연차 승계)",observation,https://www.nhis.or.kr/lm/lmxsrv/law/lawFullView.do?SEQ=393&SEQ_HISTORY=27832
+s7,"기획재정부 소득세제과-431 (유권해석, casenote.kr 경유 확인)","최초로 연금수령 할 수 있는 날이 속하는 과세기간의 의미 (기획재정부 소득세제과-431, 2016.11.1)",filing,https://casenote.kr/%EA%B8%B0%ED%9A%8D%EC%9E%AC%EC%A0%95%EB%B6%80/%EA%B8%B0%ED%9A%8D%EC%9E%AC%EC%A0%95%EB%B6%80-%EC%86%8C%EB%93%9D%EC%84%B8%EC%A0%9C%EA%B3%BC-431-673e3f
+s8,국세청,"사적연금 1,500만원 초과분 분리과세 세율, 국세청 안내문 표기와 다른 자료의 표기가 다르다",observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6608&cntntsId=7888

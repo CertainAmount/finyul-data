@@ -1,0 +1,14 @@
+﻿id,publisher,title,type,url
+s1,"법제처 국가법령정보센터(금융소비자 보호에 관한 감독규정, 고시 제2024-36호 부칙)","감독규정 제2024-36호(2024-07-12 발령, 2025-01-13 시행) 부칙 제2조 적용례: 제14조제6항제9호는 시행 이후 체결(갱신 포함) 계약부터 적용",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000244210&type=XML
+s2,KB국민은행 KB Think 중도상환수수료 안내,"KB국민은행 중도상환수수료: 잔존일수/대출기간(3년 초과 시 3년), 3년 경과 후 0, 부동산담보 연 10% 이내 상환분 면제",filing,https://kbthink.com/loan-guide/prepayment.html
+s3,법제처 국가법령정보센터(금융소비자 보호에 관한 법률 시행령),금융소비자 보호에 관한 법률 시행령 제15조 제1항(법 제20조제1항제4호나목3)의 대통령령 예외),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285715&type=XML
+s4,하나은행 중도상환수수료 안내,"하나은행 중도상환수수료 산식: 상환액 x 수수료율 x (중도상환약정잔여일수 / 중도상환약정기간), 최장 3년",filing,https://www.kebhana.com/efamily/ex/loan/inform/inform1/index.jsp
+s5,금융위원회 보도자료,[보도자료] 1월 13일(월) 신규 대출부터 중도상환수수료율이 인하됩니다 (2025-01-09),filing,https://www.fsc.go.kr/no010101/83833#press-release-body-read
+s6,"법제처 국가법령정보센터(금융소비자 보호에 관한 감독규정, 금융위원회 고시)","금융소비자 보호에 관한 감독규정 제14조 제6항 제9호(계약 변경·해지 시 금전 요구: 유지기간 합산 3년, 인정 대출계약비용)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285608&type=XML
+s7,법제처 국가법령정보센터(금융소비자 보호에 관한 법률),금융소비자 보호에 관한 법률 제20조 제1항 제4호 나목(중도상환수수료 부과 금지와 3년 이내 예외),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277247&type=XML
+s8,"법제처 국가법령정보센터(금융소비자 보호에 관한 감독규정, 직전 시행본 2026-04-02)","감독규정 직전 시행본(2026-04-02) 제14조 대조: 2026-10-02 시행본과 제6항 제9호 실질 문언 동일, 차이는 표기·들여쓰기뿐",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000276850&type=XML
+s9,금융위원회 정책마당,2026년 새해부터 달라지는 금융제도 (2025-12-30) - 상호금융권 중도상환수수료 개편 2026-01-01 시행,filing,https://fsc.go.kr/po010101/85970
+s10,금융위원회 보도자료,"중도상환수수료율 인하 보도자료(2025-01-09)는 '5대 시중은행 평균'과 '은행권 전체 평균' 두 가지 다른 모집단의 수치를 각각 제시하는데, 상단 요약문과 본문 표의 숫자가 다르다",filing,https://www.fsc.go.kr/no010101/83833
+s11,전국은행연합회 소비자포털(대출수수료 비교공시 용어설명),은행연합회 소비자포털: 중도상환수수료 계산방법 = 상환금액 × 수수료율 × 대출잔여일수/대출기간 (적용기간이 대출기간보다 짧으면 적용기간을 대출기간으로 간주),filing,https://portal.kfb.or.kr/compare/commission_loan.php#term-explanation
+s12,한국주택금융공사 보금자리론 자주 하는 질문,"한국주택금융공사 FAQ: 보금자리론 중도상환수수료 = 중도상환원금 x 수수료율 x (3년-경과기간)/3년, 2025.4.1. 이후 대출 3년 이내 최대 0.5%",filing,https://www.hf.go.kr/ko/sub01/sub01_07_01.do?mode=list&pagerLimit=10&pager.offset=70#prepayment-fee-faq
+s13,금융위원회 보도자료(정책브리핑 korea.kr 게재),"농협중앙회·수협중앙회·산림조합중앙회 중도상환수수료 인하 - 2026년 1월 1일부터 (금융위원회, 2025-10-24)",filing,https://www.korea.kr/multi/visualNewsView.do?newsId=148952967

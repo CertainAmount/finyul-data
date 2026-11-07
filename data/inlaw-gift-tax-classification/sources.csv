@@ -1,0 +1,14 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 상속세 및 증여세법 제53조,상증세법 제53조(증여재산 공제) 전문 — 배우자 6억/직계존속 5천만(미성년 2천만)/직계비속 5천만/기타친족 1천만 4단계 공제 한도,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML&JO=005300
+s2,,국세청 증여세 세액계산 흐름도 — 증여재산공제(배우자 6억/직계 5천만원·미성년자 2천만원/기타친족 1천만원)와 세율표 직접 확인,observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2340&cntntsId=7728
+s3,법제처 국가법령정보센터 - 상속세 및 증여세법 제53조의2,"상증세법 제53조의2(혼인·출산 증여재산 공제) 전문 — 적용대상이 '거주자가 직계존속으로부터' 받는 경우로 한정, 며느리·사위는 문언상 제외",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML&JO=005302
+s4,,"국세청 국세상담센터 Q&A — 혼인·출산 증여재산공제는 2024.1.1 이후 증여분부터, 혼인·출산 합산 평생 1억원 한도로 직접 확인",observation,https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=2787&ctgId=CTG12222
+s5,법제처 국가법령정보센터 - 상속세 및 증여세법 제·개정이유,2025.3.14 일부개정(법률 제20777호) 이유 — 기타친족 증여공제 범위를 '6촌 이내 혈족·4촌 이내 인척'에서 '4촌 이내 혈족·3촌 이내 인척'으로 축소,filing,https://www.law.go.kr/LSW/lsRvsRsnListP.do?lsId=001561&lsRvsGubun=all&chrClsCd=010102
+s6,법제처 국가법령정보센터 - 민법,"민법 제768조(혈족의 정의) — '직계비속' 법정 정의 원문 접근 확인, 후보1 근거",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284415&type=XML#article768
+s7,법제처 국가법령정보센터 - 민법 제769조,민법 제769조(인척의 계원) 전문 — 인척은 혈족의 배우자·배우자의 혈족·배우자의 혈족의 배우자로 정의됨(모두 '배우자'를 매개로 성립),filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284415&type=XML&JO=076900
+s8,법제처 국가법령정보센터 - 민법 제812조,민법 제812조(혼인의 성립) 전문 — 혼인은 가족관계등록법이 정한 신고로써만 효력이 생김(사실혼은 이 신고가 없는 상태),filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284415&type=XML&JO=081200
+s9,네플라(nepla.ai) 위키 - 사실혼의 법적 효과,"사실혼의 법적 효과 정리 — 혼인신고를 전제로 하는 효과(친족관계·인척관계 발생, 상속권, 중혼 금지, 성년의제) 중 '① 친족관계 및 인척관계가 발생하지 않고'가 사실혼에는 적용되지 않는다고 명시",filing,https://www.nepla.ai/wiki/%EA%B0%80%EC%A1%B1%EA%B3%BC-%EC%95%84%EB%8F%99-%EC%B2%AD%EC%86%8C%EB%85%84/%EA%B0%80%EC%A1%B1-%EC%9D%B4%ED%98%BC/%EC%82%AC%EC%8B%A4%ED%98%BC%EC%9D%98-%EB%B2%95%EC%A0%81-%ED%9A%A8%EA%B3%BC-rv5n72kvg8zm
+s10,국가법령정보센터 — 소득세법 제97조의2,소득세법 제97조의2(이월과세)는 적용대상을 '배우자 또는 직계존비속'으로부터 증여받은 자산으로 한정 — 며느리·사위(기타친족)로부터·에게 증여한 자산의 양도는 이 이월과세 규정 적용대상이 아님,filing,https://www.law.go.kr/LSW//lsLawLinkInfo.do?lsJoLnkSeq=1000664749&lsId=001565&chrClsCd=010202&print=print
+s11,헤럴드경제(이세상),"""며느리·사위에 주택구입비 나눠 증여해 절세하세요"" [이세상]",news,https://biz.heraldcorp.com/article/10468494
+s12,"국세청 예규(재삼46014-1522, 1994.6.8) — CaseNote 재수록",며느리가 시아버지로부터 증여받는 경우 증여재산공제액 계산 — 며느리=기타친족(배우자·직계존비속 외) 분류가 1994년부터 일관됨을 보여주는 옛 예규,filing,https://casenote.kr/%EA%B5%AD%EC%84%B8%EC%B2%AD/%EC%9E%AC%EC%82%BC46014-1522-4b8a8d
+s13,법제처 국가법령정보센터 - 국세기본법 제14조(실질과세),국세기본법 제14조 제3항 — 제3자를 통하거나 둘 이상의 거래를 거쳐 세법의 혜택을 부당하게 받으려는 것으로 인정되면 경제적 실질에 따라 직접 거래·하나의 거래로 보아 과세,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289999&type=XML&JO=001400

@@ -1,0 +1,14 @@
+﻿id,publisher,title,type,url
+s1,국가법령정보센터 — 상속세 및 증여세법,상속세 및 증여세법 제65조(그 밖의 조건부 권리 등의 평가) 2항 — 가상자산 평가 근거 조문,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML&JO=006500
+s2,재정경제부(기획재정부),「2026년 세제개편안」 정부안 확정 (2026.9.1. 국무회의 의결 보도자료 및 첨부 수정사항),filing,https://www.mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032613&fileSn=2
+s3,국가법령정보센터 — 상속세 및 증여세법 시행령,상속세 및 증여세법 시행령 제60조(유가증권 등의 평가) 2항 — 가상자산 시가 산정 방법(가상자산사업자 공시 일평균가액 평균 등),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288887&type=XML&JO=006000
+s4,국가법령정보센터 — 소득세법 시행령,소득세법 시행령 제163조(양도자산의 필요경비) 9항 — 상속·증여받은 자산의 취득가액은 상증세법 평가액으로 본다는 일반원칙(양도소득 챕터 한정),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=016300
+s6,세정일보,"국세청, 두나무·빗썸·코빗 등 5개사…3년주기 가상자산사업자 고시 스트리미 추가",news,https://www.sejungilbo.com/news/articleView.html?idxno=51044
+s7,비즈워치,"가상자산 편법 상속·증여 ""꼼짝마""…개인지갑 신고 의무화 (2024-10-30, 안도걸 의원 등 10인 발의 상증세법 개정안)",news,https://news.bizwatch.co.kr/article/mobile/2024/10/30/0018
+s8,,"국세청 '가상자산사업자 거래자료 제출' 페이지 — 개인 신고분 자료는 2027-01-01 거래분부터, 법인세 관련 자료는 이미 2023-01-01 거래분부터 제출 의무가 시작돼 두 기준일이 다르다",observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40372&cntntsId=238937
+s9,재정경제부,"2026년 세제개편안 상세본(재정경제부, 2026-08-03) — 가상자산 관련 항목은 상속·증여세 조사 대상 확대(상증법 §83·§84)뿐, 가상자산 소득과세 유예·연기 조항 없음",filing,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#p200-%EA%B0%80%EC%83%81%EC%9E%90%EC%82%B0-%EC%83%81%EC%86%8D%EC%A6%9D%EC%97%AC%EC%84%B8%EC%A1%B0%EC%82%AC
+s10,디지털애셋,"[가상자산 법안] ③ 국회 기재위, '외국환거래법' '상속·증여세법' 등 가상자산 관련 법안 4건 (2025-01-30)",news,https://www.digitalasset.works/news/articleView.html?idxno=26114
+s11,법제처 국가법령정보센터,"소득세법 제37조(기타소득의 필요경비 계산) — 가상자산 실제취득가액 원칙, 2026-12-31 시가 의제, 필요경비 의제 비율 100분의 50 이하 위임",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=003700
+s12,법제처 국가법령정보센터,"소득세법 시행령 제88조(가상자산에 대한 기타소득금액의 계산 등) — 총평균법, 2026-12-31 시가 산정 방법, 실제취득가액 확인곤란 사유, 필요경비 의제 비율 100분의 50 확정",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=008800
+s13,법제처 국가법령정보센터 — 행정규칙 검색('가상자산'),"법제처 행정규칙 검색 '가상자산'(2026-10-04) — 국세청 고시는 '가상자산 평가를 위한 가상자산사업자 고시'(국세청고시 제2024-37호) 1건, 기타소득금액 계산 고시는 검색되지 않음",filing,https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=admrul&type=XML&display=100&query=%EA%B0%80%EC%83%81%EC%9E%90%EC%82%B0
+s14,열린국회정보 — 의안정보(22대),"2026-10-15 재조회 — 안도걸 등 10인 상속세 및 증여세법 개정안은 의안 2204937(2024-10-28 발의), 의안 2204960은 법인세법 개정안. 2204937은 재정경제기획위원회 상정(2024-11-13) 뒤 처리결과 없음",filing,"https://open.assembly.go.kr/portal/openapi/BILLINFODETAIL#observed-2026-10-15-BILL_NO=2204937,2204960"

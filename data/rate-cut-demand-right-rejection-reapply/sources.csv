@@ -1,0 +1,11 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 은행법,"은행법 제30조의2(금리인하 요구) 전문 — 신용상태 개선 시 요구권(①), 은행의 사전 고지의무(②), 요건·절차는 대통령령 위임(③)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282001&type=XML#article30-2-geumri-inha-yogu
+s2,법제처 국가법령정보센터 - 은행법 시행령,"은행법 시행령 제18조의4(금리인하 요구) 전문 — 요건(개인/비개인 구분), 수용여부 판단 고려사항, 10영업일 통지의무·자료보완기간 제외",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=287003&type=XML#article18-4-geumri-inha-yogu
+s3,법제처 찾기쉬운 생활법령정보,금리인하요구권 (은행법 제30조의2·시행령 제18조의4·은행업감독규정 제25조의4 전용 FAQ),observation,https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1771&ccfNo=1&cciNo=2&cnpClsNo=4
+s4,법제처 국가법령정보센터 - 은행법,"은행법 제2조제7호(정의) — '신용공여'는 대출·지급보증·유가증권 매입 등 신용위험이 따르는 모든 거래를 포괄, 특정 대출상품(전세자금대출 등)을 배제하는 규정 없음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282001&type=XML#article2-7-sinyonggongyeo
+s5,법제처 국가법령정보센터 - 은행업감독규정(금융위원회고시),"은행업감독규정 제25조의4(금리인하 요구 등) 전문 — 수용여부 판단기준 2가지, 자료제출요구권, 홈페이지 안내의무, 기록보관의무",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000276094&type=XML#article25-4-geumri-inha-yogu-deung
+s6,KB국민은행 (공식 안내 페이지),KB국민은행 '대출금리 인하요구권' 안내 — 신청시기 및 횟수제한 없음,filing,https://obank.kbstar.com/quics?page=C028131
+s7,금융위원회 보도자료,"소비자 안내를 강화하고 공시를 개선하는 등 금리인하요구제도의 실효성을 제고하겠습니다(2023-02-09) — 가계/기업 세부항목별 공시 확대, 중복신청 제외 규정",news,https://www.fsc.go.kr/edu/news/79466
+s8,법제처 국가법령정보센터 - 은행업감독업무시행세칙(금융감독원 세칙),"은행업감독업무시행세칙(2026-06-26 발령, 2026-06-30 시행) 전문 대조 — '금리인하' 언급은 공시 규정(제70조의2④·공시기준 제4장·붙임3)뿐, 재신청 시점·횟수·중복신청 문구 없음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2200000108789&type=XML#geumri-inha-scan-20261004
+s9,금융위원회 보도자료,"금융위 2023-02-09 보도자료 — 중복신청 제외 공시 적용 시점('22년 하반기 기준 공시, '23.2월말)과 중복신청 건수 산출 기준 원문",filing,https://www.fsc.go.kr/edu/news/79466#apply-from-2022h2
+s10,경남은행 (공식 안내 페이지),"경남은행 금리인하요구권제도안내 — 요구 대상이 아닌 대출 상품(예·적금 담보대출, 집단대출, 정책자금대출, 지급보증 등) 명시",filing,https://m.knbank.co.kr/ib20/mnu/MBWCSC090100000

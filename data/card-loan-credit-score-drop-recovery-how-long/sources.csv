@@ -1,0 +1,16 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 — 여신전문금융업감독규정(금융위원회고시 제2026-17호),여신전문금융업감독규정 제2조 제1항 제3호 나목 — 카드대출자산은 단기카드대출(현금서비스)과 장기카드대출(카드론),filing,https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EC%97%AC%EC%8B%A0%EC%A0%84%EB%AC%B8%EA%B8%88%EC%9C%B5%EC%97%85%EA%B0%90%EB%8F%85%EA%B7%9C%EC%A0%95/%EC%A0%9C2%EC%A1%B0
+s2,NICE평가정보,"NICE 개인신용평점 활용정보 수집처·활용기간 — 현재부채수준(대출·보증·카드실적)은 '기간제한없음', 관련법령이 지정하는 기간까지 영향",filing,https://www.niceinfo.co.kr/creditrating/cb_score_1_4_2.nice#debt-level-usage-period
+s3,KCB(올크레딧) 개인신용평가체계 공시 (2024.04.01) 7쪽 상환이력,KCB 개인신용평가체계 공시 7쪽 — 연체 상환 후 평점은 즉시 회복되지 않고 시간 경과에 따라 서서히 상승(연체 한정 설명),filing,https://www.allcredit.co.kr/down/KCB_Credit_Evaluation_System.pdf#p7-repayment-recovery
+s4,금융감독원 금융소비자 정보포털 파인(fine.fss.or.kr),"금감원 파인 '신용정보조회' — NICE·KCB 신용평점 무료조회(1년 3회), 조회해도 신용평점에 영향 없음",filing,https://fine.fss.or.kr/main/prc/lo/sub/lo007.jsp?menuNo=900291
+s5,KCB(올크레딧) 개인신용평가체계 공시 (2024.04.01) 4쪽 부채수준,"KCB 개인신용평가체계 공시 4쪽 — 부채수준: 보유대출 상환은 긍정, 단기카드대출 잔액 증가는 부정",filing,https://www.allcredit.co.kr/down/KCB_Credit_Evaluation_System.pdf#p4-debt-level
+s6,금융감독원 보도자료(KDI 경제교육·정보센터 게시본 R2311175.pdf),금감원 보도자료 2023.11.3 조간(배포 11.2) '23년 상반기 주요 민원사례로 알아보는 소비자 유의사항 - 개인신용평가관리 관련 유의사항 -' (PDF 7쪽 직접 열람),filing,https://eiec.kdi.re.kr/policy/materialView.do?num=244301
+s7,금융감독원 보도자료(KDI 경제교육·정보센터 게시본),"금감원 보도자료 2018.11.16 개인신용평가 민원동향 및 주요 민원사항 Q&A (HWP, 신용등급 시대)",filing,https://eiec.kdi.re.kr/policy/materialView.do?num=182455
+s8,쿠키뉴스,"쿠키뉴스 2023-11-02 — 금감원 '고금리 대출 받으면 신용점수 하락…신중히 결정해야' (금감원 소비자 유의사항 인용, 금감원 원문 미확인)",news,https://www.kukinews.com/article/view/kuk202311020140
+s9,금융위원회 보도자료(금융데이터정책과),금융위원회 보도자료(2019-06-24) 6.25일부터 상호금융·보험·카드·캐피탈 회사 대출 이용 소비자의 개인신용평가상 불이익 완화 — 업권별 대출 시 하락폭과 개선 내용,filing,https://www.fsc.go.kr/po010103/73750
+s10,SBS Biz,SBS Biz 2023-11-03 '대출 잘 갚았는데… 나만 신용 회복 안되는 이유?' — 금감원 안내 전달,news,https://biz.sbs.co.kr/amp/article/20000142454
+s11,KCB(올크레딧) 개인신용평가체계 공시 (2024.04.01) 5쪽 신용거래형태,"KCB 개인신용평가체계 공시 5쪽 — 신용거래형태: 대출은 업권·상품속성·금리수준에 따라 위험 차등, 단기카드대출 빈번 이용은 부정",filing,https://www.allcredit.co.kr/down/KCB_Credit_Evaluation_System.pdf#p5-credit-form
+s12,KCB(올크레딧),KCB 개인신용평가체계 공시 (2024.04.01),filing,https://www.allcredit.co.kr/down/KCB_Credit_Evaluation_System.pdf
+s13,NICE평가정보,"NICE 개인신용평점 주요 평가요소 — 대출 발생·잔액·상환·현금서비스 변동 요인, 조회정보 미활용",filing,https://www.niceinfo.co.kr/creditrating/cb_score_1_4_1.nice
+s14,KCB(올크레딧) 개인신용평가체계 공시 (2024.04.01) 9쪽 신용조회정보,"KCB 개인신용평가체계 공시 9쪽 — 신용조회기록은 평가에 활용하지 않음, 고금리 대출 비중이 클수록·여러 금융회사 대출 보유 시 부정",filing,https://www.allcredit.co.kr/down/KCB_Credit_Evaluation_System.pdf#p9-inquiry-not-used
+s15,KCB(올크레딧) 개인신용평가체계 공시 (2024.04.01) 8쪽 현재부채수준 정보유형,"KCB 개인신용평가체계 공시 8쪽 — 대출정보 활용기간: 대출계좌 해지 후 5년, 대출금 상환 이력은 최근 1년",filing,https://www.allcredit.co.kr/down/KCB_Credit_Evaluation_System.pdf#p8-debt-info-period

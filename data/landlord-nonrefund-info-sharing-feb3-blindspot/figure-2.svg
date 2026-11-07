@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 192" role="img" aria-label="2월 3일부터 10월 1일까지 날짜 간격대로 놓은 시간축" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<line x1="30" y1="95" x2="370" y2="95" stroke="#6f7783" stroke-width="2"/>
+<circle cx="30" cy="95" r="8" fill="#254a75"/>
+<circle cx="336" cy="95" r="5" fill="#6f7783"/>
+<circle cx="356" cy="95" r="5" fill="#6f7783"/>
+<circle cx="370" cy="95" r="8" fill="#b4532a"/>
+<line x1="30" y1="58" x2="30" y2="86" stroke="#6f7783"/>
+<text x="30" y="30" font-size="15" fill="#282d35" font-weight="700">2월 3일</text>
+<text x="30" y="50" font-size="15" fill="#282d35">공유 근거 시행</text>
+<line x1="336" y1="68" x2="336" y2="90" stroke="#6f7783"/>
+<text x="336" y="60" font-size="15" fill="#282d35" text-anchor="end">9/7 보도자료</text>
+<line x1="356" y1="100" x2="356" y2="128" stroke="#6f7783"/>
+<text x="356" y="146" font-size="15" fill="#282d35" text-anchor="end">9/21 앱 조회 예고</text>
+<line x1="370" y1="103" x2="370" y2="164" stroke="#6f7783"/>
+<text x="370" y="182" font-size="15" fill="#282d35" text-anchor="end" font-weight="700">10월 1일 보증금지 시행 예정</text>
+</svg>

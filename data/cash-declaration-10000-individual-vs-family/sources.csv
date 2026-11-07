@@ -1,0 +1,12 @@
+﻿id,publisher,title,type,url
+s1,U.S. Customs and Border Protection (CBP),"CBP: Money and Other Monetary Instruments — $10,000 threshold applies per family/group, not per individual",filing,https://www.cbp.gov/travel/international-visitors/money-monetary-instruments
+s2,관세청,"관세청 출·입국 외환신고 안내 — 신고 주체는 '거주자나 비거주자'(개인) 단위, 가족·동반자 합산 규정 없음",filing,https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=8458&cntntsId=2808#%EA%B0%9C%EC%9D%B8%EB%B3%84-1%EB%A7%8C%EB%B6%88-%EA%B8%B0%EC%A4%80
+s3,미주 한국일보,"출입국시 현금 1만달러 신고, 미국은 가족 합산·한국은 개인 기준",news,http://seattle.koreatimes.com/article/20220717/1424327
+s4,법제처 국가법령정보센터,현행 외국환거래규정 제4-8조 — 국세청·관세청·금융감독원 통보 기준선 연 1만불의 근거 조문,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000281984&type=HTML
+s5,법제처 국가법령정보센터,외국환거래법 제21조(국세청장 등에게의 통보 등)·제32조(과태료) — 통보와 과태료의 상위 법률 근거,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276137&type=JSON
+s6,법제처 국가법령정보센터,외국환거래법 시행령 [별표 4] 과태료 부과기준 — '100만원과 위반금액의 100분의 2 중 큰 금액'의 원문 근거,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285607&type=JSON
+s7,관세청 훈령 (법제처 국가법령정보센터 경유),"[4순위 확보분] 「외국환거래의 검사 및 제재에 관한 훈령」(관세청 훈령 제2475호, 시행 2026-04-13) — 통보·자료분석 이후의 실제 절차",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000277286&type=JSON
+s8,법제처 국가법령정보센터,"외국환거래규정 제6-2조제2항제2호 — 국민인 거주자가 미화 1만불 초과 지급수단을 휴대수출하는 경우 신고 (재정경제부고시 제2026-103호, 2026-09-16 시행)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285140&type=XML#%EC%A0%9C6-2%EC%A1%B0
+s9,법제처 국가법령정보센터,외국환거래법 제17조·시행령 제31조 — 지급수단 수출입 신고의 위임 구조 (2026-10-04 열람),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285607&type=XML#%EC%A0%9C31%EC%A1%B0
+s10,법제처 국가법령정보센터,"특정경제범죄 가중처벌 등에 관한 법률 제4조제1항 — 재산국외도피의 죄 (시행 2018-03-20, 2026-10-04 현행)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=199773&type=XML#%EC%A0%9C4%EC%A1%B0
+s11,Cornell Legal Information Institute (31 U.S.C. § 5324),31 U.S.C. § 5324(c) — 국제 통화·증권 반출입 신고(§5316) 회피 목적의 구조화 금지,filing,https://www.law.cornell.edu/uscode/text/31/5324

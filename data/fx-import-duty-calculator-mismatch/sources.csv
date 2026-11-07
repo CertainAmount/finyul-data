@@ -1,0 +1,8 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 관세법,관세법 제18조(과세환율) 전문 — 과세가격 환산 시 결제일이 아니라 수입신고일이 속한 주의 전주(前週) 기준환율·재정환율 평균을 관세청장이 정함,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288689&type=XML#article18
+s2,법제처 국가법령정보센터 - 관세법 시행령,관세법 시행령 제288조(권한 또는 업무의 위임·위탁) 제3항제1호·제6호 — 관세청장이 '법 제18조에 따른 과세환율의 결정' 권한을 관세평가분류원장에게 위임,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283621&type=XML#article288-3
+s3,법제처 국가법령정보센터 — 관세청고시(특송물품 수입통관 사무처리에 관한 고시),"특송물품 수입통관 사무처리에 관한 고시 제9조(신고구분) — 자가사용물품 면세(목록통관) 기준 미화 150달러(미국발 200달러), 간이신고 2,000달러 이하, 초과 시 일반수입신고",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000269938&type=XML#article9
+s4,법제처 국가법령정보센터 — 관세법 시행규칙,"관세법 시행규칙 제45조(관세가 면제되는 소액물품) 제2항제1호 — 미화 150달러 이하 자가사용 물품 면세, 반복·분할 수입은 관세청장이 정하는 기준에 따라 제외",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288525&type=XML#article45-2-1
+s5,법제처 국가법령정보센터 — 관세청고시(수입통관 사무처리에 관한 고시),"수입통관 사무처리에 관한 고시 제67조(소액물품의 자가사용 인정기준)·제68조(합산과세 기준)·제69조(합산과세시 처리) — '합산과세'는 같은 B/L 또는 같은 해외공급자·같은 날짜 구매를 면세범위 내로 쪼갠 경우를 적발하는 규정으로, 과세환율 기준일(관세법 제18조)과는 무관한 별개 조문",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000269780&type=XML#article67-68-69
+s6,법제처 국가법령정보센터 — 부가가치세법,부가가치세법 제29조(과세표준) 제2항 — 수입 재화의 부가가치세 과세표준은 관세의 과세가격 + 관세 + 개별소비세 등을 합한 금액,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276117&type=XML#article29-2
+s8,공공데이터포털 - 관세청_관세환율정보(GW) API 카탈로그,"관세청_관세환율정보(GW) API 설명 — 관세법 제18조 전문을 그대로 인용하며, UNI-PASS 활용신청 없이도 '유니패스 > 정보조회 > 신고인지원정보 > 주간환율'에서 파일 다운로드 가능, 관세청 누리집에서 미국·일본·유럽·중국 관세환율을 시각적으로 개방 중이라고 명시",dataset,https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101230

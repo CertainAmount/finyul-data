@@ -1,0 +1,21 @@
+﻿id,publisher,title,type,url
+s1,주택도시기금(국토교통부),"신생아 특례 디딤돌대출 소득구간×대출기간 금리표 (기금 페이지가 불러오는 JSON, 열람 2026-10-26)",dataset,https://nhuf.molit.go.kr/init/include/NewBabyGetInform.jsp#didim-rate-table
+s2,마이홈포털(국토교통부·LH),"신생아 특례 디딤돌대출 금리표 — 마이홈포털 정적 HTML (열람 2026-10-26, 기금 JSON과 36칸 일치)",filing,https://www.myhome.go.kr/hws/portal/cont/selectBabySpecialCaseStepStoneLoneView.do#rate-table
+s3,주택도시기금(국토교통부),신생아 특례 디딤돌 우대금리 ①~⑦ 전체 항목과 최종금리 하한 1.2%·우대 상한 0.5%p (열람 2026-10-26),filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#pref-list
+s4,주택도시기금(국토교통부),"신생아 특례 디딤돌 우대금리 ④ — 기존 자녀 0.1%p, 3자녀부터 0.2%p (기금 페이지 문구, 열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#pref-4-3child
+s5,마이홈포털(국토교통부·LH),"신생아 특례 디딤돌 우대금리 — 마이홈 문구: 기존 자녀 0.1%p만 표기, 추가출산 최장 15년 (열람 2026-10-26)",filing,https://www.myhome.go.kr/hws/portal/cont/selectBabySpecialCaseStepStoneLoneView.do#pref-4
+s6,주택도시기금(국토교통부),신생아 특례 디딤돌 — 특례금리 적용 종료 후 금리 산식 (열람 2026-10-26),filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#special-end-rule
+s7,주택도시기금(국토교통부),"신생아 특례 디딤돌 — 대출금리 항목: 특례금리 적용기간 기본 5년, 추가 출산 1명당 5년 연장, 최장 15년 (열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#special-rate-period
+s8,주택도시기금(국토교통부),"신생아 특례 디딤돌 우대금리 ③ — 추가 출산 자녀 1명당 0.2%p, 최장 20년 적용 (같은 페이지, 열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#pref-3-20yr
+s9,주택도시기금(국토교통부),"신생아 특례 디딤돌 — 중도상환수수료 0.6% 한도, 2026년 12월 31일까지 면제 (열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030801.jsp#econtract-midrepay
+s10,주택도시기금(국토교통부),"신생아 특례 디딤돌 자주하는 질문(10쪽 전수) — '금리우대 항목': 전자계약 2025.12.31, ④ 최장 20년, 3자녀부터 0.2%p, 상한 0.5%p (열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq2-pref-items
+s11,주택도시기금(국토교통부),"신생아 특례 디딤돌 FAQ '추가출산 예시' — 추가출산 우대금리 디딤돌 5년(최장 15년), 버팀목 4년(최장 12년) (열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq2-extra-birth-15
+s12,주택도시기금(국토교통부),신생아 특례 디딤돌 FAQ '중도상환수수료' — 1.2% 한도 (상품 페이지는 0.6%) (열람 2026-10-26),filing,https://nhuf.molit.go.kr/FP/FP08/FP0809/FP0809.jsp?kind=23&item=1032&gb=main#faq2-prepay-fee
+s13,주택도시기금(국토교통부),"신생아 특례 버팀목(전세) 소득구간×임차보증금 금리표 (기금 페이지 JSON, 열람 2026-10-26)",dataset,https://nhuf.molit.go.kr/init/include/NewBabyGetInform.jsp#bt-rate-table
+s14,마이홈포털(국토교통부·LH),신생아 특례 버팀목 금리표 — 마이홈포털 정적 HTML (열람 2026-10-26),filing,https://www.myhome.go.kr/hws/portal/cont/selectBabySpecialCaseCrutchLoneView.do#rate-table
+s15,주택도시기금(국토교통부),"신생아 특례 버팀목 우대금리 ①~④, 최종금리 하한 1.0%·우대 상한 0.5%p (열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05021401.jsp#pref-list
+s16,주택도시기금(국토교통부),"신생아 특례 버팀목 — 특례금리 기본 4년, 추가 출산 1명당 4년 연장, 최장 12년 (열람 2026-10-26)",filing,https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05021401.jsp#rate-period-12
+s17,SBS Biz,"SBS Biz '결혼 페널티' 절반으로…신생아 특례 금리도 연장 (2026.10.20) — 10.20 변경의 2차 보도, 원문 미확인",news,https://biz.sbs.co.kr/amp/article/20000340998
+s18,주택도시기금(국토교통부),못 찾은 것: 2026-10-20 우대금리 변경의 기금 공지·국토부 보도자료 원문 (2026-10-26 재시도),observation,https://nhuf.molit.go.kr/FP/FP08/FP0804/FP080402.jsp?id=3&mode=L#obs-1020-notfound
+s24,KB국민은행,"KB국민은행 주택도시기금대출 신생아 특례 디딤돌 안내 (2026.10.19 기준, 유효 2026.10.19~2027.09.30)",observation,https://obank.kbstar.com/quics?page=C103998&cc=b104363%3Ab104516&isNew=N&prcode=LN40001049&QSL=F
+s25,뱅크샐러드,"뱅크샐러드 2026년 신생아 특례대출 총정리 (마지막 수정 2026.07.09, 10.19 이전)",news,https://www.banksalad.com/articles/%EC%8B%A0%EC%83%9D%EC%95%84-%ED%8A%B9%EB%A1%80%EB%8C%80%EC%B6%9C-%EC%A1%B0%EA%B1%B4-%EB%8C%80%ED%99%98-%EA%B8%88%EB%A6%AC-%EC%8B%A0%EC%B2%AD%EB%B0%A9%EB%B2%95

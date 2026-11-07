@@ -1,0 +1,11 @@
+﻿id,publisher,title,type,url
+s1,한국은행 ECOS — 기준금리(722Y001),한국은행 기준금리 월별 값 2026-01~2026-08 — 2.5%(1~6월) → 2.75%(7월) → 3.0%(8월),dataset,https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/722Y001/M/202601/202608/0101000
+s2,한국은행 — 통화정책방향 보도자료(2026-08-27),"한국은행 기준금리 2026-08-27 3.00%로 인상(2.75%→3.00%, 0.25%p) — 9월 금통위 회의 없음, 8월 결정이 최신치",filing,https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=11064191&menuNo=200690&programType=newsData&relate=Y&depth=200690
+s3,중도일보,마통 금리가 왜 이래 — 신용점수 구간별 현재 금리 vs 1년 전 금리 비교(시중은행·인터넷은행),news,https://www.joongdo.co.kr/web/view.php?key=20260920010006585
+s4,파이낸셜뉴스,인뱅 마통금리 7% 육박…상승폭은 시중은행 3배 — 신용점수 구간별 KB국민 vs 카카오뱅크 실제 수치,news,https://www.fnnews.com/news/202609211815442206
+s5,뉴시스,'마통' 금리 어느새 최고 연 7%…1년 반 만에 평균 5% 돌파,news,https://www.newsis.com/view/NISX20260921_0003799144
+s6,세계비즈,한도 바닥에 마통 금리 연 7% 돌파…연체율 0.63%까지 치솟은 은행권,news,http://www.segyebiz.com/newsView/20260922515357
+s7,KB국민은행 — MOR금리 안내 페이지,"KB국민은행 MOR(기준금리) 산정 방식 및 '가산금리·우대금리 적용기준' 병기 확인 — 금리재산정주기 3개월이면 CD 91일물, 6개월 이상이면 금융채 AAA 채권시장수익률",filing,https://obank.kbstar.com/quics?page=C019205
+s8,KB의 생각(kbthink.com) — 금융용어사전,"KB국민은행 공식 금융용어사전의 '우대금리' 정의 — 원래는 최우량 기업대출에 적용하는 프라임레이트 개념, 개인 신용대출의 부수거래 감면 성격과는 결이 다름",filing,https://kbthink.com/dictionary/view.html?dictId=KED-00001636
+s9,전국은행연합회 소비자포털 — 대출금리에 대한 이해,가산금리 구성요소 8항목 원문 재확인 — '목표이익률'이 아니라 '기대이익률'이 정확한 표현(기존 evidence ac4ce661의 인용 오류 발견),filing,https://portal.kfb.or.kr/compare/loan.php#quote-margin-rate-components-recheck-2026-09-23
+s10,파이낸셜뉴스,"[단독] 저축은행 신용대출금리 산정 내역 — 가산금리 구성요소별 실제 수치(목표이익률·업무원가·법적비용·자본원가·신용원가), 시중은행 목표이익률과 비교",news,https://www.fnnews.com/news/202603051407368957

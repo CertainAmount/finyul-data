@@ -1,0 +1,18 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,"상법 제662조(소멸시효), 시행 2026-09-10",filing,https://www.law.go.kr/법령/상법/제662조
+s2,법제처 국가법령정보센터,"보험업법 제102조의6(실손의료보험계약의 보험금 청구를 위한 서류 전송), 시행 2025-01-31",filing,https://www.law.go.kr/법령/보험업법/제102조의6
+s3,법제처 국가법령정보센터,"보험업법 시행령 제48조의2(실손의료보험계약의 보험금 청구를 위한 서류 전송), 시행 2026-10-02",filing,https://www.law.go.kr/법령/보험업법시행령/제48조의2
+s4,금융위원회,"의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다(보도자료, 2026-09-30 배포)",filing,https://www.fsc.go.kr/no010101/87818
+s5,금융위원회,"실손보험 청구 전산화가 의원·약국을 포함하여 확대 시행됩니다(보도자료, 2025-10-23 배포)",filing,https://www.fsc.go.kr/no010101/85456
+s6,금융위원회,"실손24 연계 병의원을 정부, 병의원, EMR 업체가 협력해 100%까지(보도자료, 2026-05-11 배포)",filing,https://www.fsc.go.kr/no010101/86854
+s7,금융위원회,"아직 미흡한 동네 병·의원에서의 스마트폰 실손보험금 청구(‘실손24’)도 빨리 확대되도록 (보도자료, 2026-04-15 배포)",filing,https://www.fsc.go.kr/no010101/86709
+s8,삼성화재,무배당 삼성화재 실손의료비보험 약관(2501.5) 제42조 소멸시효,filing,https://www.samsungfire.com/publication/pdf/ZPB293050_0_20250101_file1.pdf#art42-p41
+s9,삼성화재,무배당 삼성화재 실손의료비보험 약관(2501.5) 보험금 청구시 구비서류 안내,filing,https://www.samsungfire.com/publication/pdf/ZPB293050_0_20250101_file1.pdf#docs-p17
+s10,매일신문,실손24 청구율 4.6%뿐…동네 의원 연계는 18%에 그쳤다,news,https://www.imaeil.com/page/view/2026092007301261392
+s11,수집 메모,연계율 수치 불일치와 기산점 미확정,observation,https://www.fsc.go.kr/no010101/87818#obs-gap
+s12,대법원,대법원 2009. 7. 9. 선고 2009다14340 판결 (보험금청구권 소멸시효 기산점),filing,https://www.law.go.kr/판례/(2009다14340)
+s13,손해보험협회,실손의료보험금 청구서류 표준화 및 간소화 안내 (손해보험협회 소비자포털),filing,https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do
+s14,금융위원회·보험개발원,2024.10.25.부터 실손의료보험 보험금 전산청구가 가능합니다 (실손24 안내문),filing,https://www.silson24.or.kr/claim/dn/silson24_guide_document.pdf
+s15,삼성화재,무배당 삼성화재 다이렉트 실손의료비보험 약관(2605.1) 보험금 청구 절차 안내와 제42조 소멸시효,filing,https://direct.samsungfire.com/docs/realloss.pdf
+s16,ABL생명,ABL생명 사고 유형별 구비서류 안내 (대리인 청구 시 서류),filing,https://www.abllife.co.kr/cms//adm/attach/attach03/attach032/attach0322/attach03223/사고유형별구비서류안내.pdf
+s20,손해보험협회,실손의료보험금 청구서류 표준화 및 간소화 안내 - 3만원 이하 구간·제외 진료과(손해보험협회 소비자포털),filing,https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do#under30k

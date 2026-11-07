@@ -1,0 +1,20 @@
+﻿id,publisher,title,type,url
+s1,국가법령정보센터 - 종합부동산세법 시행령,종합부동산세법 시행령 제10조(추징액 등) 제3항 - 임대사업자 등록말소 시 경감세액·이자상당가산액 추징 배제,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283639&type=XML#article10
+s2,국세청,개인신고안내 - 종합부동산세 합산배제 및 과세특례 신고 (신고대상·기한·재신고 생략),filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6538&cntntsId=7965
+s3,국세청,"국세청 종합부동산세 합산배제 및 과세특례 신고 안내 — 사원용주택등 유형, 신고기간 9/16~9/30",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6540&cntntsId=7967
+s4,국가법령정보센터 - 종합부동산세법 시행령,종합부동산세법 시행령 제3조(합산배제 임대주택) - 건설임대주택 요건(전용면적·공시가격·임대의무기간·임대료 증가율 상한),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283639&type=XML
+s5,한국일보,"4년 만에 날아온 '종부세 고지서'…""나도 모르게 등록 말소라니""",news,https://www.hankookilbo.com/News/Read/A2025102709540003170
+s6,국가법령정보센터 - 국세기본법,국세기본법 제45조의2(경정 등의 청구) 제1항 - 자진신고 과다납부 시 법정신고기한 경과 후 5년 이내 경정청구(정부부과분은 별도 제6항),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML#article45-2
+s7,세무사신문,경정청구의 길이 열린 종합부동산세 (세무사 기고),news,https://webzine.kacta.or.kr/news/articleView.html?idxno=13322
+s8,정책브리핑,2020년 종부세 합산배제 신고 안내 브리핑 — 추석 연휴로 기한이 9/30에서 10/5로 연장된 해,news,https://www.korea.kr/briefing/policyBriefingView.do?newsId=148877577
+s9,조세심판원,"조심2023서0102 - 종합부동산세 합산배제 경정청구 절차 인정, 본안 기각",filing,https://casenote.kr/%EC%A1%B0%EC%84%B8%EC%8B%AC%ED%8C%90%EC%9B%90/%EC%A1%B0%EC%8B%AC2023%EC%84%9C0102
+s10,조세심판원,"조심2022서1844 - 합산배제·과세특례 경정청구 거부처분 정당, 절차상 가능해도 실질요건 미충족시 기각",filing,https://casenote.kr/%EC%A1%B0%EC%84%B8%EC%8B%AC%ED%8C%90%EC%9B%90/%EC%A1%B0%EC%8B%AC2022%EC%84%9C1844
+s11,국가법령정보센터 - 행정절차법,행정절차법 제2조(정의) 제2호 - '처분'의 정의 및 제21조(처분의 사전 통지),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=239291&type=XML#article2
+s12,조세심판원,"조심2025서1992 - 임대사업자등록 자동말소는 민특법 규정에 의한 것으로 별도 처분·통지 불요, 종부세 합산배제 배제 정당",filing,https://casenote.kr/%EC%A1%B0%EC%84%B8%EC%8B%AC%ED%8C%90%EC%9B%90/%EC%A1%B0%EC%8B%AC2025%EC%84%9C1992
+s13,"법제처 국가법령정보센터 — 종합부동산세법(MST 280417, 시행 2026.1.1) 제8조·제16조, 시행령(MST 290557, 시행 2026.10.1) 제3조·제8조, 시행규칙(MST 285003, 시행 2026.3.20) 제2조 조문 대조","합산배제 신고기간은 법 제8조제3항의 9월 16~30일이고, 법·시행령·시행규칙 본문에는 12월 신고 문언이 없다 (서식 제외, 2026.10.4 대조)",observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280417&type=XML#article8-3-window-check-20261004
+s14,"법제처 국가법령정보센터 — 종합부동산세법 시행령 제10조제3항(MST 290557, 시행 2026.10.1)과 민간임대주택에 관한 특별법 제6조(MST 276995, 시행 2025.10.1)","추징 배제는 시행령 제10조제3항제2호가 정한 말소(민특법 제6조제1항제11호 또는 제5항)에 한정되고, 제11호는 임대의무기간 안 말소 신청, 제5항은 임대의무기간 종료일 자동말소다 (2026.10.4 현행본)",observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=290557&type=XML#article10-3-2-minteuk6-check-20261004
+s15,"법제처 국가법령정보센터 — 종합부동산세법 시행령 제3조제1항(MST 290557, 시행 2026.10.1)","시행령 제3조제1항 제1호·제2호의 민간건설·매입임대주택은 2018.3.31 이전 등록분으로 한정되고, 제8호는 장기일반 매입임대에 10년 임대·조정대상지역 제외 조건을 둔다 (2026.10.4 현행본)",observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=290557&type=XML#article3-1-1-2-20180331-check-20261004
+s16,"법제처 국가법령정보센터 — 국세기본법 제45조의2제6항(MST 288571, 시행 2026.8.11)",종부세를 부과·고지받은 자의 경정청구는 종합부동산세 납부기한이 지난 후 5년 이내 (국세기본법 제45조의2제6항),observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML#article45-2-6-check-20261004
+s17,조세심판원,"조심2025서1992(2025.7.14, 기각) — 법인이 2020.8.18 자동말소된 주택을 2021.12.3 다시 등록했으나 조정대상지역 공고일 후 등록이라 합산배제 제외, 구제 경과규정 없음",filing,https://casenote.kr/%EC%A1%B0%EC%84%B8%EC%8B%AC%ED%8C%90%EC%9B%90/%EC%A1%B0%EC%8B%AC2025%EC%84%9C1992#facts-check-20261004
+s18,세정일보(국세청 종합부동산세 합산배제·과세특례 신고 Q&A 인용),국세청 Q&A ⑥: 부부 공동명의 1주택자 과세특례를 합산배제 신고기간(9.16~9.30)에 신청하지 못한 경우 12월 정기신고 기간에 신청할 수 있다,news,https://www.sejungilbo.com/news/articleView.html?idxno=34199
+s19,종부세법 시행규칙 별지 제31호서식(종합부동산세 신고서) 제출서류 항목 — 별지 제30호서식과 교차 대조,12월 정기신고서 서식이 제출서류에 공동명의 1주택자 특례 (변경)신청서를 직접 열거한다 — 12월 두 번째 창이 공동명의에도 열린다는 1차 근거,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285003&type=XML#form31-attachments

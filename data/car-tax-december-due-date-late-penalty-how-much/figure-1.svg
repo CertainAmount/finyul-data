@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="12월 31일 이후 추가 금액: 1,600cc는 3%에서 끝, 5,000cc는 3%(지방교육세 포함) 위에 자동차세분에만 한 달마다 3,300원씩 늘어남" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="10" y="24" font-size="15" fill="#282d35">1,600cc: 자동차세 112,000원</text>
+    <text x="10" y="55" font-size="15" fill="#254a75">3% 4,360원</text>
+    <text x="390" y="55" font-size="15" fill="#6f7783" text-anchor="end">월 가산 없음</text>
+    <rect x="10" y="61" width="380" height="14" fill="#f2f6fb" stroke="#254a75"/>
+    <text x="10" y="118" font-size="15" fill="#282d35">5,000cc: 자동차세 500,000원</text>
+    <text x="10" y="140" font-size="15" fill="#b4532a">자동차세분에만 매달 +3,300원</text>
+    <text x="390" y="138" font-size="15" fill="#b4532a" text-anchor="end">6개월 +19,800원</text>
+    <rect x="10" y="208" width="380" height="62" fill="#f2f6fb" stroke="#254a75"/>
+    <rect x="90" y="197.4" width="48" height="10.6" fill="#b4532a"/>
+    <rect x="140" y="186.8" width="48" height="21.2" fill="#b4532a"/>
+    <rect x="190" y="176.2" width="48" height="31.8" fill="#b4532a"/>
+    <rect x="240" y="165.6" width="48" height="42.4" fill="#b4532a"/>
+    <rect x="290" y="155.0" width="48" height="53.0" fill="#b4532a"/>
+    <rect x="340" y="144.4" width="48" height="63.6" fill="#b4532a"/>
+    <text x="18" y="244" font-size="15" fill="#254a75">3% 19,500원(지방교육세 포함)</text>
+    <text x="10" y="292" font-size="15" fill="#6f7783">31일</text>
+    <text font-size="15" x="114" y="292" text-anchor="middle" fill="#6f7783">1개월</text>
+    <text font-size="15" x="164" y="292" text-anchor="middle" fill="#6f7783">2개월</text>
+    <text font-size="15" x="214" y="292" text-anchor="middle" fill="#6f7783">3개월</text>
+    <text font-size="15" x="264" y="292" text-anchor="middle" fill="#6f7783">4개월</text>
+    <text font-size="15" x="314" y="292" text-anchor="middle" fill="#6f7783">5개월</text>
+    <text font-size="15" x="364" y="292" text-anchor="middle" fill="#6f7783">6개월</text>
+  </svg>

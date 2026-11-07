@@ -1,0 +1,20 @@
+﻿id,publisher,title,type,url
+s1,금융감독원,금융감독원 보도자료(2024-04-16 배포) 금융꿀팁 152: 대출받은 후 14일 이내 취소하고 싶다면 대출 청약철회권을 적극 활용하세요,filing,https://www.fss.or.kr/fss/bbs/B0000173/view.do?nttId=136625&menuNo=200498
+s2,KB국민은행(KB스마트대출),"KB국민은행 대출계약철회안내 화면 — 14일, 적용 대상 금액, 철회효과(중도상환수수료 면제·대출기록 삭제), 철회횟수 제한",observation,https://zloan.kbstar.com/quics?page=C104150
+s3,동원제일저축은행,"동원제일저축은행 청약철회권 안내 — 5영업일 내 대출정보 삭제, 당사 대상 1개월 내 2회 이상 철회 시 불이익, 금소법 제46조 참조",observation,https://www.dongwonjeilbank.kr/sub.php?code=03_cust020702
+s4,페퍼저축은행,페퍼저축은행 대출청약철회권 안내 — 같은 유형 금융상품 1개월 내 2회 이상 철회 시 불이익 가능,observation,https://www.pepperbank.kr/finconsumer/rights/coolingoff.pepper
+s5,일반신용정보관리규약(2017.12.28 개정까지 반영된 판),"일반신용정보관리규약 제16조(2017.12.28 개정까지 반영된 판) — 해제사유코드 0088 ""대출계약철회정보""는 1년 7영업일 보존, 다른 금융기관은 1개월 7영업일 조회 가능",filing,https://www.bizsiren.com/files/credit_info_business_oversee2.pdf
+s6,금융감독원 FSS 이야기(FSSZINE) 137호,금융감독원 Q&A: 대출 청약철회는 '일반적으로 유리'하지만 중도상환수수료 면제 시와 신용평가 측면에서는 중도상환이 유리할 수 있다고 안내,observation,https://fsszine.or.kr/data/24_0506/sub/qna.php
+s7,법제처 국가법령정보센터(금융소비자 보호에 관한 법률),금융소비자 보호에 관한 법률 제46조(청약의 철회) 전문 — 대출성 상품 14일·효력 발생 요건·위약금 청구 금지·불리한 특약 무효,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277247&type=XML#article46
+s8,법제처 국가법령정보센터(금융소비자 보호에 관한 법률 시행령),"금융소비자 보호에 관한 법률 시행령 제37조(청약의 철회) 전문 — 철회 불가 대출, 의사표시 방법, 반환 이자·비용, 반환 계좌, 지연이자",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285715&type=XML#article37
+s9,"법제처 국가법령정보센터(금융소비자 보호에 관한 감독규정, 금융위원회 고시)","금융소비자 보호에 관한 감독규정 제14조 제6항 제6호 — 청약 철회를 이유로 한 불이익 부과 금지, 같은 판매업자·같은 유형 1개월 내 2번 이상 철회는 제외",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285608&type=XML#article14-6-6
+s10,finyul-verifier 대조(감독규정 제14조⑥6호 vs 은행 약관·안내),"'1년 2회·1개월 1회' 약관 제한과 감독규정 '1개월 2번 이상' 예외는 수단이 다르다 — 앞은 철회 자체를 제한하는 약관 조항, 뒤는 불이익 부과 금지의 예외 단서이고 범위도 다르다",observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285608&type=XML#obs-verifier-repeat-limit-scope
+s11,finyul 대조(감독규정 vs 은행 약관·안내),"철회 횟수 기준이 출처마다 갈린다 — 감독규정은 '같은 판매업자·같은 유형 1개월 내 2번 이상', 은행은 '해당 은행 1년 2회 초과·전체 금융회사 1개월 1회 초과', 저축은행은 '당사 1개월 내 2회 이상'",observation,https://zloan.kbstar.com/quics?page=C104150#obs-repeat-limit-divergence
+s12,다올저축은행,다올저축은행 청약철회권 안내 — 당사에 최근 1개월 내 2회 이상 철회 시 신규대출·만기연장 거절 등,observation,https://www.daolsb.com/fcpInfo/publComplaints/withdrawLoanGdcc.do
+s13,IBK저축은행,"IBK저축은행 대출계약철회권 안내 — 14일, 원리금·부대비용 미상환 시 철회 불가, 1개월 내 2회 이상 철회 시 불이익",observation,https://sbloan.ibksb.co.kr/ibk/guide/Withdrawal.jsp
+s14,finyul-verifier 대조(금감원 보도자료 vs 금소법 제46조·민법 제157조),금감원 보도자료는 14일을 '지급일의 익일부터'로 쓰고 금소법 제46조는 '지급일부터 14일'로 쓴다 — 민법 제157조(초일불산입)를 적용하면 만료일은 같다,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277247&type=XML#obs-verifier-initial-day
+s15,우리은행 자주하는질문(FAQ),우리은행 FAQ — 대출계약철회권 신청만 하고 상환하지 않으면 대출실행일 다음 날부터 14일 후 자동 취소,observation,https://spot.wooribank.com/pot/Dream?withyou=CQCCS0002&cc=c006332:c009215&questionid=KNOW0000000517&DetailCategoryid=NODE0000000697
+s16,법제처 국가법령정보센터(금융소비자 보호에 관한 법률),금융소비자 보호에 관한 법률 제20조 제1항 제4호 나목(중도상환수수료 부과 금지와 3년 이내 예외),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277247&type=XML
+s17,머니투데이,"'대출 환불' 제대로 받는다 — 금감원, 저축은행이 청약철회 요구를 중도상환으로 처리하고 수수료를 받은 사례 적발, 전산에 주의사항 팝업기능 신설·2026-02 시행 예고(2026-01-27 보도)",news,https://www.mt.co.kr/finance/2026/01/27/2026012710475469421
+s18,"법제처 국가법령정보센터(금융소비자 보호에 관한 감독규정, 금융위원회 고시)",금융소비자 보호에 관한 감독규정 제30조(청약의 철회) ①~③ — 철회 불가 대출성 상품(지급보증·신용카드·소액후불결제),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000285608&type=XML#article30
+s19,finyul-verifier 대조(시행령 제37조·감독규정 제30조 vs 은행 안내 금액 한도),"KB국민은행 안내와 하나은행 약관은 철회 적용 대상을 '신용 4천만원·담보 2억원 이하'로 한정하지만, 시행령 제37조·감독규정 제30조의 철회 제외 목록에는 금액 기준이 없다",observation,https://zloan.kbstar.com/quics?page=C104150#obs-verifier-amount-cap

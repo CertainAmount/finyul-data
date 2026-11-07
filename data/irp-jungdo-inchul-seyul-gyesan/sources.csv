@@ -1,0 +1,10 @@
+﻿id,publisher,title,type,url
+s1,국가법령정보센터(소득세법) 제129조제1항제5호의2,소득세법 제129조제1항제5호의2 — 세액공제 자기부담금·운용수익의 연금수령 세율은 '나이'에 따라 3~5%로 갈리며 자동으로 최저값(3.3%)이 아님,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article129-1-5-2-age-based-rate-adversary
+s2,금융감독원 통합연금포털,"통합연금포털 — 연금저축 중도해지 세율 비교표 (부득이한 사유 5.5~3.3% vs 그 외 사유 16.5%, 과세대상은 세액·소득공제받은 납입금액+운용수익)",filing,https://www.fss.or.kr/fss/main/contents.do?menuNo=201008
+s3,국가법령정보센터(소득세법),소득세법 제21조제1항제21호(기타소득) — 세액공제받은 자기부담금·운용수익을 연금외수령하면 기타소득으로 과세,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article21-1-21-other-income
+s4,국가법령정보센터(소득세법),"소득세법 제129조제1항제5호의3 — 퇴직소득을 연금수령하는 경우 원천징수세율(실제수령연차 10년 이하 70%, 10년 초과~20년 이하 60%, 20년 초과 50%)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article129-1-5-3
+s5,국가법령정보센터(소득세법 시행령),소득세법 시행령 제40조의2제3항 단서 — 이연퇴직소득(원금)을 '해외이주' 사유로 인출할 때는 입금일부터 3년 경과 후 해외이주하는 경우에만 연금수령으로 인정,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML#article40-2-3-proviso-emigration-adversary
+s6,국가법령정보센터(소득세법 시행령),소득세법 시행령 제20조의2(의료 목적 또는 부득이한 인출의 요건 등) — 법정 부득이한 사유 전체 열거,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML#article20-2-unavoidable-withdrawal-reasons
+s7,미래에셋투자와연금센터,적립금을 중도인출 할 수 있나요? — IRP 중도인출 사유별 세금(부득이한 사유 여부) 안내,news,https://investpension.miraeasset.com/contents/view.do?idx=20454
+s8,finyul 데이터수집 (근로자퇴직급여 보장법 시행령 제18조 vs 소득세법 시행령 제20조의2 원문 대조),IRP 중도인출이 '법정 사유'로 적법해도 세법상 저율과세 '부득이한 사유'와 일치하지 않음 — 주택구입·전세보증금은 기타소득세 16.5% 원천징수 대상,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284693&type=XML#vs-286211-tax-gap
+s9,국가법령정보센터(소득세법),"소득세법 제59조의3(연금계좌세액공제) — 세액공제율(12%/15%)과 한도(연 900만원, 연금저축 600만원 한도 포함). '반환' 조항 없음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article59-3-tax-credit

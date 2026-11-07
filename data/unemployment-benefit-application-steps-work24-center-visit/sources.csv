@@ -1,0 +1,31 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,고용보험법 제42조(실업의 신고) 제1항·제3항,filing,https://www.law.go.kr/lsEfInfoP.do?lsiSeq=284449&efYd=20260918#art42-1-3
+s2,법제처 국가법령정보센터,고용보험법 제43조(수급자격의 인정) 제2항·제4항,filing,https://www.law.go.kr/lsEfInfoP.do?lsiSeq=284449&efYd=20260918#art43-2-4
+s3,법제처 국가법령정보센터,고용보험법 제44조(실업의 인정) 제2항,filing,https://www.law.go.kr/lsEfInfoP.do?lsiSeq=284449&efYd=20260918#art44-2
+s4,법제처 국가법령정보센터,고용보험법 제49조(대기기간) 제1항,filing,https://www.law.go.kr/lsEfInfoP.do?lsiSeq=284449&efYd=20260918#art49-1
+s5,법제처 국가법령정보센터,고용보험법 시행규칙 제82조(실업신고와 수급자격 인정신청서) 제1항,filing,https://www.law.go.kr/법령/고용보험법시행규칙/제82조
+s6,법제처 국가법령정보센터,고용보험법 시행규칙 제82조의2(이직확인서의 발급 등) 제2항·제3항,filing,https://www.law.go.kr/법령/고용보험법시행규칙/제82조의2
+s7,법제처 국가법령정보센터,고용보험법 시행령 제61조(구직신청과 수급자격 인정신청) 제1항·제2항·제4항,filing,https://www.law.go.kr/법령/고용보험법시행령/제61조
+s8,법제처 국가법령정보센터,고용보험법 시행령 제62조(수급자격의 인정) 제1항,filing,https://www.law.go.kr/법령/고용보험법시행령/제62조
+s9,법제처 국가법령정보센터,고용보험법 시행령 제63조(실업의 인정) 제1항·제3항,filing,https://www.law.go.kr/법령/고용보험법시행령/제63조
+s10,법제처 국가법령정보센터,고용보험법 시행규칙 제84조(실업인정의 신청),filing,https://www.law.go.kr/법령/고용보험법시행규칙/제84조
+s11,법제처 국가법령정보센터,고용보험법 시행규칙 제85조(직업능력개발 훈련 등 수강자에 대한 실업인정의 특례) 제1항,filing,https://www.law.go.kr/법령/고용보험법시행규칙/제85조
+s12,법제처 국가법령정보센터,고용보험법 시행규칙 제87조(재취업활동의 인정기준) 제1항,filing,https://www.law.go.kr/법령/고용보험법시행규칙/제87조
+s13,고용24(고용노동부·한국고용정보원),고용24 고용정책 제도안내 — 실업급여(구직급여) 신청절차 (SI00000411),filing,https://m.work24.go.kr/cm/c/f/1100/selecSystInfo.do?systId=SI00000411&systCnntId=&systClId=SC00000254
+s14,고용24(고용노동부·한국고용정보원),고용24 제도안내(SI00000411) — 수급자격 인정신청서 인터넷 제출 서비스 대상 3요건,filing,https://m.work24.go.kr/cm/c/f/1100/selecSystInfo.do?systId=SI00000411&systCnntId=&systClId=SC00000254#internet-submit
+s15,고용24(고용노동부·한국고용정보원),고용24 제도안내(SI00000411) — 사전 교육·이직확인서 10일·실업인정 온라인·지급 시점,filing,https://m.work24.go.kr/cm/c/f/1100/selecSystInfo.do?systId=SI00000411&systCnntId=&systClId=SC00000254#steps-training-recognition
+s16,고용24(고용노동부·한국고용정보원),고용24 제도안내(SI00000411) — 실업인정 대리 신청 불가·재난 시 온라인 대체,filing,https://m.work24.go.kr/cm/c/f/1100/selecSystInfo.do?systId=SI00000411&systCnntId=&systClId=SC00000254#proxy
+s17,고용노동부 빠른인터넷상담,고용노동부 빠른인터넷상담 — 실업급여 신청절차 답변(해외 신청 질의),filing,https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202506090951042390037
+s18,finyul 수집 관찰,관찰: 노동부 빠른인터넷상담 '온라인신청 불가'와 고용24 '인터넷 제출 서비스'의 불일치,observation,https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202506090951042390037#obs-conflict-online
+s19,고용24 고용보험(ei.work24.go.kr) 쉽게 따라하기,고용보험 쉽게 따라하기(개인) — 실업인정 인터넷 신청 화면 안내,filing,https://ei.work24.go.kr/ei/eih/cp/cc/ccEminsrFollow/retrieveCc200Info.do
+s20,고용보험(eiac.ei.go.kr) 실업인정 인터넷 신청 매뉴얼,「실업인정 인터넷 신청」 매뉴얼(PDF),filing,https://eiac.ei.go.kr/ei/common/dnfile/manual.pdf
+s21,고용노동부 빠른인터넷상담,고용노동부 빠른인터넷상담 — 구직활동 증빙 방법 답변,filing,https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202512021159118840098
+s22,고용24 자주하는 질문,"고용24 자주하는 질문 — [실업급여-자영업자] 적극적인 재취업활동을 인정받기 위해서는 어떤 서류를 제출해야 하나요 (자영업자 분류 FAQ, 등록일 2023-10-31)",filing,https://m.work24.go.kr/cm/c/a/0130/selectBbttInfo.do?bbsClCd=VJQMx/a2p6AfqLQqwR8sSQ%3D%3D&ntceStno=193
+s23,고용노동부 보도·한국고용정보원,"이젠 스마트폰으로도 구직급여 수급자격 인정신청서 제출하세요(한국고용정보원, 2022-01-05)",filing,https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=13143
+s24,고용노동부(KDI 경제교육·정보센터 재게시),"「고용보험 제도개편 방안」 보도자료(고용노동부, 2026-09-01)",filing,https://eiec.kdi.re.kr/policy/materialView.do?num=286174
+s25,뉴시스,노동부 고객센터 '실업급여 AI 상담 서비스' 본격 운영,news,https://www.newsis.com/view/NISX20260929_0003807372
+s26,finyul 수집 관찰,"관찰: 대리·우편 신청, 통장 사본 요구, 첫 지급 구체일은 1차 자료에서 확인하지 못함",observation,https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202506090951042390037#obs-not-found
+s30,찾기쉬운 생활법령정보,생활법령정보 - 실업의 신고 (2026-09-30 작성),filing,https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=2&cnpClsNo=1
+s31,광주광산고용복지+센터 공지,구직급여 수급자격 신청서 인터넷 사전 제출 서비스 시행 (2021-02-03),filing,https://www.work.go.kr/gwangjugwangsan/newsPlace/notice/noticeDetail.do?articleSeqno=131163&searchType=&searchKey=&searchWord=&subNaviMenuCd=20200
+s32,경북도민일보,구직급여 수급자격 인정 신청서 온라인 제출 가능 (2021-02-04),news,https://www.hidomin.com/news/articleView.html?idxno=444356
+s33,국가법령정보센터,근로자퇴직급여 보장법 제9조(퇴직금의 지급 등),filing,https://www.law.go.kr/법령/근로자퇴직급여보장법/제9조

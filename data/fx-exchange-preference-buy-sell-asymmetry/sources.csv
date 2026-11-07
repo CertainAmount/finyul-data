@@ -1,0 +1,12 @@
+﻿id,publisher,title,type,url
+s1,전국은행연합회 외환길잡이,은행연합회 공식 환전수수료(스프레드) 계산식 및 수치 예시 — 매매기준율/현찰 살 때 환율/우대율 관계,filing,https://exchange.kfb.or.kr/page/on_commission.php
+s2,케이뱅크,"케이뱅크 환전 서비스 공식 페이지(schema.org 구조화 데이터) — 매수 전용 픽업 서비스, 매도·외화통장·재환전 개념 없음",filing,https://www.kbanknow.com/web/product/service/exchange
+s3,한국은행 ECOS,ECOS 731Y001 원/미국달러 매매기준율 — 카카오뱅크 달러박스 종료일(2026-09-15) 전후 일별 값,dataset,https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/731Y001/D/20260910/20260918/0000001
+s4,매일신문(imaeil.com),"트래블카드 5종 비교…재환전 0원은 토스, 라운지는 신한·우리 — 매도(재환전) 시 우대율 유지 여부 비교",news,https://www.imaeil.com/page/view/2026091821375172057
+s5,뉴데일리경제(biz.newdaily.co.kr),환전 넘어 결제·투자까지…엔화예금 인기에 진화하는 인뱅 외환통장 — 케이뱅크는 외화통장이 아닌 환전(픽업) 서비스로 구조가 다름,news,https://biz.newdaily.co.kr/site/data/html/2026/09/17/2026091700156.html
+s6,대한경제(dnews.co.kr),"카카오뱅크 '달러박스' 지고 외화통장 뜬다…인뱅 3사, 외환 경쟁은 계속 — 매수/매도 우대율 3사 비교",news,https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609161433030700334
+s7,데일리안(dailian.co.kr),"""환전 안 해도 되네""…인뱅·페이로 떠나는 추석 해외여행 — 카카오뱅크 매수 100%/매도 70% 재확인",news,https://www.dailian.co.kr/news/view/1694221/
+s9,토스뱅크,토스뱅크 FAQ(기존 evidence 585324f0)는 매수/매도 구분 수치와 재환전 시 우대율 유지 여부를 명시하지 않음 — 실제 수치·재환전 조건은 뉴스(imaeil.com)로만 확인됨,observation,https://www.tossbank.com/articles/exchange-rate#observation-no-buysell-split-2026-09-28
+s10,신동아,달러 투자? 소득 있는 곳에 '세금 없는' 유일한 투자처 — 국세청에 직접 질의해 받은 답변 인용,news,https://shindonga.donga.com/3/all/13/6288553/1
+s11,카카오뱅크,카카오뱅크 외화통장 공식 상품 페이지 — 환율우대율 외화사기 100%·외화팔기 70%,filing,https://www.kakaobank.com/products/fx/withdrawal
+s12,토스뱅크,"토스뱅크 외화통장 공식 상품 페이지 — 환율 100% 우대, 살 때도 팔 때도 수수료 무료",filing,https://www.tossbank.com/product-service/fx/account

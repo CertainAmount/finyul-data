@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 215" role="img" aria-label="정정 청구 뒤 두 갈래가 15일 시정요청 기간으로 합쳐지는 흐름" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<rect x="4" y="85" width="72" height="44" rx="10" fill="#f2f6fb" stroke="#254a75"/>
+<text x="40" y="112" font-size="15" fill="#282d35" text-anchor="middle">정정 청구</text>
+<path d="M76 107 H92 M92 45 V170 M92 45 H108 M92 170 H108" fill="none" stroke="#6f7783" stroke-width="2"/>
+<rect x="108" y="20" width="124" height="50" rx="10" fill="#f2f6fb" stroke="#254a75"/>
+<text x="170" y="42" font-size="15" fill="#282d35" text-anchor="middle">결과 통지받은 날</text>
+<text x="170" y="60" font-size="15" fill="#282d35" text-anchor="middle">(7일 안에 통지)</text>
+<rect x="108" y="145" width="124" height="50" rx="10" fill="#ffffff" stroke="#b4532a" stroke-dasharray="5 4"/>
+<text x="170" y="167" font-size="15" fill="#282d35" text-anchor="middle">통지가 없으면</text>
+<text x="170" y="185" font-size="15" fill="#282d35" text-anchor="middle">7영업일 지난 날</text>
+<path d="M232 45 H247 V107 H262 M232 170 H247 V107" fill="none" stroke="#6f7783" stroke-width="2"/>
+<path d="M255 102 L262 107 L255 112" fill="none" stroke="#6f7783" stroke-width="2"/>
+<rect x="262" y="85" width="132" height="44" rx="10" fill="#f2f6fb" stroke="#254a75"/>
+<text x="328" y="104" font-size="15" fill="#282d35" text-anchor="middle">그 날부터 15일 안</text>
+<text x="328" y="122" font-size="15" fill="#282d35" text-anchor="middle">금융위 시정요청</text>
+</svg>

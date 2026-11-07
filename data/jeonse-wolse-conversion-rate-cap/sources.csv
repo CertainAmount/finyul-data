@@ -1,0 +1,13 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 주택임대차보호법,주택임대차보호법 제7조의2(월차임 전환 시 산정률의 제한) 원문 — 보증금을 월세로 전환 시 '다음 각 호 중 낮은 비율'을 곱한 금액을 초과할 수 없다,filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276291&type=XML#article7-2
+s2,법제처 국가법령정보센터 - 주택임대차보호법 시행령,"주택임대차보호법 시행령 제9조(월차임 전환 시 산정률) 원문 — ①법 1호 비율=연 1할, ②법 2호 이율=연 2% (2016.11.29·2020.9.29 개정)",filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=287183&type=XML#article9
+s3,"한국은행 — 기준금리 추이 데이터(연도별 리스트 페이지, 2026-09-27 재확인)",2026-09-27 재확인 — 한국은행 기준금리는 여전히 3.00%(2026-08-27 결정)이며 이후 변경 없음. 콘텐츠 발행 시점 세입자가 계산에 쓸 최신값,dataset,https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643
+s4,법제처 국가법령정보센터 - 민간임대주택에 관한 특별법,"민간임대주택법 제44조②④ — 등록임대주택 '임대료 증액 5% 상한'은 전체 임대료 인상 한도이고, 보증금↔월세 전환 기준은 별도로 국토교통부령에 위임한다",filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276995&type=XML#article44
+s5,법제처 국가법령정보센터 - 민간임대주택에 관한 특별법 시행규칙,민간임대주택법 시행규칙 제18조 — 등록임대주택도 보증금→월세 전환 시 결국 '주택임대차보호법 제7조의2'의 범위를 그대로 적용한다(5% 규칙과 무관),filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280639&type=XML#article18
+s6,법제처 국가법령정보센터 - 상가건물 임대차보호법 시행령,[반대/대조 자료] 상가건물 임대차보호법 시행령 제5조 — 상가는 연 1할2푼(12%)과 '기준금리×4.5배' 중 낮은 비율. 주택(제9조: 기준금리+2%p 가산)과 산식 구조 자체가 다르다,filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=287139&type=XML#article5
+s7,법제처 국가법령정보센터 - 주택임대차보호법,"주택임대차보호법 제7조(차임 등의 증감청구권) 원문 — 약정 차임·보증금 증액청구는 20분의 1(5%) 초과 불가, 증액 후 1년 이내 재청구 금지",filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276291&type=XML#article7
+s8,법제처 국가법령정보센터 - 주택임대차보호법,"주택임대차보호법 제10조의2(초과 차임 등의 반환청구) 원문 — '제7조 증액비율 초과'와 '제7조의2 월차임 산정률 초과'를 별개 사유로 병렬 규정, 두 조문이 서로 다른 국면을 규율함을 원문으로 확인",filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276291&type=XML#article10-2
+s9,한국은행 ECOS — 기준금리(722Y001),한국은행 기준금리 월별 값 2026-01~2026-08 — 2.5%(1~6월) → 2.75%(7월) → 3.0%(8월),dataset,https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/722Y001/M/202601/202608/0101000
+s10,한국은행 — 통화정책방향 보도자료(2026-08-27),"한국은행 기준금리 2026-08-27 3.00%로 인상(2.75%→3.00%, 0.25%p) — 9월 금통위 회의 없음, 8월 결정이 최신치",filing,https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=11064191&menuNo=200690&programType=newsData&relate=Y&depth=200690
+s11,한국은행 — 통화정책방향 결정회의 일정,"2026년 금융통화위원회 통화정책방향 결정회의 일정 — 7월 16일(목), 8월 27일(목)",observation,https://www.bok.or.kr/portal/singl/crncyPolicyDrcMtg/listYear.do?menuNo=200755&mtgSe=A
+s12,법제처 국가법령정보센터 - 주택임대차보호법,주택임대차보호법 제6조의3(계약갱신 요구 등) 제3항 원문 — 갱신되는 임대차의 차임·보증금은 제7조의 범위에서 증감. 제6조의3·제7조·제7조의2 전문에 증액분 월세 전환 시 두 상한 적용 방법을 정한 문장은 없음(2026-10-04 대조),filing,http://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276291&type=XML#article6-3

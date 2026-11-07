@@ -1,0 +1,15 @@
+﻿id,publisher,title,type,url
+s1,행정안전부 - 예규(법제처 국가법령정보센터),행정안전부예규 제329호 「사망자 및 피후견인 등 재산조회 통합처리에 관한 기준」 제7조~제10조 — 조회 대상 기관별 처리기간을 20일/7일로 명시,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000260688&type=HTML
+s2,행정안전부 - 예규 별지서식(법제처 국가법령정보센터),「사망자 및 피후견인 등 재산조회 통합처리에 관한 기준」 별지 제1호서식(재산조회 통합처리 신청서) — 서식 표에 '처리기간 7일 ~ 20일' 필드가 인쇄돼 있음,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000260688&type=HTML#%EB%B3%84%EC%A7%801%ED%98%B8%EC%84%9C%EC%8B%9D
+s4,법제처 국가법령정보센터 - 민법,"민법 제1019조(승인, 포기의 기간) 원문 접근 확인 — 후보3 근거, 상속개시 안 날로부터 3개월",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284415&type=XML#article1019
+s5,하남시청,하남시 안심상속 원스톱서비스 안내 — 처리기간 '7~20일 이내 결과 통보' 명시,observation,https://www.hanam.go.kr/www/contents.do?key=7065
+s6,안산시청,"안산시 안심상속원스톱서비스 안내 — 항목을 나눠 '금융거래ㆍ국세ㆍ국민연금 20일 이내', '토지ㆍ지방세ㆍ자동차 7일 이내'로 정확히 구분해 표기",observation,https://www.ansan.go.kr/www/common/cntnts/selectContents.do?cntnts_id=C0001053
+s7,계룡시청,계룡시청 안심상속 원스톱서비스 안내는 안산시청보다 더 정밀하다 — 기관유형별 20일/7일 구분에 더해 자동차·건축물·어선의 '정부24 신청 시 7일 이내 vs 신청 즉시(방문)'라는 채널별 차이까지 명시,observation,https://gyeryong.go.kr/kr/html/sub01/010602.html
+s8,택슬리(TAXLY) - 세무회계 세금엔 김유정세무사 블로그,세무사 블로그 - 안심상속 원스톱서비스 조회결과 확인방법 표에 '처리기간 : 20일 이내' / '처리기간 : 7일 이내' 병기,news,https://taxly.kr/post/1154-%EC%95%88%EC%8B%AC%EC%83%81%EC%86%8D-%EC%9B%90%EC%8A%A4%ED%86%B1-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B8%EB%AC%B4%ED%9A%8C%EA%B3%84-%EC%84%B8%EA%B8%88-%EA%B9%80%EC%9C%A0%EC%A0%95-%EC%84%B8%EB%AC%B4%EC%82%AC
+s9,인포스텝(infostep.co.kr) 블로그,"블로그 - 안심상속 원스톱서비스 결과 확인 시점을 '지방세ㆍ자동차ㆍ토지 7일 이내', '금융ㆍ국세 20일 정도'로 뭉뚱그려 표현",news,https://infostep.co.kr/%EC%95%88%EC%8B%AC%EC%83%81%EC%86%8D-%EC%9B%90%EC%8A%A4%ED%86%B1-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%A0%EC%B2%AD-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%84%9C%EB%A5%98/
+s10,정부24,정부24 '사망자 및 피후견인 재산조회 통합처리 신청(안심상속서비스)' 안내(최종수정일 2026.07.29) — 신청기한은 있고 '며칠 이내' 처리기간은 없다. 자동차·건축물·어선은 접수처에서 즉시 확인,observation,https://www.gov.kr/portal/service/serviceInfo/174000000013#observed-2026-10-04
+s11,정부24,"정부24 안심상속 serviceInfo 442000000189·553000000476 두 진입점, 2026-10-04에도 삭제 상태 응답",observation,https://www.gov.kr/portal/service/serviceInfo/442000000189#observed-2026-10-04
+s12,정부24,정부24 원스톱서비스 '안심상속' 안내 — 2026-10-04에도 신청기한만 있고 처리기간(며칠 이내) 표현 없음,observation,https://www.gov.kr/portal/onestopSvc/safeInheritance#observed-2026-10-04
+s13,행정안전부 - 예규(법제처 국가법령정보센터),"행정안전부예규 제329호 2026-10-04 현행 확인(현행여부 Y, 발령 2025-06-23) — 제8조 자동차 단서와 별지 제1호서식 유의사항 2번 접수당일",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000260688&type=JSON#checked-2026-10-04
+s14,정부24,"정부24 민원안내·신청 '사망자 및 피후견인 등 재산조회 통합처리 신청(안심상속)' 페이지 — 처리기간 표(신청 방법 구분 없음): 국세·금융·연금·공제회·4대보험료 총20일, 토지·지방세 총7일, 자동차·건축물·어선 즉시(근무시간 내 3시간)",observation,https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=17400000001#observed-2026-10-04
+s15,정부24,"정부24 serviceInfo/353000000184 '재산조회 통합처리 신청(안심 상속)'(인천광역시 남동구 소관, 최종수정일 2026.08.10) — 열리는 페이지, 처리기간 숫자 없음",observation,https://www.gov.kr/portal/service/serviceInfo/353000000184#observed-2026-10-04

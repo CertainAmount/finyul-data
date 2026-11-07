@@ -1,0 +1,15 @@
+﻿id,publisher,title,type,url
+s1,신용회복위원회 사이버상담부(cyber.ccrs.or.kr) 채무조정 신규신청 안내,"온라인 채무조정 신규신청 절차 — 상담예약→전화상담→접수완료 3단계, 온라인 자체 접수완결 아님",filing,https://cyber.ccrs.or.kr/debt/apply/guide.do
+s2,신용회복지원협약(신용회복위원회·채권금융회사 자율협약 원문),"신용회복지원협약 제8조(채권신고) — 접수 시 채권금융회사에 '즉시' 통지, 채권금융회사는 통지받은 날부터 2주 이내 채권신고",filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=2590#article8-notice-and-claim-report
+s3,신용회복지원협약(신용회복위원회·채권금융회사 자율협약 원문),"신용회복지원협약 제9조·제10조 — 채무조정안 심의·의결 30일(연장 시 최대 30일 추가), 채권금융회사 미회신 시 동의 간주",filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=2590#article9-10-deadline-and-deemed-consent
+s4,신용회복위원회 공식 안내(채무조정 절차),채무조정(개인워크아웃) 절차 10단계 — 상담·접수부터 합의서 체결까지 평균 약 2개월,filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=1720#steps-timeline
+s5,신용회복지원협약(신용회복위원회·채권금융회사 자율협약 원문),"신용회복지원협약 제22조(신청의 효력) — 접수통지 받은 채권금융회사는 추심·가압류·강제집행 금지, 임의변제 요청도 거절 의무 (단, 재산 도피·은닉 우려 시 예외)",filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=2590#article22-collection-stay
+s6,신용회복지원협약(신용회복위원회·채권금융회사 자율협약 원문),"신용회복지원협약 제2조(정의)·제4조(신청대상) — 협약가입 채권금융회사 한정, 협약외채무 20% 이상시 신청 제외",filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=2590#article2-4-membership-scope
+s7,법제처 찾기쉬운 생활법령정보,"찾기쉬운 생활법령정보 — 프리워크아웃(단기연체 30~90일)/개인워크아웃 구분, 개인회생 절차는 법원 전자소송포털로 안내(자체 온라인신청 설명 없음)",filing,https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=275&ccfNo=5&cciNo=1&cnpClsNo=3
+s8,법제처 국가법령정보센터 — 채무자 회생 및 파산에 관한 법률,"채무자회생법 제588조·제593조·제600조 — 개인회생은 '법원'에 신청, 신청만으로 추심이 자동 정지되지 않고 법원의 재량적 '중지명령'이 있어야 하며, 강제 자동중지는 '개시결정' 시점부터",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=267359&type=XML#article588-593-600-court-filing-and-stay
+s10,국가법령정보센터 — 채무자회생법 개정이유 목록,"채무자회생법 제579조 채무한도 5억/10억→10억/15억 상향 개정 — 법률 제18084호, 2021-04-20 공포·시행",filing,https://law.go.kr/LSW/lsRvsRsnListP.do?lsId=009930&chrClsCd=010102#article579-amendment-history
+s11,신용회복위원회 사이버상담부(cyber.ccrs.or.kr) 채무조정 신청 절차 안내,2026-10-04 사이버상담부 채무조정 신청 절차: 상담 예약 → 전화상담 및 접수 → 접수통지(추심중단),filing,https://cyber.ccrs.or.kr/debt/apply/guide.do#apply-flow-20261004
+s12,신용회복위원회 개인워크아웃 안내(ccrs.or.kr),"2026-10-04 개인워크아웃 신청 방법: 전화·인터넷·모바일·방문 예약, 대표번호 1375",filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=1930#apply-methods-1375-20261004
+s13,신용회복위원회 신속채무조정 특례 안내(ccrs.or.kr),2026-10-04 신속채무조정 특례: 연체 30일 이하 취약채무자 원금 최대 15% 감면,filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=520&CONTENTS_NO=1#rapid-special-15pct-20261004
+s14,신용회복위원회 개인워크아웃 소액 채무 면책 안내(ccrs.or.kr),2026-10-04 소액 채무 면책: 원금 500만원 이하·1년 이상 연체 기초수급자·중증장애인 상환유예 후 면책,filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=1940&CONTENTS_NO=7#small-debt-exemption-20261004
+s15,신용회복위원회 채무조정 절차 안내(ccrs.or.kr),"2026-10-04 채무조정 절차: 신청 다음날 채권금융회사 접수 통지, 추심 등 금지, 접수일부터 개별 상환 중단",filing,https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=1720#notice-next-day-20261004

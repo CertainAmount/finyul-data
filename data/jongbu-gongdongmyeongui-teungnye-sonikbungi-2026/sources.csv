@@ -1,0 +1,15 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 종합부동산세법,"종합부동산세법 제8조 제1항 — 주택분 종부세 기본공제 금액(1세대1주택자 12억원, 그 외 9억원, 특정 법인 0원)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280417&type=XML#article8-1
+s2,법제처 국가법령정보센터 - 종합부동산세법,종합부동산세법 제9조 제1항 제1호 — 2주택 이하 소유자 주택분 종부세 세율표(7단계 초과누진),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280417&type=XML#article9-1-1
+s3,"법제처 국가법령정보센터 - 종합부동산세법(법률, MST 280417)","종합부동산세법 제9조 5~9항 — 1세대1주택자 연령별·보유기간별 세액공제율표 원문(연령 60~64세 20%/65~69세 30%/70세이상 40%, 보유기간 5~9년 20%/10~14년 40%/15년이상 50%, 합산한도 100분의 80)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280417&type=XML#article9
+s4,법제처 국가법령정보센터 - 종합부동산세법 시행령,종합부동산세법 시행령 제2조의4(공정시장가액비율) — 현행 100분의 60,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283639&type=XML#article2-4
+s5,내일신문,국세청 부부 공동명의 종부세 특례 유리한 방식 미리안내,news,https://www.naeil.com/news/read/602218
+s6,한국경제,"부부공동 1주택 유리한 종부세 사전 안내 — 국세청, 특례신청 유리 5700여명·취소 유리 2900여명 개별 산출",news,https://www.hankyung.com/article/2026091313611
+s7,파이낸셜뉴스,"임광현, 부부 공동명의 1주택자 유리한 종부세 안내, 더 낸 세금은 환급 발언",news,https://www.fnnews.com/news/202609131004499220
+s9,법제처 국가법령정보센터 - 종합부동산세법 제16조,"종부세법 제16조 제3항 — 신고납부방식 선택 시 12.1~12.15 신고, 관할세무서장의 결정은 없었던 것으로 본다",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280417&type=XML#article16-3
+s10,종부세법 시행규칙 별지 제31호서식(종합부동산세 신고서) 제출서류 항목 — 별지 제30호서식과 교차 대조,12월 정기신고서 서식이 제출서류에 공동명의 1주택자 특례 (변경)신청서를 직접 열거한다 — 12월 두 번째 창이 공동명의에도 열린다는 1차 근거,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285003&type=XML#form31-attachments
+s11,서울신문,"부부공동 1주택 '가장 유리한 종부세' 안내 — 임광현 국세청장 13일 엑스(X) 글: 5700여명·2900여명, 개별 안내는 '가장 유리한 예상 세액', 12월 정기 신고 때도 유리한 방향 신고 지원",news,https://www.seoul.co.kr/news/economy/2026/09/14/20260914006002
+s12,"법제처 국가법령정보센터 — 종합부동산세법 제10조의2, 시행령 제5조의2(현행 MST 290557, 시행 2026.10.1), 시행규칙 제4조의12 조문 대조","법·시행령·시행규칙의 공동명의 특례 신청·변경신청(취소 포함) 기간은 9월 16~30일뿐이고, 12월에 취소를 받는다는 문언은 세 조문에 없다 (2026.10.4 현행본 대조)",observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=290557&type=XML#article5-2-window-check-20261004
+s13,법제처 국가법령정보센터 - 종합부동산세법,"종합부동산세법 제10조의2(공동명의 1주택자의 납세의무 등에 관한 특례) 전문 — 신청기간 9.16~9.30을 법률이 직접 규정, 거주 요건 문언 없음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280417&type=XML#article10-2
+s14,법제처 국가법령정보센터 - 종합부동산세법 시행령,"종합부동산세법 시행령 제5조의2 제4항·제5항 — 자동 계속의 근거는 법률이 아니라 시행령이고, 변동의 범위는 재정경제부령에 위임돼 있다",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283639&type=XML#article5-2-5
+s15,법제처 국가법령정보센터 - 종합부동산세법 시행규칙,종합부동산세법 시행규칙 제4조의12 — 변경신청을 해야 하는 '변경된 경우'가 4개 호로 한정 열거돼 있고 그중 하나가 '적용을 받지 않으려는 경우'(취소)다,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285003&type=XML#article4-12

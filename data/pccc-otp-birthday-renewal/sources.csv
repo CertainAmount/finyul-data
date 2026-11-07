@@ -1,0 +1,9 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 — 관세청고시,"통관고유부호 및 해외거래처부호 등록·관리에 관한 고시 (관세청고시 제2026-21호, 2026.4.13. 시행) — 개인통관고유부호 갱신 경과조치",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000277306&type=HTML
+s2,KTV 국민방송,"해외 직구 일회용 인증번호 도입···""통관부호 도용 원천 차단"" — 관세청 통관국장 녹취",news,https://www.ktv.go.kr/content/view?content_id=759857
+s3,아주경제,해외직구족 주목…28일부터 통관 절차 달라진다,news,https://www.ajunews.com/view/20260825094526204
+s4,데일리안(네이버뉴스 전재),"해외직구 명의도용 막는다…관세청, 인증번호 도입·면세품 교환 간소화",news,https://n.news.naver.com/mnews/article/119/0003116890?sid=101
+s5,정책브리핑(korea.kr),"[진짜 돈 되는 정책] 개인통관고유부호, 무엇이 달라졌을까?",news,https://www.korea.kr/news/policyNewsView.do?newsId=148960801
+s6,finyul-datacollector 관찰,관찰: 일회용 인증번호(OTP) 도입은 관세청고시 조문 개정이 아니라 운영 조치로 보임 + '생일 기준' 표현이 출처마다 다름,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000277306&type=HTML#observation-otp-not-in-gosi
+s7,관세청 — 공지사항(통관),"관세청 공지 ""개인통관고유부호, 2026년부터는 매년 갱신해 주세요""(2025.6.18) — 유효기간 1년, 2026년 이전 발급자는 2027년 본인 생일이 만료일, 만료일 전후 30일 미갱신 시 해지",filing,https://www.customs.go.kr/kcs/na/ntt/selectNttInfo.do?mi=2891&bbsId=1362&nttSn=10142854&nttSnUrl=0ddd5ddedd8d336d4b66b4d9ea728964
+s8,법제처 국가법령정보센터 — 통관고유부호 및 해외거래처부호 등록·관리에 관한 고시(관세청고시 제2026-21호),"통관고유부호 및 해외거래처부호 등록·관리에 관한 고시 제8조제2항제2호·제16조제4항·제5항 — 갱신 신청은 만료일 전후 각 30일 이내, 만료 후 30일 경과 시 해지할 수 있음 (2026-10-04 현행)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000277306&type=JSON#art8-2-and-art16

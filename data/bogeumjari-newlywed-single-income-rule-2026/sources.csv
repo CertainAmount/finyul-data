@@ -1,0 +1,16 @@
+﻿id,publisher,title,type,url
+s1,한국주택금융공사,"보도자료 ""보금자리론, 소득기준 개선해 '결혼페널티' 없앤다"" (2026.9.28) 본문 HWP",filing,http://www.hf.go.kr/ko/sub05/sub05_04_05.do?mode=download&articleNo=600594&attachNo=96667
+s2,한국주택금융공사,"보도자료 참고1 ""보금자리론 상품 주요 요건"" (2026.9.28) HWP",filing,http://www.hf.go.kr/ko/sub05/sub05_04_05.do?mode=download&articleNo=600594&attachNo=96668
+s3,금융위원회(관계부처),"부동산 시장 안정을 위한 금융 종합대책 (금융위원회, 2026.8.13) - 정책대출 결혼페널티 해소",filing,https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=3#%EA%B2%B0%ED%98%BC%ED%8E%98%EB%84%90%ED%8B%B0
+s4,한국주택금융공사,"보도자료 참고2 ""보금자리론 결혼 페널티 해소 관련 질의·응답"" (2026.9.28) HWP",filing,http://www.hf.go.kr/ko/sub05/sub05_04_05.do?mode=download&articleNo=600594&attachNo=96669
+s5,금융위원회,금융 종합대책 브리핑문 (2026.8.13) - 결혼 페널티 해소 발언,filing,https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=4
+s6,finyul-verifier 대조,"8.13 금융위 자료 안에서 브리핑문('1인 기준으로 바꾸어')과 대책 본문('1인 기준으로도 심사할 수 있도록', 택일)이 다르게 말한다",observation,https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=4#conflict-brief-vs-body
+s7,finyul 수집 관찰,"관찰: 8.13 대책 표현(""1인 기준으로 바꾼다"")과 9.28 실제 설계(택일·합산 유지·DTI 1인) 사이의 차이",observation,http://www.hf.go.kr/ko/sub05/sub05_04_05.do?mode=view&articleNo=600594#obs-wording-gap
+s8,한국주택금융공사,보금자리론 업무처리기준 (2026.7.20 일부개정본) - 제6장 증빙소득의 연소득 산정방법(2개년 확인),filing,https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsHgTJwDsBmEA6ADgEwGZA#%EC%86%8C%EB%93%9D%EC%82%B0%EC%A0%95
+s9,한국주택금융공사,보금자리론(일반) 상품소개 - 소득 요건 (2026.9.29 확인 시점),filing,https://www.hf.go.kr/ko/sub01/sub01_01_01.do
+s10,한국주택금융공사,보금자리론 업무처리기준 (2026.7.20 일부개정본) - 소득요건·신혼가구 정의·소득입증자,filing,https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsHgTJwDsBmEA6ADgEwGZA#%EC%86%8C%EB%93%9D%EC%9A%94%EA%B1%B4
+s11,금융위 8.13 대책 본문 · 9.28 HF 보도자료,"대책 본문·9.28 자료·참고2 어디에도 ""1인""에 ""소득이 있는"" 한정어가 없다 — 문언 그대로면 연소득 0원 배우자도 ""7천만원 이하 1인""이다(현행 문구는 미혼 1인 기준 7,000 / 신혼 합산 8,500)",observation,https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=3#adv-literal-1in
+s12,HF 보금자리론 업무처리기준(2026.7.20 개정본) · 9/28 참고1,"현행 신혼 우대금리 0.3%p 요건은 부부 합산 연소득 7천만원 이하 — 합산 8,500만원 초과인 1인 경로 부부는 문언상 해당하지 않는다",observation,https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsHgTJwDsBmEA6ADgEwGZA#adv-pref-rate
+s13,한국주택금융공사,보금자리론(일반) 상품소개 - 소득 요건·신혼 우대금리 (2026.10.4 재확인: 1인 경로 안내 없음),filing,https://www.hf.go.kr/ko/sub01/sub01_01_01.do#recheck-20261004
+s14,한국주택금융공사,보금자리론(일반) 상품소개 - 소득 요건 (2026.10.19 재확인: 신혼소득특례 1인(채무자) 7천만원 경로 게재),filing,https://www.hf.go.kr/ko/sub01/sub01_01_01.do#recheck-20261019
+s15,한국주택금융공사,"보금자리론 업무처리기준 (2026.10.1 일부개정, 10.19 게시본 01_06_01_261019) - 신혼소득특례자 소득요건·DTI·DSR·우대요건",filing,https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsHgTJJQE4B0AHAJgMyA#biz-20261001

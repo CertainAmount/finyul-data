@@ -1,0 +1,14 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 소득세법 시행령,소득세법 시행령 제40조의2(연금계좌 등) 제1항·제2항 — 납입 시점 판정의 핵심 근거: '해당 과세기간 이전의 연금보험료는 납입할 수 없다',filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML#article40-2
+s2,법제처 국가법령정보센터 - 국세기본법,국세기본법 제5조(기한의 특례) — 공휴일·토요일 익일 연장은 '세법에서 규정하는 신고·신청·청구·서류제출·통지·납부·징수'에 한정,filing,https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000574525&chrClsCd=010202
+s3,법제처 국가법령정보센터 - 소득세법,"소득세법 제59조의3(연금계좌세액공제) 전문 — 공제율 12%/15%, 연금저축계좌 600만원 한도·합산 900만원 한도의 법률상 계산 방식",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article59-3
+s4,국세청 - 연말정산 종합안내(연금계좌 세액공제),"국세청 연말정산 안내 페이지 — 연금계좌 세액공제 한도·공제율 표(총급여 4.5천만원/5.5천만원 기준 15%·12%, 한도 600만원(900만원))",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7875
+s5,"frism.io (핀테크 정보 블로그, 특정 금융사 판매 목적 아님)",연금저축과 IRP의 입금 마감 시각이 다른 이유 — 승인 절차 차이(연금저축 알림톡 승인 vs IRP 전화 승인),news,https://www.frism.io/2025nyeon-yeonmaljeongsan-daebi-yeongeumjeocug-irp-ibgeum-gihan-annae/
+s6,뉴시스,연금저축·IRP 한도 배분 실무 — '연금저축 600만원+IRP 300만원' 조합이 널리 쓰이는 이유와 IRP의 더 이른 마감(12월 29일 영업일 오후),news,https://www.newsis.com/view/NISX20251212_0003438193
+s7,finyul-datacollector 대조 — frism.io vs 뉴시스,"IRP 2025년 12월 입금 마감일 자체가 소스마다 다르다 — frism.io는 '12월 31일(수) 15시', 뉴시스는 '마지막 영업일(12월 29일) 오후 4~5시'",observation,https://www.frism.io/2025nyeon-yeonmaljeongsan-daebi-yeongeumjeocug-irp-ibgeum-gihan-annae/#vs-newsis-NISX20251212_0003438193
+s8,YTN,"YTN — 연금저축·IRP 900만원 넣으면 최대 148만원 환급, 연말정산 지금 움직여야 (2025-12-26)",news,https://www.ytn.co.kr/_ln/0102_202512261223303080
+s9,법제처 국가법령정보센터 - 소득세법 시행령,"소득세법 시행령 제118조의3제1항 — 이전 과세기간에 세액공제를 받지 않은 납입분을 해당 과세기간 납입분으로 전환 신청(신청한 날 납입으로 봄), 현행(시행 2026-10-01)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=290841&type=XML#article118-3
+s10,법제처 국가법령정보센터 - 소득세법 시행령,"소득세법 시행령 제40조의2제2항(현행, 시행 2026-10-01) — 연금보험료 납입 요건은 한도와 연금수령 개시 전 납입뿐, 계좌를 연 시기 조건 없음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=290841&type=XML#article40-2-cur
+s11,삼성증권 (samsungpop.com),삼성증권 안내(2025-12-15) — 연금저축·IRP는 12월 31일까지 실제로 입금해야 올해분 세액공제에 반영,observation,https://www.samsungpop.com/mbw/o2Info/contents.do?cmd=detail&boardId=1398&isEbd=Y
+s12,KB국민은행 (KB Think),"KB국민은행 KB Think 안내 — 연금저축펀드는 입금만으로 인정되지 않고 펀드 매수 체결일이 기준, IRP는 12월 31일까지 입금 완료되면 인정",observation,https://kbthink.com/year-end-tax/pension-savings-vs-irp.html
+s13,법제처 국가법령정보센터,지방세법 제103조의13(특별징수의무) — 원천징수하는 소득세의 100분의 10을 개인지방소득세로 함께 특별징수(시행 2026-01-01),filing,https://www.law.go.kr/법령/지방세법/제103조의13

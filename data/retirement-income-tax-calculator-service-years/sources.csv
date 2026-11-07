@@ -1,0 +1,15 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,소득세법 제48조(퇴직소득공제) — 근속연수공제표·환산급여공제표·환산급여 12배 구조 (시행 2026-01-01),filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C48%EC%A1%B0#retire-deduction-table
+s2,법제처 국가법령정보센터,소득세법 제48조제2항 — 퇴직소득금액이 근속연수공제에 못 미치면 퇴직소득금액 전액이 공제액,filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C48%EC%A1%B0#para2-shortfall
+s3,법제처 국가법령정보센터,소득세법 제55조 — 기본세율표(제1항)와 퇴직소득 산출세액 계산 순서(제2항),filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C55%EC%A1%B0#para1-2-rates
+s4,법제처 국가법령정보센터,소득세법 제146조제1항 — 퇴직소득 지급 시 퇴직소득과세표준에 원천징수세율을 적용해 원천징수,filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C146%EC%A1%B0#para1
+s5,법제처 국가법령정보센터,소득세법 제129조제1항제7호 — 퇴직소득의 원천징수세율은 기본세율,filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C129%EC%A1%B0#subpara7
+s6,법제처 국가법령정보센터,"소득세법 시행령 제202조의2 — 이연퇴직소득세 = 산출세액 × (연금계좌 지급·입금 금액 ÷ 퇴직소득금액), 연금외수령 시 원천징수",filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95%20%EC%8B%9C%ED%96%89%EB%A0%B9/%EC%A0%9C202%EC%A1%B0%EC%9D%982#para1-2
+s7,법제처 국가법령정보센터,"소득세법 시행령 제105조제1항 — 근속연수 산정(법 제48조·제55조 적용 시, 근로 제공 시작일부터 퇴직한 날까지)",filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95%20%EC%8B%9C%ED%96%89%EB%A0%B9/%EC%A0%9C105%EC%A1%B0#para1
+s8,법제처 국가법령정보센터,소득세법 제22조 — 퇴직소득의 범위와 퇴직소득금액(비과세 제외),filing,https://www.law.go.kr/법령/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C22%EC%A1%B0#para1-3
+s9,법제처 국가법령정보센터,지방세법 제103조의13제1항 — 소득세 원천징수 때 소득세의 10%를 개인지방소득세로 같이 특별징수,filing,https://www.law.go.kr/법령/%EC%A7%80%EB%B0%A9%EC%84%B8%EB%B2%95/%EC%A0%9C103%EC%A1%B0%EC%9D%9813#para1
+s10,국세청,"국세청 퇴직소득 — 퇴직소득세 계산방법 및 계산사례(근속 20년, 퇴직급여 1억원)",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6444&cntntsId=7880
+s11,finyul 계산(재현 가능),"퇴직소득세 산출세액 계산 — 퇴직금 5천만·1억 × 근속 5·15·30년 (법 제48·55조 공식, 지방소득세 별도)",observation,https://github.com/finyul/calc#retire-tax-5-15-30
+s12,finyul 확인,"2026-10-26 시행본 확인 — 퇴직소득세 계산 조문(제48·55·129·146조, 시행령 제105·202의2조)의 2026 개정 여부",observation,https://www.law.go.kr/법령/소득세법#amend-2026-check
+s14,국세청,"국세청 퇴직소득 — 현행 규정 방식은 2020년 이후 퇴직부터 적용, 경과규정 비율표 2016~2019년",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6444&cntntsId=7880#transition-2020
+s15,연금레터 89호(maily.so),2026년 세제개편 핵심 정리 (2) — 퇴직급여 연금수령 세액감면에 20년 초과 구간 신설(개정안 표기),news,https://maily.so/pensionletter/posts/wdr94d17zlx

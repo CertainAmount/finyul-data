@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 215" role="img" aria-label="명단은 10월까지 신고분만 반영하고 11~12월 소득은 빠진다" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<defs><pattern id="fyHatchList" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="8" stroke="#b4532a" stroke-width="2"/></pattern></defs>
+<text x="20" y="18" font-size="15" fill="#6f7783">1월</text>
+<text x="320" y="18" font-size="15" fill="#6f7783" text-anchor="middle">10월</text>
+<text x="380" y="18" font-size="15" fill="#6f7783" text-anchor="end">12월</text>
+<text x="20" y="50" font-size="15" fill="#282d35">법이 보는 소득</text>
+<rect x="20" y="58" width="360" height="28" fill="#254a75"/>
+<text x="200" y="77" font-size="15" fill="#ffffff" text-anchor="middle">1~12월 한 해 전체</text>
+<text x="20" y="108" font-size="15" fill="#254a75">다음 해 5월 종합소득세 신고 뒤 확정</text>
+<text x="20" y="144" font-size="15" fill="#282d35">명단이 반영하는 사업·기타·퇴직·양도소득</text>
+<rect x="20" y="152" width="300" height="28" fill="#f2f6fb" stroke="#254a75" stroke-width="1.5"/>
+<text x="170" y="171" font-size="15" fill="#282d35" text-anchor="middle">1~10월 신고분</text>
+<rect x="320" y="152" width="60" height="28" fill="url(#fyHatchList)" stroke="#b4532a" stroke-width="1.5"/>
+<text x="380" y="204" font-size="15" fill="#b4532a" text-anchor="end">11~12월은 명단 밖</text>
+</svg>

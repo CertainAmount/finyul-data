@@ -1,0 +1,16 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,소득세법 제21조①27호 — 가상자산 양도·대여 소득의 기타소득 정의,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=002100#h27
+s2,법제처 국가법령정보센터,"소득세법 제37조(기타소득의 필요경비 계산) — 가상자산 실제취득가액 원칙, 2026-12-31 시가 의제, 필요경비 의제 비율 100분의 50 이하 위임",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=003700
+s3,법제처 국가법령정보센터,"소득세법 시행령 제88조(가상자산에 대한 기타소득금액의 계산 등) — 총평균법, 2026-12-31 시가 산정 방법, 실제취득가액 확인곤란 사유, 필요경비 의제 비율 100분의 50 확정",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=008800
+s4,국세청,"국세청 「거주자의 가상자산소득 과세 개요」 — 시행일 2027-01-01, 세율 20%, 기본공제 250만원, 총평균법, 2026-12-31 시가 의제, 필요경비 의제 최대 50%",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40370&cntntsId=238935
+s5,재정경제부,"2026년 세제개편안 상세본(재정경제부, 2026-08-03) — 가상자산 관련 항목은 상속·증여세 조사 대상 확대(상증법 §83·§84)뿐, 가상자산 소득과세 유예·연기 조항 없음",filing,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#p200-%EA%B0%80%EC%83%81%EC%9E%90%EC%82%B0-%EC%83%81%EC%86%8D%EC%A6%9D%EC%97%AC%EC%84%B8%EC%A1%B0%EC%82%AC
+s6,아시아경제,"구윤철 경제부총리 발언(2026-08-03, 세제발전심의위) — 가상자산 과세 예정대로 시행, 운영 중 보완",news,https://view.asiae.co.kr/article/2026080308361151042
+s7,머니투데이,"野 정성국 의원, 가상자산 투자소득 과세 시행일 2030-01-01로 유예하는 소득세법 개정안 대표발의(2026-08-11) — 계류 중, 미확정",news,https://www.mt.co.kr/politics/2026/08/11/2026081116450095593
+s8,뉴스1,"국민의힘, 가상자산 소득세 전면 폐지 소득세법 개정안 별도 발의(재정경제기획위 계류, 논의 일정 미정) — 재유예·폐지 법안이 복수 계류 중",news,https://www.news1.kr/finance/blockchain-fintech/6259352
+s9,지디넷코리아,"국세청, 스테이킹·에어드롭·디파이 코인 과세 세부 가이드라인 이르면 10월 공개 예정 — 현재 확정된 공식 과세시점 기준 없음",news,https://zdnet.co.kr/view/?no=20260714105047
+s10,조세금융신문,"[전문가 기고] 코인 세금, 두 가지를 모르면 계산이 틀린다 — 교환 과세와 거주자별 총평균법",news,https://www.tfmedia.co.kr/news/article.html?no=206316
+s11,디지털애셋,"국회 재경위, 가상자산 과세 유예 법안 전체회의 심사(입력 2026-09-28) — 정성국 3년 유예안·김상훈 2년 유예안 상정, 조세소위는 11월부터",news,https://www.digitalasset.works/news/articleView.html?idxno=43238
+s12,머니투데이,"이형일 부총리, 재경위에서 가상자산 과세 예정대로(2026-09-28) — '현재 세법상 이미 내년부터 과세하는 것으로 예정돼 있다'",news,https://www.mt.co.kr/society/2026/09/28/2026092815583250592
+s13,법제처 국가법령정보센터 — 지방세법,지방세법 제93조제18항 — 가상자산소득 개인지방소득세는 기타소득금액에서 250만원을 뺀 금액의 1천분의 20,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#jo93-18
+s14,열린국회정보 — 발의법률안(22대),"2026-10-15 재조회 — 가상자산 과세 유예 소득세법 개정안 3건(2220515 정성국·2220914 김상훈·2221570 김재섭) 모두 재정경제기획위원회 계류, 처리결과 없음",filing,"https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn?AGE=22&BILL_NAME=%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95#observed-2026-10-15-BILL_NO=2220515,2220914,2221570"
+s15,법제처 국가법령정보 — 소득세법,"2026-10-15 조회 — 소득세법 최신 공포 2025-12-23(법률 제21221호), 그 뒤 개정 없음(가상자산 과세 시행일 변경 입법 없음)",filing,https://www.law.go.kr/DRF/lawSearch.do?target=law&query=%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95#observed-2026-10-15

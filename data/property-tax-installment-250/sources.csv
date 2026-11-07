@@ -1,0 +1,14 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 지방세법,"지방세법 제118조(분할납부)·제119조(소액 징수면제) 원문 — 250만원 초과 시 분할납부(별개 제도), 고지서 1장당 2천원 미만은 징수 면제",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#article118
+s2,법제처 국가법령정보센터 - 지방세법 시행령,지방세법 시행령 제116조(분할납부세액의 기준 및 분할납부신청) 원문,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288831&type=XML#article116
+s3,법제처 국가법령정보센터 - 지방세법,지방세법 제116조(징수방법 등) 원문 — 재산세는 물건 종류별로 구분한 납세고지서로 부과,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#article116
+s4,법제처 국가법령정보센터 - 지방세법,지방세법 제112조(재산세 도시지역분) 원문 — 도시지역분은 합산돼 '재산세액'으로 산출,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#article112
+s5,법제처 국가법령정보센터 - 지방세법,지방세법 제150조(지방교육세 납세의무자)·제151조(과세표준과 세율) 원문 — 지방교육세는 재산세와 별도 세목,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#article150
+s6,법제처 국가법령정보센터 - 지방세기본법,"지방세기본법 제55조(납부지연가산세) 원문 — 납기 후 3%, 이후 매월 가산(45만원 미만은 제외, 최대 60개월)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283257&type=XML#article55
+s8,세종시 공지사항,세종시 - 재산세 납부세액이 250만원을 초과하는 경우 재산세 분할 납부 안내,observation,https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000092763Hf7lJ2o
+s9,시민일보,"평택시, 9월 정기분 재산세 1537억원 부과",news,https://www.siminilbo.co.kr/news/newsview.php?ncode=1160278476038390
+s10,매일신문,"재산세 30일 마감… 하루 넘기면 3%, 250만원 초과는 3개월 분납",news,https://n.news.naver.com/mnews/article/088/0001030804?sid=004
+s11,매일신문,"9월 재산세, 추석 연휴 끝나고 사흘뿐…10월 1일이면 3% 가산세",news,https://n.news.naver.com/mnews/article/088/0001029234?sid=101
+s12,webkr 검색 상위 결과 대조 (정부24/law.go.kr vs 정부지원사업 블로그),재산세 분납 기한 - 상위 노출 블로그 '2개월'과 정부24·law.go.kr '3개월' 간 불일치,observation,https://gov.jjyu.co.kr/policy/property-tax/%EB%B6%84%EB%82%A9/
+s13,법제처 국가법령정보센터 - 지방세법 시행규칙,지방세법 시행규칙 제61조(분할납부신청) 원문 — 재산세 분할납부 신청은 별지 제63호서식,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=287031&type=XML#article61
+s14,법제처 국가법령정보센터 - 지방세법,"지방세법 제114조(과세기준일)·제115조(납기) 원문 — 재산세 과세기준일은 6/1, 주택은 세액 1/2씩 7월·9월 분할, 20만원 이하는 7월 일괄부과 가능",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#article115

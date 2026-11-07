@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 262" role="img" aria-label="안심전세 앱 조회 세 칸과 동의가 필요한 체납 칸" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="30" y="24" font-size="15" fill="#254a75" font-weight="700">동의 없이 바로 보이는 칸</text>
+<rect x="30" y="36" width="340" height="36" rx="8" fill="#f2f6fb" stroke="#254a75"/>
+<text x="46" y="60" font-size="15" fill="#282d35">보증가입 금지 여부</text>
+<path d="M342 55 l6 6 l12 -14" fill="none" stroke="#254a75" stroke-width="2.5"/>
+<rect x="30" y="78" width="340" height="36" rx="8" fill="#f2f6fb" stroke="#254a75"/>
+<text x="46" y="102" font-size="15" fill="#282d35">반환보증 가입 건수</text>
+<path d="M342 97 l6 6 l12 -14" fill="none" stroke="#254a75" stroke-width="2.5"/>
+<rect x="30" y="120" width="340" height="36" rx="8" fill="#f2f6fb" stroke="#254a75"/>
+<text x="46" y="144" font-size="15" fill="#282d35">최근 3년 대위변제 건수</text>
+<path d="M342 139 l6 6 l12 -14" fill="none" stroke="#254a75" stroke-width="2.5"/>
+<text x="30" y="204" font-size="15" fill="#b4532a" font-weight="700">동의가 있어야 보이는 칸</text>
+<rect x="30" y="216" width="340" height="36" rx="8" fill="#ffffff" stroke="#b4532a" stroke-dasharray="5 4"/>
+<text x="46" y="240" font-size="15" fill="#282d35">체납 여부</text>
+<rect x="344" y="233" width="16" height="12" rx="2" fill="#b4532a"/>
+<path d="M347 233 v-4 a5 5 0 0 1 10 0 v4" fill="none" stroke="#b4532a" stroke-width="2"/>
+</svg>

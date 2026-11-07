@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 258" role="img" aria-label="재산이 커지면 지역 보험료가 임의계속 215,700원을 넘는 지점" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="50" y="16" font-size="15" fill="#6f7783">월 건강보험료(장기요양 제외)</text>
+    <line x1="50" y1="200" x2="380" y2="200" stroke="#6f7783" stroke-width="1"/>
+    <line x1="50" y1="26" x2="50" y2="200" stroke="#6f7783" stroke-width="1"/>
+    <line x1="83" y1="196" x2="83" y2="204" stroke="#6f7783" stroke-width="1"/>
+    <line x1="182" y1="196" x2="182" y2="204" stroke="#6f7783" stroke-width="1"/>
+    <line x1="281" y1="196" x2="281" y2="204" stroke="#6f7783" stroke-width="1"/>
+    <line x1="380" y1="196" x2="380" y2="204" stroke="#6f7783" stroke-width="1"/>
+    <text x="83" y="222" font-size="15" fill="#6f7783" text-anchor="middle">1억</text>
+    <text x="182" y="222" font-size="15" fill="#6f7783" text-anchor="middle">4억</text>
+    <text x="281" y="222" font-size="15" fill="#6f7783" text-anchor="middle">7억</text>
+    <text x="374" y="222" font-size="15" fill="#6f7783" text-anchor="middle">10억</text>
+    <text x="215" y="246" font-size="15" fill="#282d35" text-anchor="middle">재산 평가액(전세는 보증금의 30%)</text>
+    <line x1="50" y1="85.4" x2="380" y2="85.4" stroke="#282d35" stroke-width="3"/>
+    <polyline points="50,142.7 83,142.7 99.5,112.6 116,93.4 149,76.9 215,57.7 281,43.7 327.2,39.2 380,30.2" fill="none" stroke="#b4532a" stroke-width="2.5"/>
+    <polyline points="50,189.3 83,189.3 99.5,159.2 116,140 149,123.5 215,104.2 281,90.3 327.2,85.8 380,76.8" fill="none" stroke="#254a75" stroke-width="2.5" stroke-dasharray="6 4"/>
+    <circle cx="132" cy="85.4" r="5" fill="#f2f6fb" stroke="#282d35" stroke-width="2"/>
+    <circle cx="328.8" cy="85.4" r="5" fill="#f2f6fb" stroke="#282d35" stroke-width="2"/>
+    <text x="124.19999999999999" y="72" font-size="15" fill="#282d35" text-anchor="end">약 2.33억</text>
+    <text x="324.8" y="72" font-size="15" fill="#282d35" text-anchor="end">약 8.4억</text>
+    <text x="135" y="40" font-size="15" fill="#b4532a">지역(옛 월급)</text>
+    <text x="150" y="162" font-size="15" fill="#254a75">지역(소득 0)</text>
+    <text x="380" y="120" font-size="15" fill="#282d35" text-anchor="end">임의계속 215,700원</text>
+  </svg>

@@ -1,0 +1,19 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 상속세 및 증여세법,"상속세 및 증여세법 제67조(상속세 과세표준신고) 원문 접근 확인 — 후보3 근거, 상속세 신고기한 6개월",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML#article67
+s2,법제처 국가법령정보센터 - 민법,"민법 제1019조(승인, 포기의 기간) 원문 접근 확인 — 후보3 근거, 상속개시 안 날로부터 3개월",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284415&type=XML#article1019
+s3,법제처 국가법령정보센터 - 가족관계의 등록 등에 관한 법률,"가족관계의 등록 등에 관한 법률 제84조(사망신고와 그 기재사항) — 후보3(세 기한 구분) 근거, 사망신고 1개월 기한 원문",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=257203&type=XML#article84
+s4,법제처 국가법령정보센터 - 대법원 판례,"대법원 2005. 7. 22. 선고 2003다43681 판결(구상금) — 빈틈2(안 날의 법적 독립성) 근거, 민법 제1019조 '상속개시 있음을 안 날'의 정의",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=prec&ID=83968&type=XML
+s5,법제처 국가법령정보센터 - 상속세 및 증여세법,상속세 및 증여세법 제2조제2호(정의) — 상속개시일은 원칙적으로 사망일이나 실종선고로 상속이 개시되는 경우 실종선고일로 별도 정의,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML#article2-2
+s6,법제처 국가법령정보센터 - 민법,민법 제28조(실종선고의 효과) — 실종기간 만료 시점에 사망한 것으로 간주(소급효),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284415&type=XML#article28
+s7,법제처 국가법령정보센터 - 상속세 및 증여세법,"상속세 및 증여세법 제8조(상속재산으로 보는 보험금) 원문 — 빈틈1(간주상속재산) 근거, 상속포기와 무관하게 사망보험금이 상속재산으로 의제됨",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML#article8
+s8,서울가정법원 - 우리법원 안내자료,"서울가정법원 '상속의 한정승인 및 상속포기' 리플릿 안내 게시글 — 빈틈3(실무 흐름) 근거, 법원이 안내하는 판단 순서(목차)",filing,https://slfamily.scourt.go.kr/dcboard/new/DcNewsViewAction.work?seqnum=3&gubun=195&pageIndex=1&cbub_code=000230
+s9,인천지방법원 - 민원상담사례,"인천지방법원 민원상담사례 '한정승인과 상속포기?' — 상속채무 회피 3가지 제도(상속포기·한정승인·상속재산파산) 비교, 신뢰도 보강용 법원 실무 설명",observation,https://incheon.scourt.go.kr/icfaq/new/IcFaqView.work?seqnum=495
+s10,,"국세청 '상속세 신고시 유의사항' — 신고기한(거주자 6개월/비거주자 9개월), 신고세액공제 3%, 무신고가산세 20%/40% 직접 확인 (2026-09-05 확인)",observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2328&cntntsId=7722
+s11,네이버 지식iN,이경우에 상속포기 3개월 언제부터일까요 — 사망일·안 날·사망신고일 세 날짜가 다른 구체적 사례,observation,https://kin.naver.com/qna/detail.naver?dirId=60220&docId=487861624&answerNo=7
+s12,네이버 지식iN,무연고자 사망신고 전 상속포기 신청 가능 여부 — 사망신고일과 상속포기 기산일(안 날)이 다르다는 안내,observation,https://kin.naver.com/qna/detail.naver?dirId=60220&docId=494755738&answerNo=3
+s13,로톡뉴스,"""10년 넘게 연락 끊긴 큰아버지 빚 1억, 조카가 갚아야 하나"" — 대습상속과 소멸시효, 상속포기 '안 날' 기준 해설",news,https://lawtalknews.co.kr/article/4ZIY2GC85218
+s14,데일리안,"[기고] 설민호 변호사, 상속과 유산에 대한 법률 분쟁 피하는 해법은? — 상속세 신고기한 6개월 해설",news,https://www.dailian.co.kr/news/view/1469583/?sc=Naver
+s15,정부24(행정안전부),정부24 안심상속 원스톱서비스 안내 — 신청기한: 사망일이 속한 달의 말일부터 1년이내 (2026-10-03 확인),filing,https://www.gov.kr/portal/onestopSvc/safeInheritance#observed-2026-10-03-deadline
+s16,"대한민국 정책브리핑(korea.kr, 문화체육관광부 국민소통실)","‘안심상속 원스톱 서비스’ 사망일이 속한 달의 말일부터 1년 이내 신청할 수 있습니다 (정책뉴스, 2024.07.23)",news,https://www.korea.kr/multi/visualNewsView.do?newsId=148931775
+s17,행정안전부 예규 — 사망자 및 피후견인 등 재산조회 통합처리에 관한 기준(법제처),사망자 및 피후견인 등 재산조회 통합처리에 관한 기준 제6조(사망자 재산조회) 제4항 — 신청 시기: 사망신고와 동시 또는 사망일이 속한 달의 말일부터 1년 이내,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&LID=48546&type=HTML#%EC%A0%9C6%EC%A1%B0%EC%A0%9C4%ED%95%AD
+s18,법제처 국가법령정보센터 - 상속세 및 증여세법,"상속세 및 증여세법 제2조제4호(정의) — '상속인'에 민법 제1019조제1항에 따라 상속을 포기한 사람과 특별연고자를 포함 (2026-10-04 확인, 시행 2025.10.1)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML#article2-4

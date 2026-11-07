@@ -1,0 +1,12 @@
+﻿id,publisher,title,type,url
+s1,일간NTN(intn.co.kr),"국세청, 의료비 과다공제 가산세 면제 위해 감사원 '적극행정 컨설팅' 신청 — 법적 불확실성 해소 목적",news,https://www.intn.co.kr/news/articleView.html?idxno=2039834
+s2,보건복지부,"보건복지부·국민건강보험공단 2025년 진료분 본인부담상한액 초과금 지급 보도자료 — 226만명, 3조760억원",filing,https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1491727&mid=a10503010100
+s3,법제처 국가법령정보센터 - 소득세법 시행령,"소득세법 시행령 제118조의5(의료비 세액공제) 제1항 전문 및 제2항~⑥항 원문 — ""직접 부담하는"" 문구와 실손의료보험금 제외 괄호의 정확한 범위 확인",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=011805#article118-5-full-text-2026-09-18
+s4,국세청 홈택스 - 성실신고지원 안내(특별세액공제·의료비),"국세청 ""의료비·보험료 세액공제"" 안내 페이지 — ""의료비로 공제받을 수 없는 비용"" 목록에 본인부담금상한제 사후환급금이 실손보험금과 나란히 명시됨",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6595&cntntsId=7874
+s5,머니투데이방송(news.mtn.co.kr),"국세청, 의료비 중복공제로 세액공제 더 받아도 가산세 면제 — 건보공단 환급금 지급 시기와 신고기한 시차 문제",news,https://news.mtn.co.kr/news-detail/2024111115033687713
+s6,세정일보,"[FAQ] 의료비 본인부담 상한제 환급금관련 자주 묻는 질문들 (국세청 FAQ 인용, 계산식 포함)",news,https://www.sejungilbo.com/news/articleView.html?idxno=50649
+s7,감사원 — 적극행정지원 사전컨설팅 처리사례,"사전컨설팅 의견서 [접수번호 24-034] 의료비 세액공제 관련 가산세 감면 가능 여부 (국세청 신청, 2024.8.22 접수)",filing,https://www.bai.go.kr/proactive/consult/bbs/detailBoardArticle.do?bbsId=BBSMSTR_100000000062&nttId=129467
+s8,,의료비 세액공제의 '실손의료보험금 차감' 규정은 소득세법 본문(제59조의4)이 아니라 시행령(제118조의5제1항)에만 있다,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=011805
+s9,finyul-verifier — 시행령 원문 vs 홈택스 안내 대조,"소득세법 시행령 제118조의5(①~⑥항)에는 '본인부담상한제 사후환급금' 문구가 없는데, 국세청 홈택스 안내는 이를 공제 제외 항목으로 명시한다 — 1차 법령과 행정 안내 간 충돌",observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=011805#verifier-conflict-check-2026-09-18
+s10,국세청 보도참고자료,"국세청, 의료비 과다공제 가산세 면제 위해 감사원 '컨설팅' 받아 (보도시점 2024.11.11.)",filing,https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?bbsId=1028&mi=2201&nttSn=1338000
+s11,법제처 국가법령정보센터 - 국세기본법,국세기본법 제48조(가산세 감면 등) 제1항 — 제2호 '납세자가 의무를 이행하지 아니한 데에 정당한 사유가 있는 경우' 가산세 미부과 (2026-10-04 원문 조회),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289999&type=XML&JO=004800#article48-1-2026-10-04

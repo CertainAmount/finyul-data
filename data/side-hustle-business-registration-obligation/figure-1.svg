@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 350" role="img" aria-label="부업 수입이 갈리는 네 제도 중 등록 여부가 영향을 주는 것" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <rect x="40" y="8" width="320" height="40" rx="8" fill="#254a75"/>
+    <text x="200" y="33" font-size="15" text-anchor="middle" fill="#ffffff">부업 활동·수입</text>
+    <path d="M200 48 V66 M194 60 L200 68 L206 60" stroke="#282d35" stroke-width="2" fill="none"/>
+    <rect x="8" y="74" width="384" height="84" rx="8" fill="#f2f6fb" stroke="#254a75" stroke-width="2"/>
+    <text x="20" y="98" font-size="15" font-weight="bold" fill="#254a75">등록 여부에 달린 것</text>
+    <text x="20" y="124" font-size="15" font-weight="bold" fill="#282d35">사업자등록</text>
+    <text x="130" y="124" font-size="15" fill="#282d35">사업 시작일부터 20일 안</text>
+    <text x="130" y="146" font-size="15" fill="#b4532a">늦으면 미등록 가산세</text>
+    <rect x="8" y="172" width="384" height="170" rx="8" fill="#ffffff" stroke="#6f7783" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="20" y="196" font-size="15" font-weight="bold" fill="#6f7783">등록과 상관없는 것</text>
+    <text x="20" y="224" font-size="15" font-weight="bold" fill="#282d35">종합소득세</text>
+    <text x="130" y="224" font-size="15" fill="#282d35">번 돈을 5월에 신고</text>
+    <text x="130" y="246" font-size="15" fill="#6f7783">안 하면 무신고 가산세</text>
+    <text x="20" y="276" font-size="15" font-weight="bold" fill="#282d35">건강보험료</text>
+    <text x="130" y="276" font-size="15" fill="#282d35">월급 외 소득 2천만원 초과분</text>
+    <text x="20" y="306" font-size="15" font-weight="bold" fill="#282d35">회사 통보</text>
+    <text x="130" y="306" font-size="15" fill="#282d35">과세정보 예외에 회사 요구 없음</text>
+    <text x="130" y="328" font-size="15" fill="#6f7783">추가 고지서는 본인에게</text>
+  </svg>

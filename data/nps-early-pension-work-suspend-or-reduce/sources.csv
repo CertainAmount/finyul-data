@@ -1,0 +1,24 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,"국민연금법 시행령 제18조(가입 대상 제외자) — 조기노령연금 수급권자는 제외, 단 제66조제1항에 따라 지급 정지 중인 자는 제외 대상이 아님",filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95%EC%8B%9C%ED%96%89%EB%A0%B9/%EC%A0%9C18%EC%A1%B0
+s2,국민연금공단,노령연금의 종류·수급요건 및 급여수준 (국민연금공단),filing,https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0056M0.do
+s3,법제처 국가법령정보센터(Open API eflaw·lawSearch·lawService),국민연금법 제63조의2 시행일: 조문 단위 시행일자 필드는 20260101이지만 시행 버전 조회(efYd)로는 2026-06-17부터 개정 문언이 적용된다,observation,https://www.law.go.kr/LSW/lsRvsDocInfoR.do?lsiSeq=280269
+s4,법제처 국가법령정보센터,국민연금법 제61조(노령연금 수급권자) ①②,filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95/%EC%A0%9C61%EC%A1%B0
+s5,법제처 국가법령정보센터,국민연금법 부칙 제1조·제2조 — 제63조의2 개정규정의 시행일(공포 후 6개월)과 적용례(2025년 1월 1일 이후 발생 소득부터),filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95#%EB%B6%80%EC%B9%99-%EC%A0%9C21203%ED%98%B8
+s6,국민연금공단,국민연금공단 — 조기노령연금 지급정지 및 재지급 신청 안내(정지 기간 시작·재지급 지급률),filing,https://www.nps.or.kr/elctcvlcpt/comm/getOHAC0000M5.do?menuId=MN25059927
+s7,국민연금공단,"국민연금공단 노령연금 안내 — 조기노령연금: 소득 있는 업무 종사 시 지급 정지, 연령별 지급률(59세 개시 70%~94%)",filing,https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0056M0.do#sec-%EC%A1%B0%EA%B8%B0%EB%85%B8%EB%A0%B9%EC%97%B0%EA%B8%88
+s8,국민연금공단,국민연금공단 노령연금 안내 — 소득이 있는 업무 판정(시행령 제45조): 월평균소득금액 산식과 근로소득공제,filing,https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0056M0.do#sec-%EC%86%8C%EB%93%9D%EC%9D%B4%EC%9E%88%EB%8A%94%EC%97%85%EB%AC%B4
+s9,법제처 국가법령정보센터,"국민연금법 제63조의2(소득활동에 따른 노령연금액) — 2025.12.16 개정 후 현행(법률 제21203호, 시행 2026-06-17)",filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95/%EC%A0%9C63%EC%A1%B0%EC%9D%982
+s10,법제처 국가법령정보센터,국민연금법 제66조 제1항 — 조기노령연금 지급 정지(소득이 있는 업무 종사 또는 본인 신청),filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95/%EC%A0%9C66%EC%A1%B0#%EC%A0%9C1%ED%95%AD
+s11,법제처 국가법령정보센터,소득세법 제20조 제2항 — 근로소득금액은 총급여액에서 근로소득공제를 적용한 금액,filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C20%EC%A1%B0
+s12,국민연금공단,"국민연금공단 노령연금 안내 — 소득활동에 따른 노령연금 감액 구간표(2015.7.29. 이후 수급권 취득자, 법 제63조의2)",filing,https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0056M0.do#sec-%EC%86%8C%EB%93%9D%ED%99%9C%EB%8F%99%EA%B0%90%EC%95%A1
+s13,법제처 국가법령정보센터,국민연금법 제66조 제2항·제3항 — 조기노령연금 지급정지 후 재지급 사유와 재지급 연금액,filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95/%EC%A0%9C66%EC%A1%B0#%EC%A0%9C2%ED%95%AD-%EC%A0%9C3%ED%95%AD
+s14,법제처 국가법령정보센터,"국민연금법 제63조의2 — 개정 전 문언(법률 제21065호 정부조직법 개정 반영본, 조문시행일 2025-10-01): 소득활동 감액 5구간",filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95/%EC%A0%9C63%EC%A1%B0%EC%9D%982#%EA%B0%9C%EC%A0%95%EC%A0%84-MST276655
+s15,국민연금공단,"국민연금공단 — 소득 있는 업무 종사(중단) 신고 안내: 조기노령연금은 '수급권 취소 및 급여 지급 정지' 표기, 수급·65세 도달 연도는 지사 상담으로 결정",filing,https://www.nps.or.kr/elctcvlcpt/comm/getOHAC0000M5.do?menuId=MN24001079
+s16,법제처 국가법령정보센터,"소득세법 제47조 제1항 — 근로소득공제(총급여액 구간별 공제액, 공제액 상한 2천만원)",filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C47%EC%A1%B0
+s17,법제처 국가법령정보센터,국민연금법 제63조의2 시행일 불일치 — lawService 조문시행일자 필드 20260101 vs 기본정보 조문시행일자문자열 20260617 vs 목록 현행 시행일자 20260617 (부칙 제1조 단서는 공포 후 6개월),observation,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95/%EC%A0%9C63%EC%A1%B0%EC%9D%982#observed-%EC%8B%9C%ED%96%89%EC%9D%BC%EB%B6%88%EC%9D%BC%EC%B9%98-2026-10-06
+s18,보건복지부,"보건복지부 보도자료(2026-06-16) — 노령연금 감액제도 개선 6월 17일 시행, 2025년 소득분부터 적용·환급, 2026년 소득은 이미 1월부터 상향 기준 적용",filing,https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1490872&tag=&nPage=1
+s19,"법제처 법령해석(안건번호 20-0002, 2020.1.23; Open API expc ID 328309)",노령연금 60~65세 구간(제63조의2)과 조기노령연금 정지 연령(제66조)의 출생연도별 상향 — 법제처 해석과 부칙 제8541호 제8조 문언으로 연결된다,observation,https://casenote.kr/%EB%B2%95%EC%A0%9C%EC%B2%98/20-0002-a3bd57
+s20,법제처 국가법령정보센터,국민연금법 부칙 제8조 — 급여 지급연령에 출생연도별로 1~5세를 더하는 규정(1953~56년생 +1 … 1969년 이후 +5),filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95#%EB%B6%80%EC%B9%99-%EC%A0%9C8541%ED%98%B8-%EC%A0%9C8%EC%A1%B0
+s21,국민연금공단,국민연금공단 노령연금 안내 — 출생연도별 지급개시연령 표(노령연금·조기노령연금),filing,https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0056M0.do#sec-%EC%A7%80%EA%B8%89%EA%B0%9C%EC%8B%9C%EC%97%B0%EB%A0%B9
+s22,법제처 국가법령정보센터,국민연금법 시행령 제45조(소득이 있는 업무) ①③④ — 월평균 소득 산정(사업소득금액·근로소득금액 ÷ 종사 개월 수)과 연말 정산,filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95%EC%8B%9C%ED%96%89%EB%A0%B9/%EC%A0%9C45%EC%A1%B0
+s23,법제처 국가법령정보센터,국민연금법 제51조 제1항 제1호 — A값(연금수급 3년 전·2년 전·전년도 평균소득월액을 물가 환산해 3으로 나눈 금액),filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EB%B2%95/%EC%A0%9C51%EC%A1%B0

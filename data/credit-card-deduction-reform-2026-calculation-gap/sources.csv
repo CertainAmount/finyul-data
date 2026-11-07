@@ -1,0 +1,10 @@
+﻿id,publisher,title,type,url
+s1,재정경제부 2026년 세법개정안 상세본,신용카드등 소득공제 개편 표: 인쇄 쪽번호는 132(PDF 실제 페이지 145) — 기존 evidence의 #page=131 앵커는 오프셋 불일치. 추가공제 한도는 300만→200만원(총급여 7천만원 이하)·200만→100만원(7천만원 초과) 두 구간이 각각 축소되는 것이지 '대중교통 항목만 300만→100만원'이 아니다,filing,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#page=145-verified-2026-09-06
+s2,법제처 국가법령정보센터 - 조세특례제한법,"조세특례제한법 제126조의2 현행(2026.1.1 시행) 조문 상세 — 공제율 산식(②항 1~6호), 최저사용금액 상계 순서(⑥호 가·나·다목), 기본/추가공제 한도(⑩·⑪항, 2025.12.23 신설)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280409&type=XML#art126-2-para2-6-10-11
+s3,finyul-observer 직접 확인,"신용카드 소득공제 개편, '대중교통 40%→15%/30% 재분류'가 아니라 대중교통 추가공제 자체를 별도 종료",observation,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#page=131
+s4,한국경제,신용카드 소득공제 개편: 대중교통 우대공제율 폐지와 추가공제 한도 축소(300만→200만/100만원) 두 변화를 모두 정확히 설명 — 개념 설명 경쟁은 이미 충분,news,https://www.hankyung.com/article/2026090286071
+s5,법제처 국가법령정보센터 - 조세특례제한법,조세특례제한법 제126조의2(신용카드 등 사용금액에 대한 소득공제) 현행(개정 전) 조문 원문 접근 확인 — 2순위 후보 기준선,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280409&type=XML#article126-2
+s6,뉴스핌,"2026년 세제개편안, 국무회의(9.1) 통과 후 9.3. 국회 제출 — 재정경제기획위원회 회부·조세소위 심사 예정",news,https://www.newspim.com/news/view/20260903001053
+s7,브레이크뉴스,브레이크뉴스 2026-09-02 [검증] — 정부 수정안에서 공동명의 일반과세 인별 공제가 9억→4억→6억으로 두 번 바뀌었으나 산출 근거가 공개되지 않았다,news,http://www.breaknews.com/1233521
+s8,한국세정신문,한국세정신문 2026-08-03 — 재정경제부는 대중교통 사용분을 추가공제 없이 기본공제로 일원화한다고 밝혔다,news,https://www.taxtimes.co.kr/news/article.html?no=276220
+s9,M이코노미뉴스,"국회 재경위, 세제·재정 법안 202건 상정...국감 증인·참고인 10명 채택 (2026.9.28)",news,https://www.m-economynews.com/news/article.html?no=71120

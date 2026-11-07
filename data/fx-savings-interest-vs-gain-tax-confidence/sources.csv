@@ -1,0 +1,16 @@
+﻿id,publisher,title,type,url
+s1,국가법령정보센터 (법제처 Open API),소득세법 제16조(이자소득) — 국외에서 받는 예금의 이자를 이자소득으로 열거,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON#article16
+s2,국가법령정보센터 (법제처 Open API),소득세법 제127조(원천징수의무) — 이자소득 지급자의 원천징수 의무,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON#article127
+s3,국가법령정보센터 (법제처 Open API),소득세법 제14조제3항제6호 — 이자·배당소득 합계 2천만원 이하 시 종합과세표준 미합산(금융소득종합과세 기준금액),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON#article14-3-6
+s4,국가법령정보센터 (법제처 Open API),국제조세조정에 관한 법률 제53조(해외금융계좌의 신고) — 신고기준금액을 대통령령에 위임,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280389&type=JSON#article53
+s5,국가법령정보센터 (법제처 Open API),국제조세조정에 관한 법률 시행령 제92조제3항 — 해외금융계좌 신고기준금액은 5억원,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283629&type=JSON#article92-3
+s6,국제조세조정에 관한 법률 시행령,국제조세조정에 관한 법률 시행령 제93조① — 해외금융계좌 잔액 환산방식(일별 기준환율 또는 재정환율),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283629&type=JSON#article93-1
+s7,신동아,달러 투자? 소득 있는 곳에 '세금 없는' 유일한 투자처 — 국세청에 직접 질의해 받은 답변 인용,news,https://shindonga.donga.com/3/all/13/6288553/1
+s8,국가법령정보센터 (법제처 Open API),소득세법 제118조의2 국외자산 양도소득의 범위 — 외화차입금 환차익 제외 (시행 2026-01-01),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON
+s9,국세청,해외금융계좌 신고제도 — 매월 말일 잔액 원화환산 5억원 초과 판정,observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7819&mi=2513
+s10,이데일리,"""엔화스왑예금 과세, 형평과세 문제 발생""-조세硏 — 열거주의 소득세법 구조 설명 및 외화 관련 상품 간 과세 불균형 지적",news,https://n.news.naver.com/mnews/article/018/0000305215?sid=101
+s11,조세일보,"""제2의 엔화스왑예금 혼란 방지‥당국 신속대응 필요"" — 열거주의와 환차익 비과세 영역(해외펀드·해외채권·해외부동산) 예시",news,https://n.news.naver.com/mnews/article/123/0000002670?sid=119
+s12,국가법령정보센터 (법제처 Open API),소득세법 제16조제1항제13호 — 이자소득을 발생시키는 거래와 파생상품이 결합된 경우 파생상품 이익도 이자소득,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON#article16-1-13
+s13,국가법령정보센터 (법제처 Open API),소득세법 시행령 제26조제5항 — 법 제16조제1항제13호 '결합된 경우'의 두 유형 (시행 2026-10-01),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=290841&type=JSON#article26-5
+s14,국가법령정보센터 (법제처 Open API),소득세법 제19조제1항제21호 — 계속적·반복적으로 행하는 활동에서 얻는 유사 소득은 사업소득,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=JSON#article19-1-21
+s15,국세청 (U-LEX 법률우주 재게재) — 서면인터넷방문상담1팀-1160,국세청 서면인터넷방문상담1팀-1160(2007.8.21) — 사업자가 아닌 개인이 외화 등을 환전해 생기는 환차익은 소득세법상 과세대상 소득이 아님,filing,https://www.ulex.co.kr/tax/%EC%84%9C%EB%A9%B4%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B0%A9%EB%AC%B8%EC%83%81%EB%8B%B41%ED%8C%801160-209019?sub_select_type=

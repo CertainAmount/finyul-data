@@ -1,0 +1,13 @@
+﻿id,publisher,title,type,url
+s1,법제처,금융소비자 보호에 관한 법률 제20조 제1항 제4호 — 중도상환수수료 부과 금지와 3년 이내 예외 (시행 2026-01-02),filing,https://www.law.go.kr/법령/금융소비자보호에관한법률/제20조
+s2,법제처,금융소비자 보호에 관한 법률 시행령 제15조 제4항 제3호 가목 — 계약 변경·해지에 정당한 사유 없이 금전 요구 금지 (시행 2026-04-28),filing,https://www.law.go.kr/법령/금융소비자보호에관한법률시행령/제15조
+s3,금융위원회 고시 (법제처 행정규칙),"금융소비자 보호에 관한 감독규정 제14조 제6항 제9호 — 중도상환수수료 부당 가산 금지, 인정 대출계약비용 범위 (시행 2026-10-02)",filing,https://www.law.go.kr/행정규칙/금융소비자보호에관한감독규정
+s4,금융위원회,금융위원회 보도자료 「1월 13일(월) 신규 대출부터 중도상환수수료율이 인하됩니다」(2025-01-09),filing,https://www.fsc.go.kr/no010101/83833
+s5,금융위원회,금융위원회 보도자료 「중도상환수수료 제도개선 및 소비자 부담 경감방안 발표」(2023-11-29),filing,https://www.fsc.go.kr/no010101/81155
+s6,삼성화재,삼성화재 부동산담보대출 상품설명서 — 중도상환수수료 산식·3년 적용·면제 옵션·예시,filing,https://www.samsungfire.com/download/loan/guide_re.pdf#page=3
+s7,삼성화재,"삼성화재 부동산담보대출 상품설명서 — 상환방법(원리금균등·원금균등·만기일시) 정의, 거치식 분할상환 가산금리와 상환부담",filing,https://www.samsungfire.com/download/loan/guide_re.pdf#page=8
+s8,한국주택금융공사,한국주택금융공사 월별상환원리금 — 원리금균등·체감식(원금균등) 분할상환과 거치기간 정의,filing,https://www.hf.go.kr/ko/sub01/sub01_06_03.do
+s9,한국은행 ECOS,한국은행 기준금리(722Y001) 월별 2026-07~2026-09 — ECOS 오픈API 조회,dataset,https://ecos.bok.or.kr/#/SearchStat
+s10,라온뉴스,9월 신규취급액 기준 코픽스 3.43%…3억 변동 주담대 연 이자 186만원 증가 (2026-10-16),news,https://www.raonnews.com/news/article.html?no=61926
+s11,KB국민은행 KB Think,"KB국민은행 중도상환수수료 계산·면제 조건 (2026.07.16 기준) — 산식 분모 3년, 2026 요율 0.55/0.75%, 연 10% 면제",filing,https://kbthink.com/loan-guide/prepayment.cbk.html
+s12,금융위원회,금융위원회 보도자료 「수도권 중심의 가계부채 관리 강화 방안」(2025-06-27) — 수도권·규제지역 주담대 만기 30년 이내,filing,https://www.fsc.go.kr/no010101/84824

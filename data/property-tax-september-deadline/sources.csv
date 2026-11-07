@@ -1,0 +1,15 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터 - 지방세법,"지방세법 제114조(과세기준일)·제115조(납기) 원문 — 재산세 과세기준일은 6/1, 주택은 세액 1/2씩 7월·9월 분할, 20만원 이하는 7월 일괄부과 가능",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#article115
+s2,법제처 국가법령정보센터 - 관공서의 공휴일에 관한 규정,관공서의 공휴일에 관한 규정 제2조9호(추석 전날·추석·추석 다음날)·제3조(대체공휴일 발생 요건),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285779&type=XML#article2
+s3,천문학적 음양력 변환(korean_lunar_calendar 라이브러리) + 위키백과 교차검증,2026년 추석(음력 8/15)은 양력 9월 25일(금) — 두 독립 방법으로 교차검증,observation,https://ko.wikipedia.org/wiki/%EC%B6%94%EC%84%9D
+s4,법제처 국가법령정보센터 - 지방세기본법,"지방세기본법 제55조(납부지연가산세) 원문 — 납기 후 3%, 이후 매월 가산(45만원 미만은 제외, 최대 60개월)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283257&type=XML#article55
+s5,법제처 국가법령정보센터 - 지방세기본법 시행령,지방세기본법 시행령 제34조(납부지연가산세의 이자율) — 법 제55조제1항제4호의 매월 가산율은 1만분의 66(0.66%),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286471&type=XML#article34
+s6,연합뉴스,"전남광주통합특별시, 집중호우 피해 영광 백수읍 주민 대상 지방세 감면·납부기한 연장 — 전국 공통이 아닌 재해 지역 한정 개별 조치",news,https://www.yna.co.kr/view/AKR20260923042600054?input=1195m
+s7,경남신문 계열(뉴스경남) - 통영시 재산세 보도,"통영시 ""9월 재산세(주택2기분, 토지분) 납부의 달"" — 분할고지 기준을 '10만원 초과'로 표기(통영시 시세 조례 제15조의 10만원 기준과 일치, evidence ac3b5181)",news,https://www.newsgn.com/news/articleView.html?idxno=575058
+s9,매일신문,"""9월 재산세, 추석 연휴 끝나고 사흘뿐…10월 1일이면 3% 가산세"" — 서울시 443만 장·4조8236억원 고지, 실질 납부 가능일 계산 보도",news,https://www.imaeil.com/page/view/2026091807032052080
+s10,"충청일보 (부여군 9월 정기분 재산세 보도, ccdailynews.com)","부여군, 추석 연휴 직후 3일간(9/28~30) 지방세 야간 콜센터 운영 — 지자체가 실질 납부 가능일 3일을 전제로 대응책을 짠 사례",news,https://www.ccdailynews.com/news/articleView.html?idxno=2441790
+s11,뉴스워커 (보령시 9월 정기분 재산세 보도),보령시 9월 정기분 재산세 130억900만원 부과 — 연 세액 20만원 이하 영세 주택은 7월 일괄부과 확인,news,https://www.newsworker.co.kr/news/articleView.html?idxno=505081
+s12,뉴스워커 (순천시 9월 정기분 재산세 보도),순천시 9월 정기분 재산세 279억 부과 — 20만원 이하 주택분은 7월에 1년치 일괄 과세,news,https://www.newsworker.co.kr/news/articleView.html?idxno=504218
+s13,전민일보 (군산시 9월 정기분 재산세 보도),"군산시 9월 정기분 재산세 274억원 부과 — 20만원 이하는 7월 부과로 9월 고지 대상서 제외, 2026년 기준 재확인",news,http://www.jeonmin.co.kr/news/articleView.html?idxno=447163
+s14,법제처 국가법령정보센터 - 통영시 시세 조례,통영시 시세 조례 제15조(납기) 원문 — 주택 재산세 산출세액 10만원 이하는 7월에 한꺼번에 부과·징수할 수 있음,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=ordin&MST=1596205&type=XML#article15
+s15,법제처 국가법령정보센터 - 지방세법 시행령,지방세법 시행령 제116조(분할납부세액의 기준 및 분할납부신청) 원문,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288831&type=XML#article116

@@ -1,0 +1,35 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보,"조세특례제한법 제126조의2 제1항 — 신용카드 등 사용금액 소득공제(총급여 25% 최저사용금액, 2028.12.31까지) · 시행 2026-09-18 · 2026 귀속 기준",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284389&type=XML#art126-2-para1-2026
+s2,법제처 국가법령정보,"조세특례제한법 제126조의2 제2항 제1~5호 — 결제수단별 공제율(전통시장·대중교통 40%, 문화체육·직불·현금영수증 30%, 신용카드 15%) · 시행 2026-09-18",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284389&type=XML#art126-2-para2-rates-2026
+s3,법제처 국가법령정보,조세특례제한법 제126조의2 제2항 제6호 — 최저사용금액(총급여 25%)을 신용카드 → 직불·현금영수증 순으로 차감하는 순서 · 시행 2026-09-18,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284389&type=XML#art126-2-para2-6-offset-2026
+s4,법제처 국가법령정보,"조세특례제한법 제126조의2 제8·10·11항 — 사용일 기준, 기본 한도 300만/250만, 자녀등 확대 한도, 추가공제 한도 · 시행 2026-09-18 · 2026 귀속",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284389&type=XML#art126-2-para8-10-11-2026
+s5,법제처 국가법령정보,"조세특례제한법 제126조의2 제10항 — 2025 귀속에 적용되는 종전 규정(시행 2025-01-01본): 기본한도 250만/300만, 추가공제 200만/300만, 자녀 확대 없음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=267555&type=XML#art126-2-para10-2025-attribution
+s6,법제처 국가법령정보,조세특례제한법 제126조의2 제2항 제7호 — 소비 증가분 추가공제는 2024 과세연도 한정(2025·2026 귀속에는 적용 안 됨),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284389&type=XML#art126-2-para2-7-consumption-increase
+s7,법제처 국가법령정보,"소득세법 제59조의4 제4항 — 기부금 세액공제(15%, 1천만원 초과분 30%)는 해당 과세기간에 지급한 기부금 · 시행 2026-01-01",filing,https://www.law.go.kr/법령/소득세법/제59조의4#para4-donation-2026
+s8,법제처 국가법령정보,"소득세법 제52조 제4항 — 주택임차자금 차입금 원리금 상환액 소득공제(40%, 주택마련저축 합산 연 400만원 한도) · 시행 2026-01-01",filing,https://www.law.go.kr/법령/소득세법/제52조#para4-housing-rent-loan-2026
+s9,법제처 국가법령정보,소득세법 제55조 제1항 — 종합소득세 기본세율: 공제 1원당 절세 효과를 계산하는 세율표 · 시행 2026-01-01,filing,https://www.law.go.kr/법령/소득세법/제55조#para1-rates-2026
+s10,정책브리핑(korea.kr),2025년 귀속 연말정산 미리보기 서비스 개통! (국세청 · 정책뉴스 2025-11-10) — 홈택스 경로와 10월 이후 지출 예상금액 입력,filing,https://www.korea.kr/news/policyNewsView.do?newsId=148954467
+s11,정책브리핑(korea.kr),"5일부터 ""13월의 월급"" 연말정산 미리 보기 서비스 시작 (정책뉴스 2025-11-05) — 개통일과 1~9월 사용액 기반 계산",filing,https://www.korea.kr/news/policyNewsView.do?newsId=148954010
+s12,국세청,"국세청 ""편리한 연말정산 이용방법"" — 근로자가 스스로 연말정산 세액을 미리 계산하는 ""예상세액 계산하기""",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6646&cntntsId=7706
+s13,finyul-datacollector,관찰: 2026년 귀속 연말정산 미리보기 서비스 개통은 공식 자료로 확인되지 않음(2026-10-25 기준),observation,https://www.korea.kr/news/policyNewsView.do?newsId=148954467#obs-2026-preview-unconfirmed
+s14,finyul-datacollector,관찰: scripts/law.js article 출력이 제126조의2 제2항 제6호 다목(1)·2)을 누락한다 — 차감 순서는 XML 원문으로 대조해야 함,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284389&type=XML#obs-lawjs-missing-clause
+s15,재정경제부 2026년 세법개정안 상세본,신용카드등 소득공제 개편 표: 인쇄 쪽번호는 132(PDF 실제 페이지 145) — 기존 evidence의 #page=131 앵커는 오프셋 불일치. 추가공제 한도는 300만→200만원(총급여 7천만원 이하)·200만→100만원(7천만원 초과) 두 구간이 각각 축소되는 것이지 '대중교통 항목만 300만→100만원'이 아니다,filing,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#page=145-verified-2026-09-06
+s16,뉴스핌,"2026년 세제개편안, 국무회의(9.1) 통과 후 9.3. 국회 제출 — 재정경제기획위원회 회부·조세소위 심사 예정",news,https://www.newspim.com/news/view/20260903001053
+s17,법제처 국가법령정보센터,"충돌: 정책브리핑은 카드 소득공제 한도를 '자녀 1인당 50만 원씩 최대 100만 원' 확대라 쓰지만, 법 조문은 총급여 7천만 원 이하만 +50/+100이고 초과는 +25/+50이며 부칙 제47조상 2026.1.1 이후 사용분부터 적용된다",observation,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A1%B0%EC%84%B8%ED%8A%B9%EB%A1%80%EC%A0%9C%ED%95%9C%EB%B2%95/%EC%A0%9C126%EC%A1%B0%EC%9D%982#obs-addenda47-card-limit-2026-10-18
+s18,국세청 국세상담센터,"국세상담센터 자주묻는Q&A '할부결제(구입시점 O, 결제시점 X)' — 신용카드 할부는 구입시점 기준으로 공제",filing,https://call.nts.go.kr/call/qna/selectQnaInfo.do?ctgId=CTG11898&mi=1318
+s19,법제처 국가법령정보센터,소득세법 제59조의4②③(특별세액공제) — 의료비·교육비는 '해당 과세기간에 ... 지급한 경우' 공제,filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95/%EC%A0%9C59%EC%A1%B0%EC%9D%984
+s20,국세청 국세상담센터,국세상담센터 자주묻는Q&A '공제시기(진료연도× / 지출연도○)' — 의료비는 지출한 연도에 공제,filing,https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1318&ctgId=CTG11909
+s21,법제처 국가법령정보센터 - 소득세법,"소득세법 제59조의3(연금계좌세액공제) 전문 — 공제율 12%/15%, 연금저축계좌 600만원 한도·합산 900만원 한도의 법률상 계산 방식",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML#article59-3
+s22,국세청 - 연말정산 종합안내(연금계좌 세액공제),"국세청 연말정산 안내 페이지 — 연금계좌 세액공제 한도·공제율 표(총급여 4.5천만원/5.5천만원 기준 15%·12%, 한도 600만원(900만원))",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7875
+s23,법제처 국가법령정보센터 - 소득세법 시행령,소득세법 시행령 제40조의2(연금계좌 등) 제1항·제2항 — 납입 시점 판정의 핵심 근거: '해당 과세기간 이전의 연금보험료는 납입할 수 없다',filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML#article40-2
+s24,finyul-datacollector 대조 — frism.io vs 뉴시스,"IRP 2025년 12월 입금 마감일 자체가 소스마다 다르다 — frism.io는 '12월 31일(수) 15시', 뉴시스는 '마지막 영업일(12월 29일) 오후 4~5시'",observation,https://www.frism.io/2025nyeon-yeonmaljeongsan-daebi-yeongeumjeocug-irp-ibgeum-gihan-annae/#vs-newsis-NISX20251212_0003438193
+s25,법제처 국가법령정보센터 - 조세특례제한법,"조특법 제95조의2 제1항 전문 — 근로자 월세세액공제 현행 소득기준(총급여 8천만원/5,500만원)·공제율(15%/17%)·한도(1천만원), 2025.12.23 최종개정",filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A1%B0%EC%84%B8%ED%8A%B9%EB%A1%80%EC%A0%9C%ED%95%9C%EB%B2%95/%EC%A0%9C95%EC%A1%B0%EC%9D%982
+s26,finyul-datacollector 직접 대조 — 국세청 Q&A vs 법제처 현행 조문,국세청 국세상담센터 Q&A(총급여 7천만원/종합소득 6천만원)와 법제처 현행 조특법 §95의2①(총급여 8천만원/종합소득 7천만원) 소득기준이 서로 다르다 — Q&A가 2025.12.23 개정 전 구(舊)기준에 머물러 있을 가능성,observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280409&type=XML#nts-qna-income-threshold-mismatch
+s27,법제처 국가법령정보센터 - 소득세법,소득세법 제59조의4 제6항·제9항 (시행 2026-01-01) — 표준세액공제 연 13만원은 특별세액공제(의료비 포함)를 신청하지 않은 근로자에게만 적용된다,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=005904#para9-standard-credit-adv-2026-10-09
+s28,국세청 홈택스 - 성실신고지원 안내(특별세액공제·의료비),"국세청 ""의료비·보험료 세액공제"" 안내 페이지 — ""의료비로 공제받을 수 없는 비용"" 목록에 본인부담금상한제 사후환급금이 실손보험금과 나란히 명시됨",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6595&cntntsId=7874
+s29,국세청 국세상담센터 - 자주묻는Q&A 연말정산 의료비 공제,"국세청 FAQ ""안경, 콘텍트렌즈 구입비 (공제 O)"" — 시력보정용 안경·콘텍트렌즈 1인당 50만원 한도 내 공제대상",filing,https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1318&ctgId=CTG11909#faq-glasses-contact-lens
+s30,국세청 국세상담센터,"국세상담센터 FAQ '취업 전, 중도퇴사' — 입사 전·퇴사 후 신용카드 사용액은 공제 불가(근로제공기간 사용분만)",filing,https://call.nts.go.kr/call/qna/selectQnaInfo.do?ctgId=CTG11898&mi=1318#qna-before-hire-after-quit
+s31,법제처,"소득세법 제47조 근로소득공제표 (시행 2026-01-01) — 총급여 5천만원이면 공제 1,225만원",filing,https://www.law.go.kr/법령/소득세법/제47조#adv-earned-income-deduction-2026
+s32,법제처,"조특법 시행령 제121조의2 제6항 — 신용카드등사용금액은 국세청장이 정하는 기간 합계, 보험료·공납금·세금·공과금·상품권·리스료·월세 세액공제분·면세점 등 제외 (시행 2026-09-18)",filing,https://www.law.go.kr/법령/조세특례제한법시행령/제121조의2#adv-para6-exclusions
+s33,국세청,국세청 신용카드 소득공제 안내 — 기본한도 300/250만원에 추가공제(전통시장·대중교통 등) 300/200만원 한도가 별도,filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2469&cntntsId=7794#adv-card-limit-addl
+s34,정책브리핑,"정책뉴스 — 카드 한도 확대 사례: 총급여 6천만원 한도 +100만원이면 세금 약 15만원, 1억원 +50만원이면 약 12만원 감소(한계세율 15%·24% 확인)",news,https://www.korea.kr/news/policyNewsView.do?newsId=148953499#adv-limit-example-marginal-rate

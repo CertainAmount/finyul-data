@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="5개월 밀린 월급 중 마지막 3개월만 보고 700만 원에서 한 번 더 자르는 과정" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="8" y="20" font-size="15" fill="#282d35">월급 300만 원이 5개월 밀린 경우</text>
+    <rect x="8" y="32" width="72" height="36" fill="#f2f6fb" stroke="#6f7783" stroke-dasharray="4 3"/>
+    <rect x="86" y="32" width="72" height="36" fill="#f2f6fb" stroke="#6f7783" stroke-dasharray="4 3"/>
+    <rect x="164" y="32" width="72" height="36" fill="#254a75"/>
+    <rect x="242" y="32" width="72" height="36" fill="#254a75"/>
+    <rect x="320" y="32" width="72" height="36" fill="#254a75"/>
+    <text x="44" y="56" font-size="15" fill="#6f7783" text-anchor="middle">300만</text>
+    <text x="122" y="56" font-size="15" fill="#6f7783" text-anchor="middle">300만</text>
+    <text x="200" y="56" font-size="15" fill="#ffffff" text-anchor="middle">300만</text>
+    <text x="278" y="56" font-size="15" fill="#ffffff" text-anchor="middle">300만</text>
+    <text x="356" y="56" font-size="15" fill="#ffffff" text-anchor="middle">300만</text>
+    <text x="83" y="92" font-size="15" fill="#6f7783" text-anchor="middle">범위 밖 600만</text>
+    <text x="278" y="92" font-size="15" fill="#254a75" text-anchor="middle">최종 3개월 900만</text>
+    <path d="M278 100 V126 M270 118 L278 126 L286 118" fill="none" stroke="#254a75" stroke-width="2"/>
+    <rect x="164" y="136" width="177" height="34" fill="#254a75"/>
+    <rect x="341" y="136" width="51" height="34" fill="#b4532a"/>
+    <text x="252" y="159" font-size="15" fill="#ffffff" text-anchor="middle">대지급금 700만</text>
+    <text x="8" y="159" font-size="15" fill="#282d35">임금 한도</text>
+    <text x="392" y="194" font-size="15" fill="#b4532a" text-anchor="end">넘친 200만</text>
+    <line x1="8" y1="206" x2="392" y2="206" stroke="#6f7783"/>
+    <text x="8" y="230" font-size="15" fill="#282d35">사장에게 받을 몫 = 600만 + 200만 = 800만</text>
+  </svg>

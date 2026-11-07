@@ -1,0 +1,22 @@
+﻿id,publisher,title,type,url
+s1,네이트뉴스,납세 신고기한 놓쳐도 1주 내 신고하면 가산세 75% 감면[세제개편],news,https://m.news.nate.com/view/20260803n28099
+s2,법제처 국가법령정보센터 — 국세기본법 시행령,"국세기본법 시행령 제27조의4(납부지연가산세의 이자율 등) ①②③항 — 1일 10만분의 22, 월 1만분의 67",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283623&type=XML&JO=002704#art27-4-para2-3
+s3,국세청 국세상담센터 — 신고세액공제 Q&A,국세청 Q&A '신고세액공제' — 기한후신고 시 상속세 신고세액공제 미적용,filing,https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=2060&ctgId=CTG11675
+s4,,"국세청 '상속세 신고시 유의사항' — 신고기한(거주자 6개월/비거주자 9개월), 신고세액공제 3%, 무신고가산세 20%/40% 직접 확인 (2026-09-05 확인)",observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2328&cntntsId=7722
+s5,법제처 국가법령정보센터 — 국세기본법,"국세기본법 제45조의3(기한 후 신고) ①~④항 — 결정·통지 전까지 제출 가능, 신고일부터 3개월 내 결정 통지",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML&JO=004503
+s6,법제처 국가법령정보센터 - 국세기본법,국세기본법 제47조의4(납부지연가산세) 제1항 — 법정납부기한까지 미납·과소납부 시 가산세 부과 근거,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML&JO=004704
+s7,법률신문(로캣센터 기고) — 「2026년 세제개편안」 주요 내용,"2026 세제개편안: 법정신고기한 후 1주일 이내 기한 후 신고 시 무신고가산세 감면율 50%→75% (2027.1.1. 이후 기한 후 신고분, 정부안·국회 미통과)",news,https://www.lawtimes.co.kr/news/articleView.html?idxno=224612
+s8,법제처 국가법령정보센터 — 국세기본법,국세기본법 제4조(기간의 계산) — 세법상 기간 계산은 특별 규정 없으면 민법에 따른다,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML&JO=000400#art4-2026-08-11
+s9,법제처 국가법령정보센터 — 상속세 및 증여세법,상속세 및 증여세법 제67조(상속세 과세표준신고) ①~⑤항 — 6개월(외국 주소 9개월),filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML&JO=006700
+s10,법제처 국가법령정보센터 — 국세기본법 시행령,국세기본법 시행령 제28조 ② — 법 제48조 제1항 또는 제2항 감면을 받으려는 자는 신청서를 관할 세무서장에게 제출하여야 한다,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283623&type=XML&JO=002800#art28-para2
+s11,법제처 국가법령정보센터 — 국세기본법 시행령,국세기본법 시행령 제29조(가산세 감면 제외 사유) — 결정·경정을 '미리 알고' 신고한 경우의 범위,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283623&type=XML&JO=002900
+s12,법제처 국가법령정보센터(law.go.kr) - 민법 제6장 기간,"민법 제155조~제161조(기간의 계산) 원문 — 초일불산입 원칙(제157조 본문)과 오전 영시 기산 예외(단서), 역에 의한 계산(제160조), 공휴일 말일 연장(제161조)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284415&type=XML#article155-161-gigan-gyesan
+s13,국세청 — 국세신고안내 개인신고안내 상속세 기본정보 신고납부기한,"국세청 상속세 신고납부기한 — 6개월, 외국 주소 9개월",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2325&cntntsId=7719
+s14,법제처 국가법령정보센터 — 국세기본법,"국세기본법 제47조의2(무신고가산세) 제1항 — 종합소득세 등 무신고 시 일반 20%, 부정행위 40%(역외 60%)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML&JO=004702#article47-2
+s15,법제처 국가법령정보센터 - 국세기본법 시행령,"국세기본법 시행령 제27조의4(납부지연가산세 이자율) 제1항 — 1일 10만분의 22 (연 약 8.03%, 2026.2.27 개정 시행)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283623&type=XML&JO=002704
+s16,법제처 국가법령정보센터 — 국세기본법,국세기본법 제48조 ③ — 가산세 감면을 받으려는 자는 대통령령으로 정하는 바에 따라 감면 등을 신청할 수 있다,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML&JO=004800#art48-para3
+s17,법제처 국가법령정보센터 — 국세기본법,국세기본법 제48조(가산세 감면 등) ①·②항 — 기한 후 신고 시 무신고가산세 감면율(1개월 50%·3개월 30%·6개월 20%)과 '미리 알고' 제외,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML&JO=004800#art48-para2-item2
+s18,법제처 국가법령정보센터 — 국세기본법,"국세기본법 제47조의4(납부지연가산세) ①항·③항 6호·⑦⑧항 — 일수×이자율, 지정납부기한 후 3%+월 이자율",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288571&type=XML&JO=004704#art47-4-full
+s19,법제처 국가법령정보센터 - 국세기본법,국세기본법 제5조 제1항 — 세법상 신고기한 말일이 토요일·일요일이면 그 다음날을 기한으로 한다,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289999&type=XML&JO=000500#art5-para1
+s20,법제처 국가법령정보센터 — 국세기본법 시행규칙,국세기본법 시행규칙 제13조(가산세의 감면 등 신청) — 2026-10-04 현행,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284607&type=XML&JO=001300#rule13
+s21,법제처 국가법령정보센터 — 상속세 및 증여세법 시행규칙,상속세 및 증여세법 시행규칙 별지 제9호서식(상속세과세표준신고 및 자진납부계산서) — 2026-10-04 현행,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284609&type=XML#form9

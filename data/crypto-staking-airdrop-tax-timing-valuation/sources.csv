@@ -1,0 +1,12 @@
+﻿id,publisher,title,type,url
+s2,법제처 국가법령정보센터,소득세법 제21조①27호 — 가상자산 양도·대여 소득의 기타소득 정의,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=002100#h27
+s3,법제처 국가법령정보센터 — 소득세법 시행령,"소득세법 시행령 제87조(기타소득의 필요경비계산) — 필요경비 60% 의제는 제21조1항 7·8의2·9·15·19호에만 적용, 27호(가상자산)는 목록에 없음",filing,https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%86%8C%EB%93%9D%EC%84%B8%EB%B2%95%EC%8B%9C%ED%96%89%EB%A0%B9/%EC%A0%9C87%EC%A1%B0
+s4,법제처 국가법령정보센터,"소득세법 제37조(기타소득의 필요경비 계산) — 가상자산 실제취득가액 원칙, 2026-12-31 시가 의제, 필요경비 의제 비율 100분의 50 이하 위임",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=003700
+s5,법제처 국가법령정보센터,"소득세법 시행령 제88조(가상자산에 대한 기타소득금액의 계산 등) — 총평균법, 2026-12-31 시가 산정 방법, 실제취득가액 확인곤란 사유, 필요경비 의제 비율 100분의 50 확정",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=008800
+s6,국세청,"국세청 「거주자의 가상자산소득 과세 개요」 — 시행일 2027-01-01, 세율 20%, 기본공제 250만원, 총평균법, 2026-12-31 시가 의제, 필요경비 의제 최대 50%",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40370&cntntsId=238935
+s7,더팩트,코인 과세 코앞인데…스테이킹·에어드롭 세금 기준도 마련 못해 (2026-08-20),news,https://news.tf.co.kr/read/economy/2355899.htm
+s8,지디넷코리아,"국세청, 스테이킹·에어드롭·디파이 코인 과세 세부 가이드라인 이르면 10월 공개 예정 — 현재 확정된 공식 과세시점 기준 없음",news,https://zdnet.co.kr/view/?no=20260714105047
+s9,"기획재정부 재산세제과 세법해석(기준-2021-법무재산-0167, 2022-08-02 회신) — 디지털투데이·albup.co.kr 재인용",가상자산 무상 이전(스테이킹·하드포크·에어드랍 포함)은 상증세법상 증여에 해당할 수 있다는 기재부 세법해석,filing,https://www.digitaltoday.co.kr/news/articleView.html?idxno=458299
+s10,법제처 국가법령정보센터 — 소득세법·시행령 전문 대조,"소득세법(MST 280405)·시행령(MST 290841) 전문에 '스테이킹'·'에어드랍'이라는 말이 없고, 시행령 제88조제6항은 나머지 계산 사항을 국세청장 고시에 맡김(2026-10-04)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=290841&type=XML#scan-staking-2026-10-04
+s11,법제처 국가법령정보센터 — 지방세법,지방세법 제93조제18항 — 가상자산소득 개인지방소득세는 기타소득금액에서 250만원을 뺀 금액의 1천분의 20,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#jo93-18
+s12,뉴스핌,가상자산 과세 100여일 앞으로…세원 포착·과세기준 '과제',news,https://www.newspim.com/news/view/20260918000523

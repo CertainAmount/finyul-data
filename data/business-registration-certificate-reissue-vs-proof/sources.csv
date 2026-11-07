@@ -1,0 +1,23 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,부가가치세법 시행령 제11조(사업자등록 신청과 사업자등록증 발급) 제5항,filing,https://www.law.go.kr/법령/부가가치세법시행령/제11조
+s2,법제처 국가법령정보센터,부가가치세법 제8조 제7항·제8항·제10항(등록증 발급·등록사항 변경 신고·갱신 발급),filing,https://www.law.go.kr/법령/부가가치세법/제8조
+s3,법제처 국가법령정보센터,부가가치세법 시행령 제14조(사업자등록 사항의 변경) 제1~3항·제5항,filing,https://www.law.go.kr/법령/부가가치세법시행령/제14조
+s4,법제처 국가법령정보센터,부가가치세법 시행령 제13조(휴업·폐업의 신고) 제1~3항,filing,https://www.law.go.kr/법령/부가가치세법시행령/제13조
+s5,법제처 국가법령정보센터,부가가치세법 시행령 제15조(등록말소) 제1항,filing,https://www.law.go.kr/법령/부가가치세법시행령/제15조
+s6,법제처 국가법령정보센터,부가가치세법 시행규칙 제9조(사업자등록 신청서와 사업자등록증 등) 제4항,filing,https://www.law.go.kr/법령/부가가치세법시행규칙/제9조
+s7,법제처 국가법령정보센터,부가가치세법 시행규칙 제11조(사업자등록 정정신고서),filing,https://www.law.go.kr/법령/부가가치세법시행규칙/제11조
+s8,법제처 국가법령정보센터,국세청민원사무처리규정 제53조(사업자등록증의 재발급)·제5조(수수료),filing,https://www.law.go.kr/행정규칙/국세청민원사무처리규정
+s9,정부24,정부24 민원안내 - 사업자등록증 재발급,filing,https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000374
+s10,정부24,정부24 민원안내 - 사업자등록증명 발급,filing,https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000016
+s11,정부24,정부24 민원안내 - 사업자등록증명 발급: 제출서류,filing,https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000016#docs
+s12,공공데이터포털(국세청),국세청 사업자등록정보 진위확인 및 상태조회 서비스,dataset,https://www.data.go.kr/data/15081808/openapi.do
+s13,국세청 홈택스(모바일),국세청 모바일 사업자등록상태조회 화면,observation,https://mob.tbht.hometax.go.kr/jsonAction.do?actionId=ATEABAAA004R01
+s14,법제처 국가법령정보센터,국세청민원사무처리규정 별지 제5호서식(사업자등록증명)과 별지 제7호서식(휴업·폐업사실증명) 항목 비교,filing,https://www.law.go.kr/행정규칙/국세청민원사무처리규정?서식=비교
+s15,정부24,정부24 민원안내 - 폐업사실증명 발급,filing,https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000019
+s16,국세청 홈택스(손택스),손택스 사업자등록 민원처리상태 조회 안내 - 사업자등록증 재발급 메뉴와 인증서,filing,https://mob.tbht.hometax.go.kr/jsonAction.do?actionId=UTBCAABA14F001
+s17,국세청,국세정책/제도 사업자등록 안내 - 휴·폐업,filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7780&mi=2447
+s19,법제처 국가법령정보센터,국세청민원사무처리규정 제58조(홈택스에 의한 세적민원 처리) 제1항,filing,https://www.law.go.kr/행정규칙/국세청민원사무처리규정#제58조
+s20,법제처 국가법령정보센터,국세청민원사무처리규정 제58조 제1항 단서(홈택스 이용 제외 대상),filing,https://www.law.go.kr/행정규칙/국세청민원사무처리규정#제58조-단서
+s21,법제처 국가법령정보센터,국세청민원사무처리규정 제19조(위임사실의 확인) 제1항,filing,https://www.law.go.kr/행정규칙/국세청민원사무처리규정#제19조
+s22,국세청 홈택스 고객센터,홈택스 자주묻는Q&A - 사업자등록증 출력방법,filing,https://call.nts.go.kr/call/qna/selectHomeQnaInfo.do?ctgId=CTG11561&mi=12940
+s23,택슬리(세무사 Q&A),택슬리 세무사 답변(관련 질문답변 중 개인사업자 질문 항목) - 폐업 시 발급 가능한 증명,observation,https://taxly.kr/qna/131497-사업자등록증-강제폐업-가능한지

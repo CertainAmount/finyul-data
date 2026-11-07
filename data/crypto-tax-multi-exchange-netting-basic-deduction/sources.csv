@@ -1,0 +1,11 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,"소득세법 시행령 제88조(가상자산에 대한 기타소득금액의 계산 등) — 총평균법, 2026-12-31 시가 산정 방법, 실제취득가액 확인곤란 사유, 필요경비 의제 비율 100분의 50 확정",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286211&type=XML&JO=008800
+s2,법제처 국가법령정보센터,소득세법 제64조의3(분리과세기타소득에 대한 세액 계산의 특례) ②항 — 가상자산소득금액 전체에서 250만원을 뺀 뒤 20%를 곱해 세액을 계산한다는 근거 조문,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=006403
+s3,법제처 국가법령정보센터,가상자산 이용자 보호 등에 관한 법률 제2조(정의) 1호 — 가상자산 정의에서 게임물 결과물·선불전자지급수단·전자화폐 등을 명시적으로 제외,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&LM=%EA%B0%80%EC%83%81%EC%9E%90%EC%82%B0%20%EC%9D%B4%EC%9A%A9%EC%9E%90%20%EB%B3%B4%ED%98%B8%20%EB%93%B1%EC%97%90%20%EA%B4%80%ED%95%9C%20%EB%B2%95%EB%A5%A0&type=XML&JO=000200
+s5,법제처 국가법령정보센터,소득세법 제84조(기타소득의 과세최저한) 3호 — 해당 과세기간 가상자산소득금액이 250만원 이하면 비과세,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=008400
+s6,법제처 국가법령정보센터,"소득세법 제45조(결손금 및 이월결손금의 공제) 전문 확인 — 이월결손금 제도는 장부에 의해 계산한 '사업소득금액'의 결손금에만 적용되고, 가상자산소득(기타소득)이 마이너스인 경우를 다음 과세기간으로 이월하는 규정은 이 조를 포함해 소득세법 어디에도 없다",observation,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=004500
+s7,법제처 국가법령정보센터,"소득세법 제4조(소득의 구분) — 기타소득(가상자산소득 포함)은 '종합소득' 범주, 양도소득은 별도 범주로 서로 합산되지 않음",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=000400
+s8,법제처 국가법령정보센터,소득세법 제94조(양도소득의 범위) — 3호다목 '외국법인이 발행하였거나 외국에 있는 시장에 상장된 주식등'을 국내 대주주 상장주식(가목)·비상장주식(나목)과 같은 3호로 규정,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=009400
+s9,법제처 국가법령정보센터,"소득세법 제104조(양도소득세의 세율) — 국내 대주주 상장·비상장주식(11호)은 1년 이상 보유 시 3억원 이하 20%·초과분 25%(누진), 해외주식(12호)은 중소기업 10%·그 외 20%(금액 무관 정률), 파생상품(13호)은 금액 무관 정률 20%",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280405&type=XML&JO=010400
+s11,"금융위원회 가상자산이용자보호법 시행령·감독규정 관련 설명(테크M 보도, 2024)","가상자산이용자보호법상 NFT는 '고유성이 있어 대체 불가능하고 수집 목적으로 거래'되는 경우에만 가상자산 정의에서 제외되며, 대량 발행돼 대체 가능하게 거래되거나 지급수단으로 쓰이면 가상자산에 포함된다",news,https://www.techm.kr/news/articleView.html?idxno=117612
+s12,법제처 국가법령정보센터 — 지방세법,지방세법 제93조제18항 — 가상자산소득 개인지방소득세는 기타소득금액에서 250만원을 뺀 금액의 1천분의 20,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282559&type=XML#jo93-18
