@@ -1,0 +1,56 @@
+{
+  "title": "finyul-data: figures, tables and calculators behind finyul",
+  "description": "<p>기사에 쓴 도식(SVG)·표(CSV)·1차 자료 목록·계산기 코드입니다. <a href=\"https://finyul.com\">finyul(finyul.com)</a>은 세금·대출·연금·보험 제도를 법령·고시·보도자료로 확인해 정리하는 한국어 사이트입니다.</p><p>Figures, tables, source lists and calculator code behind <a href=\"https://finyul.com\">finyul.com</a>, a Korean site that checks personal-finance rules against primary sources.</p><p>이번 버전에 새로 들어오거나 갱신된 글:</p><ul><li><a href=\"https://finyul.com/articles/semas-vs-kosmes-policy-fund-which-for-sole-proprietor/\">소진공 정책자금과 중진공 정책자금, 개인사업자는 어디로 신청하나요</a> (<a href=\"https://github.com/CertainAmount/finyul-data/tree/main/data/semas-vs-kosmes-policy-fund-which-for-sole-proprietor\">data</a>)</li><li><a href=\"https://finyul.com/articles/isa-pension-transfer-extra-tax-credit-amount/\">ISA 만기자금을 연금저축·IRP로 옮기면 세액공제를 얼마 더 받나요?</a> (<a href=\"https://github.com/CertainAmount/finyul-data/tree/main/data/isa-pension-transfer-extra-tax-credit-amount\">data</a>)</li><li><a href=\"https://finyul.com/articles/landlord-nonrefund-info-sharing-feb3-blindspot/\">임대인 미반환 이력 공유, 2월 3일과 10월 1일은 뭐가 다를까요?</a> (<a href=\"https://github.com/CertainAmount/finyul-data/tree/main/data/landlord-nonrefund-info-sharing-feb3-blindspot\">data</a>)</li></ul>",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "finyul"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "kor",
+  "keywords": [
+    "Korea",
+    "personal finance",
+    "tax",
+    "pension",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://finyul.com",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://finyul.com/articles/semas-vs-kosmes-policy-fund-which-for-sole-proprietor/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://github.com/CertainAmount/finyul-data/tree/main/data/semas-vs-kosmes-policy-fund-which-for-sole-proprietor",
+      "relation": "hasPart",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://finyul.com/articles/isa-pension-transfer-extra-tax-credit-amount/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://github.com/CertainAmount/finyul-data/tree/main/data/isa-pension-transfer-extra-tax-credit-amount",
+      "relation": "hasPart",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://finyul.com/articles/landlord-nonrefund-info-sharing-feb3-blindspot/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://github.com/CertainAmount/finyul-data/tree/main/data/landlord-nonrefund-info-sharing-feb3-blindspot",
+      "relation": "hasPart",
+      "resource_type": "dataset"
+    }
+  ]
+}
