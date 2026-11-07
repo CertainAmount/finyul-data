@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "이 자료를 쓰실 때는 아래처럼 인용하고, 해당 기사 주소를 함께 적어 주세요. / If you use these figures or tables, please cite as below and link the article."
+title: "finyul-data: figures, tables and calculators behind finyul"
+authors:
+  - name: "finyul"
+    website: "https://finyul.com"
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/CertainAmount/finyul-data"
+url: "https://finyul.com"
+keywords: [Korea, personal finance, tax, pension, open data]
