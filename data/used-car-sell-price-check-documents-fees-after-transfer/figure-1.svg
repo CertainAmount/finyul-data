@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 256" role="img" aria-label="12월 1일 앞뒤 이전등록 시점별 자동차세 소유자" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="220" y="22" font-size="15" text-anchor="middle" fill="#282d35">12월 1일</text>
+<line x1="220" y1="32" x2="220" y2="222" stroke="#254a75" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="10" y="56" font-size="15" fill="#282d35">① 12월 1일 전에 이전등록</text>
+<line x1="10" y1="80" x2="390" y2="80" stroke="#6f7783" stroke-width="2"/>
+<circle cx="100" cy="80" r="7" fill="#ffffff" stroke="#6f7783" stroke-width="2"/>
+<circle cx="170" cy="80" r="7" fill="#254a75"/>
+<text x="95" y="106" font-size="15" text-anchor="middle" fill="#6f7783">넘긴 날</text>
+<text x="170" y="128" font-size="15" text-anchor="middle" fill="#254a75">이전등록일</text>
+<text x="250" y="106" font-size="15" fill="#254a75">소유자: 산 사람</text>
+<text x="10" y="168" font-size="15" fill="#282d35">② 12월 1일 뒤에 이전등록</text>
+<line x1="10" y1="192" x2="390" y2="192" stroke="#6f7783" stroke-width="2"/>
+<circle cx="130" cy="192" r="7" fill="#ffffff" stroke="#6f7783" stroke-width="2"/>
+<circle cx="310" cy="192" r="7" fill="#b4532a"/>
+<text x="130" y="218" font-size="15" text-anchor="middle" fill="#6f7783">넘긴 날</text>
+<text x="310" y="218" font-size="15" text-anchor="middle" fill="#b4532a">이전등록일</text>
+<text x="10" y="246" font-size="15" fill="#b4532a">소유자: 파는 사람(원칙)</text>
+</svg>
