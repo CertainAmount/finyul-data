@@ -17,3 +17,13 @@ s15,정부24(행정안전부),정부24 안심상속 원스톱서비스 안내 �
 s16,"대한민국 정책브리핑(korea.kr, 문화체육관광부 국민소통실)","‘안심상속 원스톱 서비스’ 사망일이 속한 달의 말일부터 1년 이내 신청할 수 있습니다 (정책뉴스, 2024.07.23)",news,https://www.korea.kr/multi/visualNewsView.do?newsId=148931775
 s17,행정안전부 예규 — 사망자 및 피후견인 등 재산조회 통합처리에 관한 기준(법제처),사망자 및 피후견인 등 재산조회 통합처리에 관한 기준 제6조(사망자 재산조회) 제4항 — 신청 시기: 사망신고와 동시 또는 사망일이 속한 달의 말일부터 1년 이내,filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&LID=48546&type=HTML#%EC%A0%9C6%EC%A1%B0%EC%A0%9C4%ED%95%AD
 s18,법제처 국가법령정보센터 - 상속세 및 증여세법,"상속세 및 증여세법 제2조제4호(정의) — '상속인'에 민법 제1019조제1항에 따라 상속을 포기한 사람과 특별연고자를 포함 (2026-10-04 확인, 시행 2025.10.1)",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276123&type=XML#article2-4
+s19,법제처 국가법령정보센터 - 가족관계의 등록 등에 관한 법률,가족관계의 등록 등에 관한 법률 제122조(과태료) — 신고기간 도과 시 5만 원 이하 (시행 2026.10.2.),filing,https://www.law.go.kr/법령/가족관계의등록등에관한법률/제122조
+s20,법제처 국가법령정보센터 - 민법,민법 제1019조 제3항(특별한정승인) — 채무초과 사실을 안 날부터 3개월 (시행 2026.3.17.),filing,https://www.law.go.kr/법령/민법/제1019조
+s21,인천광역시 연수구청 - 가족관계등록민원,연수구청 과태료안내 — 가족관계등록 신고 지연 기간별 과태료 부과기준표,filing,https://www.yeonsu.go.kr/main/general/part/family_fine.asp
+s22,광주지방법원 - 민원상담사례,광주지방법원 민원상담사례 '미성년자의 상속포기' — 특별한정승인과 '안 날' 기산,filing,https://gwangju.scourt.go.kr/gjfaq/new/GJFaqView.work?seqnum=331
+s23,법제처 찾기쉬운 생활법령정보 - 가족관계 등록,찾기쉬운 생활법령정보 사망신고방법 — 신고기한 1개월과 5만 원 이하 과태료,filing,https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=707&ccfNo=6&cciNo=1&cnpClsNo=1
+s24,조세심판원 - 국심1995서3454,조세심판원 국심1995서3454 — 상속인들이 재산상속을 포기한 경우 상속세 과세가액에 포함되는 범위(경정),filing,https://www.law.go.kr/특별행정심판재결례/(국심1995서3454)
+s25,조세심판원 - 국심2000서1301,조세심판원 국심2000서1301 — 상속포기한 상속인의 상속세 납부의무가 쟁점이었던 취소 결정(반대 방향),observation,https://www.law.go.kr/특별행정심판재결례/(국심2000서1301)
+s26,법제처 국가법령정보,민법 제157조(기간의 기산점(초일 불산입)),filing,https://www.law.go.kr/법령/%EB%AF%BC%EB%B2%95/제157조
+s27,법제처 국가법령정보,민법 제160조(역에 의한 계산),filing,https://www.law.go.kr/법령/%EB%AF%BC%EB%B2%95/제160조
+s28,법제처 국가법령정보,민법 제161조(공휴일 등과 기간의 만료점),filing,https://www.law.go.kr/법령/%EB%AF%BC%EB%B2%95/제161조

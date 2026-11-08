@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 332" role="img" aria-label="해지 세금이 돈의 출처와 사유로 갈리는 갈림길" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<rect x="100" y="6" width="200" height="38" rx="6" fill="#254a75"/>
+<text x="200" y="31" font-size="15" text-anchor="middle" fill="#ffffff">계좌에서 빼는 돈</text>
+<path d="M200 44 L200 54 M100 54 L300 54 M100 54 L100 68 M300 54 L300 68" stroke="#6f7783" stroke-width="2" fill="none"/>
+<rect x="10" y="68" width="180" height="56" rx="6" fill="#f2f6fb" stroke="#254a75" stroke-width="2"/>
+<text x="100" y="92" font-size="15" text-anchor="middle" fill="#282d35">회사가 쌓은</text>
+<text x="100" y="112" font-size="15" text-anchor="middle" fill="#282d35">퇴직금</text>
+<rect x="210" y="68" width="180" height="56" rx="6" fill="#f2f6fb" stroke="#254a75" stroke-width="2"/>
+<text x="300" y="92" font-size="15" text-anchor="middle" fill="#282d35">세액공제 받은</text>
+<text x="300" y="112" font-size="15" text-anchor="middle" fill="#282d35">납입금·운용수익</text>
+<path d="M100 124 L100 140 M300 124 L300 140" stroke="#6f7783" stroke-width="2" fill="none"/>
+<rect x="10" y="140" width="180" height="84" rx="6" fill="#ffffff" stroke="#b4532a" stroke-width="2"/>
+<text x="100" y="162" font-size="15" text-anchor="middle" fill="#6f7783">일반(집·전세)</text>
+<text x="100" y="186" font-size="15" text-anchor="middle" fill="#282d35">미뤄 둔 퇴직소득세를</text>
+<text x="100" y="206" font-size="15" text-anchor="middle" fill="#282d35">그 비율만큼</text>
+<rect x="210" y="140" width="180" height="84" rx="6" fill="#ffffff" stroke="#b4532a" stroke-width="2"/>
+<text x="300" y="162" font-size="15" text-anchor="middle" fill="#6f7783">일반(집·전세)</text>
+<text x="300" y="192" font-size="15" text-anchor="middle" fill="#b4532a">16.5%</text>
+<path d="M100 224 L100 240 M300 224 L300 240" stroke="#6f7783" stroke-width="2" stroke-dasharray="4 4" fill="none"/>
+<rect x="10" y="240" width="180" height="84" rx="6" fill="#ffffff" stroke="#254a75" stroke-width="2" stroke-dasharray="6 3"/>
+<text x="100" y="262" font-size="15" text-anchor="middle" fill="#6f7783">부득이(요양·파산)</text>
+<text x="100" y="286" font-size="15" text-anchor="middle" fill="#282d35">퇴직소득세보다 낮은</text>
+<text x="100" y="306" font-size="15" text-anchor="middle" fill="#282d35">연금소득세</text>
+<rect x="210" y="240" width="180" height="84" rx="6" fill="#ffffff" stroke="#254a75" stroke-width="2" stroke-dasharray="6 3"/>
+<text x="300" y="262" font-size="15" text-anchor="middle" fill="#6f7783">부득이(요양·파산)</text>
+<text x="300" y="286" font-size="15" text-anchor="middle" fill="#282d35">나이에 따라</text>
+<text x="300" y="306" font-size="15" text-anchor="middle" fill="#282d35">3.3~5.5%</text>
+</svg>
