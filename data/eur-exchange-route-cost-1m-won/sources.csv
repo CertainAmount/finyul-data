@@ -17,3 +17,21 @@ s15,유럽중앙은행(ECB) 보도자료,ECB ends production and issuance of €
 s16,finyul-datacollector,"유로만의 갈림 — 일반 영업점은 사실 때=파실 때, 공항은 유로 되팔기(4.2~4.5%)가 엔(7.00%)보다 훨씬 싸고, 인터넷 수수료는 유로가 달러·엔보다 0.2%p쯤 높다",observation,https://finyul.com/work/eur-exchange-route-cost-1m-won#eur-vs-jpy-usd-asymmetry-2026-10-24
 s17,finyul-datacollector,수집하지 못한 항목·출처끼리 어긋난 지점 (2026-10-24),observation,https://finyul.com/work/eur-exchange-route-cost-1m-won#conflicts-and-not-found-2026-10-24
 s20,KB국민은행 KB Think,"KB국민은행 — 인천공항 환전 방법: 앱 사전환전 후 공항 환전소 수령, 환율 우대 (2025-12-11)",filing,https://kbthink.com/fx/icn-currency-exchange.html
+s21,유럽연합 규정 (EU) 2019/518 (EUR-Lex),EU 규정 2019/518 — 카드·ATM 통화환산 수수료를 ECB 기준환율 대비 가산율(%)로 사전 공개 (규정 924/2009 제3a조),filing,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0518
+s22,유럽연합 규정 (EU) 2018/1672 (EUR-Lex),"EU 규정 2018/1672 — 역내 입출국 시 1만 유로 이상 현금 신고 의무 (제3조), 2021-06-03부터 적용",filing,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1672
+s23,유럽중앙은행(ECB) SPACE 2024,ECB SPACE 2024 — 유로 지역 판매시점 결제 중 현금 비중 52%(2022년 59%),filing,https://www.ecb.europa.eu/stats/ecb_surveys/space/html/ecb.space2024~19d46f0f17.en.html#pos-cash-share
+s24,유럽중앙은행(ECB) SPACE 2024,ECB SPACE 2024 — 국가별 현금 결제 비중: 네덜란드 22%·핀란드 27% ~ 슬로베니아 64%·몰타 67%,filing,https://www.ecb.europa.eu/stats/ecb_surveys/space/html/ecb.space2024~19d46f0f17.en.html#country-range
+s25,유럽중앙은행(ECB) SPACE 2024,"ECB SPACE 2024 4.3절 — 현금은 거의 모든 판매시점에서 받아 주지만, 6%는 한 달 새 현금 거절을 겪음",filing,https://www.ecb.europa.eu/stats/ecb_surveys/space/html/ecb.space2024~19d46f0f17.en.html#acceptance-4-3
+s26,유럽연합 집행위원회 권고 2010/191 (EUR-Lex),"EU 집행위 권고 2010/191 — 고액권도 소매에서 받아야 하며, 거절은 선의 원칙에 근거할 때만(예: 액면이 대금에 비해 지나치게 큼)",filing,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010H0191
+s27,유럽중앙은행(ECB) 유로 지폐 안내,ECB 유로 지폐 — 2세대(유로파 시리즈)는 500유로권 발행을 중단하고 6종으로 구성,filing,https://www.ecb.europa.eu/euro/banknotes/html/index.en.html
+s28,유럽연합 집행위원회 (금융서비스 총국),집행위 안내문 — 규정 924/2009의 ATM 인출 적용: 독립 ATM 운영자는 수수료를 직접 받을 수 있고 카드사는 그 인출에 수수료를 못 받는다,filing,https://finance.ec.europa.eu/system/files/2020-04/note-application-cross-border-atm_en.pdf
+s29,BEUC 유럽소비자기구 블로그,"BEUC — 해외에서 원화 같은 자국 통화로 결제하면 가맹점 은행 환율이 적용돼 대개 더 비싸다 (2016-10-12, Farid Aliyev)",news,https://blog.beuc.eu/paying-abroad-may-be-costing-you-more-than-it-should/
+s30,한국소비자원,"한국소비자원 해외여행 꿀팁 2. 해외에서의 카드 사용 — 원화결제 시 수수료 3~8% 추가, 예시 7.1% 더 청구",filing,https://www.kca.go.kr/home/sub.do?menukey=7815&mode=view&no=1004352936
+s31,여신금융협회 신용카드 이용자 가이드,여신금융협회 — 해외 카드 사용 시 원화결제는 수수료 3~8%에 환전수수료가 1회 더 붙어 현지통화 결제가 유리,filing,https://customer.crefia.or.kr/common/forward.xx?url=%2Fcustomer%2Fguard%2FguardCreditcardUseGuide5
+s32,정책브리핑(금융감독원 휴가철 금융정보),"금융감독원 안내(정책브리핑 2018-07-27) — 해외 DCC는 수수료 3~8% 추가, 'DCC 사전 차단 서비스' 신청 안내",filing,https://www.korea.kr/news/issueQAView.do?newsId=148852699
+s33,관세청 출·입국 외환신고,관세청 — 내국인 거주자가 일반해외여행경비로 미화 1만불 초과 지급수단을 휴대 반출하면 세관장에게 신고,filing,https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=8458&cntntsId=2808
+s34,전국은행연합회 외환길잡이,"은행연합회 인천공항점 유로(EUR) 환전수수료 재조회 — 사실 때 4.50%, 파실 때 4.20~4.50% 그대로 (조회 2026-11-09)",dataset,https://exchange.kfb.or.kr/page/airport_commission.php#EUR-list-2026-11-09
+s35,전국은행연합회 외환길잡이,"은행연합회 인터넷환전 유로(EUR) 재조회 — 수수료율·우대율 그대로, 한국산업은행 1.50% 기준일은 2025-11-07 (조회 2026-11-09)",dataset,https://exchange.kfb.or.kr/page/on_commission.php#EUR-list-2026-11-09
+s36,전국은행연합회 소비자포털,은행연합회 환전수수료 비교공시 유로(EUR) 일반 영업점 재조회 — 사실 때=파실 때 그대로 (조회 2026-11-09),dataset,https://portal.kfb.or.kr/compare/commission_spread.php#EUR-spread-2026-11-09
+s37,한국수출입은행 현재환율 API,"수출입은행 유로(EUR) 2026-11-09 — 매매기준율 1,513.65원 (10-23 1,486.40원에서 상승)",dataset,https://oapi.koreaexim.go.kr/site/program/financial/exchangeJSON#EUR-20261109
+s38,finyul-datacollector,"원화결제(DCC) 3~8% 수치의 출처는 한국소비자원(2017)·금융감독원(2018, 정책브리핑)·여신금융협회(날짜 없음)뿐 — 최근 1차 자료로 못 이었다",observation,https://finyul.com/work/eur-exchange-route-cost-1m-won#dcc-sources-old-2026-11-09

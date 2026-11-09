@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 214" role="img" aria-label="유로 지역 현금 비중, 국가별 범위와 해마다 평균" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="30" y="52" font-size="15" fill="#282d35">네덜란드 22%</text>
+    <text x="258" y="52" font-size="15" fill="#282d35" text-anchor="end">몰타 67%</text>
+    <rect x="104.8" y="62" width="153" height="24" fill="#dbe6f3" stroke="#254a75" stroke-width="2"/>
+    <text x="181" y="79" font-size="15" fill="#282d35" text-anchor="middle">2024 국가별</text>
+    <line x1="30" y1="96" x2="370" y2="96" stroke="#6f7783" stroke-width="2"/>
+    <text x="30" y="118" font-size="15" fill="#6f7783">0%</text>
+    <text x="370" y="118" font-size="15" fill="#6f7783" text-anchor="end">100%</text>
+    <line x1="206.8" y1="96" x2="206.8" y2="141" stroke="#254a75" stroke-width="2"/>
+    <circle cx="206.8" cy="96" r="7" fill="#254a75"/>
+    <text x="199" y="147" font-size="15" fill="#254a75" text-anchor="end">2024년 평균 52%</text>
+    <line x1="230.6" y1="96" x2="230.6" y2="167" stroke="#6f7783" stroke-width="1.5"/>
+    <circle cx="230.6" cy="96" r="5" fill="#f2f6fb" stroke="#6f7783" stroke-width="2"/>
+    <text x="223" y="173" font-size="15" fill="#6f7783" text-anchor="end">2022년 59%</text>
+    <line x1="274.8" y1="96" x2="274.8" y2="193" stroke="#6f7783" stroke-width="1.5"/>
+    <circle cx="274.8" cy="96" r="5" fill="#f2f6fb" stroke="#6f7783" stroke-width="2"/>
+    <text x="267" y="199" font-size="15" fill="#6f7783" text-anchor="end">2019년 72%</text>
+  </svg>

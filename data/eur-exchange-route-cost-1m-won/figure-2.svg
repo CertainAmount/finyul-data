@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="결제 화면 선택에 따라 갈리는 100유로 청구액" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <rect x="110" y="8" width="180" height="40" fill="#f2f6fb" stroke="#254a75" stroke-width="2"/>
+    <text x="200" y="33" font-size="15" fill="#282d35" text-anchor="middle">결제 화면에서 고르기</text>
+    <line x1="160" y1="48" x2="105" y2="86" stroke="#254a75" stroke-width="2"/>
+    <polygon points="105,92 100,82 111,84" fill="#254a75"/>
+    <line x1="240" y1="48" x2="295" y2="86" stroke="#b4532a" stroke-width="2" stroke-dasharray="6 4"/>
+    <polygon points="295,92 289,84 300,82" fill="#b4532a"/>
+    <rect x="12" y="94" width="186" height="104" fill="#f2f6fb" stroke="#254a75" stroke-width="2"/>
+    <text x="105" y="118" font-size="15" fill="#254a75" text-anchor="middle">유로로 결제</text>
+    <text x="105" y="142" font-size="15" fill="#282d35" text-anchor="middle">카드사 환율로</text>
+    <text x="105" y="162" font-size="15" fill="#282d35" text-anchor="middle">한 번만 환산</text>
+    <text x="105" y="186" font-size="15" fill="#282d35" text-anchor="middle">151,365원</text>
+    <rect x="202" y="94" width="186" height="104" fill="#ffffff" stroke="#b4532a" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="295" y="118" font-size="15" fill="#b4532a" text-anchor="middle">원화로 결제</text>
+    <text x="295" y="142" font-size="15" fill="#282d35" text-anchor="middle">가맹점·운영사 환율</text>
+    <text x="295" y="162" font-size="15" fill="#282d35" text-anchor="middle">+ 3~8%</text>
+    <text x="295" y="186" font-size="15" fill="#282d35" text-anchor="middle">155,906~163,474원</text>
+    <line x1="105" y1="198" x2="170" y2="236" stroke="#6f7783" stroke-width="2"/>
+    <line x1="295" y1="198" x2="230" y2="236" stroke="#6f7783" stroke-width="2"/>
+    <polygon points="200,244 192,234 208,234" fill="#6f7783"/>
+    <rect x="70" y="244" width="260" height="48" fill="#f2f6fb" stroke="#6f7783" stroke-width="2"/>
+    <text x="200" y="264" font-size="15" fill="#282d35" text-anchor="middle">같은 100유로, 차이</text>
+    <text x="200" y="284" font-size="15" fill="#b4532a" text-anchor="middle">4,541~12,109원</text>
+  </svg>
