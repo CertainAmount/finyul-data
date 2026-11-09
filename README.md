@@ -12,8 +12,8 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
-- [전기차 보조금 조회 결과 읽는 법: 5,300만원부터 줄어드는 이유](https://finyul.com/articles/ev-subsidy-2026-national-local-price-tiers/) · [data](data/ev-subsidy-2026-national-local-price-tiers/)
-- [정년퇴직 실업급여 받을 수 있나요? 촉탁 계약만료·재고용 거절 유형별 정리와 내 일수 표](https://finyul.com/articles/retirement-age-unemployment-benefit-contract-expiry/) · [data](data/retirement-age-unemployment-benefit-contract-expiry/)
+- [Reading the Korean EV subsidy lookup screen: national and local amounts, the 53-million-won price tier, and the two remaining-quota columns (2026)](https://finyul.com/articles/ev-subsidy-2026-national-local-price-tiers/) · [data](data/ev-subsidy-2026-national-local-price-tiers/)
+- [Unemployment benefits in Korea at retirement age or when a fixed-term contract ends: who qualifies and when to apply](https://finyul.com/articles/retirement-age-unemployment-benefit-contract-expiry/) · [data](data/retirement-age-unemployment-benefit-contract-expiry/)
 - [Selling a used car in Korea: price check, documents, and tax and insurance after the title transfer](https://finyul.com/articles/used-car-sell-price-check-documents-fees-after-transfer/) · [data](data/used-car-sell-price-check-documents-fees-after-transfer/)
 - [Cancelling a Korean retirement pension (DC/IRP) vs borrowing against it: qualifying reasons, limits and tax](https://finyul.com/articles/retirement-pension-collateral-loan-vs-cancel/) · [data](data/retirement-pension-collateral-loan-vs-cancel/)
 - [Part-time pay calculator: monthly take-home with weekly holiday and night premiums (2026–2027 minimum hourly wage)](https://finyul.com/articles/part-time-pay-calculator-weekly-holiday-night-premium-take-home/) · [data](data/part-time-pay-calculator-weekly-holiday-night-premium-take-home/)

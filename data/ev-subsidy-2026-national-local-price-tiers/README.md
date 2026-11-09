@@ -1,4 +1,4 @@
-# 전기차 보조금 조회 결과 읽는 법: 5,300만원부터 줄어드는 이유
+# Reading the Korean EV subsidy lookup screen: national and local amounts, the 53-million-won price tier, and the two remaining-quota columns (2026)
 
 Article (Korean): [전기차 보조금 조회 결과 읽는 법: 5,300만원부터 줄어드는 이유](https://finyul.com/articles/ev-subsidy-2026-national-local-price-tiers/)
 
