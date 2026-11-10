@@ -2,7 +2,7 @@
 
 Article (Korean): [알바 퇴직금 지급기준, 주 15시간이 들쭉날쭉하면 받나요? 4주 평균과 1년 계산](https://finyul.com/articles/part-time-job-retirement-pay-15-hours-4-week-average/)
 
-Published 2026-10-15. Figures follow the rules as of this date; this folder is updated whenever the article is.
+Published 2026-10-15, last updated 2026-11-10. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
 | File | Caption |
 |---|---|
