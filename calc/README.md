@@ -9,6 +9,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `cartax` | [Car tax calculator: how much is my car per year? Per-cc rates and vehicle-age reductions explained](https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/) |
 | `dcfee` | [Buying ETFs directly in a DC retirement pension with a default option set: where does it get blocked?](https://finyul.com/articles/dc-etf-direct-vs-default-option/) |
 | `dclimit` | [Buying ETFs directly in a DC retirement pension with a default option set: where does it get blocked?](https://finyul.com/articles/dc-etf-direct-vs-default-option/) |
+| `dutyfree` | [Over the 800 USD duty-free limit: is self-declaring better? The 200,000 KRW cap and 40%/60% penalties](https://finyul.com/articles/travel-duty-free-800-self-report-penalty/) |
 | `eurroute` | [Exchanging 1 million KRW to euros: how many euros apart are the airport and bank apps?](https://finyul.com/articles/eur-exchange-route-cost-1m-won/) |
 | `fourins` | [Four social insurance rates 2026: how much is deducted from a 3 million KRW salary, employer share and 2027 changes](https://finyul.com/articles/four-insurance-rate-2026-monthly-salary-deduction/) |
 | `giftax` | [Gift tax rates and filing: if a child receives 300 million KRW, how much and where to file?](https://finyul.com/articles/gift-tax-rate-and-filing-3-billion-example/) |

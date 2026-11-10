@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="구매액별 자진신고 감면액 선 그래프" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<line x1="64" y1="240" x2="380" y2="240" stroke="#6f7783"/>
+<line x1="64" y1="40" x2="64" y2="240" stroke="#6f7783"/>
+<text x="58" y="245" font-size="15" text-anchor="end" fill="#6f7783">0</text>
+<text x="58" y="98.8" font-size="15" text-anchor="end" fill="#6f7783">20만</text>
+<line x1="64" y1="93.8" x2="380" y2="93.8" stroke="#6f7783" stroke-dasharray="3 4"/>
+<line x1="64.0" y1="240" x2="64.0" y2="245" stroke="#6f7783"/>
+<text x="64.0" y="264" font-size="15" text-anchor="middle" fill="#6f7783">800</text>
+<line x1="154.3" y1="240" x2="154.3" y2="245" stroke="#6f7783"/>
+<text x="154.3" y="264" font-size="15" text-anchor="middle" fill="#6f7783">2,000</text>
+<line x1="229.5" y1="240" x2="229.5" y2="245" stroke="#6f7783"/>
+<text x="229.5" y="264" font-size="15" text-anchor="middle" fill="#6f7783">3,000</text>
+<line x1="304.8" y1="240" x2="304.8" y2="245" stroke="#6f7783"/>
+<text x="304.8" y="264" font-size="15" text-anchor="middle" fill="#6f7783">4,000</text>
+<line x1="380.0" y1="240" x2="380.0" y2="245" stroke="#6f7783"/>
+<text x="380.0" y="264" font-size="15" text-anchor="middle" fill="#6f7783">5,000</text>
+<polyline points="313.5,93.8 380.0,54.9" fill="none" stroke="#6f7783" stroke-width="1.5" stroke-dasharray="2 4"/>
+<polyline points="64.0,240.0 313.5,93.8 380.0,93.8" fill="none" stroke="#254a75" stroke-width="2.5"/>
+<polyline points="64.0,240.0 271.9,93.8 380.0,93.8" fill="none" stroke="#b4532a" stroke-width="2.5" stroke-dasharray="7 4"/>
+<circle cx="313.5" cy="93.8" r="4.5" fill="#254a75"/>
+<circle cx="271.9" cy="93.8" r="4.5" fill="#b4532a"/>
+<circle cx="380.0" cy="54.9" r="3.5" fill="#6f7783"/>
+<text x="263.9" y="83.8" font-size="15" text-anchor="end" fill="#b4532a">옷·신발 18%: 약 3,563달러</text>
+<text x="394" y="145.8" font-size="15" text-anchor="end" fill="#254a75">일반 15%: 약 4,116달러</text>
+<line x1="313.5" y1="99.8" x2="313.5" y2="129.8" stroke="#254a75"/>
+<text x="394" y="42.9" font-size="15" text-anchor="end" fill="#6f7783">30%면 25만 3,339원</text>
+<text x="380" y="286" font-size="15" text-anchor="end" fill="#6f7783">총 구매액(달러)</text>
+<text x="8" y="28" font-size="15" text-anchor="start" fill="#6f7783">줄어드는 돈(원)</text>
+</svg>

@@ -147,6 +147,18 @@
       const rate = days <= 30 ? days / 1500 : 0.02 + Math.min(days - 30, 180) / 6000, late = Math.round(fee * rate);
       return { rows: [`${(rate * 100).toFixed(2).replace(/\.?0+$/, '')}%${days >= 210 ? ' (상한)' : ''}`, won(late), won(fee + late)], tones: { 1: 'total' } };
     },
+    dutyfree(values) {
+      // 여행자 휴대품 세금(관세청고시 제25조·관세법 시행령 별표2·관세법 제96조②·제241조⑤): 800달러 공제 → 간이세율 → 자진신고 30%(20만 원 상한) / 미신고 가산세 40%(2년 내 2회 이상 징수면 60%). 절사·소액 징수면제는 넣지 않은 근사.
+      const [usd, rate, fx] = values.slice(0, 3).map(Number);
+      if (values.slice(0, 3).some(v => v === '') || !Number.isFinite(usd) || usd < 0 || !Number.isFinite(fx) || fx <= 0) return { warn: '구매액(달러)과 환율(원)을 숫자로 넣어 주세요.' };
+      const over = Math.max(0, usd - 800);
+      if (!over) return { rows: ['0달러 (800달러 이하)', '0원', '0원', '0원', '신고 대상이 아니에요', '0원', '0원', '0원'], tones: { 4: 'ok' } };
+      const krw = over * fx, tax = krw * rate / 100, cut = Math.min(tax * 0.3, 200000), heavy = values[3] === 'yes';
+      return {
+        rows: [`${over.toLocaleString('ko-KR')}달러`, won(krw), won(tax), `${won(cut)}${tax * 0.3 > 200000 ? ' (20만 원 상한)' : ''}`, won(tax - cut), won(tax * (heavy ? 0.6 : 0.4)), won(tax * (heavy ? 1.6 : 1.4)), `${(tax * (heavy ? 1.6 : 1.4) / (tax - cut)).toFixed(2)}배`],
+        tones: { 4: 'total', 6: 'warn' }
+      };
+    },
     wagearrears(values) {
       // 간이대지급금 임금 몫: 최종 3개월분, 임금 항목 상한 700만 원(근로복지공단 안내). 평균임금·상여·수당은 넣지 않은 근사값.
       const [pay, months] = values.map(Number);

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 358" role="img" aria-label="800달러 한도에 들어가는 것과 따로 세는 것" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<rect x="6" y="6" width="388" height="216" rx="4" fill="#f2f6fb" stroke="#254a75"/>
+<text x="18" y="32" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">한 사람 800달러 (물건값 합계)</text>
+<rect x="18" y="46" width="178" height="38" rx="4" fill="#ffffff" stroke="#6f7783"/>
+<text x="26" y="71" font-size="15" text-anchor="start" fill="#282d35">해외 매장에서 산 것</text>
+<rect x="204" y="46" width="178" height="38" rx="4" fill="#ffffff" stroke="#6f7783"/>
+<text x="212" y="71" font-size="15" text-anchor="start" fill="#282d35">시내 면세점에서 산 것</text>
+<rect x="18" y="92" width="178" height="38" rx="4" fill="#ffffff" stroke="#6f7783"/>
+<text x="26" y="117" font-size="15" text-anchor="start" fill="#282d35">출국장 면세점에서 산 것</text>
+<rect x="204" y="92" width="178" height="38" rx="4" fill="#ffffff" stroke="#6f7783"/>
+<text x="212" y="117" font-size="15" text-anchor="start" fill="#282d35">선물로 받은 것</text>
+<rect x="18" y="140" width="364" height="70" rx="4" fill="#ffffff" stroke="#254a75"/>
+<text x="28" y="164" font-size="15" text-anchor="start" fill="#282d35">입국장 면세점 국산품은</text>
+<text x="28" y="188" font-size="15" text-anchor="start" fill="#282d35">산 값만큼 800달러에서 먼저 빠져요</text>
+<rect x="6" y="238" width="388" height="112" rx="4" fill="#ffffff" stroke="#b4532a" stroke-dasharray="6 4"/>
+<text x="18" y="264" font-size="15" text-anchor="start" fill="#b4532a" font-weight="700">800달러와 따로 세는 것</text>
+<text x="18" y="290" font-size="15" text-anchor="start" fill="#282d35">술 2L·400달러 이하</text>
+<text x="18" y="314" font-size="15" text-anchor="start" fill="#282d35">담배 궐련 200개비</text>
+<text x="18" y="338" font-size="15" text-anchor="start" fill="#282d35">향수 100ml (넘으면 신고)</text>
+</svg>
