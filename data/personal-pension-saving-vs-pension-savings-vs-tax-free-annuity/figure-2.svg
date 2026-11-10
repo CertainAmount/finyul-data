@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 330" role="img" aria-label="계약 종류별 연금 수령과 해지 세금 비교" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="124" y="20" font-size="15" fill="#254a75">연금으로 받을 때</text>
+<text x="262" y="20" font-size="15" fill="#b4532a">해지할 때</text>
+<line x1="8" y1="32" x2="392" y2="32" stroke="#d5dbe3"/>
+<text x="8" y="56" font-size="15" fill="#282d35">옛 개인연금저축</text>
+<text x="124" y="56" font-size="15" fill="#282d35">0원</text>
+<line x1="124" y1="68" x2="124" y2="78" stroke="#6f7783"/>
+<text x="124" y="98" font-size="15" fill="#6f7783">계약대로 받으면</text>
+<text x="262" y="56" font-size="15" fill="#282d35">154만 원</text>
+<line x1="262" y1="68" x2="262" y2="78" stroke="#6f7783"/>
+<rect x="262" y="68" width="112.0" height="10" fill="#b4532a" fill-opacity="0.35"/>
+<text x="262" y="98" font-size="15" fill="#6f7783">해지 전 6개월 안</text>
+<text x="262" y="116" font-size="15" fill="#6f7783">사유 있으면 0원</text>
+<line x1="8" y1="128" x2="392" y2="128" stroke="#d5dbe3"/>
+<text x="8" y="152" font-size="15" fill="#282d35">연금저축</text>
+<text x="124" y="152" font-size="15" fill="#282d35">55만~33만 원</text>
+<line x1="124" y1="164" x2="124" y2="174" stroke="#6f7783"/>
+<rect x="124" y="164" width="40.0" height="10" fill="#254a75" fill-opacity="0.35"/>
+<rect x="124" y="164" width="24.0" height="10" fill="#254a75"/>
+<text x="124" y="194" font-size="15" fill="#6f7783">65세~85세에</text>
+<text x="124" y="212" font-size="15" fill="#6f7783">받을 때</text>
+<text x="262" y="152" font-size="15" fill="#282d35">165만 원</text>
+<line x1="262" y1="164" x2="262" y2="174" stroke="#6f7783"/>
+<rect x="262" y="164" width="120.0" height="10" fill="#b4532a" fill-opacity="0.35"/>
+<text x="262" y="194" font-size="15" fill="#6f7783">부득이한 사유면</text>
+<text x="262" y="212" font-size="15" fill="#6f7783">55만~33만 원</text>
+<line x1="8" y1="224" x2="392" y2="224" stroke="#d5dbe3"/>
+<text x="8" y="248" font-size="15" fill="#282d35">세제 혜택 없는</text>
+<text x="8" y="268" font-size="15" fill="#282d35">연금보험</text>
+<text x="124" y="248" font-size="15" fill="#282d35">0원</text>
+<line x1="124" y1="260" x2="124" y2="270" stroke="#6f7783"/>
+<text x="124" y="290" font-size="15" fill="#6f7783">요건을 채우면</text>
+<text x="262" y="248" font-size="15" fill="#282d35">154만 원</text>
+<line x1="262" y1="260" x2="262" y2="270" stroke="#6f7783"/>
+<rect x="262" y="260" width="112.0" height="10" fill="#b4532a" fill-opacity="0.35"/>
+<text x="262" y="290" font-size="15" fill="#6f7783">요건을 못 채우면</text>
+</svg>

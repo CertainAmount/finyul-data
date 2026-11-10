@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 332" role="img" aria-label="네 계약이 포털 구분 칸에서 갈리는 곳" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<rect x="8" y="8" width="130" height="52" rx="4" fill="#f2f6fb" stroke="#6f7783"/>
+<text x="18" y="30" font-size="15" fill="#282d35" text-anchor="start">내 DC·IRP</text>
+
+<line x1="140" y1="34" x2="206" y2="34" stroke="#6f7783" stroke-width="2" stroke-dasharray="4 3"/>
+<polygon points="214,34 205,29 205,39" fill="#6f7783"/>
+<rect x="216" y="8" width="176" height="52" rx="4" fill="#fff" stroke="#6f7783" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="226" y="30" font-size="15" fill="#282d35" text-anchor="start">퇴직연금</text>
+<text x="226" y="50" font-size="15" fill="#6f7783" text-anchor="start">이 글 밖</text>
+<text x="10" y="100" font-size="15" fill="#254a75" text-anchor="start">포털의 ‘개인연금’ 안</text>
+<rect x="208" y="112" width="192" height="212" rx="6" fill="none" stroke="#254a75" stroke-dasharray="2 3"/>
+<line x1="208" y1="86" x2="400" y2="86" stroke="none"/>
+<rect x="8" y="120" width="130" height="52" rx="4" fill="#f2f6fb" stroke="#6f7783"/>
+<text x="18" y="142" font-size="15" fill="#282d35" text-anchor="start">내 연금저축펀드</text>
+<text x="18" y="162" font-size="15" fill="#6f7783" text-anchor="start"></text>
+<line x1="140" y1="146" x2="206" y2="146" stroke="#254a75" stroke-width="2"/>
+<polygon points="214,146 205,141 205,151" fill="#254a75"/>
+<rect x="216" y="120" width="176" height="52" rx="4" fill="#fff" stroke="#254a75" stroke-width="2"/>
+<text x="226" y="142" font-size="15" fill="#282d35" text-anchor="start">연금저축(계좌)</text>
+<text x="226" y="162" font-size="15" fill="#6f7783" text-anchor="start">01.1~ · 13.3부터 계좌</text>
+<rect x="8" y="188" width="130" height="52" rx="4" fill="#f2f6fb" stroke="#6f7783"/>
+<text x="18" y="210" font-size="15" fill="#282d35" text-anchor="start">어머니 보험</text>
+<text x="18" y="230" font-size="15" fill="#6f7783" text-anchor="start">2014년 가입</text>
+<line x1="140" y1="214" x2="206" y2="214" stroke="#254a75" stroke-width="2"/>
+<polygon points="214,214 205,209 205,219" fill="#254a75"/>
+<rect x="216" y="188" width="176" height="52" rx="4" fill="#fff" stroke="#254a75" stroke-width="2"/>
+<text x="226" y="210" font-size="15" fill="#282d35" text-anchor="start">세제혜택이 없는</text>
+<text x="226" y="230" font-size="15" fill="#6f7783" text-anchor="start">개인연금</text>
+<rect x="8" y="256" width="130" height="52" rx="4" fill="#f2f6fb" stroke="#6f7783"/>
+<text x="18" y="278" font-size="15" fill="#282d35" text-anchor="start">아버지 계약</text>
+<text x="18" y="298" font-size="15" fill="#6f7783" text-anchor="start">1996년 가입</text>
+<line x1="140" y1="282" x2="206" y2="282" stroke="#254a75" stroke-width="2"/>
+<polygon points="214,282 205,277 205,287" fill="#254a75"/>
+<rect x="216" y="256" width="176" height="52" rx="4" fill="#fff" stroke="#254a75" stroke-width="2"/>
+<text x="226" y="278" font-size="15" fill="#282d35" text-anchor="start">舊 개인연금저축</text>
+<text x="226" y="298" font-size="15" fill="#6f7783" text-anchor="start">94.6~00.12 판매</text>
+</svg>
