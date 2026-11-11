@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 472" role="img" aria-label="사례별 환급금 중 세금 붙는 몫" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<rect x="10" y="6" width="14" height="14" fill="#c9cfd8"/>
+<text x="30" y="19" font-size="15" fill="#6f7783">세금 안 붙는 몫</text>
+<rect x="170" y="6" width="14" height="14" fill="#254a75"/>
+<text x="190" y="19" font-size="15" fill="#282d35">세금 붙는 몫</text>
+<text x="10" y="48" font-size="15" fill="#282d35">A. 전부 공제 · 돌려받은 돈 1,100만 원</text>
+<rect x="10.0" y="58" width="134.8" height="16" fill="#254a75"/>
+<text x="10" y="96" font-size="15" fill="#6f7783">넣은 돈 1,080만 원 · 공제받은 돈 1,080만 원</text>
+<text x="10" y="118" font-size="15" fill="#254a75" font-weight="700">떼는 세금 1,815,000원</text>
+<text x="390" y="118" font-size="15" fill="#6f7783" text-anchor="end">전체에 매기면 1,815,000원</text>
+<text x="10" y="160" font-size="15" fill="#282d35">B. 일부 공제 · 돌려받은 돈 3,100만 원</text>
+<rect x="10" y="170" width="245.2" height="16" fill="#c9cfd8"/>
+<rect x="255.2" y="170" width="134.8" height="16" fill="#254a75"/>
+<text x="10" y="208" font-size="15" fill="#6f7783">넣은 돈 3,000만 원 · 공제받은 돈 1,000만 원</text>
+<text x="10" y="230" font-size="15" fill="#254a75" font-weight="700">떼는 세금 1,815,000원</text>
+<text x="390" y="230" font-size="15" fill="#6f7783" text-anchor="end">전체에 매기면 5,115,000원</text>
+<text x="10" y="272" font-size="15" fill="#282d35">C. B인데 환급이 적음 · 돌려받은 돈 1,900만 원</text>
+<rect x="10" y="282" width="232.9" height="16" fill="#c9cfd8"/>
+<text x="10" y="320" font-size="15" fill="#6f7783">넣은 돈 3,000만 원 · 공제받은 돈 1,000만 원</text>
+<text x="10" y="342" font-size="15" fill="#254a75" font-weight="700">떼는 세금 0원</text>
+<text x="390" y="342" font-size="15" fill="#6f7783" text-anchor="end">전체에 매기면 3,135,000원</text>
+<text x="10" y="384" font-size="15" fill="#282d35">D. 공제 안 받음 · 돌려받은 돈 1,850만 원</text>
+<rect x="10" y="394" width="220.6" height="16" fill="#c9cfd8"/>
+<rect x="230.6" y="394" width="6.1" height="16" fill="#254a75"/>
+<text x="10" y="432" font-size="15" fill="#6f7783">넣은 돈 1,800만 원 · 공제받은 돈 0원</text>
+<text x="10" y="454" font-size="15" fill="#254a75" font-weight="700">떼는 세금 82,500원</text>
+<text x="390" y="454" font-size="15" fill="#6f7783" text-anchor="end">전체에 매기면 3,052,500원</text>
+</svg>

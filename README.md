@@ -12,6 +12,7 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
+- [노란우산공제 해지 세금, 환급금 전체가 아니라 공제받은 만큼만 내요](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) · [data](data/noranumbrella-deduction-limit-cancel-tax-2026/)
 - [최저시급 월급 2027 확인법: 월급을 209시간으로 나눠 10,700원 넘는지 보기](https://finyul.com/articles/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/) · [data](data/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/)
 - [Reading the Korean EV subsidy lookup screen: national and local amounts, the 53-million-won price tier, and the two remaining-quota columns (2026)](https://finyul.com/articles/ev-subsidy-2026-national-local-price-tiers/) · [data](data/ev-subsidy-2026-national-local-price-tiers/)
 - [Unemployment benefits in Korea at retirement age or when a fixed-term contract ends: who qualifies and when to apply](https://finyul.com/articles/retirement-age-unemployment-benefit-contract-expiry/) · [data](data/retirement-age-unemployment-benefit-contract-expiry/)

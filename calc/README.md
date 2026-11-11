@@ -20,6 +20,8 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `loan` | [Loan repayment calculator: compare interest and prepayment fees by repayment type](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/) |
 | `mortgagelimit` | [Mortgage limit: will LTV, DSR, or the 600 million KRW cap stop you first?](https://finyul.com/articles/mortgage-limit-amount-cap-ltv-dsr-lowest-one/) |
 | `netpay` | [After-tax salary calculator: what lands in your account from 3 million KRW, with meal allowance and dependents](https://finyul.com/articles/net-salary-calculator-take-home-pay/) |
+| `noranumbrella` | [noranumbrella-deduction-limit-cancel-tax-2026](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |
+| `noranumbrellacancel` | [noranumbrella-deduction-limit-cancel-tax-2026](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |
 | `nps` | [National Pension makeup contributions: which month in 2026 costs less? November vs. December payments](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
 | `npsvol` | [National Pension voluntary enrollment from 96,000 KRW a month: how much you get and when you break even](https://finyul.com/articles/nps-voluntary-enrollment-2026-premium-benefit/) |
 | `parental` | [Parental leave benefit: can I claim it all after leave ends? When the 12 months start](https://finyul.com/articles/parental-leave-benefit-claim-deadline-lump-sum/) |

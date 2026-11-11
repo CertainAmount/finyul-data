@@ -711,6 +711,26 @@
         tones: { 0: 'warn', 3: 'total', 4: lost ? 'warn' : 'ok' }
       };
     },
+    noranumbrellacancel(values) {
+      // 노란우산공제 일반 해지(기타소득): 세금 붙는 몫 = 환급금 − (낸 부금 − 공제받은 금액), 원천징수 16.5%,
+      // 300만 원 넘으면 다른 과세표준에 합산해 소득세법 제55조 세율로 다시 계산(지방소득세 10% 포함). 공제계약대출 한도 = min(낸 부금, (환급금 − 원천징수)×90%, 10만 원 단위).
+      // 폐업 등 공제금(퇴직소득)과 건강보험료는 계산하지 않는다. 검산: work/noranumbrella-deduction-limit-cancel-tax-2026/notes/calc-cancel-spec-1112.js
+      const BR = [[14e6, 0.06, 0, 0], [5e7, 0.15, 14e6, 84e4], [88e6, 0.24, 5e7, 624e4], [15e7, 0.35, 88e6, 1536e4], [3e8, 0.38, 15e7, 3706e4], [5e8, 0.40, 3e8, 9406e4], [1e9, 0.42, 5e8, 17406e4], [Infinity, 0.45, 1e9, 38406e4]];
+      const tax = tb => { if (tb <= 0) return 0; for (const [u, r, lo, base] of BR) if (tb <= u) return base + (tb - lo) * r; };
+      if (values.slice(0, 4).some(v => v === '')) return { warn: '숫자를 만 원 단위로 넣어 주세요.' };
+      const [R, P, D, B] = values.slice(0, 4).map(v => Number(v) * 10000);
+      if (![R, P, D, B].every(Number.isFinite) || R <= 0 || P < 0 || D < 0 || B < 0) return { warn: '숫자를 만 원 단위로 넣어 주세요.' };
+      if (D > P) return { warn: '소득공제 받은 금액은 낸 부금보다 클 수 없어요.' };
+      const X = Math.max(0, R - (P - D)), W = Math.round(X * 0.165), merged = X > 3000000;
+      const fin = merged ? Math.round((tax(B + X) - tax(B)) * 1.1) : W, extra = fin - W;
+      const loan = Math.min(P, Math.floor((R - W) * 0.9 / 100000) * 100000);
+      return {
+        rows: [X ? won(X) : '0원 (공제 못 받은 납입분이 환급금보다 많아 세금이 붙지 않아요. 증빙으로 확인되는 금액까지만 인정돼요)',
+          won(W), won(R - W), merged ? won(fin) : '해당 없어요, 뗀 세금으로 끝나요',
+          extra > 0 ? `${won(extra)} 더 내요` : extra < 0 ? `${won(-extra)} 돌려받아요` : '0원', won(R - fin), won(loan)],
+        tones: extra > 0 ? { 4: 'warn', 5: 'total' } : { 5: 'total' }
+      };
+    },
     minusinterest(values) {
       // 마통 이자 = 쓴 금액 × 연이율 × 쓴 날수 ÷ 365, 원 미만 버림(하나은행 상품안내 방식).
       const amt = Number(values[0]) * 10000, rate = Number(values[1]), days = Number(values[2]);
