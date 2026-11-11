@@ -1,1 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 140" role="img" aria-label="국제선 취소 시점별 위약금 지수" style="width:100%;height:auto;max-width:26rem" class="mx-auto block" font-family="Pretendard, 'Noto Sans KR', sans-serif"><line x1="90" x2="90" y1="6" y2="136" stroke="#9ca3af" stroke-width="1"></line><g><text x="84" y="23" text-anchor="end" font-size="11" font-weight="700" fill="#1f2937">91일 전 이전</text><text x="96" y="23" font-size="11.5" font-weight="700" fill="#1f2937">0 (면제)</text></g><g><text x="84" y="49" text-anchor="end" font-size="11" font-weight="700" fill="#1f2937">90~61일 전</text><rect x="90" y="36" width="45.535714285714285" height="18" fill="#b45309" stroke="#92400e" stroke-width="1"></rect><text x="141.53571428571428" y="49" font-size="11.5" font-weight="700" fill="#1f2937">43</text></g><g><text x="84" y="75" text-anchor="end" font-size="11" font-weight="700" fill="#1f2937">60~15일 전</text><rect x="90" y="62" width="106.25" height="18" fill="#254a75" stroke="#254a75" stroke-width="1"></rect><text x="202.25" y="75" font-size="11.5" font-weight="700" fill="#1f2937">100 (기준)</text></g><g><text x="84" y="101" text-anchor="end" font-size="11" font-weight="700" fill="#1f2937">14~4일 전</text><rect x="90" y="88" width="136.60714285714286" height="18" fill="#b45309" stroke="#92400e" stroke-width="1"></rect><text x="232.60714285714286" y="101" font-size="11.5" font-weight="700" fill="#1f2937">129</text></g><g><text x="84" y="127" text-anchor="end" font-size="11" font-weight="700" fill="#1f2937">3일 이내</text><rect x="90" y="114" width="166.96428571428572" height="18" fill="#b45309" stroke="#92400e" stroke-width="1"></rect><text x="262.9642857142857" y="127" font-size="11.5" font-weight="700" fill="#1f2937">157</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 408" role="img" aria-label="항공사 7곳 가장 싼 운임 취소 수수료, 91·30·7일 전" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<circle cx="14" cy="18" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<text x="26" y="23" font-size="15" text-anchor="start" fill="#282d35">91일 전</text>
+<circle cx="110" cy="18" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M110 12.5A5.5 5.5 0 0 0 110 23.5Z" fill="#254a75"/>
+<text x="122" y="23" font-size="15" text-anchor="start" fill="#282d35">30일 전</text>
+<circle cx="206" cy="18" r="6" fill="#254a75"/>
+<text x="218" y="23" font-size="15" text-anchor="start" fill="#282d35">7일 전</text>
+<line x1="112" y1="38" x2="112" y2="366" stroke="#d5dbe3" stroke-width="1"/>
+<text x="112" y="400" font-size="15" text-anchor="middle" fill="#6f7783">0</text>
+<line x1="232" y1="38" x2="232" y2="366" stroke="#d5dbe3" stroke-width="1"/>
+<text x="232" y="400" font-size="15" text-anchor="middle" fill="#6f7783">10만 원</text>
+<line x1="352" y1="38" x2="352" y2="366" stroke="#d5dbe3" stroke-width="1"/>
+<text x="352" y="400" font-size="15" text-anchor="middle" fill="#6f7783">20만 원</text>
+<text x="4" y="56" font-size="15" text-anchor="start" fill="#282d35">대한항공</text>
+<text x="4" y="73" font-size="15" text-anchor="start" fill="#6f7783">세이버</text>
+<line x1="112" y1="60" x2="328" y2="60" stroke="#9fb3cb" stroke-width="3"/>
+<circle cx="112" cy="60" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<circle cx="280" cy="60" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M280 54.5A5.5 5.5 0 0 0 280 65.5Z" fill="#254a75"/>
+<circle cx="328" cy="60" r="6" fill="#254a75"/>
+<text x="339" y="65" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">18만</text>
+<text x="4" y="102" font-size="15" text-anchor="start" fill="#282d35">아시아나</text>
+<text x="4" y="119" font-size="15" text-anchor="start" fill="#6f7783">S·V·T</text>
+<line x1="112" y1="106" x2="220" y2="106" stroke="#9fb3cb" stroke-width="3"/>
+<circle cx="112" cy="106" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<circle cx="196" cy="106" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M196 100.5A5.5 5.5 0 0 0 196 111.5Z" fill="#254a75"/>
+<circle cx="220" cy="106" r="6" fill="#254a75"/>
+<text x="231" y="111" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">9만</text>
+<text x="4" y="148" font-size="15" text-anchor="start" fill="#282d35">제주항공</text>
+<text x="4" y="165" font-size="15" text-anchor="start" fill="#6f7783">BASIC</text>
+<line x1="184" y1="152" x2="208" y2="152" stroke="#9fb3cb" stroke-width="3"/>
+<circle cx="184" cy="152" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<circle cx="208" cy="152" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M208 146.5A5.5 5.5 0 0 0 208 157.5Z" fill="#254a75"/>
+<circle cx="208" cy="152" r="6" fill="#254a75"/>
+<text x="174" y="143" font-size="15" text-anchor="end" fill="#6f7783">6만</text>
+<text x="219" y="157" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">8만</text>
+<text x="4" y="194" font-size="15" text-anchor="start" fill="#282d35">진에어</text>
+<text x="4" y="211" font-size="15" text-anchor="start" fill="#6f7783">슈퍼로우</text>
+<line x1="184" y1="198" x2="232" y2="198" stroke="#9fb3cb" stroke-width="3"/>
+<circle cx="184" cy="198" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<circle cx="208" cy="198" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M208 192.5A5.5 5.5 0 0 0 208 203.5Z" fill="#254a75"/>
+<circle cx="232" cy="198" r="6" fill="#254a75"/>
+<text x="174" y="189" font-size="15" text-anchor="end" fill="#6f7783">6만</text>
+<text x="243" y="203" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">10만</text>
+<text x="4" y="240" font-size="15" text-anchor="start" fill="#282d35">트리니티</text>
+<text x="4" y="257" font-size="15" text-anchor="start" fill="#6f7783">이벤트</text>
+<line x1="196" y1="244" x2="220" y2="244" stroke="#9fb3cb" stroke-width="3"/>
+<circle cx="196" cy="244" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<circle cx="220" cy="244" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M220 238.5A5.5 5.5 0 0 0 220 249.5Z" fill="#254a75"/>
+<circle cx="220" cy="244" r="6" fill="#254a75"/>
+<text x="186" y="235" font-size="15" text-anchor="end" fill="#6f7783">7만</text>
+<text x="231" y="249" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">9만</text>
+<text x="4" y="286" font-size="15" text-anchor="start" fill="#282d35">에어부산</text>
+<text x="4" y="303" font-size="15" text-anchor="start" fill="#6f7783">특가·이벤트</text>
+<line x1="184" y1="290" x2="220" y2="290" stroke="#9fb3cb" stroke-width="3"/>
+<circle cx="184" cy="290" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<circle cx="208" cy="290" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M208 284.5A5.5 5.5 0 0 0 208 295.5Z" fill="#254a75"/>
+<circle cx="220" cy="290" r="6" fill="#254a75"/>
+<text x="174" y="281" font-size="15" text-anchor="end" fill="#6f7783">6만</text>
+<text x="231" y="295" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">9만</text>
+<text x="4" y="332" font-size="15" text-anchor="start" fill="#282d35">이스타</text>
+<text x="4" y="349" font-size="15" text-anchor="start" fill="#6f7783">특가</text>
+<line x1="184" y1="336" x2="220" y2="336" stroke="#9fb3cb" stroke-width="3"/>
+<circle cx="184" cy="336" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/>
+<circle cx="220" cy="336" r="5.5" fill="#ffffff" stroke="#254a75" stroke-width="2"/><path d="M220 330.5A5.5 5.5 0 0 0 220 341.5Z" fill="#254a75"/>
+<circle cx="220" cy="336" r="6" fill="#254a75"/>
+<text x="174" y="327" font-size="15" text-anchor="end" fill="#6f7783">6만</text>
+<text x="231" y="341" font-size="15" text-anchor="start" fill="#254a75" font-weight="700">9만</text>
+</svg>

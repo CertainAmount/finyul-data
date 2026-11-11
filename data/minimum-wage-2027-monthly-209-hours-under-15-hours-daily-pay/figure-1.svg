@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 284" role="img" aria-label="주 근로시간별 2027년 월 최저액" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="0" y="23" font-size="15" fill="#282d35">주 40시간</text>
+<rect x="96" y="9" width="170.0" height="18" fill="#9db4cf"/>
+<text x="272.0" y="23" font-size="15" fill="#282d35">223만 6,300원</text>
+<text x="96" y="44" font-size="15" fill="#6f7783">기준시간 209시간</text>
+<text x="0" y="71" font-size="15" fill="#282d35">주 30시간</text>
+<rect x="96" y="57" width="127.2" height="18" fill="#9db4cf"/>
+<text x="229.2" y="71" font-size="15" fill="#282d35">167만 3,786원</text>
+<text x="96" y="92" font-size="15" fill="#6f7783">기준시간 156.43시간</text>
+<text x="0" y="119" font-size="15" fill="#282d35">주 20시간</text>
+<rect x="96" y="105" width="84.8" height="18" fill="#9db4cf"/>
+<text x="186.8" y="119" font-size="15" fill="#282d35">111만 5,857원</text>
+<text x="96" y="140" font-size="15" fill="#6f7783">기준시간 104.29시간</text>
+<text x="0" y="167" font-size="15" fill="#282d35">주 15시간</text>
+<rect x="96" y="153" width="63.6" height="18" fill="#254a75"/>
+<text x="165.6" y="167" font-size="15" fill="#282d35">83만 6,893원</text>
+<text x="96" y="188" font-size="15" fill="#6f7783">기준시간 78.21시간</text>
+<text x="4" y="218" font-size="15" fill="#b4532a">▲ 15시간부터 +18만 5,976원 (주휴 3시간)</text>
+<text x="0" y="255" font-size="15" fill="#282d35">주 14시간</text>
+<rect x="96" y="241" width="49.5" height="18" fill="#6f7783"/>
+<text x="151.5" y="255" font-size="15" fill="#282d35">65만 917원</text>
+<text x="96" y="276" font-size="15" fill="#6f7783">기준시간 60.83시간 · 주휴 없음</text>
+</svg>

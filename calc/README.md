@@ -4,6 +4,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 
 | Calculator | Used in |
 |---|---|
+| `aircancel` | [Who sets airline ticket cancellation fees? 24-hour free cancellation and tax refunds explained](https://finyul.com/articles/air-ticket-cancel-fee-who-sets-24h-free-tax-refund/) |
 | `breakeven` | [National Pension makeup contributions: which month in 2026 costs less? November vs. December payments](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
 | `brokerage` | [How much is the jeonse brokerage fee? Calculating fee caps for monthly rent and officetels](https://finyul.com/articles/real-estate-brokerage-fee-calculation-sale-jeonse-wolse/) |
 | `cartax` | [Car tax calculator: how much is my car per year? Per-cc rates and vehicle-age reductions explained](https://finyul.com/articles/car-tax-calculation-cc-rate-age-discount/) |

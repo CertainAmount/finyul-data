@@ -147,6 +147,18 @@
       const rate = days <= 30 ? days / 1500 : 0.02 + Math.min(days - 30, 180) / 6000, late = Math.round(fee * rate);
       return { rows: [`${(rate * 100).toFixed(2).replace(/\.?0+$/, '')}%${days >= 210 ? ' (상한)' : ''}`, won(late), won(fee + late)], tones: { 1: 'total' } };
     },
+    aircancel(values) {
+      // 항공권 취소 환불액: 결제액 − 공제. "수수료가 운임보다 크면 운임까지만" 문구가 있는 항공사(이스타·제주·진에어 안내문)는 공제 = min(표 수수료, 낸 운임). 금액은 모두 독자가 넣은 값.
+      const [paid, fare, fee] = values.slice(0, 3).map(Number), capped = values[3] === 'yes';
+      if (values.slice(0, 3).some(v => v === '') || ![paid, fare, fee].every(Number.isFinite) || paid <= 0 || fare < 0 || fee < 0) return { warn: '결제 총액·항공운임·표 수수료를 숫자로 넣어 주세요.' };
+      if (fare > paid) return { warn: '항공운임은 결제 총액보다 클 수 없어요. 영수증의 운임 줄을 넣어 주세요.' };
+      const raw = paid - fee, cut = Math.min(fee, fare), back = paid - cut, pct = `${(back / paid * 100).toFixed(1)}%`;
+      const rawRow = `${raw < 0 ? '−' : ''}${won(Math.abs(raw))}${raw < 0 ? ' (0원 아래)' : ''}`;
+      const verdict = fee > fare ? '표 수수료가 낸 운임보다 커서 공제가 운임에서 멈춰요' : '표 수수료가 운임보다 작아 표 그대로 빠져요';
+      if (capped) return { rows: [rawRow, won(cut), won(back), pct, verdict], tones: raw < 0 ? { 0: 'warn', 2: 'total' } : { 2: 'total' } };
+      if (fee <= fare) return { rows: [rawRow, won(fee), won(raw), `${(raw / paid * 100).toFixed(1)}%`, verdict], tones: { 2: 'total' } };
+      return { rows: [rawRow, `표 그대로 ${won(fee)} · 운임까지만 ${won(cut)}`, `운임까지만이면 ${won(back)}`, `운임까지만이면 ${pct}`, '안내문에 운임 상한 문구가 있는지 항공사에 확인해야 해요'], tones: { 0: 'warn', 4: 'warn' } };
+    },
     dutyfree(values) {
       // 여행자 휴대품 세금(관세청고시 제25조·관세법 시행령 별표2·관세법 제96조②·제241조⑤): 800달러 공제 → 간이세율 → 자진신고 30%(20만 원 상한) / 미신고 가산세 40%(2년 내 2회 이상 징수면 60%). 절사·소액 징수면제는 넣지 않은 근사.
       const [usd, rate, fx] = values.slice(0, 3).map(Number);
