@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 316" role="img" aria-label="세 제도 월 상환액 범위 막대" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="395" y="22" font-size="15" text-anchor="end" fill="#6f7783">약정 그대로 10년: 80.7</text>
+<text x="20" y="58" font-size="15" text-anchor="start" fill="#282d35">신속채무조정 (30일 이하)</text>
+<rect x="257.6" y="68" width="32.4" height="20" rx="3" fill="#254a75"/>
+<text x="252.6" y="84" font-size="15" text-anchor="end" fill="#282d35">59.4</text>
+<text x="295.0" y="84" font-size="15" text-anchor="start" fill="#282d35">67.5</text>
+<text x="20" y="120" font-size="15" text-anchor="start" fill="#282d35">사전채무조정 (31~89일)</text>
+<rect x="227.2" y="130" width="35.6" height="20" rx="3" fill="#254a75"/>
+<text x="222.2" y="146" font-size="15" text-anchor="end" fill="#282d35">51.8</text>
+<text x="267.8" y="146" font-size="15" text-anchor="start" fill="#282d35">60.7</text>
+<text x="20" y="182" font-size="15" text-anchor="start" fill="#282d35">개인워크아웃 (90일 이상)</text>
+<rect x="166.0" y="192" width="62.4" height="20" rx="3" fill="#b4532a"/>
+<text x="161.0" y="208" font-size="15" text-anchor="end" fill="#282d35">36.5</text>
+<text x="233.4" y="208" font-size="15" text-anchor="start" fill="#282d35">52.1</text>
+<line x1="342.8" y1="30" x2="342.8" y2="260" stroke="#6f7783" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="227.8" y1="128" x2="227.8" y2="216" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="227.8" y="234" font-size="15" text-anchor="middle" fill="#b4532a">51.8과 52.1: 0.3만 원 차이</text>
+<line x1="20" y1="260" x2="380" y2="260" stroke="#6f7783"/>
+<line x1="20.0" y1="260" x2="20.0" y2="265" stroke="#6f7783"/>
+<text x="20.0" y="283" font-size="15" text-anchor="middle" fill="#6f7783">0</text>
+<line x1="140.0" y1="260" x2="140.0" y2="265" stroke="#6f7783"/>
+<text x="140.0" y="283" font-size="15" text-anchor="middle" fill="#6f7783">30</text>
+<line x1="260.0" y1="260" x2="260.0" y2="265" stroke="#6f7783"/>
+<text x="260.0" y="283" font-size="15" text-anchor="middle" fill="#6f7783">60</text>
+<line x1="380.0" y1="260" x2="380.0" y2="265" stroke="#6f7783"/>
+<text x="380.0" y="283" font-size="15" text-anchor="middle" fill="#6f7783">90</text>
+<text x="20" y="306" font-size="15" text-anchor="start" fill="#6f7783">월 상환액 (만 원)</text>
+</svg>
