@@ -7,3 +7,18 @@ s5,KCB(올크레딧),KCB 개인신용평가체계 공시 (2024.04.01),filing,htt
 s6,금융위원회,금융위원회 보도자료(2018-12-27) 소액·단기연체 신용평가 반영 기준 완화,filing,https://www.fsc.go.kr/no010101/73473
 s7,NICE평가정보,NICE 개인신용평가체계 - CB단기연체정보,filing,https://www.niceinfo.co.kr/creditrating/cb_score_1_4_3.nice
 s8,머니투데이,"머니투데이 2026-09-26 — 5만원 밀렸는데 신용점수 뚝? 지난 7월부터 단기연체정보 등록 기준 변경(금감원 인용, 1차 원문 미확인)",news,https://www.mt.co.kr/finance/2026/09/26/2026092311585934296
+s9,법제처 국가법령정보센터,"신용정보의 이용 및 보호에 관한 법률 시행령 제30조의3(신용정보제공·이용자의 사전통지) — 연체정보 등록 전 통지는 5영업일 전까지, 연체 발생일부터 등록 예상일까지 5영업일 이하면 1영업일 전(2026-08-13 시행 개정)",filing,https://www.law.go.kr/법령/신용정보의이용및보호에관한법률시행령/제30조의3
+s10,법제처 국가법령정보센터,신용정보의 이용 및 보호에 관한 법률 제35조의3(신용정보제공·이용자의 사전통지) — 연체 정보를 신용정보집중기관 등에 넘기기 전 금액·기산일·등록 예상일·불이익을 본인에게 통지,filing,https://www.law.go.kr/법령/신용정보의이용및보호에관한법률/제35조의3
+s11,법제처 국가법령정보센터,"신용정보의 이용 및 보호에 관한 법률 제38조(신용정보의 열람 및 정정청구) — 사실과 다른 연체 기록은 정정청구, 처리결과는 7일 이내 통지",filing,https://www.law.go.kr/법령/신용정보의이용및보호에관한법률/제38조
+s12,금융위원회,금융위 공고 제2026-310호(2026-05-12) 신용정보법 시행령 일부개정령안 입법예고 — 조문별 개정이유서: 연체정보 사전통지 규정 정비(안 제30조의3 제4항 제2호),filing,https://fsc.go.kr/comm/getFile?srvcId=RULENOTICE&upperNo=4147&fileTy=ATTACH&fileNo=6
+s13,KCB(올크레딧),"KCB 개인신용평가체계 공시(2024.04.01) PDF 7쪽 — 연체 중 5영업일부터, 해제 시에는 8영업일 이상 연체한 이력부터 평가에 활용",filing,https://www.allcredit.co.kr/down/KCB_Credit_Evaluation_System.pdf#page=7
+s14,KB국민카드,"KB국민카드 상품공시 — 신용카드 연체이자율: 회원별·이용상품별 정상이자율 +3%p, 법정최고금리 연 20% 이내",filing,https://m.kbcard.com/SVC/DVIEW/MKAM0842
+s15,신한카드,"신한카드 신용카드 개인회원 약관(표준약관 2024.10.17 본문) — 연체일수 산정과 지연배상금 계산식, 카드이용 정지 사유에 연체",filing,https://www.shinhancard.com/pconts/html/helpdesk/terms/terms56/1229473_1133.html
+s16,법제처 국가법령정보센터,관공서의 공휴일에 관한 규정 제2·3조 — 공휴일과 대체공휴일 범위(영업일 날짜 계산의 입력),filing,https://www.law.go.kr/법령/관공서의공휴일에관한규정/제3조
+s17,헤럴드경제,"“5영업일·10만원 이상 연체 때도 금융거래상 불이익 받아요” — 금감원 은행 이용 시 유의사항 안내(민원 사례: 30만원 미만 연체를 세 차례 8·9·15일 안에 갚았는데 단기연체자 등록, 금감원 판단은 기사에 없음)",news,https://www.heraldk.com/article/2026032513000038811
+s18,정책브리핑(korea.kr) — 금융위원회 정책뉴스,"금융위원회 2026-01-22 신용회복 지원 결과 — 전액 상환을 마친 개인 257만 2000명 신용평점 평균 29점·개인사업자 35만 6000명 평균 45점 상승(비교 시점은 원문에 없음, 연체 때의 하락폭 아님)",news,https://m.korea.kr/news/policyNewsView.do?newsId=148958437
+s19,The Korea Times,The Korea Times 2025-09-19 — 2024년 신용사면(연체기록 삭제)을 받은 286만 명 중 95만 5천여 명(33.3%)이 연체 상태(재연체 기간·연체 기준은 기사에 없음),news,https://www.koreatimes.co.kr/amp/economy/policy/20250919/1-in-3-pardoned-borrowers-default-again-raising-moral-hazard-concerns
+s20,한국소비자원 소비자시대 웹진,"한국소비자원 소비자시대 2021년 7월호 — 대출받을 때 중요한 신용점수, 어떻게 관리하지?(칼럼: 단기연체를 ""30만 원, 30일 이상""으로 설명)",news,https://www.kca.go.kr/webzine/board/view?menuId=MENU00306&linkId=319&div=kca_2107
+s26,네이버 지식iN,독자 원문(지식iN 2026-05-27) — 월급일 변경으로 카드값을 3일 연체하게 생겼는데 불이익이 있나,observation,https://kin.naver.com/qna/detail.naver?dirId=40104&docId=493584449
+s27,네이버 지식iN,"독자 원문(지식iN 2026-06-22) — 연체 이력 없던 사람이 카드값 3일 연체하면 한도가 줄어드나, 연체 공유는 언제부터인가",observation,https://kin.naver.com/qna/detail.naver?dirId=40104&docId=493991873
+s28,네이버 지식iN,독자 원문(지식iN 2026-08-05) — 카드값 하루 연체하고 다음날 전부 갚았는데 기록이 몇 년 남고 점수는 오르나,observation,https://kin.naver.com/qna/detail.naver?dirId=40106&docId=494609790
