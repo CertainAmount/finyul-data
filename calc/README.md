@@ -17,6 +17,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `giftax` | [Gift tax rates and filing: if a child receives 300 million KRW, how much and where to file?](https://finyul.com/articles/gift-tax-rate-and-filing-3-billion-example/) |
 | `gifthouse` | [Using a gift tax calculator for an apartment: can you enter the officially assessed price?](https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/) |
 | `hilatefee` | [Missed the health insurance premium deadline? Late fees, benefit restrictions, and installment rules](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) |
+| `isatax` | [isa-seominhyeong-tax-free-limit-maturity-options-2026](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/) |
 | `jeonse` | [Jeonse (lump-sum deposit lease) loan interest calculator: monthly cost of 200 million KRW at 4.5% by repayment type](https://finyul.com/articles/jeonse-loan-interest-calculation-repayment-types/) |
 | `leavepay` | [Unused annual leave pay: how much for 10 days on a 3 million KRW monthly salary, and when you don't get it](https://finyul.com/articles/annual-leave-pay-unused-days-calculation/) |
 | `loan` | [Loan repayment calculator: compare interest and prepayment fees by repayment type](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/) |

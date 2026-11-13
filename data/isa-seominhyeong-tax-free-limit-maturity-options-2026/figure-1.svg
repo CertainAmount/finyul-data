@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 296" role="img" aria-label="해지일 순이익별 세금 선 그래프" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<line x1="46" y1="250" x2="318" y2="250" stroke="#6f7783"/>
+<line x1="46" y1="250" x2="46" y2="22" stroke="#6f7783"/>
+<line x1="46" y1="250" x2="46" y2="255" stroke="#6f7783"/><text x="46" y="272" text-anchor="middle" font-size="15" fill="#6f7783">0</text>
+<line x1="82.3" y1="250" x2="82.3" y2="255" stroke="#6f7783"/><text x="82.3" y="272" text-anchor="middle" font-size="15" fill="#6f7783">200</text>
+<line x1="118.5" y1="250" x2="118.5" y2="255" stroke="#6f7783"/><text x="118.5" y="272" text-anchor="middle" font-size="15" fill="#6f7783">400</text>
+<line x1="227.3" y1="250" x2="227.3" y2="255" stroke="#6f7783"/><text x="227.3" y="272" text-anchor="middle" font-size="15" fill="#6f7783">1,000</text>
+<line x1="318" y1="250" x2="318" y2="255" stroke="#6f7783"/><text x="318" y="272" text-anchor="middle" font-size="15" fill="#6f7783">1,500</text>
+<text x="318" y="292" text-anchor="end" font-size="15" fill="#6f7783">해지일 순이익(만 원)</text>
+<text x="46" y="14" font-size="15" fill="#6f7783">세금(원)</text>
+<line x1="136.7" y1="250" x2="136.7" y2="174" stroke="#6f7783" stroke-dasharray="3 3"/>
+<polyline points="46,250 318,22" fill="none" stroke="#b4532a" stroke-width="2.5" stroke-dasharray="7 4"/>
+<polyline points="46,250 82.3,250 318,123" fill="none" stroke="#6f7783" stroke-width="2.5"/>
+<polyline points="46,250 118.5,250 318,142.5" fill="none" stroke="#254a75" stroke-width="3.5"/>
+<circle cx="136.7" cy="174" r="4" fill="#b4532a"/>
+<text x="324" y="27" font-size="15" fill="#b4532a">2,310,000</text>
+<circle cx="136.7" cy="220.7" r="4" fill="#6f7783"/>
+<text x="324" y="128" font-size="15" fill="#6f7783">1,287,000</text>
+<circle cx="136.7" cy="240.2" r="4" fill="#254a75"/>
+<text x="324" y="147.5" font-size="15" fill="#254a75">1,089,000</text>
+<text x="128.7" y="168" text-anchor="end" font-size="15" fill="#b4532a">770,000</text>
+<text x="128.7" y="214.7" text-anchor="end" font-size="15" fill="#6f7783">297,000</text>
+<text x="144.7" y="264.2" text-anchor="start" font-size="15" fill="#254a75">99,000</text>
+<text x="172.9" y="133.6" font-size="15" fill="#b4532a" text-anchor="end">일반 계좌</text>
+<text x="227.3" y="161.8" font-size="15" fill="#6f7783" text-anchor="end">일반형</text>
+<text x="209.2" y="227.1" font-size="15" fill="#254a75">서민형</text>
+</svg>

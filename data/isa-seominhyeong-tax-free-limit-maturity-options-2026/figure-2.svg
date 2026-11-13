@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 270" role="img" aria-label="3년 막대와 60일 막대를 같은 비율로 그린 갈림 그림" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="20" y="18" text-anchor="start" font-size="15" fill="#6f7783">첫 계약일부터 3년</text>
+<rect x="20" y="26" width="302" height="44" fill="#f7e8e0" stroke="#b4532a" stroke-width="2"/>
+<text x="171" y="46" text-anchor="middle" font-size="15" fill="#b4532a">이 안에서 해지하면 추징</text>
+<text x="171" y="64" text-anchor="middle" font-size="15" fill="#b4532a">(부득이 사유 제외)</text>
+<line x1="322" y1="26" x2="322" y2="250" stroke="#254a75" stroke-width="2.5"/>
+<text x="314" y="96" text-anchor="end" font-size="15" fill="#254a75">3년이 되는 날</text>
+<line x1="322" y1="130" x2="310" y2="130" stroke="#254a75" stroke-width="2"/>
+<text x="304" y="126" text-anchor="end" font-size="15" fill="#254a75">해지</text>
+<text x="304" y="146" text-anchor="end" font-size="15" fill="#282d35">해지일 순이익으로 세금</text>
+<line x1="322" y1="180" x2="310" y2="180" stroke="#254a75" stroke-width="2"/>
+<text x="304" y="176" text-anchor="end" font-size="15" fill="#254a75">연장(만기일 전 신청)</text>
+<text x="304" y="196" text-anchor="end" font-size="15" fill="#282d35">연장일 소득으로 서민형 다시 판정</text>
+<line x1="322" y1="230" x2="310" y2="230" stroke="#254a75" stroke-width="2"/>
+<text x="304" y="226" text-anchor="end" font-size="15" fill="#254a75">연금 이전</text>
+<text x="304" y="246" text-anchor="end" font-size="15" fill="#282d35">끝난 날부터 60일 안</text>
+<rect x="322" y="222" width="16.5" height="16" fill="#254a75"/>
+<text x="344.5" y="235" text-anchor="start" font-size="15" fill="#254a75">60일</text>
+</svg>

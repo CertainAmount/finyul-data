@@ -1,0 +1,53 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,조세특례제한법 제91조의18 제1항·제2항 — ISA 비과세 한도(서민형 400만원·일반형 200만원)와 판정 기준(가입일 또는 연장일),filing,https://www.law.go.kr/법령/조세특례제한법/제91조의18#isa-limit-p1-2
+s2,법제처 국가법령정보센터,"조세특례제한법 제91조의18 제3항 제4호·제5호 — ISA 계약기간 3년 이상, 총납입한도 1억원, 연간 납입한도(이월) 계산식",filing,https://www.law.go.kr/법령/조세특례제한법/제91조의18#isa-limit-p3
+s3,법제처 국가법령정보센터,조세특례제한법 제91조의18 제4항·제5항 — ISA 계약기간 연장과 손익통산(계약 해지일 기준 이자소득등에서 손실 차감),filing,https://www.law.go.kr/법령/조세특례제한법/제91조의18#isa-extend-loss-p4-5
+s4,법제처 국가법령정보센터,조세특례제한법 제91조의18 제7항·제8항 — ISA 가입 3년 전 중도해지 추징과 납입 합계 초과 인출 시 해지 간주,filing,https://www.law.go.kr/법령/조세특례제한법/제91조의18#isa-clawback-p7-8
+s5,법제처 국가법령정보센터,조세특례제한법 제91조의18 제11항 — ISA 가입 3년 후 연금계좌로 납입하면 계약기간 만료로 봄,filing,https://www.law.go.kr/법령/조세특례제한법/제91조의18#isa-pension-p11
+s6,법제처 국가법령정보센터,조세특례제한법 시행령 제93조의4 제1항~제4항 — ISA 가입·연장 시 제출 서류(소득확인증명서·농어민 확인서)와 국세청 확인·통지 기한,filing,https://www.law.go.kr/법령/조세특례제한법 시행령/제93조의4#isa-decree-p1-4
+s7,법제처 국가법령정보센터,조세특례제한법 시행령 제93조의4 제9항~제11항 — ISA 손익통산 방식(같은 종류 자산 → 배당소득 → 이자소득 순서로 손실 차감),filing,https://www.law.go.kr/법령/조세특례제한법 시행령/제93조의4#isa-decree-p9-11
+s8,법제처 국가법령정보센터,"조세특례제한법 시행령 제93조의4 제12항~제15항 — ISA 일부 인출은 투자원금부터, 3년 전 중도해지 부득이한 사유와 신고서",filing,https://www.law.go.kr/법령/조세특례제한법 시행령/제93조의4#isa-decree-p12-15
+s9,법제처 국가법령정보센터,조세특례제한법 시행령 제81조 제6항 제3호 — ISA 부득이한 해지 사유로 준용되는 항목(천재지변·퇴직·폐업·3개월 이상 입원 등),filing,https://www.law.go.kr/법령/조세특례제한법 시행령/제81조#isa-hardship-p6-3
+s10,법제처 국가법령정보센터,소득세법 제59조의3 제3항·제4항 — ISA 만기 후 연금계좌 납입액(전환금액)을 납입액에 포함하고 전환금액 10%·300만원 중 적은 금액만큼 세액공제 한도 추가,filing,https://www.law.go.kr/법령/소득세법/제59조의3#isa-pension-p3-4
+s11,법제처 국가법령정보센터,소득세법 시행령 제118조의2 제3항 — ISA 계약기간이 만료된 날부터 60일 이내 연금계좌로 납입한 경우가 전환금액,filing,https://www.law.go.kr/법령/소득세법 시행령/제118조의2#isa-conv-p3
+s12,재정경제부,"「2026년 세제개편안」 정부안 확정 보도자료(2026.9.1.) — ISA 계약기간·납입한도 현행 유지, 생산적금융 ISA 신설 수정",filing,https://www.korea.kr/common/download.do?fileId=198534906&tblKey=GMN
+s13,국회 의안정보시스템(열린국회정보 API),"조세특례제한법 일부개정법률안(정부, 의안번호 2221039) — 2026.9.3 제출, 재정경제기획위원회 계류",filing,https://likms.assembly.go.kr/bill/billDetail.do?billId=ARC_G2P6J0R9J0B3C1Y0M2F3S4U0F5N3U3
+s14,국회 의안정보시스템(열린국회정보 API),"소득세법 일부개정법률안(정부, 의안번호 2221042) — 2026.9.3 제출, 재정경제기획위원회 계류",filing,https://likms.assembly.go.kr/bill/billDetail.do?billId=ARC_B2K6R0N9D0U3I1I0N3B1C5L0K3O7L4
+s15,재정경제부,"2026년 세제개편안 상세본(8.3. 발표 당초안) — ISA 제도 정비(조특법 §91의18): 계약기간 최초 3년·총 5년, 적용기한 '29.12.31.까지 가입분(9.1. 정부안에서 철회됨)",filing,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#p22-isa-sunset
+s16,아이뉴스24,"종부세 비거주 1주택 공제 강화 철회…ISA 현행 유지 선회(김현동 기자, 2026.9.1.)",news,http://www.inews24.com/view/2000628
+s17,택스넷,"2026년 세제개편안 정부안 확정, 8월 발표안에서 바뀐 7가지(택스넷, 2026.9.2.)",news,https://www.taxnet.co.kr/contents/taxnetpost/post-detail?id=5008
+s18,한화투자증권,한화투자증권 ISA 상품 안내 — 만기 연장 시작일과 일반형/서민형 판단 기준,news,https://www.hanwhawm.com/static/marketing/invest/isa_1_1.htm
+s19,농민신문,"ISA 혜택 유지하려면 ""만기 전에 재설정하세요""(농민신문 류현주 기자, 2025.11.21.)",news,https://v.daum.net/v/20251121050033069
+s21,법제처 국가법령정보센터,지방세법 제103조의13 제1항 — 조세특례를 적용한 원천징수 소득세의 100분의 10을 개인지방소득세로 특별징수(ISA 분리과세 9%의 지방소득세 근거),filing,https://www.law.go.kr/법령/지방세법/제103조의13
+s25,법제처 국가법령정보센터,소득세법 시행령 제26조의2 제4항 — 집합투자기구로부터의 이익에서 국내 상장주식 등 매매·평가손익 제외(ISA 시행령 제93조의4 제9항 제2호 손실 제외의 근거),filing,https://www.law.go.kr/법령/소득세법 시행령/제26조의2#isa-adv-p4
+s26,열린국회정보 의안정보,"의안 2221039(조세특례제한법 일부개정법률안, 정부) 2026-10-29 재조회 — 계류의안, 소관위 상정 2026-09-28, 의결 없음",observation,https://open.assembly.go.kr/portal/openapi/TVBPMBILL11?BILL_NO=2221039#adv-recheck-2026-10-29
+s27,법제처 국가법령정보 조세특례제한법 시행예정 연혁(eflaw),"조특법 제91조의18 시행 예정 버전(2027.1.1·3.16·6.17·9.9) 전문이 현행(시행 2026.9.18)과 동일, 시행령 제93조의4 시행 2027.1.1도 동일",filing,https://www.law.go.kr/법령/조세특례제한법/제91조의18#eflaw-2027-compare-2026-10-29
+s28,법제처 국가법령정보센터,"조세특례제한법 제91조의18 제2항 — ISA 비과세 한도 400만 원(서민형)·200만 원(일반형), 2026-11-13 재확인(시행 2026.9.18)",filing,https://www.law.go.kr/법령/조세특례제한법/제91조의18#recheck-2026-11-13
+s29,법제처 국가법령정보센터,"조세특례제한법 시행령 제93조의4 제1항·제3항 — 소득확인증명서 제출, 국세청 확인·통지 기한(2026-11-13 재확인)",filing,https://www.law.go.kr/법령/조세특례제한법 시행령/제93조의4#recheck-2026-11-13-p1-3
+s30,법제처 국가법령정보센터(조세특례제한법 시행규칙 별지 제60호의19서식),소득확인증명서(개인종합자산관리계좌 가입용) — 조세특례제한법 시행규칙 별지 제60호의19서식 유의사항(기준 과세기간 7월 31일 규칙),filing,https://www.law.go.kr/LSW/flDownload.do?flSeq=168824119
+s31,법제처 국가법령정보센터,조세특례제한법 시행령 제93조의4 제14항·제15항 — 중도해지 부득이한 사유와 특별해지사유신고서(2026-11-13 재확인),filing,https://www.law.go.kr/법령/조세특례제한법 시행령/제93조의4#recheck-2026-11-13-p14-15
+s32,법제처 국가법령정보센터,조세특례제한법 제146조의2 제1항 — 이자·배당소득 비과세·감면세액 추징(ISA 제91조의18 포함) 납부 시한,filing,https://www.law.go.kr/법령/조세특례제한법/제146조의2#isa-clawback-2026-11-13
+s33,법제처 국가법령정보센터,소득세법 제59조의3 제1항·제3항·제4항 — ISA 만기 자금 연금계좌 전환금액의 추가 납입한도(10%·300만 원)와 세액공제율 12%·15%(2026-11-13 재확인),filing,https://www.law.go.kr/법령/소득세법/제59조의3#recheck-2026-11-13
+s34,열린국회정보 의안정보,"조세특례제한법 일부개정법률안(정부, 2026.9.3 제출) 의안 2221039 — 2026-11-13 재조회, 여전히 계류",filing,https://open.assembly.go.kr/portal/openapi/TVBPMBILL11?BILL_NO=2221039#recheck-2026-11-13
+s35,열린국회정보 의안정보,"조세특례제한법 일부개정법률안(박대출의원 등 108인, 2024.6.12 발의) 의안 2200390 — 계류 중(ISA 한도 상향안이라는 해설이 있으나 본문 미확인)",filing,https://open.assembly.go.kr/portal/openapi/TVBPMBILL11?BILL_NO=2200390
+s36,finyul 수집,"2026-11-13 신선도 확인 — 현행 조특법·시행령의 ISA 한도·세율·서민형 기준은 바뀌지 않았고, 2025.12.23 공포 개정(법령 280409) 제개정이유에 ISA 한도 변경은 없다",observation,https://www.law.go.kr/법령/조세특례제한법/제91조의18#freshness-check-2026-11-13
+s37,finyul 계산,"ISA 해지일 순이익별 세금 직접 계산 — 일반형 200만·서민형 400만 비과세, 초과분 9.9% 분리과세 대 일반 계좌 15.4%",observation,https://github.com/CertainAmount/finyul-data#isa-seominhyeong-calc-2026-11-13
+s38,머니투데이,"ISA 가입자 1000만명 돌파... '성인 4명중 1명 가입'(김은령 기자, 2026.9.29.)",news,https://www.mt.co.kr/stock/2026/09/29/2026092909225470348
+s39,뉴시스(파이낸셜뉴스 게재),"ISA 세제개편안 발표 직후 반응 — 해외지수 투자자 이탈 조짐(강수윤·김민수 기자, 2026.8.5.)",news,https://www.fnnews.com/news/202608051044555634
+s40,SBS Biz,"ISA 개편 날벼락…""지금 해지해야 하나"" 투자자 대혼란(오서영 기자, 2026.8.5.)",news,https://biz.sbs.co.kr/amp/article/20000326889
+s41,한국금융교육학회 금융교육연구 제10권 제2호,"남재현, 「ISA 과세 특례 타당성 분석」, 금융교육연구 10(2), 65-90 (2025.12)",paper,https://db.koreascholar.com/Article/Detail/447296
+s42,국회예산정책처(KDI 경제교육·정보센터 게재),"2026년 세법개정안 분석 자료 — 국회예산정책처 발간, KDI 경제정보센터 게시(2026.11.03)",filing,https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000207997
+s43,법제처 국가법령정보센터,"소득세법 시행령 제26조의2 제4항 제2호 가목 전문 — 집합투자기구로부터의 이익에 포함하지 않는 거래·평가 손익의 취득 대상(증권시장 상장 증권, 외국지수 추종 ETF 등 제외), 2026-11-13 원문 재대조",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&type=JSON&LM=소득세법%20시행령#art26-2-p4-ho2-ga-1113
+s44,네이버 지식iN,"네이버 지식iN(2024.02.23) — ISA 서민형 직전연도가 어느 해인지 묻는 질문, 답변 1건",observation,https://kin.naver.com/qna/detail.naver?dirId=40101&docId=464967329
+s45,네이버 지식iN,"네이버 지식iN(2026.04.28) 키움증권 중개형 ISA 한도초과 — 질문 본문은 두 줄뿐이고 ""잔여한도 0원""은 답변 3에서 나온 표현, 답변 5건",observation,https://kin.naver.com/qna/detail.naver?dirId=40101&docId=493162107
+s46,네이버 지식iN,네이버 지식iN(2025.06.09) ISA 서민형 400만원 초과 시 분리과세 여부 — 답변 4건,observation,https://kin.naver.com/qna/detail.naver?dirId=40101&docId=486002218
+s47,네이버 지식iN,네이버 지식iN(2026.11.05) ISA 3년 만기 뒤 해지 않고 10년 유지 — 답변 5건,observation,https://kin.naver.com/qna/detail.naver?dirId=40101&docId=495838063
+s48,KB증권 KB의 생각,"KB증권 KB의 생각 — 투자하면서 세금 줄이는 방법은? 서민형 ISA 조건부터 확인해 보세요(서민형 전환 시기별 소득 기준 해: 상반기 전전년도, 하반기 전년도)",filing,https://kbthink.com/investment/101/low-to-middle-income-isa.html
+s49,KB증권 KB의 생각,"KB증권 KB의 생각 — ISA 서민형 전환 방법은? 비과세 혜택 더 챙겨보세요(2025.12.04, serp-gap 2위)",news,https://kbthink.com/isa-account/conversion.html
+s50,법제처 국가법령정보센터,"소득세법 제20조 제2항 — 근로소득금액과 ""총급여액""의 정의(제1항 각 호 소득의 합계액, 근무지 구분 없음), 시행 2026.1.1",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&type=JSON&LM=소득세법#art20-p2-1113
+s51,법제처 국가법령정보센터,"소득세법 제140조 제2항 — 주된 근무지·종된 근무지의 원천징수의무자 구분(근무지가 둘 이상일 때의 연말정산 틀), 시행 2026.1.1",filing,https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&type=JSON&LM=소득세법#art140-p2-1113
+s52,finyul 근거 탐색 기록,이직으로 근로소득이 두 곳일 때 ISA 서민형 총급여 합산 여부 — 2026-11-13 탐색 결과: ISA 안내(서식·시행령·증권사)에 직접 답하는 문장을 찾지 못함,observation,https://www.law.go.kr/LSW/flDownload.do?flSeq=168824119#two-employers-not-found-2026-11-13
+s53,기획재정부,"기획재정부 「2024년 세법개정안」 상세본(2024.7.25.) — ISA 납입한도·비과세 한도 확대, 국내투자형 ISA 신설안",filing,https://www.mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000026722&fileSn=11
+s54,기획재정부,기획재정부 「2024년 세법개정안」 개조식(2024.7.25. 16:00 보도 시점) — ISA 세제지원 확대,filing,https://www.mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000026722&fileSn=4
+s55,기획재정부,"기획재정부 보도자료 「2024년 세법개정안 국회 본회의 통과」(2024.12.10.) — ISA 세제지원 확대 → 현행 유지, 국내투자형 ISA 도입 삭제",filing,https://www.korea.kr/common/download.do?fileId=197981006&tblKey=GMN
+s56,정책브리핑(기획재정부 부처별 뉴스),상속세 최고세율 40%로 인하…자녀세액공제 10만 원으로 상향 — 2024.7.25 세법개정안 정책뉴스,news,https://www.korea.kr/news/policyNewsView.do?newsId=148931901
