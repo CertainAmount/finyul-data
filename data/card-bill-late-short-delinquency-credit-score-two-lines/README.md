@@ -2,7 +2,7 @@
 
 Article (Korean): [카드값 연체 3일, 신용점수 떨어질까요? 단기연체 기록 기준](https://finyul.com/articles/card-bill-late-short-delinquency-credit-score-two-lines/)
 
-Published 2026-10-01, last updated 2026-11-13. Figures follow the rules as of this date; this folder is updated whenever the article is.
+Published 2026-10-01, last updated 2026-11-12. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
 | File | Caption |
 |---|---|

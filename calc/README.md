@@ -15,6 +15,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `fintax` | [financial-income-comprehensive-tax-2000-threshold-comparison-2026](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/) |
 | `fourins` | [Four social insurance rates 2026: how much is deducted from a 3 million KRW salary, employer share and 2027 changes](https://finyul.com/articles/four-insurance-rate-2026-monthly-salary-deduction/) |
 | `giftax` | [Gift tax rates and filing: if a child receives 300 million KRW, how much and where to file?](https://finyul.com/articles/gift-tax-rate-and-filing-3-billion-example/) |
+| `gifthouse` | [Using a gift tax calculator for an apartment: can you enter the officially assessed price?](https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/) |
 | `hilatefee` | [Missed the health insurance premium deadline? Late fees, benefit restrictions, and installment rules](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) |
 | `jeonse` | [Jeonse (lump-sum deposit lease) loan interest calculator: monthly cost of 200 million KRW at 4.5% by repayment type](https://finyul.com/articles/jeonse-loan-interest-calculation-repayment-types/) |
 | `leavepay` | [Unused annual leave pay: how much for 10 days on a 3 million KRW monthly salary, and when you don't get it](https://finyul.com/articles/annual-leave-pay-unused-days-calculation/) |
@@ -29,6 +30,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `partpay` | [Part-time pay calculator: monthly take-home with weekly holiday and night premiums (2026–2027 minimum hourly wage)](https://finyul.com/articles/part-time-pay-calculator-weekly-holiday-night-premium-take-home/) |
 | `refinance` | [Loan refinancing fee on 300 million KRW: switch now or wait?](https://finyul.com/articles/loan-refinance-prepayment-fee-wait-or-switch-now/) |
 | `retiretax` | [Retirement income tax calculator: tax on 50 million and 100 million KRW severance by years of service, and IRP deferral](https://finyul.com/articles/retirement-income-tax-calculator-service-years/) |
+| `similarhome` | [Using a gift tax calculator for an apartment: can you enter the officially assessed price?](https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/) |
 | `simplevat` | [Simplified VAT taxpayer threshold: 80 million or 104 million KRW? The July switch based on last year's sales](https://finyul.com/articles/simplified-taxpayer-threshold-2026-july-switch/) |
 | `twdroute` | [Exchanging won directly to Taiwan dollars: how much do you lose? Routes compared for 1 million KRW](https://finyul.com/articles/twd-exchange-route-cost-1m-won/) |
 | `unemployment` | [Unemployment benefits' 12-month window: applying late cuts your benefit days; calculate your deadline](https://finyul.com/articles/unemployment-benefit-period-12-months-claim-deadline-days/) |

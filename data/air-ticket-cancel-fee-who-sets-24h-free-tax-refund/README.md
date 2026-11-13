@@ -2,7 +2,7 @@
 
 Article (Korean): [항공권 취소 수수료, 누가 정하나요? 24시간 무료와 세금 환불까지](https://finyul.com/articles/air-ticket-cancel-fee-who-sets-24h-free-tax-refund/)
 
-Published 2026-10-13, last updated 2026-11-13. Figures follow the rules as of this date; this folder is updated whenever the article is.
+Published 2026-10-13, last updated 2026-11-11. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
 | File | Caption |
 |---|---|

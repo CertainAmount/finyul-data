@@ -317,6 +317,44 @@
         tones: { 4: 'warn', 5: ontime ? 'ok' : 'warn', 6: 'total' }
       };
     },
+    gifthouse(values) {
+      // 같은 아파트를 공시가격·거래가(시가) 두 값으로 넣은 증여세 비교: giftax의 한 사람 계산을 두 번(세대생략 할증·부담부증여·감면 없음).
+      const pub = Number(values[0]) * 10000, mkt = Number(values[1]) * 10000, rel = values[2], prior = Number(values[3] || 0) * 10000, ontime = values[4] === true;
+      if (!(pub > 0) || !(mkt > 0) || !Number.isFinite(prior) || prior < 0) return { warn: '공시가격·거래가·이전 증여액을 만 원 단위 숫자로 넣어 주세요.' };
+      const ded = { asc_adult: 50000000, asc_minor: 20000000, spouse: 600000000, other: 10000000 }[rel];
+      if (prior > ded) return { warn: '이전 증여가 공제 한도를 넘었다면 그때 낸 세금을 빼는 계산(상속세및증여세법 제58조)이 필요해 이 계산기로는 정확히 못 구해요. 홈택스 모의계산이나 세무서에 확인해 주세요.' };
+      const B = [[1e8, 0.1, 0], [5e8, 0.2, 1e7], [1e9, 0.3, 6e7], [3e9, 0.4, 1.6e8], [Infinity, 0.5, 4.6e8]];
+      const one = amt => {
+        const base = amt + (prior >= 10000000 ? prior : 0);
+        let tb = base - Math.min(ded, base); if (tb < 500000) tb = 0;
+        const [, rate, minus] = B.find(([cap]) => tb <= cap);
+        const tax = Math.max(0, Math.floor(tb * rate - minus));
+        return { tb, rate, pay: tax - (ontime ? Math.floor(tax * 0.03) : 0) };
+      };
+      const a = one(pub), b = one(mkt), diff = b.pay - a.pay;
+      const band = r => r.tb ? `과세표준 ${won(r.tb)} (세율 ${r.rate * 100}% 구간)` : '0원(과세 안 함)';
+      const same = a.tb && b.tb && a.rate === b.rate ? ` — 같은 ${b.rate * 100}% 구간이라 차이는 가액 차이 × ${b.rate * 100}%${ontime ? ' × 0.97' : ''}` : '';
+      return {
+        rows: [won(a.pay), won(b.pay), diff >= 0 ? won(diff) : `-${won(-diff)}`, band(a), band(b) + same,
+          mkt < pub ? '시가가 있으면 공시가격보다 낮아도 시가가 우선이에요' : null,
+          '대출을 같이 넘기거나 이전 증여 때 낸 세금이 있으면 이 계산과 달라져요'],
+        tones: { 2: 'total', 6: 'warn' }
+      };
+    },
+    similarhome(values) {
+      // 유사매매사례 판정(상증법 시행규칙 제15조③1호): 같은 단지, 전용면적·공동주택가격 차이가 각각 내 집 값의 5% 이내.
+      const same = values[0] === true, myA = Number(values[1]), myP = Number(values[2]), cA = Number(values[3]), cP = Number(values[4]);
+      if (!(myA > 0) || !(myP > 0) || !(cA > 0) || !(cP > 0)) return { warn: '전용면적(㎡)과 공시가격(만 원)을 숫자로 넣어 주세요.' };
+      // 정확히 5.0%는 "이내"라 충족 — 부동소수점 오차로 떨어지지 않게 소수 셋째 자리에서 반올림해 비교
+      const pct = (x, y) => Math.round(Math.abs(x - y) / y * 100000) / 1000;
+      const dA = pct(cA, myA), dP = pct(cP, myP);
+      const fails = [!same && '같은 단지가 아니에요', dA > 5 && '면적 차이가 5%를 넘어요', dP > 5 && '공시가격 차이가 5%를 넘어요'].filter(Boolean);
+      return {
+        rows: [`${dA.toFixed(1)}%`, `${dP.toFixed(1)}%`, fails.length ? `비슷한 집이 아니에요 — ${fails.join(', ')}` : '비슷한 집이에요(이 거래가 후보)',
+          '후보가 여럿이면 공시가격 차이가 가장 작은 거래가 기준이에요. 후보마다 따로 넣어 보세요'],
+        tones: { 2: fails.length ? 'warn' : 'ok' }
+      };
+    },
     usedcar(values) {
       // 중고차 법정 비용: 과표 = max(거래가, 시가표준액) → 취득세 7%(경형 4%, 75만 원까지 감면·2027-12-31 취득분까지) + 공채(서울 1,000~1,600cc 미만 0, 부산 1,600cc 미만 0·이상 과표 4% 매입) + 수수료·인지. 업자 항목은 넣지 않는다.
       const price = Number(values[0]) * 10000, std = Number(values[1] || 0) * 10000, light = values[2] === 'light', region = values[3], cc = values[4];
