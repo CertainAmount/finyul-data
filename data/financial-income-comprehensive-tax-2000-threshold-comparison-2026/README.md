@@ -2,7 +2,7 @@
 
 Article (Korean): [금융소득종합과세 대상, 이자·배당 2천만 원 넘으면 5월에 얼마나 더 낼까요?](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/)
 
-Published 2026-11-12. Figures follow the rules as of this date; this folder is updated whenever the article is.
+Published 2026-11-12, last updated 2026-11-13. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
 | File | Caption |
 |---|---|
