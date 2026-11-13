@@ -1,6 +1,6 @@
 # Loan repayment calculator: compare interest and prepayment fees by repayment type
 
-Article (Korean): [대출상환계산기: 상환방식별 이자와 중도상환수수료 한 번에 비교](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/)
+Article (Korean): [대출 상환 계산기: 상환 방식별 이자와 중도상환수수료 비교](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/)
 
 Published 2026-10-30. Figures follow the rules as of this date; this folder is updated whenever the article is.
 

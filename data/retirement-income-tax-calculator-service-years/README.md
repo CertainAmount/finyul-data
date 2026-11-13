@@ -1,6 +1,6 @@
 # Retirement income tax calculator: tax on 50 million and 100 million KRW severance by years of service, and IRP deferral
 
-Article (Korean): [퇴직소득세계산기, 퇴직금 세금 근속연수별로 얼마? 5천만·1억 원 표와 IRP 이연](https://finyul.com/articles/retirement-income-tax-calculator-service-years/)
+Article (Korean): [퇴직소득세 계산기: 근속연수별 퇴직금 세금, 5천만·1억 원 표와 IRP 이연](https://finyul.com/articles/retirement-income-tax-calculator-service-years/)
 
 Published 2026-11-05. Figures follow the rules as of this date; this folder is updated whenever the article is.
 

@@ -8,7 +8,7 @@
     <text x="105" y="70" font-size="15" text-anchor="middle" fill="#282d35">세금 323만 원</text>
     <text x="295" y="70.4" font-size="15" text-anchor="middle" fill="#b4532a" font-weight="700">2천만 원 선</text>
     <text x="295" y="106" font-size="15" text-anchor="middle" fill="#ffffff" font-weight="700">입금 약 1,777만 원</text>
-    <text x="105" y="106" font-size="15" text-anchor="middle" fill="#ffffff">입금과 같은 몫</text>
+    <text x="105" y="106" font-size="15" text-anchor="middle" fill="#ffffff">입금액만큼</text>
     <text x="105" y="322" font-size="15" text-anchor="middle" fill="#282d35">세전 (2천만 원 기준)</text>
     <text x="295" y="322" font-size="15" text-anchor="middle" fill="#282d35">통장 입금액</text>
   </svg>
