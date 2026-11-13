@@ -731,6 +731,22 @@
         tones: extra > 0 ? { 4: 'warn', 5: 'total' } : { 5: 'total' }
       };
     },
+    isatax(values) {
+      // ISA 해지일 순이익(조특법 제91조의18): 순이익 = 이익 − 통산 손실·보수. 비과세 한도 일반형 200만·서민형 400만 원, 넘는 몫 9%(원 미만 버림) + 지방소득세 10%.
+      // 일반 계좌 비교는 이자·배당 15.4%(14% + 1.4%), 금융소득종합과세 2천만 원 이하 가정. 검산: work/isa-seominhyeong-tax-free-limit-maturity-options-2026/notes/knowledge.md 「계산기 판단」
+      if (values[0] === '') return { warn: '해지일 예상 이익을 만 원 단위로 넣어 주세요.' };
+      const gain = Number(values[0]) * 10000, loss = values[1] === '' ? 0 : Number(values[1]) * 10000;
+      if (!Number.isFinite(gain) || !Number.isFinite(loss) || gain < 0 || loss < 0) return { warn: '이익과 손실·보수를 0 이상 숫자(만 원)로 넣어 주세요.' };
+      const N = Math.max(0, gain - loss);
+      const isaTax = limit => { const it = Math.floor(Math.max(0, N - limit) * 0.09); return it + Math.floor(it * 0.1); };
+      const gen = isaTax(2000000), low = isaTax(4000000);
+      const plainIt = Math.floor(N * 0.14), plain = plainIt + Math.floor(plainIt * 0.1);
+      const room = limit => N <= limit ? `${won(limit - N)} 남아요` : `${won(N - limit)} 넘었어요`;
+      return {
+        rows: [won(N), won(gen), won(low), room(2000000), room(4000000), won(plain), won(plain - low)],
+        tones: { 0: 'total', 1: gen ? 'warn' : 'ok', 2: low ? 'warn' : 'ok' }
+      };
+    },
     minusinterest(values) {
       // 마통 이자 = 쓴 금액 × 연이율 × 쓴 날수 ÷ 365, 원 미만 버림(하나은행 상품안내 방식).
       const amt = Number(values[0]) * 10000, rate = Number(values[1]), days = Number(values[2]);

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 336" role="img" aria-label="세전 2,100만 원은 2천만 원 선을 넘고 입금액 약 1,777만 원은 못 넘는 막대" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <rect x="40" y="40" width="130" height="40" fill="#b4532a" fill-opacity="0.35" stroke="#b4532a" stroke-width="1.5"/>
+    <rect x="40" y="80" width="130" height="220" fill="#254a75"/>
+    <rect x="230" y="80" width="130" height="220" fill="#254a75"/>
+    <line x1="20" y1="52.4" x2="380" y2="52.4" stroke="#b4532a" stroke-width="2.5" stroke-dasharray="7 4"/>
+    <line x1="20" y1="300" x2="380" y2="300" stroke="#6f7783" stroke-width="1.5"/>
+    <text x="105" y="32" font-size="15" text-anchor="middle" fill="#282d35" font-weight="700">세전 2,100만 원</text>
+    <text x="105" y="70" font-size="15" text-anchor="middle" fill="#282d35">세금 323만 원</text>
+    <text x="295" y="70.4" font-size="15" text-anchor="middle" fill="#b4532a" font-weight="700">2천만 원 선</text>
+    <text x="295" y="106" font-size="15" text-anchor="middle" fill="#ffffff" font-weight="700">입금 약 1,777만 원</text>
+    <text x="105" y="106" font-size="15" text-anchor="middle" fill="#ffffff">입금과 같은 몫</text>
+    <text x="105" y="322" font-size="15" text-anchor="middle" fill="#282d35">세전 (2천만 원 기준)</text>
+    <text x="295" y="322" font-size="15" text-anchor="middle" fill="#282d35">통장 입금액</text>
+  </svg>

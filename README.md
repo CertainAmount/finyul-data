@@ -12,6 +12,7 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
+- [금융소득종합과세 대상, 이자·배당 2천만 원 넘으면 5월에 얼마나 더 낼까요?](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/) · [data](data/financial-income-comprehensive-tax-2000-threshold-comparison-2026/)
 - [노란우산공제 해지 세금, 환급금 전체가 아니라 공제받은 만큼만 내요](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) · [data](data/noranumbrella-deduction-limit-cancel-tax-2026/)
 - [최저시급 월급 2027 확인법: 월급을 209시간으로 나눠 10,700원 넘는지 보기](https://finyul.com/articles/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/) · [data](data/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/)
 - [Reading the Korean EV subsidy lookup screen: national and local amounts, the 53-million-won price tier, and the two remaining-quota columns (2026)](https://finyul.com/articles/ev-subsidy-2026-national-local-price-tiers/) · [data](data/ev-subsidy-2026-national-local-price-tiers/)

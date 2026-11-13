@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="다른 소득이 커질수록 5월 추가 소득세가 0원, 5만 원, 50만 원, 105만 원의 세 계단으로 오르는 그림" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+    <text x="4" y="22" font-size="15" fill="#6f7783">5월 추가 소득세</text>
+    <polygon points="50,240 50,240 91.4,240 92.7,230.5 161.9,230.5 173.1,144.8 246.8,144.8 257.9,40 385,40 385,240" fill="#f2f6fb"/>
+    <line x1="50" y1="40" x2="385" y2="40" stroke="#d7dde6" stroke-width="1"/>
+    <polyline points="50,240 91.4,240 92.7,230.5 161.9,230.5 173.1,144.8 246.8,144.8 257.9,40 385,40" fill="none" stroke="#254a75" stroke-width="3" stroke-linejoin="round"/>
+    <line x1="50" y1="240" x2="385" y2="240" stroke="#6f7783" stroke-width="1.5"/>
+    <line x1="139.3" y1="240" x2="139.3" y2="230.5" stroke="#6f7783" stroke-width="1" stroke-dasharray="3 3"/><line x1="228.7" y1="240" x2="228.7" y2="144.8" stroke="#6f7783" stroke-width="1" stroke-dasharray="3 3"/>
+    <circle cx="50" cy="240" r="5.5" fill="#254a75" stroke="#ffffff" stroke-width="2"/><circle cx="139.3" cy="230.5" r="5.5" fill="#254a75" stroke="#ffffff" stroke-width="2"/><circle cx="228.7" cy="144.8" r="5.5" fill="#254a75" stroke="#ffffff" stroke-width="2"/>
+    <text x="72.7" y="230" font-size="15" text-anchor="middle" fill="#282d35" font-weight="700">0원</text>
+    <text x="127.3" y="206.5" font-size="15" text-anchor="middle" fill="#282d35" font-weight="700">5만 원</text>
+    <text x="127.3" y="222.5" font-size="15" text-anchor="middle" fill="#6f7783">15% 구간</text>
+    <text x="209.9" y="120.80000000000001" font-size="15" text-anchor="middle" fill="#282d35" font-weight="700">50만 원</text>
+    <text x="209.9" y="136.8" font-size="15" text-anchor="middle" fill="#6f7783">24% 구간</text>
+    <text x="321.6" y="16" font-size="15" text-anchor="middle" fill="#282d35" font-weight="700">105만 원</text>
+    <text x="321.6" y="32" font-size="15" text-anchor="middle" fill="#6f7783">35% 구간</text>
+    <text x="50" y="262" font-size="15" text-anchor="start" fill="#282d35">0(A)</text>
+    <text x="139.3" y="262" font-size="15" text-anchor="middle" fill="#282d35">4천만(B)</text>
+    <text x="228.7" y="262" font-size="15" text-anchor="middle" fill="#282d35">8천만(C)</text>
+    <text x="385" y="262" font-size="15" text-anchor="end" fill="#282d35">1.5억</text>
+    <text x="217.5" y="288" font-size="15" text-anchor="middle" fill="#6f7783">다른 소득(근로소득금액)</text>
+  </svg>
