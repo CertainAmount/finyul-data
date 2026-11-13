@@ -28,3 +28,10 @@ s28,법제처 국가법령정보센터,"국민건강보험법 제70조 — 직�
 s29,법제처 국가법령정보센터,고용보험·산재보험료징수법 시행령 제2조의2 — 보수에서 제외되는 금품은 소득세법 제12조제3호 비과세 근로소득,filing,https://www.law.go.kr/법령/고용보험및산업재해보상보험의보험료징수등에관한법률시행령/제2조의2
 s30,법제처 국가법령정보센터,관찰: 지방소득세 특별징수의 10원 미만 절사 규정 — 지방세법 제103조의13·시행령 제100조의5에서 찾지 못함,observation,https://www.law.go.kr/법령/지방세법/제103조의13#rounding-check
 s31,국세청·4대사회보험 정보연계센터·홈택스,관찰: 공식 계산기 동일 입력 결과 확보 실패 — 정보연계센터 접속 200이나 계산 화면은 서버 직접 조회 불가,observation,https://www.4insure.or.kr/
+s32,4대사회보험 정보연계센터(화면 직접 조작),"관찰: 4대사회보험 모의계산 공식 화면에 월 급여 2,800,000원을 넣은 결과(2026-11-13 캡처)",observation,https://www.4insure.or.kr/pbiz/ntcn/inscSmlCalcView.do#screen-2026-11-13
+s33,국세청(화면 직접 열람),"관찰: 국세청 근로소득 원천징수방법(간이세액표) 안내 화면 — 80·100·120% 선택과 자녀 공제 12,500원·29,160원 표기(2026-11-13 캡처)",observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6583&cntntsId=7862#screen-2026-11-13
+s35,국민건강보험공단,"국민건강보험공단 「2026년 달라지는 건강보험·장기요양보험 제도」 리플릿 — 건강보험료율 7.19%, 장기요양보험료율 0.9448%",filing,https://www.nhis.or.kr/renewal_popup/poster/20260204_poster_longdesc_1.html
+s36,보건복지부,"보건복지부 보도자료 「국민연금, 새해 재정은 보다 튼튼하게 노후는 더욱 든든하게 보장합니다」(2025-12-29) — 2026년 보험료율 9%→9.5%",filing,https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&list_no=1488390&act=view
+s37,조세심판원(법제처 국가법령정보센터 재결례),조세심판원 조심 2025서2281(2026.7.1 의결) — 청구법인이 원천징수한 과세대상 근로소득에 비과세소득인 식사대가 포함되어 있다는 청구주장의 당부,filing,https://www.law.go.kr/DRF/lawService.do?target=ttSpecialDecc&ID=2093629&type=HTML
+s38,국세청 국세상담센터,"국세상담센터 자주묻는Q&A 연말정산 「05. 비과세 식대」 — 회사 규정 없이 지급하면 비과세 안 됨, 현물+현금 식대",filing,https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1318&ctgId=CTG11918
+s39,법제처 국가법령정보센터,"관찰: 2027년 1월부터 바뀌는 보험료 값의 확정 여부 점검(2026-11-13) — 국민연금 5.0% 확정, 건강보험·장기요양 요율 미확정",observation,https://www.law.go.kr/법령/국민연금법/부칙#obs-2027-status-2026-11-13
