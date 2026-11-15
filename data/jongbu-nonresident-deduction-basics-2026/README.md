@@ -2,7 +2,7 @@
 
 Article (Korean): [비거주 1주택자 종부세 공제, 9억원으로 줄어드나요?](https://finyul.com/articles/jongbu-nonresident-deduction-basics-2026/)
 
-Published 2026-08-31, last updated 2026-10-04. Figures follow the rules as of this date; this folder is updated whenever the article is.
+Published 2026-08-31, last updated 2026-11-15. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
 | File | Caption |
 |---|---|

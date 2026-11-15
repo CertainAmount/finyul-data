@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 412" role="img" aria-label="4대보험 요율표와 2027년 값이 놓인 단계" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="57.5" y="18" font-size="15" fill="#6f7783" text-anchor="middle">없음</text>
+<text x="152.5" y="18" font-size="15" fill="#6f7783" text-anchor="middle">의결</text>
+<text x="247.5" y="18" font-size="15" fill="#6f7783" text-anchor="middle">입법예고</text>
+<text x="342.5" y="18" font-size="15" fill="#6f7783" text-anchor="middle">법에 적힘</text>
+<text x="10" y="51" font-size="15" fill="#282d35" font-weight="700">국민연금</text>
+<text x="390" y="51" font-size="15" fill="#254a75" text-anchor="end" font-weight="700">2027 근로자 5.0%</text>
+<text x="10" y="73" font-size="15" fill="#282d35">올해 근로자 4.75%</text>
+<text x="190" y="73" font-size="15" fill="#282d35">회사 4.75%</text>
+<rect x="10" y="82" width="93" height="22" fill="#dbe6f2" stroke="#c4ccd6"/>
+<rect x="105" y="82" width="93" height="22" fill="#dbe6f2" stroke="#c4ccd6"/>
+<rect x="200" y="82" width="93" height="22" fill="#dbe6f2" stroke="#c4ccd6"/>
+<rect x="295" y="82" width="93" height="22" fill="#254a75" stroke="#254a75"/>
+<text x="341.5" y="98" font-size="15" fill="#ffffff" text-anchor="middle">법 부칙</text>
+<text x="10" y="127" font-size="15" fill="#282d35" font-weight="700">건강보험</text>
+<text x="390" y="127" font-size="15" fill="#254a75" text-anchor="end" font-weight="700">2027 근로자 3.595%</text>
+<text x="10" y="149" font-size="15" fill="#282d35">올해 근로자 3.595%</text>
+<text x="190" y="149" font-size="15" fill="#282d35">회사 3.595%</text>
+<rect x="10" y="158" width="93" height="22" fill="#dbe6f2" stroke="#c4ccd6"/>
+<rect x="105" y="158" width="93" height="22" fill="#254a75" stroke="#254a75"/>
+<text x="151.5" y="174" font-size="15" fill="#ffffff" text-anchor="middle">9월 8일</text>
+<rect x="200" y="158" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+<rect x="295" y="158" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+<text x="10" y="203" font-size="15" fill="#282d35" font-weight="700">장기요양</text>
+<text x="390" y="203" font-size="15" fill="#254a75" text-anchor="end" font-weight="700">2027 근로자 0.4997%</text>
+<text x="10" y="225" font-size="15" fill="#282d35">올해 근로자 0.4724%</text>
+<text x="190" y="225" font-size="15" fill="#282d35">회사 0.4724%</text>
+<rect x="10" y="234" width="93" height="22" fill="#dbe6f2" stroke="#c4ccd6"/>
+<rect x="105" y="234" width="93" height="22" fill="#254a75" stroke="#254a75"/>
+<text x="151.5" y="250" font-size="15" fill="#ffffff" text-anchor="middle">10월 30일</text>
+<rect x="200" y="234" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+<rect x="295" y="234" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+<text x="10" y="279" font-size="15" fill="#282d35" font-weight="700">고용보험</text>
+<text x="390" y="279" font-size="15" fill="#254a75" text-anchor="end" font-weight="700">2027 근로자 1.0%</text>
+<text x="10" y="301" font-size="15" fill="#282d35">올해 근로자 0.9%</text>
+<text x="190" y="301" font-size="15" fill="#282d35">회사 0.9%+0.25~0.85%</text>
+<rect x="10" y="310" width="93" height="22" fill="#dbe6f2" stroke="#c4ccd6"/>
+<rect x="105" y="310" width="93" height="22" fill="#dbe6f2" stroke="#c4ccd6"/>
+<rect x="200" y="310" width="93" height="22" fill="#254a75" stroke="#254a75"/>
+<text x="246.5" y="326" font-size="15" fill="#ffffff" text-anchor="middle">9월 22일</text>
+<rect x="295" y="310" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+<text x="10" y="355" font-size="15" fill="#282d35" font-weight="700">산재보험</text>
+<text x="390" y="355" font-size="15" fill="#254a75" text-anchor="end" font-weight="700">2027 근로자 없음</text>
+<text x="10" y="377" font-size="15" fill="#282d35">올해 근로자 없음</text>
+<text x="190" y="377" font-size="15" fill="#282d35">회사 전액(평균 1.47%)</text>
+<rect x="10" y="386" width="93" height="22" fill="#254a75" stroke="#254a75"/>
+<text x="56.5" y="402" font-size="15" fill="#ffffff" text-anchor="middle">고시 없음</text>
+<rect x="105" y="386" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+<rect x="200" y="386" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+<rect x="295" y="386" width="93" height="22" fill="#ffffff" stroke="#c4ccd6"/>
+</svg>
