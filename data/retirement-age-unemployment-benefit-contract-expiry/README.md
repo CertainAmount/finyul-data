@@ -6,9 +6,9 @@ Published 2026-11-09. Figures follow the rules as of this date; this folder is u
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 고용보험 가입 기간별 소정급여일수, 50세 미만과 50세 이상 비교 (표에서 내 칸 찾기) |
-| [table-1.csv](table-1.csv) | 자료: 고용보험법 시행규칙 별표 2 제12호("정년의 도래나 계약기간의 만료로 회사를 계속 다닐 수 없게 된 경우"), 고용노동부 빠른인터넷상담 답변 3건. 상담 답변은 개별 사안의 안내예요. |
-| [table-2.csv](table-2.csv) | 자료: 고용보험법 별표 1(소정급여일수), 시행령 제68조(기초일액 상한 11만 3,500원)와 제46조(60%)로 계산. 하루 상한 6만 8,100원 기준 최대치예요. |
+| [figure-1.svg](figure-1.svg) | Unemployment benefit days by insured period, under 50 vs. 50 and over (find your cell) |
+| [table-1.csv](table-1.csv) | Source: Enforcement Rule of the Employment Insurance Act, Table 2 item 12 (leaving due to retirement age or contract expiry); three Ministry of Employment and Labor online consultation answers (case-specific guidance) |
+| [table-2.csv](table-2.csv) | Source: calculated from Employment Insurance Act Table 1 (benefit days), Enforcement Decree Articles 68 (daily base cap KRW 113,500) and 46 (60%). Maximum at the daily cap of KRW 68,100 |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/retirement-age-unemployment-benefit-contract-expiry/

@@ -12,11 +12,11 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
-- [상속세 면제한도 5억·10억 기준과 2026 세율표, 가족별 계산](https://finyul.com/articles/inheritance-tax-exemption-limit-rates-2026/) · [data](data/inheritance-tax-exemption-limit-rates-2026/)
-- [ISA서민형 조건과 비과세 한도, 2026년에 바뀌나요?](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/) · [data](data/isa-seominhyeong-tax-free-limit-maturity-options-2026/)
-- [금융소득종합과세 대상, 이자·배당 2천만 원 넘으면 5월에 얼마나 더 낼까요?](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/) · [data](data/financial-income-comprehensive-tax-2000-threshold-comparison-2026/)
-- [노란우산공제 해지 세금, 환급금 전체가 아니라 공제받은 만큼만 내요](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) · [data](data/noranumbrella-deduction-limit-cancel-tax-2026/)
-- [최저시급 월급 2027 확인법: 월급을 209시간으로 나눠 10,700원 넘는지 보기](https://finyul.com/articles/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/) · [data](data/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/)
+- [Korean inheritance tax exemption threshold (KRW 500M / 1B) and 2026 rate table, calculated by family type](https://finyul.com/articles/inheritance-tax-exemption-limit-rates-2026/) · [data](data/inheritance-tax-exemption-limit-rates-2026/)
+- [Low-income ISA (seominhyeong) eligibility and tax-free limit: does it change in 2026?](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/) · [data](data/isa-seominhyeong-tax-free-limit-maturity-options-2026/)
+- [Comprehensive taxation of financial income in Korea: how much more you pay in May when interest and dividends exceed KRW 20M](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/) · [data](data/financial-income-comprehensive-tax-2000-threshold-comparison-2026/)
+- [Yellow Umbrella (Noran Usan) mutual aid cancellation tax: only the deducted portion is taxed, not the whole refund](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) · [data](data/noranumbrella-deduction-limit-cancel-tax-2026/)
+- [Checking a monthly wage against Korea's 2027 minimum wage: divide by 209 hours and compare with KRW 10,700](https://finyul.com/articles/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/) · [data](data/minimum-wage-2027-monthly-209-hours-under-15-hours-daily-pay/)
 - [Reading the Korean EV subsidy lookup screen: national and local amounts, the 53-million-won price tier, and the two remaining-quota columns (2026)](https://finyul.com/articles/ev-subsidy-2026-national-local-price-tiers/) · [data](data/ev-subsidy-2026-national-local-price-tiers/)
 - [Unemployment benefits in Korea at retirement age or when a fixed-term contract ends: who qualifies and when to apply](https://finyul.com/articles/retirement-age-unemployment-benefit-contract-expiry/) · [data](data/retirement-age-unemployment-benefit-contract-expiry/)
 - [Selling a used car in Korea: price check, documents, and tax and insurance after the title transfer](https://finyul.com/articles/used-car-sell-price-check-documents-fees-after-transfer/) · [data](data/used-car-sell-price-check-documents-fees-after-transfer/)

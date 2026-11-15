@@ -6,7 +6,7 @@ Published 2026-11-08, last updated 2026-11-13. Figures follow the rules as of th
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 자동차세 과세기준일 앞뒤 이전등록 (팔고 난 뒤 자동차세 고지서는 6월 1일·12월 1일 등록원부 이름으로) |
+| [figure-1.svg](figure-1.svg) | Ownership transfer before and after the car tax base dates (after a sale, the bill goes to the name on the register on June 1 / December 1) |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/used-car-sell-price-check-documents-fees-after-transfer/

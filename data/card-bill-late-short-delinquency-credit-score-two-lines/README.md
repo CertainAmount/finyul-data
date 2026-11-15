@@ -6,8 +6,8 @@ Published 2026-10-01, last updated 2026-11-12. Figures follow the rules as of th
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 결제일별 5영업일째와 3일째의 거리 (5영업일째는 결제일 따라 연체 7·9·11일째) |
-| [table-1.csv](table-1.csv) | 결제일 2026년 11월 13일, 연체 한 건·이전 연체 없음으로 놓고 NICE·KCB 공시에 대 본 결과. 네 줄 모두 등록 대상 |
+| [figure-1.svg](figure-1.svg) | Gap between the 5th business day and day 3 by payment date (the 5th business day falls on day 7, 9 or 11 of delinquency) |
+| [table-1.csv](table-1.csv) | Payment date 2026-11-13, one delinquency and no prior ones, checked against NICE and KCB disclosures. All four rows are reportable |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/card-bill-late-short-delinquency-credit-score-two-lines/

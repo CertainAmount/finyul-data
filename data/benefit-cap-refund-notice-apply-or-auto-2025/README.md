@@ -6,8 +6,8 @@ Published 2026-10-12, last updated 2026-11-10. Figures follow the rules as of th
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 2025년 진료분 대상 226만 명 중 계좌 등록자 131만 명은 신청 없이 지급되고 10월 8일 뒤 지급분은 체납액을 뺄 수 있음, 나머지는 안내문 신청 (상한제 사후환급금 뜻, 신청 없이 받는 길은 지급동의계좌) |
-| [table-1.csv](table-1.csv) | 합산 대상 200만 원일 때 분위별로 돌려받는 돈(일반 상한액, 괄호는 요양병원 120일 초과 입원) |
+| [figure-1.svg](figure-1.svg) | Of 2.26M eligible for 2025 care, 1.31M with registered accounts are paid without applying (payments after Oct 8 may be offset against arrears); the rest apply by notice (out-of-pocket cap refunds) |
+| [table-1.csv](table-1.csv) | Refund by income decile on KRW 2M of eligible costs (standard cap; parentheses: long-term care hospital stays over 120 days) |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 License: CC BY 4.0. Please credit "finyul" with a link to https://finyul.com/articles/benefit-cap-refund-notice-apply-or-auto-2025/

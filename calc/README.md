@@ -12,20 +12,20 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `dclimit` | [Buying ETFs directly in a DC retirement pension with a default option set: where does it get blocked?](https://finyul.com/articles/dc-etf-direct-vs-default-option/) |
 | `dutyfree` | [Over the 800 USD duty-free limit: is self-declaring better? The 200,000 KRW cap and 40%/60% penalties](https://finyul.com/articles/travel-duty-free-800-self-report-penalty/) |
 | `eurroute` | [Exchanging 1 million KRW to euros: how many euros apart are the airport and bank apps?](https://finyul.com/articles/eur-exchange-route-cost-1m-won/) |
-| `fintax` | [financial-income-comprehensive-tax-2000-threshold-comparison-2026](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/) |
+| `fintax` | [Comprehensive taxation of financial income in Korea: how much more you pay in May when interest and dividends exceed KRW 20M](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/) |
 | `fourins` | [Four social insurance rates 2026: how much is deducted from a 3 million KRW salary, employer share and 2027 changes](https://finyul.com/articles/four-insurance-rate-2026-monthly-salary-deduction/) |
 | `giftax` | [Gift tax rates and filing: if a child receives 300 million KRW, how much and where to file?](https://finyul.com/articles/gift-tax-rate-and-filing-3-billion-example/) |
 | `gifthouse` | [Using a gift tax calculator for an apartment: can you enter the officially assessed price?](https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/) |
 | `hilatefee` | [Missed the health insurance premium deadline? Late fees, benefit restrictions, and installment rules](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) |
-| `inherittax` | [inheritance-tax-exemption-limit-rates-2026](https://finyul.com/articles/inheritance-tax-exemption-limit-rates-2026/) |
-| `isatax` | [isa-seominhyeong-tax-free-limit-maturity-options-2026](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/) |
+| `inherittax` | [Korean inheritance tax exemption threshold (KRW 500M / 1B) and 2026 rate table, calculated by family type](https://finyul.com/articles/inheritance-tax-exemption-limit-rates-2026/) |
+| `isatax` | [Low-income ISA (seominhyeong) eligibility and tax-free limit: does it change in 2026?](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/) |
 | `jeonse` | [Jeonse (lump-sum deposit lease) loan interest calculator: monthly cost of 200 million KRW at 4.5% by repayment type](https://finyul.com/articles/jeonse-loan-interest-calculation-repayment-types/) |
 | `leavepay` | [Unused annual leave pay: how much for 10 days on a 3 million KRW monthly salary, and when you don't get it](https://finyul.com/articles/annual-leave-pay-unused-days-calculation/) |
 | `loan` | [Loan repayment calculator: compare interest and prepayment fees by repayment type](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/) |
 | `mortgagelimit` | [Mortgage limit: will LTV, DSR, or the 600 million KRW cap stop you first?](https://finyul.com/articles/mortgage-limit-amount-cap-ltv-dsr-lowest-one/) |
 | `netpay` | [After-tax salary calculator: what lands in your account from 3 million KRW, with meal allowance and dependents](https://finyul.com/articles/net-salary-calculator-take-home-pay/) |
-| `noranumbrella` | [noranumbrella-deduction-limit-cancel-tax-2026](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |
-| `noranumbrellacancel` | [noranumbrella-deduction-limit-cancel-tax-2026](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |
+| `noranumbrella` | [Yellow Umbrella (Noran Usan) mutual aid cancellation tax: only the deducted portion is taxed, not the whole refund](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |
+| `noranumbrellacancel` | [Yellow Umbrella (Noran Usan) mutual aid cancellation tax: only the deducted portion is taxed, not the whole refund](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |
 | `nps` | [National Pension makeup contributions: which month in 2026 costs less? November vs. December payments](https://finyul.com/articles/nps-chunap-2026-application-month-payment-amount/) |
 | `npsvol` | [National Pension voluntary enrollment from 96,000 KRW a month: how much you get and when you break even](https://finyul.com/articles/nps-voluntary-enrollment-2026-premium-benefit/) |
 | `parental` | [Parental leave benefit: can I claim it all after leave ends? When the 12 months start](https://finyul.com/articles/parental-leave-benefit-claim-deadline-lump-sum/) |

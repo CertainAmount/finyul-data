@@ -6,9 +6,9 @@ Published 2026-09-09, last updated 2026-11-10. Figures follow the rules as of th
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 800달러 한도에 들어가는 것과 따로 세는 것 (면세점에서 산 것도 800달러에 들어가요) |
-| [figure-2.svg](figure-2.svg) | 구매액별 자진신고 감면액 선 그래프 (신고하면 30%가 줄고, 20만 원에서 멈춰요) |
-| [table-1.csv](table-1.csv) | 일반 물품(15%), 과세환율 1,340.42원(2026-11-08 적용)으로 직접 계산. 산 값을 세관이 그대로 인정했을 때의 원 단위 반올림 예상치예요 |
+| [figure-1.svg](figure-1.svg) | What counts toward the USD 800 allowance and what is counted separately (duty-free purchases count too) |
+| [figure-2.svg](figure-2.svg) | Self-declaration reduction by purchase amount (30% off, capped at KRW 200k) |
+| [table-1.csv](table-1.csv) | General goods (15%), own calculation at the customs exchange rate of KRW 1,340.42 (applied 2026-11-08). Rounded estimate assuming customs accepts the purchase price |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 Calculators in this article: `dutyfree` ([calc/](../../calc/))

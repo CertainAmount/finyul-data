@@ -1,4 +1,4 @@
-# ISA서민형 조건과 비과세 한도, 2026년에 바뀌나요?
+# Low-income ISA (seominhyeong) eligibility and tax-free limit: does it change in 2026?
 
 Article (Korean): [ISA서민형 조건과 비과세 한도, 2026년에 바뀌나요?](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/)
 
@@ -6,9 +6,9 @@ Published 2026-11-13. Figures follow the rules as of this date; this folder is u
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 해지일 순이익별 세금 선 그래프 (ISA 비과세 한도를 넘으면 해지하는 날 순이익으로 세금을 낸다) |
-| [figure-2.svg](figure-2.svg) | 3년 막대와 60일 막대를 같은 비율로 그린 갈림 그림 (ISA계좌 해지·만기 연장·연금 이전은 3년이 지났는지에 따라 달라진다) |
-| [table-1.csv](table-1.csv) | 내 소득으로 보는 ISA서민형 기준 |
+| [figure-1.svg](figure-1.svg) | Tax by net gain on the closing date (gains above the ISA tax-free limit are taxed on the day the account is closed) |
+| [figure-2.svg](figure-2.svg) | The 3-year and 60-day periods drawn to the same scale (ISA closing, extension and pension transfer depend on whether 3 years have passed) |
+| [table-1.csv](table-1.csv) | Low-income ISA eligibility by your income |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 Calculators in this article: `isatax` ([calc/](../../calc/))
