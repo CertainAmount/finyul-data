@@ -1,0 +1,40 @@
+﻿id,publisher,title,type,url
+s1,법제처 국가법령정보센터,상속세 및 증여세법 제13조(상속세 과세가액) ① — 사망 전 10년(상속인)·5년(상속인 아닌 자) 증여 가산,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제13조
+s2,법제처 국가법령정보센터,상속세 및 증여세법 제18조(기초공제) — 2억원,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제18조
+s3,법제처 국가법령정보센터,상속세 및 증여세법 제19조(배우자 상속공제) — 한도 30억원·분할기한 9개월·5억원 미만이면 5억원,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제19조
+s4,법제처 국가법령정보센터,상속세 및 증여세법 제20조(그 밖의 인적공제) — 자녀 1명 5천만원·미성년자 1천만원×연수·65세 이상 5천만원·장애인,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제20조
+s5,법제처 국가법령정보센터,"상속세 및 증여세법 제21조(일괄공제) — 5억원, 배우자 단독 상속이면 일괄공제 불가",filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제21조
+s6,법제처 국가법령정보센터,상속세 및 증여세법 제22조(금융재산 상속공제) — 순금융재산 20%·최소 2천만원·한도 2억원,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제22조
+s7,법제처 국가법령정보센터,상속세 및 증여세법 제23조의2(동거주택 상속공제) — 100%·한도 6억원·10년 동거 1세대 1주택,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제23조의2
+s8,법제처 국가법령정보센터,상속세 및 증여세법 제24조(공제 적용의 한도) — 과세가액에서 유증·상속포기·가산 증여를 뺀 금액이 한도,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제24조
+s9,법제처 국가법령정보센터,상속세 및 증여세법 제25조(상속세의 과세표준 및 과세최저한) — 과세표준 50만원 미만이면 부과 안 함,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제25조
+s10,법제처 국가법령정보센터,상속세 및 증여세법 제26조(상속세 세율) — 10~50% 5구간 세율표,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제26조
+s11,법제처 국가법령정보센터,"상속세 및 증여세법 제67조(상속세 과세표준신고) — 6개월, 해외 주소 9개월",filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제67조
+s12,법제처 국가법령정보센터,상속세 및 증여세법 제69조(신고세액 공제) ① — 신고 시 산출세액의 3% 공제,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제69조
+s13,법제처 국가법령정보센터,상속세 및 증여세법 시행령 제19조(금융재산 상속공제) — 금융재산·금융채무 범위,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95%20%EC%8B%9C%ED%96%89%EB%A0%B9/제19조
+s14,법제처 국가법령정보센터,민법 제1009조(법정상속분) ② — 배우자는 직계비속·직계존속과 공동상속 시 5할 가산,filing,https://www.law.go.kr/법령/%EB%AF%BC%EB%B2%95/제1009조
+s15,열린국회정보 의안정보,"관찰: 22대 국회에 상속세 및 증여세법 일부개정안 74건 발의, 처리결과 70건 비어 있음(계류)·4건 철회 — 현행 법은 아직 안 바뀜",observation,https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn#obs-2026-bills-inheritance
+s16,finyul-datacollector,관찰: 국세청 상속세 세액계산흐름도 본문은 정적 수집으로 원문 인용을 확보하지 못했다,observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2326&cntntsId=7720#obs-unreached
+s17,재정경제부,"2026년 세제개편안 상세본(재정경제부, 2026-08-03) 372쪽 — '양도소득세 및 상속·증여세' 목차 5건, 상증법 제26조·제53조·제56조~제58조·제68조~제71조 개정 항목 없음(가업승계 외 일반 증여 세율·공제 변경 항목 미확인)",filing,https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=6#toc-yangdo-sangsok-jeungyeo
+s18,찾기쉬운 생활법령정보(법제처),상속 > 상속등기와 세금 > 상속 관련 세금 > 상속세 계산 및 납부 — 일괄공제 5억원·세율표 10~50%·신고기한 6개월 (2026-09-30 기준),filing,https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=255&ccfNo=7&cciNo=2&cnpClsNo=1
+s19,법제처 국가법령정보센터,상속세 및 증여세법 제19조 제1항 제1호 — 배우자 상속공제 한도금액 계산식 (A－B+C)×D－E 와 A~E 정의,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95/제19조#hando-formula
+s20,법제처 국가법령정보센터,상속세 및 증여세법 시행령 제17조(배우자 상속재산의 가액 및 미분할 사유) ① — 한도식 A(상속재산의 가액)의 범위,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95%20%EC%8B%9C%ED%96%89%EB%A0%B9/제17조
+s21,법제처 국가법령정보센터,상속세 및 증여세법 시행령 제20조의2(동거주택 인정의 범위) ① — 1세대 1주택 정의와 일시적 2주택 예외 8가지,filing,https://www.law.go.kr/법령/%EC%83%81%EC%86%8D%EC%84%B8%20%EB%B0%8F%20%EC%A6%9D%EC%97%AC%EC%84%B8%EB%B2%95%20%EC%8B%9C%ED%96%89%EB%A0%B9/제20조의2
+s22,국세청,"국세청 상속세 > 상속재산의 평가 — 상속개시일 현재 시가, 전후 6개월 평가기간, 보충적 평가(공시가격)",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2330&cntntsId=7723
+s23,국세청 국세법령정보시스템,국세청 서면 질의회신 서면-2024-상속증여-4688 [상속증여세과-771](2025-11-19) — 감정가액과 매매가액이 모두 있으면 평가기준일에 가장 가까운 날의 가액,filing,https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000017356
+s24,국세청,국세청 상속세 > 항목별 설명 > 상속공제 — 일괄공제와 배우자공제(실제 상속받은 금액·5억 최소·법정지분 한도·분할기한),filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6528&cntntsId=7956#bae-ugja
+s25,국세청,국세청 상속세 > 상속공제 — 금융재산 상속공제 구간(2천만 원 이하 전액·2천만 원·20%·최대 2억),filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6528&cntntsId=7956#geumyung
+s26,국세청,국세청 상속세 > 상속공제 — 동거주택 상속공제 요건(10년 동거·1세대 1주택·무주택 직계비속)과 6억 한도,filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6528&cntntsId=7956#donggeo
+s27,국세청,국세청 상속세 > 세액계산흐름도 — 사전증여 가산·상속공제 종합한도·세율 10~50%·세액공제(증여세액공제·신고세액공제),filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2326&cntntsId=7720
+s28,국세청,"국세청 상속세 > 과세가액에 합산하는 사망 전 증여재산 — 상속인 10년, 상속인 아닌 자 5년",filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6527&cntntsId=7955
+s29,국세청,국세청 상속세 > 신고시 유의사항 — 법정신고기한 내 신고하면 신고세액공제 3%,filing,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2328&cntntsId=7722
+s30,국세청 국세법령정보시스템(조세심판원 결정),조세심판원 조심-2024-인-0314(2024-05-22) — 동거주택 상속공제 적용 대상 아님(상속인 배우자가 다른 주택 소수지분 보유),filing,https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000004969
+s31,국세청 국세법령정보시스템(심사결정),국세청 심사-상속-2025-0016(2026-01-21) — 미분할 사유를 신고하지 않으면 배우자상속공제 적용 배제,filing,https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000018622
+s32,국회예산정책처,"국회예산정책처 「2025년 개정세법 심의 결과 및 주요 내용」(2025.12) p.33 [표 31] — 현행 일괄공제 5억·배우자공제 5~30억·""상속재산 10억원까지 면세"", 유산취득세 전환은 이번 개정에 미반영",paper,https://www.nabo.go.kr/board/file/down.do?fid=33319000
+s33,열린국회정보 의안정보,"관찰(2026-11-14): 22대 국회 상속세 및 증여세법 일부개정안 81건 — 계류 74(의원 72·정부 2)·철회 4·가결 2·부결 1, 정부 2026-09-03 제출안 계류 중",observation,https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn#obs-2026-11-14-sangsokse-bills
+s34,법제처 국가법령정보센터,관찰(2026-11-14): 법제처 국가법령정보 시스템 점검(11/13 21:00~11/14 21:00)으로 상증법 현행 조문 재조회를 못 했다,observation,https://www.law.go.kr/DRF/lawSearch.do#obs-2026-11-14-maintenance
+s35,트랜드 플래닛 블로그,"불일치 관찰: 한 블로그(2026-09-19)는 ""2026년부터 일괄공제 5억 → 10억""이라 쓰지만 국세청 안내·국회예산정책처·국회 계류 상태와 어긋난다",observation,https://blanclucy.co.kr/2026%EB%85%84-%EC%83%81%EC%86%8D%EC%84%B8-%EB%A9%B4%EC%A0%9C%ED%95%9C%EB%8F%84%EC%9D%BC%EA%B4%84%EA%B3%B5%EC%A0%9C-10%EC%96%B5-%EC%83%81%ED%96%A5-%EA%B0%9C%ED%8E%B8-%EB%B0%8F-%EB%B0%B0%EC%9A%B0/
+s36,finyul 직접 계산(inherittax 계산기·손계산),"직접 계산(2026-11-14): 인터뷰 숫자 7개를 계산기(inherittax)와 따로 짠 손계산으로 다시 맞춰 봤다 — 맞는 것 5, 기준 표기가 필요한 것 2",observation,https://finyul.com/inheritance-tax-exemption-limit-rates-2026/#obs-2026-11-14-interview-numbers-check
+s37,열린국회정보 의안정보시스템(의안 제안이유·주요내용),"관찰(2026-11-14): 일괄공제·배우자공제·자녀공제·동거주택공제를 올리는 의원안 여러 건이 재정경제기획위원회에 계류 중이고, 2026 정부안(2221045)에는 일반 공제·세율 항목이 없다",observation,https://likms.assembly.go.kr/bill/billDetail.do#obs-2026-11-14-deduction-bills
+s38,국세청 홈택스,"관찰(2026-11-14): 홈택스 '(모의계산) 상속세 자동계산' 공개 화면은 로그인 없이 열리고, 시가가 있으면 그 값을 시가가 없으면 기준시가·공시지가를 넣게 돼 있다 — 캡처 파일은 못 남김",observation,https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&tmIdx=41&tm2lIdx=4108040000&tm3lIdx=4108040200
+s40,finyul 계산(knowledge-calc-1114.js),"계산 관찰: 부모님 집 시세 4.3억·공시 3.4억은 일괄공제 안(세액 0), 사전증여 3억 가산 땐 1억 1,640만 원 등 — 가정: 채무·장례비 0",observation,https://finyul.com/work/inheritance-tax-exemption-limit-rates-2026/notes/knowledge-calc-1114.js#K2-K5-K8-K9-K11

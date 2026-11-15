@@ -12,6 +12,7 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
+- [상속세 면제한도 5억·10억 기준과 2026 세율표, 가족별 계산](https://finyul.com/articles/inheritance-tax-exemption-limit-rates-2026/) · [data](data/inheritance-tax-exemption-limit-rates-2026/)
 - [ISA서민형 조건과 비과세 한도, 2026년에 바뀌나요?](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/) · [data](data/isa-seominhyeong-tax-free-limit-maturity-options-2026/)
 - [금융소득종합과세 대상, 이자·배당 2천만 원 넘으면 5월에 얼마나 더 낼까요?](https://finyul.com/articles/financial-income-comprehensive-tax-2000-threshold-comparison-2026/) · [data](data/financial-income-comprehensive-tax-2000-threshold-comparison-2026/)
 - [노란우산공제 해지 세금, 환급금 전체가 아니라 공제받은 만큼만 내요](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) · [data](data/noranumbrella-deduction-limit-cancel-tax-2026/)

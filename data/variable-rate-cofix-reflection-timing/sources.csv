@@ -6,7 +6,7 @@ s4,뉴스1 (파이낸셜뉴스 게재),주담대 변동금리 오른다…코픽
 s5,전국은행연합회 소비자포털 — COFIX 공시일자,COFIX 공시 일정 — 신규취급액·잔액·신잔액기준 COFIX는 매월 15일(공휴일이면 다음 영업일) 15시 공시,filing,https://portal.kfb.or.kr/compare/cofix_date.php
 s6,"위키 백과사전(2차, 신뢰도 낮음) — COFIX 항목","나무위키 COFIX 항목 — '매달 15일 발표, 16일부터 한 달간 적용'은 은행 전반의 일반 규칙으로 서술됨(1차 자료 아님)",observation,https://namu.wiki/w/COFIX
 s7,전국은행연합회 소비자포털 — 대출금리에 대한 이해,은행연합회 소비자포털 대출금리 안내 — 변동금리는 금리변동주기 도래 시 기준금리 변동을 반영해 조정(2026-10-04 열람),filing,https://portal.kfb.or.kr/compare/loan.php
-s8,KB국민은행 — 온라인뱅킹 부동산담보대출(주택담보대출) 상품안내 페이지,KB국민은행 혼합형 주담대는 코픽스가 아니라 금융채(5년물) 연동 — 5년 고정 후에도 6/12개월 주기로 금융채 기준 변동금리 적용. 재산정주기 도래 시 기준금리·우대금리·신용등급 변화에 따라 금리 변동 가능(가산금리는 별도 언급 없음),filing,https://obank.kbstar.com/quics?page=C019482&cc=b030779:b030008&isNew=N&prcode=LN20001160
+s8,KB국민은행 — 온라인뱅킹 부동산담보대출(주택담보대출) 상품안내 페이지,KB국민은행 주담대 상품안내(KB 주택담보대출_변동) — 변동금리는 최종 고시되어 있는 신규취급액기준 또는 신잔액기준 COFIX 중 약정 때 고른 금리를 적용. 같은 페이지의 혼합금리(5년 고정 뒤 6/12개월 변동)는 금융채 기준. 재산정주기 도래 시 기준금리·우대금리·신용등급 변화에 따라 금리 변동 가능,filing,https://obank.kbstar.com/quics?page=C019482&cc=b030779:b030008&isNew=N&prcode=LN20001160
 s9,한국은행 ECOS — 기준금리,"한국은행 기준금리 월말 값 2010-01~2026-10 (ECOS 722Y001 항목 0101000, 변경 35회)",dataset,https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/722Y001/M/201001/202610/0101000
 s10,한국은행 ECOS — 예금은행 신규취급액 대출·예금 금리,예금은행 신규취급액 기준 가계·주택담보·전세·신용·소액 대출금리와 정기예금 금리 월별 2010-01~2026-09 (ECOS 121Y006·121Y002),dataset,https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/121Y006/M/201001/202609/BECBLA0302
 s11,은행연합회 COFIX 공시,"은행연합회 공시 COFIX 신규취급액·잔액·신잔액 대상월별 2010-01~2026-09 (공시일 포함, 201개월)",dataset,https://portal.kfb.or.kr/fingoods/cofix.php
@@ -18,3 +18,4 @@ s18,한국은행 — 블로그 '기준금리 인하와 대출금리 변동 바�
 s19,한국은행 — 블로그 '최근 기준금리 인상시의 대출금리 파급효과',"최근 기준금리 인상시의 대출금리 파급효과 (한국은행 블로그, 2022-08-17) — 인상은 시장금리·COFIX를 거쳐 시차를 두고 대출금리에",filing,https://www.bok.or.kr/portal/bbs/B0000347/view.do?nttId=10072268&menuNo=201106
 s20,금융위원회 — 보도참고 새로운 COFIX 도입시 대출금리 설명,"[보도참고] 새로운 COFIX 도입시 대출금리가 전혀 변하지 않는다는 일부 보도는 사실과 다름 (금융위원회, 2019-01-25)",filing,https://fsc.go.kr/no010101/73508
 s25,전국은행연합회 소비자포털,전국은행연합회 소비자포털 COFIX 개요,filing,https://portal.kfb.or.kr/compare/cofix_overview.php
+s26,KB국민은행 — COFIX 금리 조회,"KB국민은행 COFIX 안내 — 적용기간은 고시일 다음 영업일부터 익월 고시일까지, 재산정주기 도래일 직전 영업일에 최종 고시된 COFIX로 재산정",filing,https://obank.kbstar.com/quics?page=C019206

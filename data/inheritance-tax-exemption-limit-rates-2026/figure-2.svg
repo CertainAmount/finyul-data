@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" role="img" aria-label="부모님 집값 5억 한도와 매매가·공시가격 위치" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="257" y="22" font-size="15" fill="#b4532a" text-anchor="middle">5억</text>
+<line x1="257" y1="30" x2="257" y2="212" stroke="#b4532a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="20" y="56" font-size="15" fill="#282d35">공시가격: 0원 → 0원</text>
+<line x1="75" y1="82" x2="181" y2="82" stroke="#254a75" stroke-width="3"/>
+<polygon points="189,82 179,76 179,88" fill="#254a75"/>
+<circle cx="75" cy="82" r="6" fill="#ffffff" stroke="#254a75" stroke-width="3"/>
+<circle cx="189" cy="82" r="6" fill="#254a75"/>
+<text x="75" y="112" font-size="15" fill="#282d35" text-anchor="middle">3.4억</text>
+<text x="189" y="112" font-size="15" fill="#282d35" text-anchor="middle">4.4억</text>
+<text x="20" y="144" font-size="15" fill="#282d35">매매가: 0원 → 291만 원</text>
+<line x1="177" y1="170" x2="283" y2="170" stroke="#b4532a" stroke-width="3"/>
+<polygon points="291,170 281,164 281,176" fill="#b4532a"/>
+<circle cx="177" cy="170" r="6" fill="#ffffff" stroke="#b4532a" stroke-width="3"/>
+<circle cx="291" cy="170" r="6" fill="#b4532a"/>
+<text x="177" y="200" font-size="15" fill="#282d35" text-anchor="middle">4.3억</text>
+<text x="291" y="200" font-size="15" fill="#282d35" text-anchor="middle">5.3억</text>
+<text x="20" y="238" font-size="15" fill="#6f7783">빈 동그라미는 지금, 채운 동그라미는 1억 오른 뒤</text>
+</svg>
