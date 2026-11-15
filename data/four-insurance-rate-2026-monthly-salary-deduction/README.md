@@ -6,12 +6,12 @@ Published 2026-10-25, last updated 2026-11-15. Figures follow the rules as of th
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 4대보험 요율표와 2027년 값이 놓인 단계 |
-| [figure-2.svg](figure-2.svg) | 월급 300만 원 근로자 몫과 회사 몫을 보험별로 쌓은 막대 (회사 몫은 반반이 아니다) |
-| [figure-3.svg](figure-3.svg) | 월급 대비 4대보험 비율, 659만 원부터 내려감 (659만 원 위에서는 연금이 멈춘다) |
-| [table-1.csv](table-1.csv) | 월급별 근로자 4대보험 공제액(2026년 요율). *월급 400만 원에서 식대 20만 원을 뺀 값 |
-| [table-2.csv](table-2.csv) | 월 보수·회사 규모별로 회사가 내는 4대보험(산재 제외, 2026년). 자료: 각 보험 법·시행령으로 계산, 건강보험 절반 분담은 국회예산정책처 나보포커스 제163호 |
-| [table-3.csv](table-3.csv) | 2027년 1월 근로자 4대보험 합계, 단계별로 쌓은 값(2026년 11월 15일 기준 계산) |
+| [figure-1.svg](figure-1.svg) | Korea's four social insurance rates and the legal stage of each 2027 value |
+| [figure-2.svg](figure-2.svg) | Employee and employer shares by insurance on a KRW 3 million salary (the employer share is not a 50/50 split) |
+| [figure-3.svg](figure-3.svg) | Four insurances as a share of salary, falling from KRW 6.59 million (pension stops at the cap) |
+| [table-1.csv](table-1.csv) | Employee four-insurance deductions by monthly salary (2026 rates). *KRW 4 million salary minus a KRW 200,000 meal allowance |
+| [table-2.csv](table-2.csv) | Employer four-insurance contributions by monthly pay and company size (excl. industrial accident, 2026). Source: calculated from each insurance act and decree; 50/50 health insurance split per NABO Focus No. 163 |
+| [table-3.csv](table-3.csv) | Employee four-insurance total for January 2027, stacked by legislative stage (calculated as of Nov 15, 2026) |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 Calculators in this article: `fourins` ([calc/](../../calc/))
