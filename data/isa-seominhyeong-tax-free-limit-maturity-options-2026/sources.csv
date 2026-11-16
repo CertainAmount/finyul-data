@@ -31,7 +31,7 @@ s33,법제처 국가법령정보센터,소득세법 제59조의3 제1항·제3�
 s34,열린국회정보 의안정보,"조세특례제한법 일부개정법률안(정부, 2026.9.3 제출) 의안 2221039 — 2026-11-13 재조회, 여전히 계류",filing,https://open.assembly.go.kr/portal/openapi/TVBPMBILL11?BILL_NO=2221039#recheck-2026-11-13
 s35,열린국회정보 의안정보,"조세특례제한법 일부개정법률안(박대출의원 등 108인, 2024.6.12 발의) 의안 2200390 — 계류 중(ISA 한도 상향안이라는 해설이 있으나 본문 미확인)",filing,https://open.assembly.go.kr/portal/openapi/TVBPMBILL11?BILL_NO=2200390
 s36,finyul 수집,"2026-11-13 신선도 확인 — 현행 조특법·시행령의 ISA 한도·세율·서민형 기준은 바뀌지 않았고, 2025.12.23 공포 개정(법령 280409) 제개정이유에 ISA 한도 변경은 없다",observation,https://www.law.go.kr/법령/조세특례제한법/제91조의18#freshness-check-2026-11-13
-s37,finyul 계산,"ISA 해지일 순이익별 세금 직접 계산 — 일반형 200만·서민형 400만 비과세, 초과분 9.9% 분리과세 대 일반 계좌 15.4%",observation,https://github.com/CertainAmount/finyul-data#isa-seominhyeong-calc-2026-11-13
+s37,finyul 계산,"ISA 해지일 순이익별 세금 직접 계산 — 일반형 200만·서민형 400만 비과세, 초과분 9.9% 분리과세 대 일반 계좌 15.4%",observation,https://github.com/CertainAmount/finyul-data/blob/main/data/isa-seominhyeong-tax-free-limit-maturity-options-2026/calc/calc-isa-tax-1113.js
 s38,머니투데이,"ISA 가입자 1000만명 돌파... '성인 4명중 1명 가입'(김은령 기자, 2026.9.29.)",news,https://www.mt.co.kr/stock/2026/09/29/2026092909225470348
 s39,뉴시스(파이낸셜뉴스 게재),"ISA 세제개편안 발표 직후 반응 — 해외지수 투자자 이탈 조짐(강수윤·김민수 기자, 2026.8.5.)",news,https://www.fnnews.com/news/202608051044555634
 s40,SBS Biz,"ISA 개편 날벼락…""지금 해지해야 하나"" 투자자 대혼란(오서영 기자, 2026.8.5.)",news,https://biz.sbs.co.kr/amp/article/20000326889

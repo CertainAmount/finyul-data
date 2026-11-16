@@ -20,6 +20,7 @@ s18,고용보험·산재보험료징수법 시행령,징수법 시행령 제2조
 s19,국민건강보험법,국민건강보험법 제107조(끝수 처리) — 보험료 계산 시 국고금관리법상 끝수(10원 미만)는 계산하지 않음,filing,https://www.law.go.kr/법령/국민건강보험법/제107조
 s20,근로자퇴직급여 보장법,"근로자퇴직급여 보장법 제8조 — 퇴직금은 계속근로 1년당 30일분 이상의 평균임금, 중간정산은 법정 사유로 근로자가 요구할 때만(시행 2026-07-01)",filing,https://www.law.go.kr/법령/근로자퇴직급여보장법/제8조
 s21,대법원,대법원 2010.5.20. 선고 2007다90760 전원합의체 판결(퇴직금) — 월급과 함께 퇴직금을 미리 지급하기로 한 '퇴직금 분할 약정'은 원칙적으로 무효,filing,https://www.law.go.kr/LSW/precInfoP.do?precSeq=146675
+s23,finyul 계산,"계산: 연봉 구간별 월 실수령액 표(식대 20만 비과세, 부양가족 1명, 한 달 근무) — scripts/oneoff/annual-salary-table-calc.js 실행 결과",observation,https://github.com/CertainAmount/finyul-data/blob/main/data/annual-salary-take-home-table-3000-to-1eok-2026/calc/annual-salary-table-calc.js
 s24,소득세법,"소득세법 제137조 제1항 — 다음 연도 2월분 근로소득 지급 시 연말정산: 기납부 원천징수세액을 공제해 추가 납부세액 계산, 초과분 환급(120/80% 선택도 연말정산에서 정산됨의 근거)",filing,https://www.law.go.kr/법령/소득세법/제137조
 s25,소득세법 시행령,"소득세법 시행령 [별표 2] 6호 표 머리 — 월급여액은 '비과세 및 학자금 제외' 금액(식대 비과세를 뺀 값으로 표를 읽는 근거), 구간은 이상·미만",filing,https://www.law.go.kr/LSW/flDownload.do?flSeq=169798151#note6
 s26,k-calc,"외부 계산기 k-calc — 연봉 5,000만 원(2026, 식대 20만 비과세, 본인 1명) 소득세 190,620원, 월 실수령 3,571,560원",news,https://k-calc.com/salary/5000

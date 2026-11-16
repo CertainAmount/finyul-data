@@ -14,3 +14,5 @@ s12,토스뱅크,"2026 새로워진 햇살론, 햇살론일반과 햇살론특�
 s13,ppss,토스뱅크 수상 기사(2026-10-28),news,https://www.ppss.kr/news/articleView.html?idxno=317845
 s14,복지로(정보제공처 금융위원회),"청년 사업자도 햇살론유스 이용 가능(복지로 2024-11-04, 정보제공처 금융위원회)",filing,https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1307412_1118.html
 s15,금융위원회,[보도자료] 햇살론유스를 이용하는 사회적 배려 대상 청년의 이자 부담을 낮추고 공급채널을 확대합니다.(2025-06-09),filing,https://fsc.go.kr/po010101/84735?curPage=40
+s16,finyul 직접 계산,햇살론유스 일반생활자금 이번 상한 계산: 이미 받은 금액·최근 1년 이용액별로 1회·연간·평생 한도 중 가장 작은 값 (가정 포함),observation,https://github.com/CertainAmount/finyul-data/blob/main/data/haessalloan-youth-eligibility-limit-rate-2026/calc/calc-limit-interest-2026-11-16.js
+s17,finyul 직접 계산,햇살론유스 금리 유형별 단순 월 이자 비교: 같은 300만원·900만원을 5.0%·4.5%·2.0%로,observation,https://github.com/CertainAmount/finyul-data/blob/main/data/haessalloan-youth-eligibility-limit-rate-2026/calc/calc-limit-interest-2026-11-16.js
