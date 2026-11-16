@@ -8,7 +8,7 @@ Published 2026-10-25, last updated 2026-11-15. Figures follow the rules as of th
 |---|---|
 | [figure-1.svg](figure-1.svg) | Korea's four social insurance rates and the legal stage of each 2027 value |
 | [figure-2.svg](figure-2.svg) | Employee and employer shares by insurance on a KRW 3 million salary (the employer share is not a 50/50 split) |
-| [figure-3.svg](figure-3.svg) | Four insurances as a share of salary, falling from KRW 6.59 million (pension stops at the cap) |
+| [figure-3.svg](figure-3.svg) | 월급 대비 4대보험 비율, 659만 원부터 내려감 (국민연금 상한은 월급 659만 원) |
 | [table-1.csv](table-1.csv) | Employee four-insurance deductions by monthly salary (2026 rates). *KRW 4 million salary minus a KRW 200,000 meal allowance |
 | [table-2.csv](table-2.csv) | Employer four-insurance contributions by monthly pay and company size (excl. industrial accident, 2026). Source: calculated from each insurance act and decree; 50/50 health insurance split per NABO Focus No. 163 |
 | [table-3.csv](table-3.csv) | Employee four-insurance total for January 2027, stacked by legislative stage (calculated as of Nov 15, 2026) |
