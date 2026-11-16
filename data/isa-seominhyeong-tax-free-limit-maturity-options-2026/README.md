@@ -10,6 +10,7 @@ Published 2026-11-13. Figures follow the rules as of this date; this folder is u
 | [figure-2.svg](figure-2.svg) | The 3-year and 60-day periods drawn to the same scale (ISA closing, extension and pension transfer depend on whether 3 years have passed) |
 | [table-1.csv](table-1.csv) | Low-income ISA eligibility by your income |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
+| [calc/calc-isa-tax-1113.js](calc/calc-isa-tax-1113.js) | Reproduction script (Node.js, `node calc-isa-tax-1113.js`): tax at ISA termination by net profit, general vs low-income type vs a regular account |
 
 Calculators in this article: `isatax` ([calc/](../../calc/))
 

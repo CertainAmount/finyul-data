@@ -6,7 +6,7 @@ Published 2026-11-07, last updated 2026-11-16. Figures follow the rules as of th
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 입금액이 계산기와 달라지는 일곱 경우와 차이 크기 (알바비 입금액이 계산기와 다른 이유) |
+| [figure-1.svg](figure-1.svg) | Seven cases where the deposited part-time pay differs from a calculator, and the size of each gap (why part-time pay differs from calculators) |
 | [figure-2.svg](figure-2.svg) | The step in monthly gross pay at the 15-hour weekly threshold for weekly holiday allowance |
 | [table-1.csv](table-1.csv) | Source: calculated with the 2026 minimum wage and the simplified income tax table (one person). 4 days and 20 hours a week, weekly total 247,680 KRW |
 | [table-2.csv](table-2.csv) | Sources: Ministry of Employment and Labor Notice 2026-60, National Pension Act addenda, Ministry of Health and Welfare announcements (2026-09-08, 10-30), Ministry of Employment and Labor Public Notice 2026-450, Employment Insurance Act addenda |
