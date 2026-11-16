@@ -36,3 +36,16 @@ s34,법제처 국가법령정보,"고용보험법 제10조(2027-01-01 시행 예
 s35,고용노동부,"고용노동부 보도자료(2026-03-19) '가짜 3.3' 위장 고용 감독 — 108개소 중 72개소(1,070명) 확인, 사업소득 3.3% 원천징수여도 근로계약·근무장소 지정이면 노동자로 보고 4대보험 직권 가입·소급 부과 계획",news,https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19096
 s36,법제처 국가법령정보,"근로기준법 제70조 — 18세 미만자는 오후 10시~오전 6시와 휴일 근로 금지, 본인 동의+고용노동부장관 인가가 있어야 예외(시행 2026-10-08)",filing,https://www.law.go.kr/법령/근로기준법/제70조
 s37,법제처 국가법령정보,"근로기준법 제54조 — 근로시간 4시간이면 30분 이상, 8시간이면 1시간 이상 휴게시간을 근로시간 도중에 부여(휴게는 근로시간에서 빠지는 시간)",filing,https://www.law.go.kr/법령/근로기준법/제54조
+s38,KDI 한국개발연구원,"KDI FOCUS 초단시간 노동의 증가 요인과 정책 제언(정수환, 2025-12-24) — 초단시간(월 소정근로 60시간 미만) 근로자는 주휴수당·연차·국민연금·건강보험·고용보험 등 적용 제외, 임금근로자 중 비율 2012년 3.7%→2024년 8.5%(153만 8천 명)",paper,https://www.kdi.re.kr/research/focusView?pub_no=18994
+s39,법제처 국가법령정보센터 — 대법원 판례,"대법원 2024. 7. 11. 선고 2023다217312 판결〔임금등〕 — 비전업 시간강사가 초단시간근로자인지는 강의시간 수가 아니라 소정근로시간 기준으로 판단, 15시간 미만 초단시간근로자는 주휴·연차 규정 적용 제외",filing,https://www.law.go.kr/DRF/lawService.do?target=prec&ID=241027&type=HTML
+s40,법제처 국가법령정보센터 — 대법원 판례,대법원 2024. 7. 25. 선고 2021다246545 판결〔임금〕 — 주휴수당은 최저임금액 이상으로 지급해야 할 임금에 해당,filing,https://www.law.go.kr/DRF/lawService.do?target=prec&ID=241229&type=HTML
+s41,법제처 국가법령정보센터 — 고용보험법 부칙,"고용보험법 부칙 제1조·제2조 — 제10조(적용 제외 기준을 소정근로시간에서 보수 소득기준으로) 개정규정은 2027년 1월 1일 시행, 기존 가입자는 최초 이직 전까지 종전 규정으로 자격 유지",filing,https://www.law.go.kr/법령/고용보험법/부칙제21473호#art1
+s42,법제처 국가법령정보센터(조회 기록),관찰: 2026-11-16 현재 고용보험법 시행령에 2027년 소득기준(월 보수) 확정 개정본이 법제처에 없음 — 현행 시행령 제3조는 여전히 월 60시간·주 15시간 기준,observation,https://www.law.go.kr/법령/고용보험법시행령/제3조#obs-2027-income-standard
+s43,보건복지부(정책브리핑),보건복지부 건강보험정책심의위원회 브리핑(2026-09-08) — 2027년도 건강보험료율 7.19% 유지,filing,https://www.korea.kr/policy/civilView.do?newsId=156780681
+s44,보건복지부,"보건복지부 보도자료(2026-10-30) — 제5차 장기요양위원회, 2027년 장기요양보험료율 0.9994% 결정(2026년 0.9448%)",filing,https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492396&tag=&nPage=1
+s45,고용노동부,"고용노동부공고 제2026-450호(2026-09-22) 징수법 시행령 일부개정령안 입법예고 — 실업급여 보험료율 1천분의 18에서 1천분의 20으로, 의견 제출 11월 2일까지",filing,https://moel.go.kr/info/lawinfo/lawmaking/view.do?bbs_seq=20260900688
+s46,법제처 국가법령정보,근로기준법 제50조(근로시간) — 1주 40시간·1일 8시간 한도는 휴게시간을 제외하고 센다(제54조 휴게시간과 함께 보는 조문),filing,https://www.law.go.kr/법령/근로기준법/제50조
+s47,finyul 직접 계산(notes/pay-calc.js),"직접 계산: 시급 10,320원·주 20시간·주 4일 사례의 일곱 차이(주휴 누락 179,372원 ~ 4.35주 1,179원)",observation,https://finyul.com/articles/part-time-pay-calculator-weekly-holiday-night-premium-take-home/#calc-ladder-20261116
+s48,finyul 직접 계산(notes/pay-calc.js),"직접 계산: 2027 시급 10,700원·주 20시간·주 4일 사례 월 통장액(4대보험 방식) — 장기요양 0.9994% 반영 1,002,394원, 고용 1.0% 예고까지 반영 1,001,278원",observation,https://finyul.com/articles/part-time-pay-calculator-weekly-holiday-night-premium-take-home/#calc-y27-20261116
+s49,알바천국 급여계산기(모바일),"알바천국 계산기 직접 확인(2026-11-16): 주휴수당은 (주 근무시간÷40)×8×시급, 4대보험은 합계 9.7%를 항목별 요율과 함께 안내",observation,https://m.alba.co.kr/story/Calculator.asp#obs-20261116
+s50,알바몬 급여계산기(모바일),"알바몬 계산기 직접 확인(2026-11-16): 입력 항목에 주휴·야간 없음, 세금 선택지 4대보험 9.32%",observation,https://m.albamon.com/tools/pay#obs-20261116

@@ -662,14 +662,14 @@
       let ins = null, tax = null, net = null;
       if (mh >= 60) {
         const B = Math.min(Math.max(Math.floor(M / 1000) * 1000, 410000), 6590000);
-        const np = f10(B * (y27 ? 500 : 475) / 10000), hi = Math.min(f10(M * 719 / 10000 / 2), 4591740), ltc = f10(hi * 9448 / 71900), ei = Math.floor(M * 9 / 1000);
+        const np = f10(B * (y27 ? 500 : 475) / 10000), hi = Math.min(f10(M * 719 / 10000 / 2), 4591740), ltc = f10(hi * (y27 ? 9994 : 9448) / 71900), ei = Math.floor(M * 9 / 1000);
         const k = M / 1000, it = k < 770 ? 0 : G.rows.find(r => k >= r[0] && k < r[1])[2], il = Math.floor(it / 10);
         ins = np + hi + ltc + ei; tax = it + il; net = M - ins - tax;
       }
       const hrs = h => `${Number.isInteger(h) ? h : h.toFixed(1)}시간`, notes = [];
       if (!five && night > 0) notes.push('5인 미만이라 야간 가산을 빼고 계산했어요');
       if (mh < 60) notes.push('월 소정근로시간이 60시간 미만이라 4대보험 방식은 계산하지 않았어요. 3개월 이상 일하는 경우 등 예외가 있어요');
-      if (y27) notes.push('2027은 국민연금 5.0%만 바꾸고 건강·고용 요율과 세액표는 2026 값으로 가정했어요(고용보험 적용 기준은 2027년부터 소득 기준으로 바뀌어요)');
+      if (y27) notes.push('2027은 국민연금 5.0%·건강 7.19%·장기요양 0.9994%로 계산했고, 고용보험(0.9%)과 소득세 세액표는 2026 값이에요. 고용보험 근로자 몫 1.0%는 입법예고 단계라 넣지 않았어요(고용보험 적용 기준은 2027년부터 소득 기준으로 바뀌어요)');
       notes.push('소득세는 평균 달 기준이라 근무한 주 수에 따라 0원~소액으로 달라져요');
       return {
         rows: [hrs(hday), won(base), hday ? won(holiday) : '15시간 미만이라 없어요', extra ? won(extra) : null, won(week), won(M),
