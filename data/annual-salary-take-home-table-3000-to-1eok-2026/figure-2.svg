@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 172" role="img" aria-label="연봉 5000 월 실수령이 계약 가정에 따라 표의 어느 줄 사이로 옮겨 가는지" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<line x1="20" y1="130" x2="376" y2="130" stroke="#6f7783" stroke-width="1.5"/>
+<line x1="57.0" y1="122" x2="57.0" y2="138" stroke="#6f7783" stroke-width="1.5"/><text x="57.0" y="158" font-size="15" fill="#282d35" text-anchor="middle">4,500만</text>
+<line x1="208.5" y1="122" x2="208.5" y2="138" stroke="#254a75" stroke-width="3"/><text x="208.5" y="158" font-size="15" fill="#254a75" text-anchor="middle" font-weight="bold">5,000만</text>
+<line x1="361.2" y1="122" x2="361.2" y2="138" stroke="#6f7783" stroke-width="1.5"/><text x="361.2" y="158" font-size="15" fill="#282d35" text-anchor="middle">5,500만</text>
+<line x1="281.9" y1="33" x2="281.9" y2="130" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="3 3"/><circle cx="281.9" cy="130" r="5" fill="#b4532a"/><text x="389" y="28" font-size="15" fill="#282d35" text-anchor="end">식대 연봉 밖 +151,190</text>
+<line x1="254.4" y1="67" x2="254.4" y2="130" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="3 3"/><circle cx="254.4" cy="130" r="5" fill="#b4532a"/><text x="255" y="62" font-size="15" fill="#282d35" text-anchor="end">부양가족 3명 +94,512</text>
+<line x1="92.7" y1="101" x2="92.7" y2="130" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="3 3"/><circle cx="92.7" cy="130" r="5" fill="#b4532a"/><text x="98.7" y="96" font-size="15" fill="#282d35" text-anchor="start">퇴직금 ÷13 −238,469</text>
+</svg>
