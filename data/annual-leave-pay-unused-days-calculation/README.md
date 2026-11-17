@@ -2,10 +2,11 @@
 
 Article (Korean): [연차수당 계산법, 월 300만 원 남은 10일이면 얼마? 못 받는 경우까지](https://finyul.com/articles/annual-leave-pay-unused-days-calculation/)
 
-Published 2026-10-27. Figures follow the rules as of this date; this folder is updated whenever the article is.
+Published 2026-10-27, last updated 2026-11-17. Figures follow the rules as of this date; this folder is updated whenever the article is.
 
 | File | Caption |
 |---|---|
+| [figure-1.svg](figure-1.svg) | How KRW 1.14M of unused annual leave pay splits into deposit, income tax and social insurance (a month when 10 days of leave pay is added to a KRW 3M salary) |
 | [table-1.csv](table-1.csv) | Source: Calculated under Labor Standards Act Enforcement Decree Article 6. 3 million KRW per month, 8 hours a day |
 | [table-2.csv](table-2.csv) | Source: Labor Standards Act Article 61, 2020 Supreme Court ruling, Ministry of Employment and Labor interpretation. 3 million KRW per month, 10 days |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |

@@ -769,6 +769,22 @@
         tones: extra > 0 ? { 4: 'warn', 5: 'total' } : { 5: 'total' }
       };
     },
+    'naeilbaeum-copay'(values) {
+      // 국민내일배움카드 훈련비별 내 돈(운영규정 제2026-39호 별표 4 기본 구간 지원율, 제14조 한도 300만 원·추가 대상 500만 원).
+      // 자부담 = 훈련비 × (1 − 지원율), 정부 몫이 한도를 넘으면 넘는 몫도 본인이 낸다. 새 카드로 한도가 전액 남은 경우, 감액·상향 특례 제외.
+      // 검산: work/naeilbaeum-card-eligibility-limit-copay-2026/notes/knowledge.md 「계산기 명세」 — (400, 일반, 70% 이상) 60·340·40·100, 추가 60 / (500) 200, 추가 75 / (400, 40% 미만) 220 / 시작 352.9·666.7
+      const RATES = { general: [85, 75, 65, 55, 45], kuk2: [85, 75, 70, 60, 50], eitc: [92.5, 87.5, 82.5, 77.5, 72.5] };
+      const fee = Number(values[0]), table = RATES[values[1]], band = Number(values[2]), extra = values[3] === true;
+      if (values[0] === '' || !Number.isFinite(fee) || fee <= 0 || fee > 100000) return { warn: '훈련비를 만 원 단위 숫자로 넣어 주세요.' };
+      if (!table || !(band >= 0 && band <= 4)) return { warn: '대상과 취업률 구간을 골라 주세요.' };
+      const rate = table[band] / 100, limit = extra ? 500 : 300;
+      const self = fee * (1 - rate), gov = fee * rate, over = Math.max(0, gov - limit), total = self + over;
+      const man = n => `${(Math.round(n * 10) / 10).toLocaleString('ko-KR')}만 원`;
+      return {
+        rows: [man(self), man(gov), over ? man(over) : '0원 (한도 안이에요)', man(total), `${man(limit / rate)}부터`],
+        tones: { 2: over ? 'warn' : 'ok', 3: 'total' }
+      };
+    },
     isatax(values) {
       // ISA 해지일 순이익(조특법 제91조의18): 순이익 = 이익 − 통산 손실·보수. 비과세 한도 일반형 200만·서민형 400만 원, 넘는 몫 9%(원 미만 버림) + 지방소득세 10%.
       // 일반 계좌 비교는 이자·배당 15.4%(14% + 1.4%), 금융소득종합과세 2천만 원 이하 가정. 검산: work/isa-seominhyeong-tax-free-limit-maturity-options-2026/notes/knowledge.md 「계산기 판단」

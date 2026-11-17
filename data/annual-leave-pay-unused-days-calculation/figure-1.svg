@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 202" role="img" aria-label="연차수당 114만 원이 입금과 세금, 4대보험으로 나뉘는 흐름" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="20" y="22" font-size="15" fill="#6f7783">연차수당 1,148,325원</text>
+<rect x="20" y="30" width="340" height="26" fill="#f2f6fb" stroke="#254a75" stroke-width="1.5"/>
+<polygon points="20,56 281.3,56 281.3,100 20,100" fill="#f2f6fb"/>
+<polygon points="281.3,56 327,56 335,100 289.3,100" fill="#f2f6fb"/>
+<polygon points="327,56 360,56 376,100 343,100" fill="#f2f6fb"/>
+<rect x="20" y="100" width="261.3" height="26" fill="#254a75"/>
+<text x="150.6" y="118" font-size="15" fill="#ffffff" text-anchor="middle">입금 882,430원</text>
+<rect x="289.3" y="100" width="45.7" height="26" fill="#b4532a"/>
+<rect x="343" y="100" width="33" height="26" fill="#f2f6fb" stroke="#6f7783" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="312" y1="126" x2="312" y2="138" stroke="#b4532a" stroke-width="1.5"/>
+<text x="335" y="154" font-size="15" fill="#b4532a" text-anchor="end">소득세·지방소득세 154,330원</text>
+<line x1="359.5" y1="126" x2="359.5" y2="176" stroke="#6f7783" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="376" y="192" font-size="15" fill="#6f7783" text-anchor="end">4대보험(가정) 111,565원</text>
+</svg>
