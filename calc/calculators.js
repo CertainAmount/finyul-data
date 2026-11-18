@@ -49,7 +49,7 @@
       }
       const daily = work - rest, weekly = daily * days, reach = weekly >= 15;
       const avg = weekly / (days < 5 ? 5 : days);
-      return { rows: [hours(daily), hours(weekly), reach ? '넘어요 (대상)' : '못 미쳐요', hours(avg), reach ? won(wage * avg) : '15시간 미만이라 해당 없어요'], tones: { 2: reach ? 'ok' : 'warn' } };
+      return { rows: [hours(daily), hours(weekly), reach ? '15시간 이상이에요' : '15시간에 못 미쳐요', hours(avg), reach ? won(wage * avg) : '15시간 미만이에요'], tones: { 2: reach ? 'ok' : 'warn' } };
     },
     unemployment(values) {
       const leave = parse(values[0]), days = Number(values[1]), daily = Number(values[2]), claim = parse(values[3]);

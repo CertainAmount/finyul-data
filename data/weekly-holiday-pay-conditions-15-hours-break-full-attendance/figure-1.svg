@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 310" role="img" aria-label="주 15시간 선 위아래 근무표 여섯 개" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="280" y="16" font-size="15" fill="#282d35" text-anchor="middle">15시간</text>
+<text x="10" y="44" font-size="15" fill="#282d35">주 2일 9~18시, 휴게 1시간</text>
+<text x="390" y="44" font-size="15" fill="#254a75" text-anchor="end">대상</text>
+<rect x="10" y="51" width="288" height="18" fill="#254a75"/>
+<text x="16" y="65" font-size="15" fill="#ffffff">16시간</text>
+<text x="10" y="90" font-size="15" fill="#282d35">주 2일 9~17시, 휴게 1시간</text>
+<text x="390" y="90" font-size="15" fill="#b4532a" text-anchor="end">대상 아님</text>
+<rect x="10" y="97" width="252" height="18" fill="#b4532a"/>
+<text x="16" y="111" font-size="15" fill="#ffffff">14시간</text>
+<text x="10" y="136" font-size="15" fill="#282d35">주 2일 9~18시, 휴게 30분</text>
+<text x="390" y="136" font-size="15" fill="#254a75" text-anchor="end">대상</text>
+<rect x="10" y="143" width="306" height="18" fill="#254a75"/>
+<text x="16" y="157" font-size="15" fill="#ffffff">17시간</text>
+<text x="10" y="182" font-size="15" fill="#282d35">주 2일 9~17시, 휴게 30분</text>
+<text x="390" y="182" font-size="15" fill="#254a75" text-anchor="end">대상</text>
+<rect x="10" y="189" width="270" height="18" fill="#254a75"/>
+<text x="16" y="203" font-size="15" fill="#ffffff">15시간</text>
+<text x="10" y="228" font-size="15" fill="#282d35">주 3일 10~15시, 휴게 30분</text>
+<text x="390" y="228" font-size="15" fill="#b4532a" text-anchor="end">대상 아님</text>
+<rect x="10" y="235" width="243" height="18" fill="#b4532a"/>
+<text x="16" y="249" font-size="15" fill="#ffffff">13.5시간</text>
+<text x="10" y="274" font-size="15" fill="#282d35">주 3일 10~15시 30분, 휴게 30분</text>
+<text x="390" y="274" font-size="15" fill="#254a75" text-anchor="end">대상</text>
+<rect x="10" y="281" width="270" height="18" fill="#254a75"/>
+<text x="16" y="295" font-size="15" fill="#ffffff">15시간</text>
+<line x1="280" y1="22" x2="280" y2="302" stroke="#282d35" stroke-width="1.5" stroke-dasharray="4 3"/>
+</svg>

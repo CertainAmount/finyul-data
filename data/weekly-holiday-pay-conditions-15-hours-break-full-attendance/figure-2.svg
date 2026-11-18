@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 268" role="img" aria-label="퇴직일별 근로관계 일수 5·6·7일 도식" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="13" y="18" font-size="15" fill="#6f7783">근무일 월~금, 주휴일 일요일</text>
+<text x="38" y="48" font-size="15" fill="#282d35" text-anchor="middle">월</text>
+<text x="92" y="48" font-size="15" fill="#282d35" text-anchor="middle">화</text>
+<text x="146" y="48" font-size="15" fill="#282d35" text-anchor="middle">수</text>
+<text x="200" y="48" font-size="15" fill="#282d35" text-anchor="middle">목</text>
+<text x="254" y="48" font-size="15" fill="#282d35" text-anchor="middle">금</text>
+<text x="308" y="48" font-size="15" fill="#282d35" text-anchor="middle">토</text>
+<text x="362" y="48" font-size="15" fill="#b4532a" text-anchor="middle">일</text>
+<text x="13" y="82" font-size="15" fill="#b4532a">토요일 퇴직 → 5일, 생기지 않음</text>
+<rect x="13" y="90" width="50" height="32" fill="#254a75"/>
+<text x="38" y="112" font-size="15" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="67" y="90" width="50" height="32" fill="#254a75"/>
+<text x="92" y="112" font-size="15" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="121" y="90" width="50" height="32" fill="#254a75"/>
+<text x="146" y="112" font-size="15" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="175" y="90" width="50" height="32" fill="#254a75"/>
+<text x="200" y="112" font-size="15" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="229" y="90" width="50" height="32" fill="#254a75"/>
+<text x="254" y="112" font-size="15" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="284" y="91" width="48" height="30" fill="#f2f6fb" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="338" y="91" width="48" height="30" fill="#f2f6fb" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="13" y="150" font-size="15" fill="#b4532a">일요일 퇴직 → 6일, 생기지 않음</text>
+<rect x="13" y="158" width="50" height="32" fill="#254a75"/>
+<text x="38" y="180" font-size="15" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="67" y="158" width="50" height="32" fill="#254a75"/>
+<text x="92" y="180" font-size="15" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="121" y="158" width="50" height="32" fill="#254a75"/>
+<text x="146" y="180" font-size="15" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="175" y="158" width="50" height="32" fill="#254a75"/>
+<text x="200" y="180" font-size="15" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="229" y="158" width="50" height="32" fill="#254a75"/>
+<text x="254" y="180" font-size="15" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="283" y="158" width="50" height="32" fill="#254a75"/>
+<text x="308" y="180" font-size="15" fill="#ffffff" text-anchor="middle">6</text>
+<rect x="338" y="159" width="48" height="30" fill="#f2f6fb" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="13" y="218" font-size="15" fill="#2f7d4f">다음 월요일 퇴직 → 7일, 생김</text>
+<rect x="13" y="226" width="50" height="32" fill="#2f7d4f"/>
+<text x="38" y="248" font-size="15" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="67" y="226" width="50" height="32" fill="#2f7d4f"/>
+<text x="92" y="248" font-size="15" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="121" y="226" width="50" height="32" fill="#2f7d4f"/>
+<text x="146" y="248" font-size="15" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="175" y="226" width="50" height="32" fill="#2f7d4f"/>
+<text x="200" y="248" font-size="15" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="229" y="226" width="50" height="32" fill="#2f7d4f"/>
+<text x="254" y="248" font-size="15" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="283" y="226" width="50" height="32" fill="#2f7d4f"/>
+<text x="308" y="248" font-size="15" fill="#ffffff" text-anchor="middle">6</text>
+<rect x="337" y="226" width="50" height="32" fill="#2f7d4f"/>
+<text x="362" y="248" font-size="15" fill="#ffffff" text-anchor="middle">7</text>
+</svg>
