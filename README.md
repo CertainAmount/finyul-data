@@ -12,7 +12,7 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
-- [내일배움카드 자격, 재직자·자영업자는 언제 막힐까요? 한도와 자부담까지](https://finyul.com/articles/naeilbaeum-card-eligibility-limit-copay-2026/) · [data](data/naeilbaeum-card-eligibility-limit-copay-2026/)
+- [National Tomorrow Learning Card 2026: eligibility, the KRW 3M/5M limit and how much you pay yourself](https://finyul.com/articles/naeilbaeum-card-eligibility-limit-copay-2026/) · [data](data/naeilbaeum-card-eligibility-limit-copay-2026/)
 - [Haessal Loan Youth 2026: eligibility, limits and rates, and why repaying does not restore the limit](https://finyul.com/articles/haessalloan-youth-eligibility-limit-rate-2026/) · [data](data/haessalloan-youth-eligibility-limit-rate-2026/)
 - [2026 take-home pay table for annual salaries from 30 million to 100 million KRW](https://finyul.com/articles/annual-salary-take-home-table-3000-to-1eok-2026/) · [data](data/annual-salary-take-home-table-3000-to-1eok-2026/)
 - [Korean inheritance tax exemption threshold (KRW 500M / 1B) and 2026 rate table, calculated by family type](https://finyul.com/articles/inheritance-tax-exemption-limit-rates-2026/) · [data](data/inheritance-tax-exemption-limit-rates-2026/)

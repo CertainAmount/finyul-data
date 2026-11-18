@@ -23,7 +23,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `leavepay` | [Unused annual leave pay: how much for 10 days on a 3 million KRW monthly salary, and when you don't get it](https://finyul.com/articles/annual-leave-pay-unused-days-calculation/) |
 | `loan` | [Loan repayment calculator: compare interest and prepayment fees by repayment type](https://finyul.com/articles/loan-repayment-calculator-prepayment-fee-comparison/) |
 | `mortgagelimit` | [Mortgage limit: will LTV, DSR, or the 600 million KRW cap stop you first?](https://finyul.com/articles/mortgage-limit-amount-cap-ltv-dsr-lowest-one/) |
-| `naeilbaeum-copay` | [naeilbaeum-card-eligibility-limit-copay-2026](https://finyul.com/articles/naeilbaeum-card-eligibility-limit-copay-2026/) |
+| `naeilbaeum-copay` | [National Tomorrow Learning Card 2026: eligibility, the KRW 3M/5M limit and how much you pay yourself](https://finyul.com/articles/naeilbaeum-card-eligibility-limit-copay-2026/) |
 | `netpay` | [After-tax salary calculator: what lands in your account from 3 million KRW, with meal allowance and dependents](https://finyul.com/articles/net-salary-calculator-take-home-pay/) |
 | `noranumbrella` | [Yellow Umbrella (Noran Usan) mutual aid cancellation tax: only the deducted portion is taxed, not the whole refund](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |
 | `noranumbrellacancel` | [Yellow Umbrella (Noran Usan) mutual aid cancellation tax: only the deducted portion is taxed, not the whole refund](https://finyul.com/articles/noranumbrella-deduction-limit-cancel-tax-2026/) |

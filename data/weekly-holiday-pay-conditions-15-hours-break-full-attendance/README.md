@@ -6,10 +6,10 @@ Published 2026-10-21, last updated 2026-11-18. Figures follow the rules as of th
 
 | File | Caption |
 |---|---|
-| [figure-1.svg](figure-1.svg) | 주 15시간 선 위아래 근무표 여섯 개 (같은 주 2일 근무가 14시간도 16시간도 된다) |
-| [figure-2.svg](figure-2.svg) | 퇴직일별 근로관계 일수 5·6·7일 도식 (그만두는 주에도 주휴수당을 받나) |
-| [table-1.csv](table-1.csv) | 4주 근무표가 되풀이될 때 평균과 15시간 판정 |
-| [table-2.csv](table-2.csv) | 쉰 이유별 결근 여부와 그 주 주휴수당 |
+| [figure-1.svg](figure-1.svg) | Six work schedules above and below the 15-hour weekly line (the same two-day week can be 14 or 16 hours) |
+| [figure-2.svg](figure-2.svg) | Days of employment in the final week by resignation day: 5, 6 or 7 (is weekly holiday pay due in the week you quit?) |
+| [table-1.csv](table-1.csv) | Four-week average and the 15-hour test when a four-week schedule repeats |
+| [table-2.csv](table-2.csv) | Whether a missed day counts as an absence, by reason, and that week’s holiday pay |
 | [sources.csv](sources.csv) | Primary sources checked for the article (publisher, title, URL) |
 
 Calculators in this article: `weekly` ([calc/](../../calc/))
