@@ -12,6 +12,7 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
+- [Student loans, income-contingent vs regular repayment: monthly payroll deduction by salary, interest and the year-end tax deduction](https://finyul.com/articles/student-loan-icl-vs-regular-repayment-interest-tax-deduction-2026/) · [data](data/student-loan-icl-vs-regular-repayment-interest-tax-deduction-2026/)
 - [National Tomorrow Learning Card 2026: eligibility, the KRW 3M/5M limit and how much you pay yourself](https://finyul.com/articles/naeilbaeum-card-eligibility-limit-copay-2026/) · [data](data/naeilbaeum-card-eligibility-limit-copay-2026/)
 - [Haessal Loan Youth 2026: eligibility, limits and rates, and why repaying does not restore the limit](https://finyul.com/articles/haessalloan-youth-eligibility-limit-rate-2026/) · [data](data/haessalloan-youth-eligibility-limit-rate-2026/)
 - [2026 take-home pay table for annual salaries from 30 million to 100 million KRW](https://finyul.com/articles/annual-salary-take-home-table-3000-to-1eok-2026/) · [data](data/annual-salary-take-home-table-3000-to-1eok-2026/)

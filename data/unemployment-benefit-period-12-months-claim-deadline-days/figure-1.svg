@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 285" role="img" aria-label="수급기간 12개월 안의 대기 7일과 받는 날수" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="12" y="20" fill="#282d35" font-size="15">270일 받는 사람, 1/16 신고</text>
+<rect x="82.4" y="28" width="5.6" height="22" fill="#6f7783"/>
+<rect x="88.0" y="28" width="216.0" height="22" fill="#254a75"/>
+<text x="156.0" y="45" fill="#ffffff" font-size="15" text-anchor="middle">270일 받음</text>
+<text x="12" y="84" fill="#282d35" font-size="15">같은 사람이 2/16(120일째) 신고</text>
+<rect x="107.2" y="92" width="5.6" height="22" fill="#6f7783"/>
+<rect x="112.8" y="92" width="191.2" height="22" fill="#254a75"/>
+<rect x="304.0" y="92" width="24.8" height="22" fill="#f6dccf" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="4 2"/>
+<text x="172.0" y="109" fill="#ffffff" font-size="15" text-anchor="middle">239일 받음</text>
+<text x="386" y="134" fill="#b4532a" font-size="15" text-anchor="end">못 받는 31일</text>
+<text x="12" y="156" fill="#282d35" font-size="15">120일 받는 사람, 6/15 신고</text>
+<rect x="202.4" y="164" width="5.6" height="22" fill="#6f7783"/>
+<rect x="208.0" y="164" width="96.0" height="22" fill="#254a75"/>
+<text x="252.0" y="181" fill="#ffffff" font-size="15" text-anchor="middle">120일</text>
+<line x1="304.0" y1="6" x2="304.0" y2="196" stroke="#254a75" stroke-width="2"/>
+<text x="12" y="216" fill="#282d35" font-size="15">시작 2026-10-20</text>
+<text x="304.0" y="236" fill="#254a75" font-size="15" text-anchor="end">수급기간 끝 2027-10-19</text>
+<rect x="12" y="254" width="14" height="14" fill="#6f7783"/><text x="32" y="267" fill="#282d35" font-size="15">대기 7일</text>
+<rect x="120" y="254" width="14" height="14" fill="#254a75"/><text x="140" y="267" fill="#282d35" font-size="15">받는 날수</text>
+<rect x="238" y="254" width="14" height="14" fill="#f6dccf" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="3 2"/><text x="258" y="267" fill="#282d35" font-size="15">못 받는 날</text>
+</svg>

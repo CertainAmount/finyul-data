@@ -52,11 +52,25 @@
       return { rows: [hours(daily), hours(weekly), reach ? '15시간 이상이에요' : '15시간에 못 미쳐요', hours(avg), reach ? won(wage * avg) : '15시간 미만이에요'], tones: { 2: reach ? 'ok' : 'warn' } };
     },
     unemployment(values) {
-      const leave = parse(values[0]), days = Number(values[1]), daily = Number(values[2]), claim = parse(values[3]);
-      if (!leave || !claim || ![120, 150, 180, 210, 240, 270].includes(days) || !Number.isFinite(daily) || daily <= 0) return { warn: '날짜와 하루 금액을 모두 넣어 주세요.' };
-      const deadline = leave.t + (359 - days) * DAY;
-      const late = Math.max(0, Math.round((claim.t - deadline) / DAY));
-      return { rows: [iso(deadline), won(days * daily), late > 0 ? `${late}일 늦어요` : '마감 안이에요', late > 0 ? won(Math.min(late, days) * daily) : null], tones: { 2: late > 0 ? 'warn' : 'ok', 3: 'warn' } };
+      // 실업급여 수급기간(고용보험법 제48조, 시행령 제70조 연기 최대 4년). 기간은 달력 월 단위(민법 제157·159·160조): 이직 다음 날부터 12개월 뒤 같은 날의 전날, 그 달에 같은 날이 없으면 그 달 말일.
+      // 마지막 신고일 = (연기 반영) 끝 − (일수 − 1) − 대기기간(제49조① 7일, ②·시행령 제71조의2 둘 이상 피보험자격 중 소득감소 이직 인정 특례 14일). 2026-11-19 365일 고정 계산을 바꿈. 인정 못 받은 날이 일수를 소진하는지는 자료로 못 가려 입력에서 뺌(factcheck 11/19). 검산: work/unemployment-benefit-period-12-months-claim-deadline-days/notes/knowledge.md 「계산기 명세」
+      const leave = parse(values[0]), days = Number(values[1]), ext = values[2] === '' ? 0 : Number(values[2]), wait = values[3] === '14' ? 14 : 7, claim = parse(values[4]);
+      if (!leave || ![120, 150, 180, 210, 240, 270].includes(days)) return { warn: '이직일과 받는 일수를 넣어 주세요.' };
+      if (!Number.isFinite(ext) || ext < 0 || ext > 1500) return { warn: '연기할 날수는 0~1,500 사이 숫자로 넣어 주세요.' };
+      const day0 = leave.t + DAY, s = new Date(day0), sy = s.getUTCFullYear(), sm = s.getUTCMonth(), sd = s.getUTCDate();
+      const endAfter = (months) => { const y = sy + Math.floor((sm + months) / 12), mo = (sm + months) % 12, last = new Date(Date.UTC(y, mo + 1, 0)).getUTCDate(); return sd > last ? Date.UTC(y, mo, last) : Date.UTC(y, mo, sd) - DAY; };
+      const end = endAfter(12), cap = endAfter(48), extEnd = Math.min(end + ext * DAY, cap);
+      const lastApply = extEnd - (days - 1) * DAY - wait * DAY;
+      const nth = Math.round((lastApply - leave.t) / DAY);
+      const rows = [`${iso(day0)} ~ ${iso(end)}`, ext ? (extEnd === cap && end + ext * DAY > cap ? `${iso(extEnd)} (4년 상한)` : iso(extEnd)) : '연기 없음', `${iso(lastApply)} (이직 후 ${nth}일째)`];
+      let late = 0;
+      if (claim) {
+        if (claim.t < leave.t) return { warn: '신고 예정일은 이직일보다 뒤로 넣어 주세요.' };
+        late = Math.max(0, Math.round((claim.t - lastApply) / DAY));
+        rows.push(late > 0 ? `${late}일 늦어요` : '마감 안이에요', `${days - Math.min(late, days)}일 / ${days}일`);
+      } else rows.push('신고 예정일을 넣으면 나와요', '–');
+      rows.push(ext ? `${iso(end)}까지(부득이한 사유면 그 사유가 끝난 날부터 30일 안)` : '연기 일수를 넣으면 나와요');
+      return { rows, tones: { 3: late > 0 ? 'warn' : 'ok', 4: 'total' } };
     },
     parental(values) {
       const [start, end, claim] = values.map(parse);
@@ -783,6 +797,27 @@
       return {
         rows: [man(self), man(gov), over ? man(over) : '0원 (한도 안이에요)', man(total), `${man(limit / rate)}부터`],
         tones: { 2: over ? 'warn' : 'ok', 3: 'total' }
+      };
+    },
+    iclrepay(values) {
+      // 취업후상환 학자금대출 의무상환액(취업후 학자금 상환 특별법 시행령 제10조: 상환기준소득 초과분 × 20%(대학원 대출 25%), 최소 연 36만 원).
+      // 총급여 → 근로소득공제(소득세법 제47조) → 근로소득금액. 기준 소득금액: 지금 공제 중 1,898.35만(2025 귀속, 총급여 2,851만) / 2027 통지 예정 2,056.45만(2026 고시, 총급여 3,037만).
+      // 초과분은 소수 둘째 자리로 반올림한 뒤 판정(2,851·3,037이 36만 원으로 튀지 않게). 검산: work/student-loan-icl-vs-regular-repayment-interest-tax-deduction-2026/notes/knowledge.md 「계산기 판단」, s34·s36
+      const g = Number(values[0]), rate = Number(values[1]) / 100;
+      if (values[0] === '' || !Number.isFinite(g) || g < 1000 || g > 10000) return { warn: '총급여를 1,000~10,000(만 원) 사이 숫자로 넣어 주세요.' };
+      if (!(rate === 0.2 || rate === 0.25)) return { warn: '대출 종류를 골라 주세요.' };
+      const r1 = n => Math.round(Number(n.toFixed(4)) * 10) / 10; // 976.65 같은 값의 부동소수 오차만 걷어 내고 한 번만 반올림
+      const man = n => `${r1(n).toLocaleString('ko-KR')}만 원`;
+      const ded = g <= 500 ? g * 0.7 : g <= 1500 ? 350 + (g - 500) * 0.4 : g <= 4500 ? 750 + (g - 1500) * 0.15 : g <= 10000 ? 1200 + (g - 4500) * 0.05 : Math.min(2000, 1475 + (g - 10000) * 0.02);
+      const inc = g - ded;
+      const one = base => { const e = Math.round((inc - base) * 100) / 100; const yr = e <= 0 ? 0 : Math.max(36, e * rate); return { e, yr }; };
+      const now = one(1898.35), next = one(2056.45);
+      const diff = (e, label) => e > 0 ? `${label}보다 ${man(e)} 많음` : `${label} 이하`;
+      const amt = x => x.yr === 0 ? '0원(기준 이하)' : man(x.yr);
+      const mon = x => x.yr === 0 ? '0원' : man(x.yr / 12);
+      return {
+        rows: [man(inc), `${diff(now.e, '지금 기준(1,898만 원)')} · ${diff(next.e, '2026 고시값(2,056만 원)')}`, `지금 공제 중 ${amt(now)} · 2026 고시값 적용 시 ${amt(next)}`, `지금 공제 중 ${mon(now)} · 2026 고시값 적용 시 ${mon(next)}`],
+        tones: { 3: 'total' }
       };
     },
     isatax(values) {

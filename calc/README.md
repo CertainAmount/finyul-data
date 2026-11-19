@@ -17,6 +17,7 @@ Calculator code used in finyul articles (browser, no dependencies). It renders e
 | `giftax` | [Gift tax rates and filing: if a child receives 300 million KRW, how much and where to file?](https://finyul.com/articles/gift-tax-rate-and-filing-3-billion-example/) |
 | `gifthouse` | [Using a gift tax calculator for an apartment: can you enter the officially assessed price?](https://finyul.com/articles/apartment-gift-tax-calculator-which-price-to-enter/) |
 | `hilatefee` | [Missed the health insurance premium deadline? Late fees, benefit restrictions, and installment rules](https://finyul.com/articles/health-insurance-unpaid-late-fee-installment-plan/) |
+| `iclrepay` | [Student loans, income-contingent vs regular repayment: monthly payroll deduction by salary, interest and the year-end tax deduction](https://finyul.com/articles/student-loan-icl-vs-regular-repayment-interest-tax-deduction-2026/) |
 | `inherittax` | [Korean inheritance tax exemption threshold (KRW 500M / 1B) and 2026 rate table, calculated by family type](https://finyul.com/articles/inheritance-tax-exemption-limit-rates-2026/) |
 | `isatax` | [Low-income ISA (seominhyeong) eligibility and tax-free limit: does it change in 2026?](https://finyul.com/articles/isa-seominhyeong-tax-free-limit-maturity-options-2026/) |
 | `jeonse` | [Jeonse (lump-sum deposit lease) loan interest calculator: monthly cost of 200 million KRW at 4.5% by repayment type](https://finyul.com/articles/jeonse-loan-interest-calculation-repayment-types/) |
