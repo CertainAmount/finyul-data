@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 268" role="img" aria-label="연장 45시간 중 약정 밖 25시간이 차액" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<text x="20" y="22" font-size="15" fill="#282d35">연장 45시간인 달 (한 칸 = 1시간)</text>
+<rect x="20" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="38" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="56" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="74" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="92" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="110" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="128" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="146" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="164" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="182" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="200" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="218" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="236" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="254" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="272" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="290" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="308" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="326" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="344" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="362" y="36" width="16" height="20" fill="#254a75"/>
+<rect x="20" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="38" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="56" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="74" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="92" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="110" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="128" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="146" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="164" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="182" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="200" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="218" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="236" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="254" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="272" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="290" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="308" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="326" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="344" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="362" y="60" width="16" height="20" fill="#b4532a"/>
+<rect x="20" y="84" width="16" height="20" fill="#b4532a"/>
+<rect x="38" y="84" width="16" height="20" fill="#b4532a"/>
+<rect x="56" y="84" width="16" height="20" fill="#b4532a"/>
+<rect x="74" y="84" width="16" height="20" fill="#b4532a"/>
+<rect x="92" y="84" width="16" height="20" fill="#b4532a"/>
+<rect x="17" y="33" width="364" height="26" fill="none" stroke="#254a75" stroke-width="2"/>
+<rect x="20" y="116" width="14" height="14" fill="#254a75"/>
+<text x="42" y="128" font-size="15" fill="#282d35">약정 안 20시간: 이미 받는 360,000원</text>
+<rect x="20" y="140" width="14" height="14" fill="#b4532a"/>
+<text x="42" y="152" font-size="15" fill="#b4532a">약정 밖 25시간: 18,000원씩 450,000원</text>
+<text x="20" y="194" font-size="15" fill="#282d35">연장 10시간인 달</text>
+<rect x="20" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="38" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="56" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="74" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="92" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="110" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="128" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="146" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="164" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="182" y="206" width="16" height="20" fill="#254a75"/>
+<rect x="200" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="218" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="236" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="254" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="272" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="290" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="308" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="326" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="344" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="362" y="206" width="16" height="20" fill="#ffffff" stroke="#6f7783"/>
+<rect x="17" y="203" width="364" height="26" fill="none" stroke="#254a75" stroke-width="2"/>
+<text x="20" y="254" font-size="15" fill="#282d35">약정 안에서 끝나요: 360,000원 그대로</text>
+</svg>

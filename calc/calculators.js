@@ -51,6 +51,17 @@
       const avg = weekly / (days < 5 ? 5 : days);
       return { rows: [hours(daily), hours(weekly), reach ? '15시간 이상이에요' : '15시간에 못 미쳐요', hours(avg), reach ? won(wage * avg) : '15시간 미만이에요'], tones: { 2: reach ? 'ok' : 'warn' } };
     },
+    fixedot(values) {
+      // 고정OT 차액(근로기준법 제56조 연장근로 가산 50%). 법정수당 = 실제 연장 시간 × 통상시급 × 1.5, 차액 = max(0, 법정수당 − 약정금액). 야간·휴일 가산은 넣지 않음.
+      // 검산: work/comprehensive-wage-contract-check-fixed-ot-difference-2026/notes/visualizer.md 1절 (12000,20,—,45)→810000/360000/450000, (12000,20,300000,20)→60000, (12000,20,—,10)→0
+      const wage = Number(values[0]), hrs = Number(values[1]), act = Number(values[3]);
+      const amt = values[2] === '' ? wage * 1.5 * hrs : Number(values[2]);
+      if ([values[0], values[1], values[3]].some(v => v === '') || ![wage, hrs, act, amt].every(Number.isFinite) || wage <= 0 || hrs < 0 || act < 0 || amt < 0 || hrs > 300 || act > 300) {
+        return { warn: '통상시급, 약정 연장 시간, 실제 연장 시간을 넣어 주세요(시간은 0~300).' };
+      }
+      const legal = act * wage * 1.5, diff = Math.max(0, legal - amt);
+      return { rows: [won(legal), won(amt), diff > 0 ? won(diff) : '약정금액 그대로 받아요'], tones: { 2: diff > 0 ? 'warn' : 'ok' } };
+    },
     unemployment(values) {
       // 실업급여 수급기간(고용보험법 제48조, 시행령 제70조 연기 최대 4년). 기간은 달력 월 단위(민법 제157·159·160조): 이직 다음 날부터 12개월 뒤 같은 날의 전날, 그 달에 같은 날이 없으면 그 달 말일.
       // 마지막 신고일 = (연기 반영) 끝 − (일수 − 1) − 대기기간(제49조① 7일, ②·시행령 제71조의2 둘 이상 피보험자격 중 소득감소 이직 인정 특례 14일). 2026-11-19 365일 고정 계산을 바꿈. 인정 못 받은 날이 일수를 소진하는지는 자료로 못 가려 입력에서 뺌(factcheck 11/19). 검산: work/unemployment-benefit-period-12-months-claim-deadline-days/notes/knowledge.md 「계산기 명세」

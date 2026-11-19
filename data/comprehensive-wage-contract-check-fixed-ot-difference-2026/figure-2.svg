@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 36 400 326" role="img" aria-label="한 해 12달을 달마다 세면 2,700,000원, 합쳐 세면 1,620,000원" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+<rect x="20" y="90" width="26" height="28" fill="#254a75"/>
+<rect x="20" y="55" width="26" height="35" fill="#b4532a"/>
+<rect x="50" y="90" width="26" height="28" fill="#254a75"/>
+<rect x="50" y="55" width="26" height="35" fill="#b4532a"/>
+<rect x="80" y="90" width="26" height="28" fill="#254a75"/>
+<rect x="80" y="55" width="26" height="35" fill="#b4532a"/>
+<rect x="110" y="90" width="26" height="28" fill="#254a75"/>
+<rect x="110" y="55" width="26" height="35" fill="#b4532a"/>
+<rect x="140" y="90" width="26" height="28" fill="#254a75"/>
+<rect x="140" y="55" width="26" height="35" fill="#b4532a"/>
+<rect x="170" y="90" width="26" height="28" fill="#254a75"/>
+<rect x="170" y="55" width="26" height="35" fill="#b4532a"/>
+<rect x="200" y="104" width="26" height="14" fill="#254a75"/>
+<rect x="230" y="104" width="26" height="14" fill="#254a75"/>
+<rect x="260" y="104" width="26" height="14" fill="#254a75"/>
+<rect x="290" y="104" width="26" height="14" fill="#254a75"/>
+<rect x="320" y="104" width="26" height="14" fill="#254a75"/>
+<rect x="350" y="104" width="26" height="14" fill="#254a75"/>
+<line x1="20" y1="90" x2="380" y2="90" stroke="#282d35" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="206" y="84" font-size="15" fill="#282d35">약정 20시간</text>
+<text x="20" y="138" font-size="15" fill="#282d35">45시간 달 6번</text>
+<text x="206" y="138" font-size="15" fill="#282d35">10시간 달 6번</text>
+<text x="20" y="172" font-size="15" fill="#254a75">달마다 넘친 것만 더하면</text>
+<text x="20" y="192" font-size="15" fill="#282d35">25시간 × 6달 × 18,000원 = 2,700,000원</text>
+<text x="20" y="226" font-size="15" fill="#254a75">1년 합쳐 비교하면</text>
+<text x="20" y="246" font-size="15" fill="#282d35">연장 330시간 − 약정 240시간 = 90시간</text>
+<text x="20" y="266" font-size="15" fill="#282d35">90시간 × 18,000원 = 1,620,000원</text>
+<rect x="12" y="284" width="376" height="68" fill="#f2f6fb"/>
+<text x="20" y="306" font-size="15" fill="#254a75">45시간 달 3번, 10시간 달 9번이면</text>
+<text x="20" y="330" font-size="15" fill="#282d35">달마다 1,350,000원, 합쳐 0원</text>
+</svg>

@@ -12,6 +12,7 @@ Article text is not copied here; read the explanation in each article. Table cel
 ## Articles and data (newest first)
 
 <!-- articles -->
+- [Comprehensive wage system explained: with fixed overtime pay, can you claim the difference when you work more overtime than agreed?](https://finyul.com/articles/comprehensive-wage-contract-check-fixed-ot-difference-2026/) · [data](data/comprehensive-wage-contract-check-fixed-ot-difference-2026/)
 - [Student loans, income-contingent vs regular repayment: monthly payroll deduction by salary, interest and the year-end tax deduction](https://finyul.com/articles/student-loan-icl-vs-regular-repayment-interest-tax-deduction-2026/) · [data](data/student-loan-icl-vs-regular-repayment-interest-tax-deduction-2026/)
 - [National Tomorrow Learning Card 2026: eligibility, the KRW 3M/5M limit and how much you pay yourself](https://finyul.com/articles/naeilbaeum-card-eligibility-limit-copay-2026/) · [data](data/naeilbaeum-card-eligibility-limit-copay-2026/)
 - [Haessal Loan Youth 2026: eligibility, limits and rates, and why repaying does not restore the limit](https://finyul.com/articles/haessalloan-youth-eligibility-limit-rate-2026/) · [data](data/haessalloan-youth-eligibility-limit-rate-2026/)
