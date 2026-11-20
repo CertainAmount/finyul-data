@@ -35,3 +35,10 @@ s36,보건복지부,"보건복지부 보도자료 「국민연금, 새해 재정
 s37,조세심판원(법제처 국가법령정보센터 재결례),조세심판원 조심 2025서2281(2026.7.1 의결) — 청구법인이 원천징수한 과세대상 근로소득에 비과세소득인 식사대가 포함되어 있다는 청구주장의 당부,filing,https://www.law.go.kr/DRF/lawService.do?target=ttSpecialDecc&ID=2093629&type=HTML
 s38,국세청 국세상담센터,"국세상담센터 자주묻는Q&A 연말정산 「05. 비과세 식대」 — 회사 규정 없이 지급하면 비과세 안 됨, 현물+현금 식대",filing,https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1318&ctgId=CTG11918
 s39,법제처 국가법령정보센터,"관찰: 2027년 1월부터 바뀌는 보험료 값의 확정 여부 점검(2026-11-13) — 국민연금 5.0% 확정, 건강보험·장기요양 요율 미확정",observation,https://www.law.go.kr/법령/국민연금법/부칙#obs-2027-status-2026-11-13
+s42,정책브리핑(보건복지부 보도),"보건복지부 「건강보험료율은 그대로, 필요한 보장은 더 두텁게!」(정책브리핑 2026-09-11) — 2027년 건강보험료율 7.19% 동결",filing,https://www.korea.kr/news/policyNewsView.do?newsId=148971715
+s43,정책브리핑(보건복지부 보도),보건복지부 「내년 장기요양 재가서비스 확대…1등급 방문요양 월 최대 48회」(정책브리핑 2026-11-02) — 2027년 장기요양보험료율 0.9994%,filing,https://www.korea.kr/news/policyNewsView.do?newsId=148974757
+s44,법제처 국가법령정보센터,관찰: 2026년 11월 20일 현재 법령 상태 점검 — 소득세법 시행령 별표 2(간이세액표)·국민연금법 부칙 제4조·건강보험·장기요양·고용보험 요율,observation,https://www.law.go.kr/법령/소득세법시행령/별표2#obs-2026-11-20
+s45,4대사회보험 정보연계센터(화면 직접 조작),"관찰: 4대사회보험 모의계산 공식 화면에 월 급여 2,800,000원·150인 미만을 넣은 결과(2026-11-20 재캡처, 11/13과 같은 값)",observation,https://www.4insure.or.kr/pbiz/ntcn/inscSmlCalcView.do#screen-2026-11-20
+s46,국세청(화면 직접 열람),"관찰: 국세청 누리집 근로소득 간이세액표 안내 화면은 2026-11-20에도 자녀 공제 12,500원·29,160원 표기",observation,https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6583&cntntsId=7862#screen-2026-11-20
+s47,국세청 홈택스(화면 직접 열람),"관찰: 홈택스 근로소득 간이세액표 화면은 2026년 3월 1일 시행분의 자녀 공제 20,830원·45,830원을 안내(2026-11-20 캡처)",observation,https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&tmIdx=41&tm2lIdx=4106000000&tm3lIdx=4106030000#screen-2026-11-20-guide
+s48,국세청 홈택스(조회 화면 직접 조작),"관찰: 홈택스 간이세액표 조회에 월 급여액 2,800,000원·가족 1명·자녀 0명을 넣은 결과 — 소득세 56,800원, 지방소득세 5,680원(2026-11-20 캡처)",observation,https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&tmIdx=41&tm2lIdx=4106000000&tm3lIdx=4106030000#screen-2026-11-20-lookup

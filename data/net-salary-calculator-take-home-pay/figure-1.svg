@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 352" role="img" aria-label="월급 300만 원이 통장에 오기까지" font-family="Pretendard, 'Noto Sans KR', sans-serif">
+  <rect x="20" y="10" width="355" height="34" rx="4" fill="#f2f6fb" stroke="#254a75" stroke-width="1.5"/>
+  <text x="197" y="32" font-size="15" fill="#282d35" text-anchor="middle" font-weight="700">월급 3,000,000원</text>
+  <path d="M122 44V58M122 58H307M122 58V70M307 58V70" fill="none" stroke="#6f7783" stroke-width="1.5"/>
+  <rect x="20" y="70" width="205" height="48" rx="4" fill="#f2f6fb" stroke="#254a75" stroke-width="1.5"/>
+  <text x="122" y="90" font-size="15" fill="#282d35" text-anchor="middle">계산에 쓰는 월급</text>
+  <text x="122" y="108" font-size="15" fill="#282d35" text-anchor="middle" font-weight="700">2,800,000원</text>
+  <rect x="240" y="70" width="135" height="48" rx="4" fill="#fff" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="307" y="90" font-size="15" fill="#b4532a" text-anchor="middle">식대 200,000원</text>
+  <text x="307" y="108" font-size="15" fill="#b4532a" text-anchor="middle">비과세, 계산 제외</text>
+  <path d="M122 118V132M107 132H287M107 132V150M287 132V150" fill="none" stroke="#6f7783" stroke-width="1.5"/>
+  <rect x="20" y="150" width="175" height="34" rx="4" fill="#254a75" stroke="#254a75" stroke-width="1.5"/>
+  <text x="107" y="172" font-size="15" fill="#ffffff" text-anchor="middle" font-weight="700">4대보험 272,080원</text>
+  <rect x="205" y="150" width="165" height="34" rx="4" fill="#254a75" stroke="#254a75" stroke-width="1.5"/>
+  <text x="287" y="172" font-size="15" fill="#ffffff" text-anchor="middle" font-weight="700">세금 62,480원</text>
+  <text x="30" y="208" font-size="15" fill="#282d35">국민연금 133,000원</text>
+  <text x="30" y="228" font-size="15" fill="#282d35">건강보험 100,660원</text>
+  <text x="30" y="248" font-size="15" fill="#282d35">장기요양 13,220원</text>
+  <text x="30" y="268" font-size="15" fill="#282d35">고용보험 25,200원</text>
+  <text x="215" y="208" font-size="15" fill="#282d35">소득세 56,800원</text>
+  <text x="215" y="228" font-size="15" fill="#282d35">지방소득세 5,680원</text>
+  <text x="215" y="248" font-size="15" fill="#6f7783">(소득세의 10%)</text>
+  <path d="M197 276V292" fill="none" stroke="#6f7783" stroke-width="1.5"/>
+  <path d="M192 287L197 294L202 287" fill="none" stroke="#6f7783" stroke-width="1.5"/>
+  <path d="M375 94H388V319H378" fill="none" stroke="#b4532a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M383 314L377 319L383 324" fill="none" stroke="#b4532a" stroke-width="1.5"/>
+  <rect x="20" y="296" width="355" height="46" rx="4" fill="#f2f6fb" stroke="#2f7d4f" stroke-width="1.5"/>
+  <text x="197" y="315" font-size="15" fill="#282d35" text-anchor="middle" font-weight="700">통장에 들어오는 돈 2,665,440원</text>
+  <text x="197" y="334" font-size="15" fill="#6f7783" text-anchor="middle">2,800,000 − 334,560 + 식대 200,000</text>
+</svg>
